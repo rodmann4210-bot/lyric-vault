@@ -1,0 +1,15 @@
+Copyright © 2026 Roderick Grimes. All rights reserved.
+
+This source code is made viewable for personal reference and portfolio
+purposes only. No permission is granted to copy, modify, distribute,
+sublicense, or create derivative works from this software, in whole or
+in part, without prior written permission from the copyright holder.
+
+---
+
+A note on content vs. code: this LICENSE covers the Lyric Vault
+application (markup, styles, and script) authored for this project.
+The song lyrics contained in lyrics-data.js / index.html are traditional
+or public-domain works (see each entry's "origin" field for sourcing)
+and are not subject to this copyright — they remain free of restriction
+as public domain material in the United States.

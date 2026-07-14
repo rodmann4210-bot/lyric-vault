@@ -1,0 +1,653 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lyric Vault — Public Domain Archive</title>
+<style>
+  :root{
+    --bg: #0b0e0c;
+    --bg-panel: #121611;
+    --bg-card: #161b16;
+    --line: #263129;
+    --amber: #d9a441;
+    --amber-dim: #8a6c2e;
+    --green: #7fae6a;
+    --text: #d8dcd4;
+    --text-dim: #7f8a7c;
+    --mono: 'Courier New', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0px, rgba(255,255,255,0.012) 1px, transparent 1px, transparent 3px),
+      var(--bg);
+    color:var(--text);
+    font-family:var(--mono);
+    min-height:100vh;
+  }
+
+  /* ---------- header ---------- */
+  header{
+    border-bottom:1px solid var(--line);
+    padding:22px 24px 18px;
+    position:sticky; top:0; z-index:10;
+    background:rgba(11,14,12,0.96);
+    backdrop-filter:blur(4px);
+  }
+  .eyebrow{
+    color:var(--amber-dim);
+    font-size:11px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    margin-bottom:6px;
+  }
+  h1{
+    margin:0;
+    font-size:26px;
+    font-weight:700;
+    color:var(--text);
+    letter-spacing:0.01em;
+    display:flex; align-items:center; gap:12px;
+  }
+  .reel{
+    width:22px;height:22px;
+    border:2px solid var(--amber);
+    border-radius:50%;
+    position:relative;
+    flex-shrink:0;
+    animation: spin 6s linear infinite;
+    animation-play-state: paused;
+  }
+  .reel::before, .reel::after{
+    content:"";
+    position:absolute;
+    width:4px;height:4px;
+    background:var(--amber);
+    border-radius:50%;
+    top:50%; left:50%;
+    transform:translate(-50%,-50%);
+  }
+  .reel::after{
+    width:12px;height:12px;
+    border:1px solid var(--amber);
+    background:transparent;
+    border-radius:50%;
+  }
+  body.spinning .reel{animation-play-state:running;}
+  @keyframes spin{ to{ transform:rotate(360deg); } }
+
+  .sub{
+    color:var(--text-dim);
+    font-size:12.5px;
+    margin-top:6px;
+    max-width:640px;
+    line-height:1.5;
+  }
+
+  .controls{
+    display:flex; flex-wrap:wrap; gap:10px;
+    margin-top:18px;
+    align-items:center;
+  }
+  #search{
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    color:var(--text);
+    font-family:var(--mono);
+    font-size:13px;
+    padding:9px 12px;
+    border-radius:3px;
+    flex:1 1 220px;
+    min-width:180px;
+  }
+  #search:focus{ outline:none; border-color:var(--amber-dim); }
+  #search::placeholder{ color:var(--text-dim); }
+
+  .chip{
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    color:var(--text-dim);
+    font-family:var(--mono);
+    font-size:11.5px;
+    letter-spacing:0.04em;
+    padding:8px 12px;
+    border-radius:3px;
+    cursor:pointer;
+    text-transform:uppercase;
+    transition:border-color .15s, color .15s;
+    white-space:nowrap;
+  }
+  .chip:hover{ border-color:var(--amber-dim); color:var(--text); }
+  .chip.active{
+    border-color:var(--amber);
+    color:var(--amber);
+    background:rgba(217,164,65,0.07);
+  }
+
+  .count{
+    color:var(--text-dim);
+    font-size:11.5px;
+    margin-left:auto;
+    white-space:nowrap;
+  }
+  .count b{ color:var(--amber); font-weight:600; }
+
+  /* ---------- main grid ---------- */
+  main{
+    max-width:1100px;
+    margin:0 auto;
+    padding:26px 24px 60px;
+  }
+  .grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill, minmax(250px,1fr));
+    gap:14px;
+  }
+  .card{
+    background:var(--bg-card);
+    border:1px solid var(--line);
+    border-left:3px solid var(--amber-dim);
+    border-radius:2px;
+    padding:16px 16px 14px;
+    cursor:pointer;
+    transition:border-color .15s, transform .1s;
+  }
+  .card:hover{
+    border-left-color:var(--amber);
+    transform:translateY(-1px);
+  }
+  .card-tag{
+    font-size:10px;
+    letter-spacing:0.12em;
+    text-transform:uppercase;
+    color:var(--amber-dim);
+    margin-bottom:8px;
+  }
+  .card-title{
+    font-size:16px;
+    font-weight:700;
+    color:var(--text);
+    margin-bottom:6px;
+    line-height:1.3;
+  }
+  .card-origin{
+    font-size:11.5px;
+    color:var(--text-dim);
+    line-height:1.5;
+  }
+  .card-verse-count{
+    margin-top:10px;
+    font-size:10.5px;
+    color:var(--green);
+  }
+  .card-snippet{
+    margin-top:10px;
+    font-size:12px;
+    color:#b9c2b4;
+    font-style:italic;
+    line-height:1.5;
+    border-top:1px dashed var(--line);
+    padding-top:10px;
+  }
+  mark{
+    background:rgba(217,164,65,0.28);
+    color:#f4e1b0;
+    font-style:normal;
+    padding:0 2px;
+    border-radius:2px;
+  }
+
+  .empty{
+    text-align:center;
+    color:var(--text-dim);
+    padding:60px 20px;
+    font-size:13px;
+  }
+
+  /* ---------- detail overlay ---------- */
+  .overlay{
+    display:none;
+    position:fixed; inset:0;
+    background:rgba(4,5,4,0.82);
+    z-index:100;
+    padding:40px 20px;
+    overflow-y:auto;
+  }
+  .overlay.open{ display:block; }
+  .sheet{
+    max-width:640px;
+    margin:0 auto;
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    border-top:3px solid var(--amber);
+    border-radius:3px;
+    padding:30px 32px 34px;
+    position:relative;
+  }
+  .close-btn{
+    position:absolute;
+    top:16px; right:18px;
+    background:none;
+    border:1px solid var(--line);
+    color:var(--text-dim);
+    font-family:var(--mono);
+    font-size:13px;
+    width:28px; height:28px;
+    border-radius:3px;
+    cursor:pointer;
+    line-height:1;
+  }
+  .close-btn:hover{ color:var(--amber); border-color:var(--amber-dim); }
+
+  .sheet .card-tag{ margin-bottom:10px; }
+  .sheet h2{
+    margin:0 0 4px;
+    font-size:23px;
+    color:var(--text);
+    padding-right:30px;
+  }
+  .sheet .origin-line{
+    font-size:12px;
+    color:var(--text-dim);
+    margin-bottom:4px;
+  }
+  .sheet .era-line{
+    font-size:11px;
+    color:var(--amber-dim);
+    text-transform:uppercase;
+    letter-spacing:0.06em;
+    margin-bottom:18px;
+  }
+  .note-box{
+    background:rgba(127,174,106,0.06);
+    border-left:2px solid var(--green);
+    padding:10px 14px;
+    font-size:12px;
+    color:#a9b8a3;
+    line-height:1.6;
+    margin-bottom:22px;
+    border-radius:0 2px 2px 0;
+  }
+  .verse{
+    white-space:pre-line;
+    font-size:14.5px;
+    line-height:1.75;
+    color:var(--text);
+    margin-bottom:20px;
+    padding-left:14px;
+    border-left:1px solid var(--line);
+  }
+  .verse:first-of-type{ color:#eef0ea; }
+  .tags-row{
+    display:flex; flex-wrap:wrap; gap:6px;
+    margin-top:24px;
+    padding-top:16px;
+    border-top:1px solid var(--line);
+  }
+  .tag-pill{
+    font-size:10px;
+    color:var(--text-dim);
+    border:1px solid var(--line);
+    padding:4px 9px;
+    border-radius:20px;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+
+  footer{
+    text-align:center;
+    color:var(--text-dim);
+    font-size:10.5px;
+    padding:20px 24px 30px;
+    letter-spacing:0.03em;
+  }
+
+  @media (max-width:520px){
+    h1{ font-size:21px; }
+    .sheet{ padding:24px 20px 28px; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">WATCH FLOOR · ARCHIVE STATION</div>
+  <h1><span class="reel" id="reel"></span> Lyric Vault</h1>
+  <div class="sub">A working library of public-domain lyrics — traditional folk, blues, spirituals, and 19th-century songbook standards — cleared for remix, adaptation, and homage. Every entry is sourced and dated in its detail card.</div>
+
+  <div class="controls">
+    <input type="text" id="search" placeholder="Search title, tag, or origin...">
+    <div class="chip active" data-cat="all">All</div>
+    <div class="chip" data-cat="spiritual">Spiritual</div>
+    <div class="chip" data-cat="folk">Folk</div>
+    <div class="chip" data-cat="blues">Blues</div>
+    <div class="chip" data-cat="work-song">Work Song</div>
+    <div class="count" id="count"></div>
+  </div>
+</header>
+
+<main>
+  <div class="grid" id="grid"></div>
+  <div class="empty" id="empty" style="display:none;">No songs match that search. Try a different term or clear the filter.</div>
+</main>
+
+<footer>© 2026 R. Grimes · All rights reserved — app &amp; design. Lyric texts in this archive are public domain.</footer>
+
+<div class="overlay" id="overlay">
+  <div class="sheet" id="sheet"></div>
+</div>
+
+<script>
+// ======================= DATA =======================
+// Add new songs by appending an object in this shape. Verify public-domain
+// status (pre-1928 US publication, or traditional/anonymous authorship)
+// before adding anything.
+const LYRIC_LIBRARY = [
+  {
+    id: "amazing-grace",
+    title: "Amazing Grace",
+    category: "spiritual",
+    origin: "John Newton, 1779 (Olney Hymns) — final verse added anonymously before 1829",
+    era: "18th century",
+    tags: ["hymn", "gospel", "redemption"],
+    note: "Newton's spiritual autobiography, written after he left the slave trade. The tune 'New Britain' wasn't paired with it until 1835.",
+    verses: [
+      "Amazing grace! How sweet the sound\nThat saved a wretch like me!\nI once was lost, but now am found,\nWas blind, but now I see.",
+      "'Twas grace that taught my heart to fear,\nAnd grace my fears relieved;\nHow precious did that grace appear\nThe hour I first believed!",
+      "Through many dangers, toils and snares,\nI have already come;\n'Tis grace hath brought me safe thus far,\nAnd grace will lead me home.",
+      "The Lord has promised good to me,\nHis word my hope secures;\nHe will my shield and portion be,\nAs long as life endures.",
+      "Yes, when this flesh and heart shall fail,\nAnd mortal life shall cease;\nI shall possess, within the veil,\nA life of joy and peace.",
+      "The earth shall soon dissolve like snow,\nThe sun forbear to shine;\nBut God, who called me here below,\nWill be forever mine.",
+      "When we've been there ten thousand years,\nBright shining as the sun,\nWe've no less days to sing God's praise\nThan when we first begun."
+    ]
+  },
+  {
+    id: "swing-low-sweet-chariot",
+    title: "Swing Low, Sweet Chariot",
+    category: "spiritual",
+    origin: "Traditional — composed by Wallace Willis, a freedman in Choctaw Territory, mid-19th century",
+    era: "19th century",
+    tags: ["gospel", "underground railroad", "call and response"],
+    note: "First made famous nationally by the Fisk Jubilee Singers, 1909. The Jordan/chariot imagery is widely read as coded Underground Railroad language.",
+    verses: [
+      "Swing low, sweet chariot,\nComing for to carry me home.\nSwing low, sweet chariot,\nComing for to carry me home.",
+      "I looked over Jordan, and what did I see,\nComing for to carry me home,\nA band of angels coming after me,\nComing for to carry me home.",
+      "If you get there before I do,\nComing for to carry me home,\nTell all my friends I'm coming too,\nComing for to carry me home.",
+      "The brightest day that ever I saw,\nComing for to carry me home,\nWhen Jesus washed my sins away,\nComing for to carry me home.",
+      "I'm sometimes up and sometimes down,\nComing for to carry me home,\nBut still my soul feels heavenly bound,\nComing for to carry me home."
+    ]
+  },
+  {
+    id: "nobody-knows-the-trouble",
+    title: "Nobody Knows the Trouble I've Seen",
+    category: "spiritual",
+    origin: "Traditional African American spiritual, published 1867 in Slave Songs of the United States",
+    era: "19th century",
+    tags: ["gospel", "sorrow songs"],
+    note: "Originated during slavery; not published until after the Civil War. Recorded by Mahalia Jackson, Louis Armstrong, Marian Anderson, and many others.",
+    verses: [
+      "Nobody knows the trouble I've seen,\nNobody knows my sorrow;\nNobody knows the trouble I've seen,\nGlory hallelujah!",
+      "Sometimes I'm up, sometimes I'm down,\nOh, yes, Lord!\nSometimes I'm almost to the ground,\nOh, yes, Lord!",
+      "Although you see me going 'long so,\nOh, yes, Lord!\nI have my trials here below,\nOh, yes, Lord!",
+      "If you get there before I do,\nOh, yes, Lord!\nTell all my friends I'm coming too,\nOh, yes, Lord!"
+    ]
+  },
+  {
+    id: "when-the-saints-go-marching-in",
+    title: "When the Saints Go Marching In",
+    category: "spiritual",
+    origin: "Traditional gospel song, earliest known recording 1923 (Paramount Jubilee Singers)",
+    era: "early 20th century",
+    tags: ["gospel", "jazz standard", "new orleans"],
+    note: "Became a jazz standard after Louis Armstrong's 1938 recording; later adopted as the New Orleans Saints' anthem.",
+    verses: [
+      "Oh, when the saints go marching in,\nOh, when the saints go marching in,\nLord, I want to be in that number\nWhen the saints go marching in.",
+      "Oh, when the sun refused to shine,\nOh, when the sun refused to shine,\nLord, I want to be in that number\nWhen the sun refused to shine.",
+      "Oh, when they gather round the throne,\nOh, when they gather round the throne,\nLord, I want to be in that number\nWhen they gather round the throne.",
+      "Oh, when they crown Him King of kings,\nOh, when they crown Him King of kings,\nLord, I want to be in that number\nWhen they crown Him King of kings.",
+      "And on that hallelujah day,\nAnd on that hallelujah day,\nLord, I want to be in that number\nOn that hallelujah day."
+    ]
+  },
+  {
+    id: "oh-susanna",
+    title: "Oh! Susanna",
+    category: "folk",
+    origin: "Stephen Foster, 1848",
+    era: "19th century",
+    tags: ["stephen foster", "gold rush", "americana"],
+    note: "Foster's first big hit; became an anthem of the 1849 California Gold Rush. Presented here with the verses in standard modern circulation (the original 1848 sheet music included a second verse with racist minstrel-era language that is omitted here).",
+    verses: [
+      "I came from Alabama, with my banjo on my knee,\nI'm going to Louisiana, my true love for to see.\nIt rained all night the day I left, the weather it was dry,\nThe sun so hot I froze to death; Susanna, don't you cry.",
+      "Oh, Susanna, oh don't you cry for me,\nFor I come from Alabama, with my banjo on my knee.",
+      "I had a dream the other night, when everything was still;\nI thought I saw Susanna, a-coming down the hill.\nThe buckwheat cake was in her mouth, the tear was in her eye,\nSays I, I'm coming from the south, Susanna, don't you cry.",
+      "I soon will be in New Orleans, and then I'll look all round,\nAnd when I find Susanna, I will fall upon the ground.\nBut if I do not find her, this man will surely die,\nAnd when I'm dead and buried, Susanna, don't you cry."
+    ]
+  },
+  {
+    id: "john-henry",
+    title: "John Henry",
+    category: "folk",
+    origin: "Traditional American ballad, oral tradition from the 1870s; earliest known printed text c. 1900",
+    era: "late 19th century",
+    tags: ["work song", "railroad", "folk hero", "blues"],
+    note: "Ballad of a steel-driving railroad worker who raced a steam drill. One of the most recorded folk songs in American history.",
+    verses: [
+      "When John Henry was a little baby,\nSitting on his papa's knee,\nHe picked up a hammer and a little piece of steel,\nSaid, \"This hammer'll be the death of me, Lord, Lord,\nThis hammer'll be the death of me.\"",
+      "Now the captain said to John Henry,\n\"I'm gonna bring that steam drill around,\nI'm gonna take that steam drill out on the job,\nI'm gonna whop that steel on down, Lord, Lord,\nGonna whop that steel on down.\"",
+      "John Henry told his captain,\n\"A man ain't nothing but a man,\nBut before I let that steam drill beat me down,\nI'll die with my hammer in my hand, Lord, Lord,\nI'll die with my hammer in my hand.\"",
+      "Now the man that invented the steam drill,\nThought he was mighty fine,\nBut John Henry drove his steel fifteen feet,\nAnd the steam drill only made nine, Lord, Lord,\nThe steam drill only made nine.",
+      "John Henry hammered in the mountains,\nHis hammer was striking fire,\nBut he worked so hard, he broke his poor heart,\nHe laid down his hammer and he died, Lord, Lord,\nHe laid down his hammer and he died.",
+      "They took John Henry to the graveyard,\nAnd they buried him in the sand,\nAnd every locomotive comes a-roaring by,\nSays, \"There lies a steel-driving man, Lord, Lord,\nThere lies a steel-driving man.\""
+    ]
+  },
+  {
+    id: "house-of-the-rising-sun",
+    title: "House of the Rising Sun",
+    category: "blues",
+    origin: "Traditional; oldest documented lyrics published 1925 in Adventure magazine (collected by Robert Winslow Gordon)",
+    era: "early 20th century",
+    tags: ["blues", "new orleans", "murder ballad", "rock cover history"],
+    note: "Public domain traditional song — confirmed in the 1964 Animals royalty dispute, where songwriter Dave Van Ronk found the underlying song couldn't be copyrighted, only a specific arrangement of it.",
+    verses: [
+      "There is a house in New Orleans\nThey call the Rising Sun,\nAnd it's been the ruin of many a poor girl,\nAnd me, oh God, for one.",
+      "If I had listened to what my mama said,\nI'd be at home today,\nBut I was young and foolish, poor girl,\nLet a gambler lead me astray.",
+      "My mother, she's a tailor,\nShe sews those old blue jeans,\nMy father, he's a gambling man,\nDrinks down in New Orleans.",
+      "Go tell my baby sister,\nNot to do as I have done,\nTo shun that house in New Orleans,\nThey call the Rising Sun.",
+      "Well, I'm going back to New Orleans,\nMy race is almost run,\nGoing to spend the rest of my days\nBeneath that Rising Sun."
+    ]
+  },
+  {
+    id: "frankie-and-johnny",
+    title: "Frankie and Johnny",
+    category: "blues",
+    origin: "Traditional American murder ballad, based on an 1899 St. Louis shooting; familiar lyric form published 1912",
+    era: "early 20th century",
+    tags: ["murder ballad", "st. louis", "missouri"],
+    note: "Inspired by a real case: Frankie Baker shot her lover in a St. Louis rooming house in 1899. Over 250 documented lyric variants exist; the version below follows the widely circulated folk text.",
+    verses: [
+      "Frankie and Johnny were lovers,\nO Lordy, how they could love,\nThey swore to be true to each other,\nJust as true as the stars above,\nHe was her man, but he done her wrong.",
+      "Frankie and Johnny went walking,\nJohnny had a brand new suit,\nFrankie paid a hundred dollars\nJust to make her man look cute,\nHe was her man, but he done her wrong.",
+      "Johnny said, \"I've got to leave you,\nBut I won't be very long,\nDon't you wait up for me, honey,\nNor worry while I'm gone,\"\nHe was her man, but he done her wrong.",
+      "Frankie went down to the corner,\nStopped in to buy her some beer,\nSays to the fat bartender,\n\"Has my Johnny man been here?\"\nHe was her man, but he done her wrong.",
+      "\"Well, I ain't going to tell you no story,\nAin't going to tell you no lie,\nJohnny went by about an hour ago\nWith a girl named Nellie Bly,\nHe is your man, but he's doing you wrong.\"",
+      "Frankie went home in a hurry,\nShe didn't go there for fun,\nShe hurried home to get ahold\nOf Johnny's shooting gun,\nHe was her man, but he done her wrong."
+    ]
+  },
+  {
+    id: "careless-love",
+    title: "Careless Love",
+    category: "blues",
+    origin: "Traditional; earliest documented use turn of the 20th century, popularized by W.C. Handy in the early 1920s",
+    era: "early 20th century",
+    tags: ["blues standard", "jazz standard", "new orleans"],
+    note: "A staple of Buddy Bolden's New Orleans band and one of the most-covered pieces in blues and jazz — recorded by Bessie Smith, Fats Domino, and countless others.",
+    verses: [
+      "Love, oh love, oh careless love,\nLove, oh love, oh careless love,\nOh, it's love, oh love, oh careless love,\nJust see what love has done to me.",
+      "Sorrow, sorrow to my heart,\nSorrow, sorrow to my heart,\nOh, it's sorrow, sorrow to my heart,\nWhen me and my true love must part.",
+      "It's a pity that we ever met,\nIt's a pity that we ever met,\nIt's a pity that we ever met,\nFor those good times we'll never forget.",
+      "I cried last night and the night before,\nI cried last night and the night before,\nI cried last night and the night before,\nGoing to cry tonight and I'll cry no more."
+    ]
+  },
+  {
+    id: "rock-island-line",
+    title: "Rock Island Line",
+    category: "work-song",
+    origin: "Traditional railroad work song, documented as early as 1929; first recorded 1934 by Lomax at an Arkansas prison farm",
+    era: "early 20th century",
+    tags: ["railroad", "prison song", "leadbelly", "skiffle"],
+    note: "Made famous by Lead Belly, whose version launched Lonnie Donegan's 1956 skiffle hit — one of the direct sparks for the British skiffle scene that fed into early British rock and roll.",
+    verses: [
+      "Oh, the Rock Island Line is a mighty good road,\nOh, the Rock Island Line is the road to ride,\nOh, the Rock Island Line is a mighty good road,\nIf you want to ride it, got to ride it like you find it,\nGet your ticket at the station on the Rock Island Line.",
+      "Jesus died to save our sins,\nGlory to God, we're gonna meet Him again.\nI may be right and I may be wrong,\nI know you're gonna miss me when I'm gone."
+    ]
+  },
+  {
+    id: "red-river-valley",
+    title: "Red River Valley",
+    category: "folk",
+    origin: "Traditional North American folk song, documented in Canadian provinces before 1896; earliest print appearance 1879 (as \"Billy's Parting\")",
+    era: "late 19th century",
+    tags: ["cowboy song", "western", "farewell song"],
+    note: "One of the Western Writers of America's Top 100 Western songs of all time. Likely originated as a farewell song tied to the 1870 Red River Rebellion in Manitoba before migrating south and becoming known as a Texas cowboy song.",
+    verses: [
+      "From this valley they say you are going,\nWe will miss your bright eyes and sweet smile,\nFor they say you are taking the sunshine\nThat has brightened our pathway a while.",
+      "Come and sit by my side if you love me,\nDo not hasten to bid me adieu,\nJust remember the Red River Valley\nAnd the cowboy that has loved you so true.",
+      "I've been thinking a long time, my darling,\nOf the sweet words you never would say,\nNow, alas, must my fond hopes all vanish,\nFor they say you are going away.",
+      "Won't you think of the valley you're leaving,\nOh, how lonely and sad it will be,\nOh, think of the fond heart you're breaking,\nAnd the grief you are causing to me."
+    ]
+  }
+];
+
+const CATEGORY_LABEL = {
+  "spiritual": "Spiritual",
+  "folk": "Folk",
+  "blues": "Blues",
+  "work-song": "Work Song"
+};
+
+// ======================= APP =======================
+let activeCategory = "all";
+let searchTerm = "";
+
+const grid = document.getElementById('grid');
+const emptyEl = document.getElementById('empty');
+const countEl = document.getElementById('count');
+const overlay = document.getElementById('overlay');
+const sheet = document.getElementById('sheet');
+const reel = document.getElementById('reel');
+
+function metaText(song){
+  return (song.title + ' ' + song.origin + ' ' + song.tags.join(' ')).toLowerCase();
+}
+
+function lyricLines(song){
+  // Flatten every verse into individual lines for line-level snippet matching.
+  return song.verses.flatMap(v => v.split('\n'));
+}
+
+function matches(song){
+  const inCat = activeCategory === 'all' || song.category === activeCategory;
+  if(!inCat) return false;
+  if(!searchTerm) return true;
+  if(metaText(song).includes(searchTerm)) return true;
+  return lyricLines(song).some(line => line.toLowerCase().includes(searchTerm));
+}
+
+function escapeHtml(str){
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function highlight(line){
+  if(!searchTerm) return escapeHtml(line);
+  const idx = line.toLowerCase().indexOf(searchTerm);
+  if(idx === -1) return escapeHtml(line);
+  const before = escapeHtml(line.slice(0, idx));
+  const match = escapeHtml(line.slice(idx, idx + searchTerm.length));
+  const after = escapeHtml(line.slice(idx + searchTerm.length));
+  return `${before}<mark>${match}</mark>${after}`;
+}
+
+// Finds the first lyric line containing the search term, only relevant when
+// the term didn't already match the title/origin/tags (that's shown plainly).
+function lyricSnippet(song){
+  if(!searchTerm || metaText(song).includes(searchTerm)) return null;
+  const line = lyricLines(song).find(l => l.toLowerCase().includes(searchTerm));
+  return line ? line.trim() : null;
+}
+
+function render(){
+  const results = LYRIC_LIBRARY.filter(matches);
+  grid.innerHTML = '';
+  countEl.innerHTML = `<b>${results.length}</b> of ${LYRIC_LIBRARY.length} songs`;
+
+  if(results.length === 0){
+    emptyEl.style.display = 'block';
+    return;
+  }
+  emptyEl.style.display = 'none';
+
+  results.forEach(song => {
+    const snippet = lyricSnippet(song);
+    const card = document.createElement('div');
+    card.className = 'card';
+    card.innerHTML = `
+      <div class="card-tag">${CATEGORY_LABEL[song.category]} · ${song.era}</div>
+      <div class="card-title">${song.title}</div>
+      <div class="card-origin">${song.origin}</div>
+      ${snippet ? `<div class="card-snippet">&ldquo;${highlight(snippet)}&rdquo;</div>` : ''}
+      <div class="card-verse-count">${song.verses.length} verse${song.verses.length === 1 ? '' : 's'}</div>
+    `;
+    card.addEventListener('click', () => openSheet(song));
+    grid.appendChild(card);
+  });
+}
+
+function openSheet(song){
+  sheet.innerHTML = `
+    <button class="close-btn" id="closeBtn">&times;</button>
+    <div class="card-tag">${CATEGORY_LABEL[song.category]}</div>
+    <h2>${song.title}</h2>
+    <div class="origin-line">${song.origin}</div>
+    <div class="era-line">${song.era}</div>
+    ${song.note ? `<div class="note-box">${song.note}</div>` : ''}
+    ${song.verses.map(v => `<div class="verse">${searchTerm ? v.split('\n').map(highlight).join('\n') : escapeHtml(v)}</div>`).join('')}
+    <div class="tags-row">${song.tags.map(t => `<span class="tag-pill">${t}</span>`).join('')}</div>
+  `;
+  overlay.classList.add('open');
+  document.getElementById('closeBtn').addEventListener('click', closeSheet);
+  reel.parentElement.parentElement && document.body.classList.add('spinning');
+}
+
+function closeSheet(){
+  overlay.classList.remove('open');
+  document.body.classList.remove('spinning');
+}
+
+overlay.addEventListener('click', (e) => {
+  if(e.target === overlay) closeSheet();
+});
+document.addEventListener('keydown', (e) => {
+  if(e.key === 'Escape') closeSheet();
+});
+
+document.getElementById('search').addEventListener('input', (e) => {
+  searchTerm = e.target.value.trim().toLowerCase();
+  render();
+});
+
+document.querySelectorAll('.chip').forEach(chip => {
+  chip.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+    chip.classList.add('active');
+    activeCategory = chip.dataset.cat;
+    render();
+  });
+});
+
+render();
+</script>
+
+</body>
+</html>
