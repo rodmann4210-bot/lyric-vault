@@ -27,7 +27,6 @@
     font-family:var(--mono);
     min-height:100vh;
   }
-
   /* ---------- header ---------- */
   header{
     border-bottom:1px solid var(--line);
@@ -77,7 +76,6 @@
   }
   body.spinning .reel{animation-play-state:running;}
   @keyframes spin{ to{ transform:rotate(360deg); } }
-
   .sub{
     color:var(--text-dim);
     font-size:12.5px;
@@ -85,7 +83,6 @@
     max-width:640px;
     line-height:1.5;
   }
-
   .controls{
     display:flex; flex-wrap:wrap; gap:10px;
     margin-top:18px;
@@ -104,7 +101,6 @@
   }
   #search:focus{ outline:none; border-color:var(--amber-dim); }
   #search::placeholder{ color:var(--text-dim); }
-
   .chip{
     background:var(--bg-panel);
     border:1px solid var(--line);
@@ -125,7 +121,6 @@
     color:var(--amber);
     background:rgba(217,164,65,0.07);
   }
-
   .count{
     color:var(--text-dim);
     font-size:11.5px;
@@ -133,7 +128,6 @@
     white-space:nowrap;
   }
   .count b{ color:var(--amber); font-weight:600; }
-
   /* ---------- main grid ---------- */
   main{
     max-width:1100px;
@@ -198,14 +192,12 @@
     padding:0 2px;
     border-radius:2px;
   }
-
   .empty{
     text-align:center;
     color:var(--text-dim);
     padding:60px 20px;
     font-size:13px;
   }
-
   /* ---------- detail overlay ---------- */
   .overlay{
     display:none;
@@ -240,7 +232,6 @@
     line-height:1;
   }
   .close-btn:hover{ color:var(--amber); border-color:var(--amber-dim); }
-
   .sheet .card-tag{ margin-bottom:10px; }
   .sheet h2{
     margin:0 0 4px;
@@ -295,7 +286,6 @@
     text-transform:uppercase;
     letter-spacing:0.05em;
   }
-
   footer{
     text-align:center;
     color:var(--text-dim);
@@ -303,7 +293,6 @@
     padding:20px 24px 30px;
     letter-spacing:0.03em;
   }
-
   @media (max-width:520px){
     h1{ font-size:21px; }
     .sheet{ padding:24px 20px 28px; }
@@ -311,12 +300,10 @@
 </style>
 </head>
 <body>
-
 <header>
   <div class="eyebrow">WATCH FLOOR · ARCHIVE STATION</div>
   <h1><span class="reel" id="reel"></span> Lyric Vault</h1>
-  <div class="sub">A working library of public-domain lyrics — traditional folk, blues, spirituals, and 19th-century songbook standards — cleared for remix, adaptation, and homage. Every entry is sourced and dated in its detail card.</div>
-
+  <div class="sub">A working library of public-domain lyrics — traditional folk, blues, spirituals, sea shanties, ballads, and 19th-century songbook standards — cleared for remix, adaptation, and homage. Every entry is sourced and dated in its detail card.</div>
   <div class="controls">
     <input type="text" id="search" placeholder="Search title, tag, or origin...">
     <div class="chip active" data-cat="all">All</div>
@@ -324,21 +311,20 @@
     <div class="chip" data-cat="folk">Folk</div>
     <div class="chip" data-cat="blues">Blues</div>
     <div class="chip" data-cat="work-song">Work Song</div>
+    <div class="chip" data-cat="sea-shanty">Sea Shanty</div>
+    <div class="chip" data-cat="ballad">Ballad</div>
+    <div class="chip" data-cat="parlor">Parlor Song</div>
     <div class="count" id="count"></div>
   </div>
 </header>
-
 <main>
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" style="display:none;">No songs match that search. Try a different term or clear the filter.</div>
 </main>
-
 <footer>© 2026 R. Grimes · All rights reserved — app &amp; design. Lyric texts in this archive are public domain.</footer>
-
 <div class="overlay" id="overlay">
   <div class="sheet" id="sheet"></div>
 </div>
-
 <script>
 // ======================= DATA =======================
 // Add new songs by appending an object in this shape. Verify public-domain
@@ -539,7 +525,7 @@ const LYRIC_LIBRARY = [
     id: "maid-freed-from-the-gallows",
     title: "The Maid Freed from the Gallows",
     category: "folk",
-    origin: "Traditional English/Scottish/American ballad, Child Ballad No. 95, compiled by Francis James Child in English and Scottish Popular Ballads (1882\u20131898)",
+    origin: "Traditional English/Scottish/American ballad, Child Ballad No. 95, compiled by Francis James Child in English and Scottish Popular Ballads (1882–1898)",
     era: "centuries-old, collected 19th century",
     tags: ["child ballad", "rock cover history"],
     note: "One of the oldest ballads in the English-speaking folk tradition, with hundreds of variants worldwide. Led Zeppelin adapted it (via Lead Belly's \"Gallis Pole\" and Fred Gerlach's version) into \"Gallows Pole\" on Led Zeppelin III.",
@@ -670,36 +656,193 @@ const LYRIC_LIBRARY = [
       "Nobody knows you, when you're down and out,\nIn my pocket not one penny,\nAnd my friends I haven't any.",
       "But if I ever get on my feet again,\nThen everybody wants to be my long-lost friend,\nIt's mighty strange, without a doubt,\nNobody knows you when you're down and out."
     ]
+  },
+  {
+    id: "drunken-sailor",
+    title: "Drunken Sailor",
+    category: "sea-shanty",
+    origin: "Traditional sea shanty; melody printed 1824 (Cole's Selection of Favourite Cotillions, Baltimore), shanty documented aboard ships by an 1839 New London whaling-voyage account",
+    era: "early 19th century",
+    tags: ["shanty", "halyard song", "call and response"],
+    note: "A 'stamp-and-go' shanty sung for hauling in unison, possibly dating to the 1820s or earlier. One of the few shanties permitted in the Royal Navy. No individual author was ever identified; the song predates recorded music entirely.",
+    verses: [
+      "What shall we do with a drunken sailor?\nWhat shall we do with a drunken sailor?\nWhat shall we do with a drunken sailor,\nEarly in the morning?",
+      "Way hay and up she rises,\nWay hay and up she rises,\nWay hay and up she rises,\nEarly in the morning.",
+      "Put him in the long boat till he's sober,\nPut him in the long boat till he's sober,\nPut him in the long boat till he's sober,\nEarly in the morning.",
+      "Shave his belly with a rusty razor,\nShave his belly with a rusty razor,\nShave his belly with a rusty razor,\nEarly in the morning.",
+      "Put him in the scuppers with a hosepipe on him,\nPut him in the scuppers with a hosepipe on him,\nPut him in the scuppers with a hosepipe on him,\nEarly in the morning.",
+      "That's what we do with a drunken sailor,\nThat's what we do with a drunken sailor,\nThat's what we do with a drunken sailor,\nEarly in the morning."
+    ]
+  },
+  {
+    id: "shenandoah",
+    title: "Shenandoah",
+    category: "sea-shanty",
+    origin: "Traditional; originated with Missouri River voyageurs and fur traders early 19th century, adopted as a capstan shanty by deep-water sailors by the mid-1800s; first printed as \"Shenadore\" in The New Dominion Monthly, 1876",
+    era: "19th century",
+    tags: ["shanty", "capstan song", "americana", "river song"],
+    note: "Captain Robert Chamblet Adams reported first hearing it around 1850. Began as a river/land song about the Missouri before going to sea; now among the most beloved American melodies, no author ever identified.",
+    verses: [
+      "Oh Shenandoah, I long to hear you,\nAway, you rolling river,\nOh Shenandoah, I long to hear you,\nAway, I'm bound away,\n'Cross the wide Missouri.",
+      "Oh Shenandoah, I love your daughter,\nAway, you rolling river,\nFor her I'd cross your roaming water,\nAway, I'm bound away,\n'Cross the wide Missouri.",
+      "'Tis seven years since last I've seen you,\nAway, you rolling river,\n'Tis seven years since last I've seen you,\nAway, I'm bound away,\n'Cross the wide Missouri.",
+      "Oh Shenandoah, I'm bound to leave you,\nAway, you rolling river,\nOh Shenandoah, I'll not deceive you,\nAway, I'm bound away,\n'Cross the wide Missouri."
+    ]
+  },
+  {
+    id: "barbara-allen",
+    title: "Barbara Allen",
+    category: "ballad",
+    origin: "Traditional Scottish/English ballad, Child Ballad No. 84; earliest reference in Samuel Pepys's diary, 2 January 1666; first printed by Allan Ramsay in Tea-Table Miscellany, 1740",
+    era: "17th century or earlier",
+    tags: ["child ballad", "love ballad", "appalachian"],
+    note: "Possibly the most widely collected folk song in the English language, with hundreds of variants across Britain, Ireland, and North America. The text below follows the widely circulated composite American version.",
+    verses: [
+      "In Scarlet Town, where I was born,\nThere was a fair maid dwellin',\nMade every youth cry well-a-day,\nAnd her name was Barbara Allen.",
+      "All in the merry month of May,\nWhen green buds they were swellin',\nYoung Jemmy Grove on his deathbed lay,\nFor love of Barbara Allen.",
+      "He sent his servant to her door,\nTo the town where she was dwellin',\n\"O haste and come to my master's call,\nIf your name be Barbara Allen.\"",
+      "So slowly, slowly she got up,\nAnd slowly she drew nigh him,\nAnd all she said when there she came:\n\"Young man, I think you're dying.\"",
+      "\"O mother, mother, make my bed,\nO make it soft and narrow;\nSweet William died for me today,\nI'll die for him tomorrow.\"",
+      "They buried her in the old churchyard,\nAnd William's grave was nigh her,\nAnd from his heart grew a red, red rose,\nAnd from her heart a briar.",
+      "They grew and grew to the steeple top,\nTill they could grow no higher,\nAnd there they twined in a true love's knot,\nThe red rose round the briar."
+    ]
+  },
+  {
+    id: "streets-of-laredo",
+    title: "Streets of Laredo",
+    category: "ballad",
+    origin: "Traditional cowboy ballad descended from the late-18th-century Irish song \"The Unfortunate Rake\"; first published 1910 in John Lomax's Cowboy Songs and Other Frontier Ballads",
+    era: "late 19th century",
+    tags: ["cowboy song", "western", "unfortunate rake family"],
+    note: "Also known as \"The Cowboy's Lament.\" Same ballad family as \"St. James Infirmary Blues\" — both descend from \"The Unfortunate Rake.\" Frank H. Maynard, a Kansas cowboy, claimed to have written this version in 1876.",
+    verses: [
+      "As I walked out in the streets of Laredo,\nAs I walked out in Laredo one day,\nI spied a young cowboy wrapped up in white linen,\nWrapped up in white linen as cold as the clay.",
+      "\"I see by your outfit that you are a cowboy,\"\nThese words he did say as I boldly stepped by,\n\"Come sit down beside me and hear my sad story,\nI was shot in the breast and I know I must die.\"",
+      "\"It was once in the saddle I used to go dashing,\nIt was once in the saddle I used to go gay,\nFirst down to the dram-house and then to the card-house,\nGot shot in the breast and I'm dying today.\"",
+      "\"Get six jolly cowboys to carry my coffin,\nGet six pretty maidens to bear up my pall,\nPut bunches of roses all over my coffin,\nPut roses to deaden the clods as they fall.\"",
+      "\"Oh, beat the drum slowly and play the fife lowly,\nPlay the dead march as you carry me along,\nTake me to the green valley and lay the sod o'er me,\nFor I'm a young cowboy and I know I've done wrong.\"",
+      "We beat the drum slowly and played the fife lowly,\nAnd bitterly wept as we bore him along,\nFor we all loved our comrade, so brave, young and handsome,\nWe all loved our comrade although he'd done wrong."
+    ]
+  },
+  {
+    id: "man-of-constant-sorrow",
+    title: "Man of Constant Sorrow",
+    category: "ballad",
+    origin: "First published 1913 as \"Farewell Song\" in a songbook by Dick Burnett, a partially blind fiddler of Monticello, Kentucky; retitled by Emry Arthur's 1928 recording",
+    era: "early 20th century",
+    tags: ["appalachian", "bluegrass", "lament", "rock cover history"],
+    note: "Burnett himself wasn't sure he wrote it — \"I think I got the ballad from somebody — I dunno.\" Carried into the folk revival by the Stanley Brothers and Bob Dylan (1962 debut album), and to a new century by O Brother, Where Art Thou? (2000).",
+    verses: [
+      "I am a man of constant sorrow,\nI've seen trouble all my days;\nI'll bid farewell to old Kentucky,\nThe place where I was born and raised.",
+      "For six long years I've been in trouble,\nNo pleasure here on earth I've found;\nFor in this world I'm bound to ramble,\nI have no friends to help me now.",
+      "It's fare thee well, my own true lover,\nI never expect to see you again;\nFor I'm bound to ride that northern railroad,\nPerhaps I'll die upon this train.",
+      "You may bury me in some deep valley,\nFor many years where I may lay;\nThen you may learn to love another,\nWhile I am sleeping in my grave.",
+      "Maybe your friends think I'm just a stranger,\nMy face you never will see no more;\nBut there is one promise that is given,\nI'll meet you on God's golden shore."
+    ]
+  },
+  {
+    id: "danny-boy",
+    title: "Danny Boy",
+    category: "parlor",
+    origin: "Lyrics by English lawyer Frederic Weatherly, written 1910 and set to the traditional Irish melody \"Londonderry Air\" in 1913",
+    era: "early 20th century",
+    tags: ["irish", "londonderry air", "farewell song"],
+    note: "Weatherly's 1913 publication places both words and melody safely in the public domain. The tune, \"Londonderry Air,\" was collected in County Londonderry and first published in 1855 — itself traditional and authorless.",
+    verses: [
+      "Oh, Danny boy, the pipes, the pipes are calling\nFrom glen to glen, and down the mountain side.\nThe summer's gone, and all the roses falling,\nIt's you, it's you must go and I must bide.",
+      "But come ye back when summer's in the meadow,\nOr when the valley's hushed and white with snow,\nIt's I'll be here in sunshine or in shadow,\nOh, Danny boy, oh Danny boy, I love you so!",
+      "But when ye come, and all the flowers are dying,\nIf I am dead, as dead I well may be,\nYe'll come and find the place where I am lying,\nAnd kneel and say an Ave there for me.",
+      "And I shall hear, though soft you tread above me,\nAnd all my grave will warmer, sweeter be,\nFor you will bend and tell me that you love me,\nAnd I shall sleep in peace until you come to me!"
+    ]
+  },
+  {
+    id: "beautiful-dreamer",
+    title: "Beautiful Dreamer",
+    category: "parlor",
+    origin: "Stephen Foster; published posthumously March 1864 by Wm. A. Pond & Co., New York",
+    era: "19th century",
+    tags: ["stephen foster", "serenade", "americana"],
+    note: "Among the last songs Foster wrote before his death in January 1864, and one of his most enduring — a parlor serenade recorded by Bing Crosby, Roy Orbison, and the Beatles (BBC sessions), among many others.",
+    verses: [
+      "Beautiful dreamer, wake unto me,\nStarlight and dewdrops are waiting for thee;\nSounds of the rude world, heard in the day,\nLulled by the moonlight have all passed away!",
+      "Beautiful dreamer, queen of my song,\nList while I woo thee with soft melody;\nGone are the cares of life's busy throng,\nBeautiful dreamer, awake unto me!\nBeautiful dreamer, awake unto me!",
+      "Beautiful dreamer, out on the sea,\nMermaids are chanting the wild lorelei;\nOver the streamlet vapors are borne,\nWaiting to fade at the bright coming morn.",
+      "Beautiful dreamer, beam on my heart,\nE'en as the morn on the streamlet and sea;\nThen will all clouds of sorrow depart,\nBeautiful dreamer, awake unto me!\nBeautiful dreamer, awake unto me!"
+    ]
+  },
+  {
+    id: "hard-times-come-again-no-more",
+    title: "Hard Times Come Again No More",
+    category: "parlor",
+    origin: "Stephen Foster, published 1854 by Firth, Pond & Co., New York (Foster's Melodies No. 28)",
+    era: "19th century",
+    tags: ["stephen foster", "americana", "social conscience"],
+    note: "Foster's plea for empathy with the poor, and one of his most-revived songs — recorded by Bob Dylan, Bruce Springsteen, Johnny Cash, Emmylou Harris, and Mavis Staples. Confirmed public domain by the Library of Congress collections.",
+    verses: [
+      "Let us pause in life's pleasures and count its many tears,\nWhile we all sup sorrow with the poor;\nThere's a song that will linger forever in our ears;\nOh! Hard times come again no more.",
+      "'Tis the song, the sigh of the weary,\nHard times, hard times, come again no more.\nMany days you have lingered around my cabin door;\nOh! Hard times come again no more.",
+      "While we seek mirth and beauty and music light and gay,\nThere are frail forms fainting at the door;\nThough their voices are silent, their pleading looks will say\nOh! Hard times come again no more.",
+      "There's a pale drooping maiden who toils her life away,\nWith a worn heart whose better days are o'er:\nThough her voice would be merry, 'tis sighing all the day,\nOh! Hard times come again no more.",
+      "'Tis a sigh that is wafted across the troubled wave,\n'Tis a wail that is heard upon the shore,\n'Tis a dirge that is murmured around the lowly grave,\nOh! Hard times come again no more."
+    ]
+  },
+  {
+    id: "wayfaring-stranger",
+    title: "Wayfaring Stranger",
+    category: "spiritual",
+    origin: "Traditional American folk hymn of unknown authorship, early 19th century; earliest known publication 1858 in Joseph Bever's The Christian Songster (Dayton, Ohio)",
+    era: "19th century",
+    tags: ["folk hymn", "appalachian", "pilgrim song"],
+    note: "Also known as \"Poor Wayfaring Stranger.\" May trace to an older German hymn tradition. Carried through the 20th century by Burl Ives, Emmylou Harris, Johnny Cash, and Ed Sheeran-era revivals — the underlying song remains authorless and public domain.",
+    verses: [
+      "I'm just a poor wayfaring stranger,\nTraveling through this world of woe,\nYet there's no sickness, toil, nor danger\nIn that bright land to which I go.",
+      "I'm going there to see my father,\nI'm going there no more to roam,\nI'm only going over Jordan,\nI'm only going over home.",
+      "I know dark clouds will gather 'round me,\nI know my way is rough and steep,\nYet golden fields lie just before me,\nWhere God's redeemed shall ever sleep.",
+      "I'm going there to see my mother,\nShe said she'd meet me when I come,\nI'm only going over Jordan,\nI'm only going over home.",
+      "I'll soon be free from every trial,\nMy body sleep in the churchyard,\nI'll drop the cross of self-denial,\nAnd enter on my great reward."
+    ]
+  },
+  {
+    id: "wade-in-the-water",
+    title: "Wade in the Water",
+    category: "spiritual",
+    origin: "Traditional African American spiritual; lyrics first published 1901 in New Jubilee Songs as Sung by the Fisk Jubilee Singers, compiled by Frederick J. Work and John Wesley Work Jr.",
+    era: "19th century",
+    tags: ["gospel", "underground railroad", "call and response"],
+    note: "Associated with Underground Railroad lore — wading in water to throw pursuing dogs off the scent. First commercially recorded by the Sunset Four Jubilee Singers, 1925 (Paramount). The 1901 publication places the text firmly in the public domain.",
+    verses: [
+      "Wade in the water,\nWade in the water, children,\nWade in the water,\nGod's a-going to trouble the water.",
+      "See that host all dressed in white,\nGod's a-going to trouble the water,\nThe leader looks like the Israelite,\nGod's a-going to trouble the water.",
+      "See that band all dressed in red,\nGod's a-going to trouble the water,\nLooks like the band that Moses led,\nGod's a-going to trouble the water.",
+      "If you don't believe I've been redeemed,\nGod's a-going to trouble the water,\nJust follow me down to Jordan's stream,\nGod's a-going to trouble the water."
+    ]
   }
 ];
-
 const CATEGORY_LABEL = {
   "spiritual": "Spiritual",
   "folk": "Folk",
   "blues": "Blues",
-  "work-song": "Work Song"
+  "work-song": "Work Song",
+  "sea-shanty": "Sea Shanty",
+  "ballad": "Ballad",
+  "parlor": "Parlor Song"
 };
-
 // ======================= APP =======================
 let activeCategory = "all";
 let searchTerm = "";
-
 const grid = document.getElementById('grid');
 const emptyEl = document.getElementById('empty');
 const countEl = document.getElementById('count');
 const overlay = document.getElementById('overlay');
 const sheet = document.getElementById('sheet');
 const reel = document.getElementById('reel');
-
 function metaText(song){
   return (song.title + ' ' + song.origin + ' ' + song.tags.join(' ')).toLowerCase();
 }
-
 function lyricLines(song){
   // Flatten every verse into individual lines for line-level snippet matching.
   return song.verses.flatMap(v => v.split('\n'));
 }
-
 function matches(song){
   const inCat = activeCategory === 'all' || song.category === activeCategory;
   if(!inCat) return false;
@@ -707,11 +850,9 @@ function matches(song){
   if(metaText(song).includes(searchTerm)) return true;
   return lyricLines(song).some(line => line.toLowerCase().includes(searchTerm));
 }
-
 function escapeHtml(str){
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
-
 function highlight(line){
   if(!searchTerm) return escapeHtml(line);
   const idx = line.toLowerCase().indexOf(searchTerm);
@@ -721,7 +862,6 @@ function highlight(line){
   const after = escapeHtml(line.slice(idx + searchTerm.length));
   return `${before}<mark>${match}</mark>${after}`;
 }
-
 // Finds the first lyric line containing the search term, only relevant when
 // the term didn't already match the title/origin/tags (that's shown plainly).
 function lyricSnippet(song){
@@ -729,25 +869,21 @@ function lyricSnippet(song){
   const line = lyricLines(song).find(l => l.toLowerCase().includes(searchTerm));
   return line ? line.trim() : null;
 }
-
 function sortKey(title){
   // Card-catalog convention: ignore a leading "The " when alphabetizing.
   return title.replace(/^The\s+/i, '').toLowerCase();
 }
-
 function render(){
   const results = LYRIC_LIBRARY
     .filter(matches)
     .sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
   grid.innerHTML = '';
   countEl.innerHTML = `<b>${results.length}</b> of ${LYRIC_LIBRARY.length} songs`;
-
   if(results.length === 0){
     emptyEl.style.display = 'block';
     return;
   }
   emptyEl.style.display = 'none';
-
   results.forEach(song => {
     const snippet = lyricSnippet(song);
     const card = document.createElement('div');
@@ -763,7 +899,6 @@ function render(){
     grid.appendChild(card);
   });
 }
-
 function openSheet(song){
   sheet.innerHTML = `
     <button class="close-btn" id="closeBtn">&times;</button>
@@ -779,24 +914,20 @@ function openSheet(song){
   document.getElementById('closeBtn').addEventListener('click', closeSheet);
   reel.parentElement.parentElement && document.body.classList.add('spinning');
 }
-
 function closeSheet(){
   overlay.classList.remove('open');
   document.body.classList.remove('spinning');
 }
-
 overlay.addEventListener('click', (e) => {
   if(e.target === overlay) closeSheet();
 });
 document.addEventListener('keydown', (e) => {
   if(e.key === 'Escape') closeSheet();
 });
-
 document.getElementById('search').addEventListener('input', (e) => {
   searchTerm = e.target.value.trim().toLowerCase();
   render();
 });
-
 document.querySelectorAll('.chip').forEach(chip => {
   chip.addEventListener('click', () => {
     document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
@@ -805,9 +936,7 @@ document.querySelectorAll('.chip').forEach(chip => {
     render();
   });
 });
-
 render();
 </script>
-
 </body>
 </html>
