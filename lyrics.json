@@ -862,114 +862,608 @@
     ]
   },
   {
+    "id": "wabash-cannonball",
+    "title": "Wabash Cannonball",
+    "category": "folk",
+    "origin": "Rewritten by William Kindt, 1904, from J. A. Roff's 1882 song \"The Great Rock Island Route\"",
+    "era": "late 19th / early 20th century",
+    "tags": [
+      "railroad",
+      "hobo song",
+      "americana",
+      "country standard"
+    ],
+    "note": "A fictional express train celebrated in one of the most-recorded songs in American folk and country music. The Carter Family cut an early version in 1929 and Roy Acuff made it a country standard in 1936; the underlying song was already public domain by then.",
+    "verses": [
+      "From the great Atlantic Ocean to the wide Pacific shore,\nFrom the queen of flowing mountains to the south belt by the shore,\nShe's mighty tall and handsome, and known quite well by all,\nShe's the regular combination called the Wabash Cannonball.",
+      "Listen to the jingle, the rumble and the roar,\nAs she glides along the woodland, o'er the hills and by the shore,\nHear the mighty rush of the engine, hear that lonesome hobo's call,\nWhile traveling through the jungle on the Wabash Cannonball.",
+      "She came down from Birmingham one cold December day,\nAs she rolled into the station, you could hear all the people say:\nThere's a girl from Tennessee, she is long and she is tall,\nShe came down from Birmingham on the Wabash Cannonball.",
+      "Now the eastern states are dandy, so the western people say,\nFrom New York to St. Louis and Chicago by the way,\nFrom the hills of Minnesota where the rippling waters fall,\nNo changes can be taken on the Wabash Cannonball.",
+      "Here's to Daddy Claxton, may his name forever stand,\nAnd always be remembered in the courts throughout the land,\nHis earthly race is over and the curtains round him fall,\nWe'll carry him home to victory on the Wabash Cannonball."
+    ]
+  },
+  {
+    "id": "bury-me-not-lone-prairie",
+    "title": "Bury Me Not on the Lone Prairie",
+    "category": "ballad",
+    "origin": "Adapted from Edwin H. Chapin's 1839 poem \"The Ocean Burial\" (set to music by George N. Allen); the cowboy version first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "dying request",
+      "the ocean burial"
+    ],
+    "note": "Also known as \"The Cowboy's Lament\" (a title shared with \"Streets of Laredo,\" though this is a separate song). Reworked from a sailor's dirge — \"O bury me not in the deep, deep sea\" became the prairie lament. First recorded by Carl T. Sprague in 1926; the song is traditional and public domain.",
+    "verses": [
+      "\"Oh, bury me not on the lone prairie,\"\nThese words came low and mournfully\nFrom the pallid lips of a youth who lay\nOn his dying bed at the close of day.",
+      "\"Oh, bury me not on the lone prairie,\nWhere the wild coyotes will howl o'er me,\nWhere the buffalo roams the prairie sea,\nOh, bury me not on the lone prairie.\"",
+      "\"It matters not, I've oft been told,\nWhere the body lies when the heart grows cold,\nYet grant, oh grant this wish to me,\nOh, bury me not on the lone prairie.\"",
+      "\"I've always wished to be laid when I died\nIn the little churchyard on the green hillside,\nBy my father's grave, there let me be,\nOh, bury me not on the lone prairie.\"",
+      "\"Oh, bury me not,\" and his voice failed there,\nBut we took no heed of his dying prayer,\nIn a narrow grave just six by three\nWe buried him there on the lone prairie.",
+      "Yes, we buried him there on the lone prairie,\nWhere the owl all night hoots mournfully,\nAnd the blizzard beats and the wind blows free\nO'er his lowly grave on the lone prairie."
+    ]
+  },
+  {
+    "id": "down-by-the-riverside",
+    "title": "Down by the Riverside",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual with roots before the Civil War; first published 1918 in Plantation Melodies (Rodeheaver Company, Chicago)",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "peace song",
+      "call and response"
+    ],
+    "note": "Also known as \"Ain't Gonna Study War No More\" — its refrain echoes Isaiah 2:4. It became an anthem of the pacifist and civil rights movements in the 20th century. The 1918 publication and pre-war origins place it firmly in the public domain.",
+    "verses": [
+      "Gonna lay down my sword and shield,\nDown by the riverside,\nDown by the riverside,\nDown by the riverside,\nGonna lay down my sword and shield,\nDown by the riverside,\nGonna study war no more.",
+      "I ain't gonna study war no more,\nI ain't gonna study war no more,\nI ain't gonna study war no more,\nI ain't gonna study war no more,\nI ain't gonna study war no more,\nI ain't gonna study war no more.",
+      "Gonna lay down my heavy load,\nDown by the riverside,\nDown by the riverside,\nDown by the riverside,\nGonna lay down my heavy load,\nDown by the riverside,\nGonna study war no more.",
+      "Gonna put on my long white robe,\nDown by the riverside,\nDown by the riverside,\nDown by the riverside,\nGonna put on my long white robe,\nDown by the riverside,\nGonna study war no more.",
+      "Gonna meet my dear old mother,\nDown by the riverside,\nDown by the riverside,\nDown by the riverside,\nGonna meet my dear old mother,\nDown by the riverside,\nGonna study war no more."
+    ]
+  },
+  {
+    "id": "sweet-betsy-from-pike",
+    "title": "Sweet Betsy from Pike",
+    "category": "folk",
+    "origin": "John A. Stone (\"Old Put\"), published 1858 in Put's Golden Songster, San Francisco; melody borrowed from the English comic song \"Villikins and His Dinah\"",
+    "era": "19th century",
+    "tags": [
+      "gold rush",
+      "western",
+      "overland trail",
+      "forty-niner"
+    ],
+    "note": "A comic overland-trail ballad of a Pike County couple crossing the plains to California. Written by a Gold Rush entertainer and published in 1858, it has long been in the public domain.",
+    "verses": [
+      "Oh, don't you remember sweet Betsy from Pike,\nWho crossed the wide prairies with her lover Ike,\nWith two yoke of cattle, a large yellow dog,\nA tall Shanghai rooster, and one spotted hog.",
+      "Singing too-ra-li, oo-ra-li, oo-ra-li-ay,\nSinging too-ra-li, oo-ra-li, oo-ra-li-ay.",
+      "One evening quite early they camped on the Platte,\n'Twas near by the road on a green shady flat,\nWhere Betsy, sore-footed, lay down to repose,\nWith wonder Ike gazed on that Pike County rose.",
+      "The Shanghai ran off, and their cattle all died,\nThat morning the last piece of bacon was fried,\nPoor Ike got discouraged, and Betsy got mad,\nThe dog drooped his tail and looked wondrously sad.",
+      "They soon reached the desert, where Betsy gave out,\nAnd down in the sand she lay rolling about,\nWhile Ike in great tears looked on in surprise,\nSaying, \"Betsy, get up, you'll get sand in your eyes.\"",
+      "They swam the wide rivers and crossed the tall peaks,\nAnd camped on the prairie for weeks upon weeks,\nStarvation and cholera, hard work and slaughter,\nThey reached California in spite of hell and high water."
+    ]
+  },
+  {
+    "id": "down-in-the-valley",
+    "title": "Down in the Valley",
+    "category": "folk",
+    "origin": "Traditional Appalachian/Ozark folk song; collected 1909 by H. M. Belden, first published in the Journal of American Folk-Lore, 1917",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "love song",
+      "birmingham jail",
+      "waltz"
+    ],
+    "note": "Also known as \"Birmingham Jail.\" A lilting waltz-time love lament sung from a jail cell. First commercially recorded by Darby and Tarlton in 1927; documented in print a decade earlier and firmly in the public domain.",
+    "verses": [
+      "Down in the valley, valley so low,\nHang your head over, hear the wind blow,\nHear the wind blow, dear, hear the wind blow,\nHang your head over, hear the wind blow.",
+      "Roses love sunshine, violets love dew,\nAngels in heaven know I love you,\nKnow I love you, dear, know I love you,\nAngels in heaven know I love you.",
+      "If you don't love me, love whom you please,\nThrow your arms round me, give my heart ease,\nGive my heart ease, dear, give my heart ease,\nThrow your arms round me, give my heart ease.",
+      "Write me a letter, send it by mail,\nSend it in care of the Birmingham jail,\nBirmingham jail, dear, Birmingham jail,\nSend it in care of the Birmingham jail.",
+      "Build me a castle forty feet high,\nSo I can see her as she rides by,\nAs she rides by, dear, as she rides by,\nSo I can see her as she rides by."
+    ]
+  },
+  {
+    "id": "camptown-races",
+    "title": "Camptown Races",
+    "category": "parlor",
+    "origin": "Stephen Foster, published February 1850 by F. D. Benteen (as \"Gwine to Run All Night, or De Camptown Races\")",
+    "era": "19th century",
+    "tags": [
+      "stephen foster",
+      "minstrel",
+      "horse race",
+      "doo-dah"
+    ],
+    "note": "One of Foster's most enduring songs, popularized by Christy's Minstrels. First published in 1850 and long in the public domain in the United States.",
+    "verses": [
+      "The Camptown ladies sing this song, doo-dah! doo-dah!\nThe Camptown racetrack five miles long, oh, doo-dah day!\nI come down there with my hat caved in, doo-dah! doo-dah!\nI go back home with a pocket full of tin, oh, doo-dah day!",
+      "Gwine to run all night! Gwine to run all day!\nI'll bet my money on the bob-tail nag,\nSomebody bet on the bay.",
+      "The long-tail filly and the big black horse, doo-dah! doo-dah!\nThey fly the track and they both cut across, oh, doo-dah day!\nThe blind horse stickin' in a big mud hole, doo-dah! doo-dah!\nCan't touch bottom with a ten-foot pole, oh, doo-dah day!",
+      "Old muley cow come onto the track, doo-dah! doo-dah!\nThe bob-tail fling her over his back, oh, doo-dah day!\nThen fly along like a railroad car, doo-dah! doo-dah!\nRunnin' a race with a shootin' star, oh, doo-dah day!",
+      "See them flyin' on a ten-mile heat, doo-dah! doo-dah!\nRound the racetrack, then repeat, oh, doo-dah day!\nI win my money on the bob-tail nag, doo-dah! doo-dah!\nI keep my money in an old tow-bag, oh, doo-dah day!"
+    ]
+  },
+  {
+    "id": "battle-hymn-of-the-republic",
+    "title": "Battle Hymn of the Republic",
+    "category": "spiritual",
+    "origin": "Words by Julia Ward Howe, first published in The Atlantic Monthly, February 1862; set to the tune of \"John Brown's Body\"",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "hymn",
+      "abolition",
+      "patriotic"
+    ],
+    "note": "Howe wrote the verses in November 1861 after visiting a Union Army camp, adapting the marching tune of \"John Brown's Body.\" Published in 1862 and firmly in the public domain.",
+    "verses": [
+      "Mine eyes have seen the glory of the coming of the Lord;\nHe is trampling out the vintage where the grapes of wrath are stored;\nHe hath loosed the fateful lightning of His terrible swift sword:\nHis truth is marching on.",
+      "Glory, glory, hallelujah!\nGlory, glory, hallelujah!\nGlory, glory, hallelujah!\nHis truth is marching on.",
+      "I have seen Him in the watch-fires of a hundred circling camps;\nThey have builded Him an altar in the evening dews and damps;\nI can read His righteous sentence by the dim and flaring lamps:\nHis day is marching on.",
+      "He has sounded forth the trumpet that shall never call retreat;\nHe is sifting out the hearts of men before His judgment-seat;\nOh, be swift, my soul, to answer Him! be jubilant, my feet!\nOur God is marching on.",
+      "In the beauty of the lilies Christ was born across the sea,\nWith a glory in His bosom that transfigures you and me;\nAs He died to make men holy, let us die to make men free,\nWhile God is marching on."
+    ]
+  },
+  {
+    "id": "tom-dooley",
+    "title": "Tom Dooley",
+    "category": "ballad",
+    "origin": "Traditional North Carolina murder ballad based on the 1866 killing of Laura Foster by Tom Dula; an early version was written by local poet Thomas C. Land soon after Dula's 1868 hanging",
+    "era": "19th century",
+    "tags": [
+      "murder ballad",
+      "appalachian",
+      "north carolina",
+      "gallows"
+    ],
+    "note": "Rooted in a real Wilkes County tragedy. The traditional ballad is public domain; the 1958 Kingston Trio hit was a copyrighted arrangement of this older song, which was preserved in the singing of Frank Proffitt.",
+    "verses": [
+      "Hang down your head, Tom Dooley,\nHang down your head and cry;\nHang down your head, Tom Dooley,\nPoor boy, you're bound to die.",
+      "I met her on the mountain,\nThere I took her life;\nMet her on the mountain,\nStabbed her with my knife.",
+      "This time tomorrow,\nReckon where I'll be;\nHadn't-a been for Grayson,\nI'd-a been in Tennessee.",
+      "This time tomorrow,\nReckon where I'll be;\nDown in some lonesome valley,\nHangin' from a white oak tree."
+    ]
+  },
+  {
+    "id": "wellerman",
+    "title": "Soon May the Wellerman Come",
+    "category": "sea-shanty",
+    "origin": "Traditional New Zealand whaling ballad, generally dated to the 1860s; author unknown. Named for the supply ships of the Weller brothers of Otago",
+    "era": "19th century",
+    "tags": [
+      "whaling",
+      "new zealand",
+      "billy o' tea",
+      "traditional"
+    ],
+    "note": "A 19th-century shore-whalers' song of anonymous authorship, and thus public domain as a traditional work. Its lyrics were first set down in print only in the 1970s, and it went viral as a sea shanty in 2021, but the underlying song is old and uncopyrighted.",
+    "verses": [
+      "There once was a ship that put to sea,\nAnd the name of the ship was the Billy o' Tea.\nThe winds blew hard, her bow dipped down;\nBlow, me bully boys, blow.",
+      "Soon may the Wellerman come\nTo bring us sugar and tea and rum.\nOne day, when the tonguin' is done,\nWe'll take our leave and go.",
+      "She had not been two weeks from shore\nWhen down on her a right whale bore.\nThe captain called all hands and swore\nHe'd take that whale in tow.",
+      "Before the boat had hit the water,\nThe whale's tail came up and caught her.\nAll hands to the side, harpooned and fought her\nWhen she dived down below.",
+      "No line was cut, no whale was freed;\nThe captain's mind was not on greed,\nBut he belonged to the whaleman's creed;\nShe took that ship in tow."
+    ]
+  },
+  {
+    "id": "nine-pound-hammer",
+    "title": "Nine Pound Hammer",
+    "category": "work-song",
+    "origin": "Traditional African American railroad work song of the post-Civil War South; fragments collected in Texas by Gates Thomas as early as 1891 and printed under this title in Dorothy Scarborough's On the Trail of Negro Folk-Songs (1925)",
+    "era": "19th century",
+    "tags": [
+      "railroad",
+      "hammer song",
+      "john henry",
+      "steel-driving"
+    ],
+    "note": "A hammering work song kin to the John Henry ballads, its rhythm set the pace of steel-driving crews. Documented in print by 1925 and in the public domain; later bluegrass versions are separate arrangements.",
+    "verses": [
+      "This nine-pound hammer\nIs a little too heavy\nFor my size, buddy, for my size.",
+      "Roll on, buddy,\nDon't you roll so slow;\nHow can I roll\nWhen the wheels won't go?",
+      "There ain't one hammer\nDown in this tunnel\nThat can ring like mine, buddy, that can ring like mine.",
+      "I'm goin' on the mountain\nJust to see my baby,\nBut I ain't comin' back, Lord, I ain't comin' back.",
+      "Take this hammer,\nCarry it to the captain,\nTell him I'm gone, buddy, tell him I'm gone."
+    ]
+  },
+  {
     "id": "molly-malone",
     "title": "Molly Malone",
     "category": "folk",
-    "origin": "Traditional Irish, often attributed to James Yorkston — first published Boston, 1876; in 'Students' Songs,' 1884",
+    "origin": "Traditional Irish; attributed to James Yorkston of Edinburgh, first published in the US (Boston) 1876 and in 'Students' Songs' 1884, and by Francis Brothers and Day, London, 1884",
     "era": "19th century",
     "tags": [
       "irish",
-      "street ballad",
-      "traditional"
+      "dublin",
+      "street vendor",
+      "cockles and mussels"
     ],
-    "note": "A Dublin street ballad telling of a fishmonger and her ghost. Firmly traditional and in the public domain.",
+    "note": "Dublin's unofficial anthem, also known as 'Cockles and Mussels.' Though printed with Yorkston's name in the 1880s, it long ago passed into the traditional repertoire and is in the public domain; there is no evidence Molly was a real person.",
     "verses": [
-      "In Dublin's fair city,\nWhere the girls are so pretty,\nI first set my eyes on sweet Molly Malone,\nAs she wheeled her wheelbarrow,\nThrough streets broad and narrow,\nCrying, \"Cockles and mussels, alive, alive, oh!\"",
-      "\"Alive, alive, oh,\nAlive, alive, oh,\"\nCrying, \"Cockles and mussels, alive, alive, oh!\"",
-      "She was a fishmonger,\nBut sure 'twas no wonder,\nFor so were her father and mother before,\nAnd they each wheeled their barrow,\nThrough streets broad and narrow,\nCrying, \"Cockles and mussels, alive, alive, oh!\"",
-      "\"Alive, alive, oh,\nAlive, alive, oh,\"\nCrying, \"Cockles and mussels, alive, alive, oh!\"",
-      "She died of a fever,\nAnd no one could save her,\nAnd that was the end of sweet Molly Malone,\nBut her ghost wheels her barrow,\nThrough streets broad and narrow,\nCrying, \"Cockles and mussels, alive, alive, oh!\"",
-      "\"Alive, alive, oh,\nAlive, alive, oh,\"\nCrying, \"Cockles and mussels, alive, alive, oh!\""
+      "In Dublin's fair city,\nWhere the girls are so pretty,\nI first set my eyes on sweet Molly Malone,\nAs she wheeled her wheelbarrow\nThrough streets broad and narrow,\nCrying \"Cockles and mussels, alive, alive, oh!\"",
+      "Alive, alive, oh!\nAlive, alive, oh!\nCrying \"Cockles and mussels, alive, alive, oh!\"",
+      "She was a fishmonger,\nBut sure 'twas no wonder,\nFor so were her father and mother before,\nAnd they each wheeled their barrow\nThrough streets broad and narrow,\nCrying \"Cockles and mussels, alive, alive, oh!\"",
+      "She died of a fever,\nAnd no one could save her,\nAnd that was the end of sweet Molly Malone,\nBut her ghost wheels her barrow\nThrough streets broad and narrow,\nCrying \"Cockles and mussels, alive, alive, oh!\""
     ]
   },
   {
     "id": "loch-lomond",
     "title": "The Bonnie Banks o' Loch Lomond",
     "category": "ballad",
-    "origin": "Traditional Scottish — earliest known publication in 'Vocal Melodies of Scotland,' 1841; author unknown",
+    "origin": "Traditional Scottish; earliest known publication in 'Vocal Melodies of Scotland,' 1841; original author unknown",
     "era": "19th century",
     "tags": [
       "scottish",
-      "ballad",
-      "traditional"
+      "jacobite",
+      "parting",
+      "lament"
     ],
-    "note": "A lament often linked to the 1745 Jacobite rising — the 'low road' read as the path of the dead home to Scotland.",
+    "note": "Often read as the lament of a captured Jacobite soldier after Culloden: the 'low road' is the path of the dead, by which his spirit will reach Scotland before his living companion on the 'high road.'",
     "verses": [
       "By yon bonnie banks and by yon bonnie braes,\nWhere the sun shines bright on Loch Lomond,\nWhere me and my true love were ever wont to gae,\nOn the bonnie, bonnie banks o' Loch Lomond.",
       "O ye'll tak' the high road, and I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.",
       "'Twas there that we parted in yon shady glen,\nOn the steep, steep side o' Ben Lomond,\nWhere in purple hue the Hieland hills we view,\nAnd the moon comin' out in the gloamin'.",
-      "O ye'll tak' the high road, and I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond.",
-      "The wee birdies sing and the wildflowers spring,\nAnd in sunshine the waters are sleepin',\nBut the broken heart it kens nae second spring again,\nThough the waeful may cease frae their greetin'.",
-      "O ye'll tak' the high road, and I'll tak' the low road,\nAnd I'll be in Scotland afore ye,\nBut me and my true love will never meet again,\nOn the bonnie, bonnie banks o' Loch Lomond."
+      "The wee birdies sing and the wildflowers spring,\nAnd in sunshine the waters are sleepin',\nBut the broken heart it kens nae second spring again,\nThough the waefu' may cease frae their greetin'."
     ]
   },
   {
-    "id": "steal-away-to-jesus",
+    "id": "steal-away",
     "title": "Steal Away to Jesus",
     "category": "spiritual",
-    "origin": "Attributed to Wallace Willis (before 1862) — first published in Fisk University's 'Jubilee Songs,' 1872",
+    "origin": "African American spiritual attributed to Wallace and Minerva Willis, Choctaw Territory, before 1862; first published in 'Jubilee Songs' (Fisk University), 1872",
     "era": "19th century",
     "tags": [
-      "spiritual",
       "gospel",
-      "freedom"
+      "underground railroad",
+      "coded",
+      "fisk jubilee singers"
     ],
-    "note": "An African American spiritual; some traditions read it as a coded signal for escape. Popularized by the Fisk Jubilee Singers.",
+    "note": "Widely understood to have carried a hidden message to those planning escape from slavery. Transcribed from Willis's singing and popularized nationally by the Fisk Jubilee Singers.",
     "verses": [
       "Steal away, steal away,\nSteal away to Jesus!\nSteal away, steal away home,\nI ain't got long to stay here.",
-      "My Lord, He calls me,\nHe calls me by the thunder,\nThe trumpet sounds within my soul,\nI ain't got long to stay here.",
-      "Steal away, steal away,\nSteal away to Jesus!\nSteal away, steal away home,\nI ain't got long to stay here.",
-      "Green trees are bending,\nPoor sinners stand a-trembling,\nThe trumpet sounds within my soul,\nI ain't got long to stay here.",
-      "My Lord, He calls me,\nHe calls me by the lightning,\nThe trumpet sounds within my soul,\nI ain't got long to stay here.",
-      "Steal away, steal away,\nSteal away to Jesus!\nSteal away, steal away home,\nI ain't got long to stay here."
+      "My Lord, He calls me,\nHe calls me by the thunder,\nThe trumpet sounds within-a my soul,\nI ain't got long to stay here.",
+      "Green trees are bending,\nPoor sinner stands a-trembling,\nThe trumpet sounds within-a my soul,\nI ain't got long to stay here.",
+      "My Lord, He calls me,\nHe calls me by the lightning,\nThe trumpet sounds within-a my soul,\nI ain't got long to stay here."
     ]
   },
   {
     "id": "old-chisholm-trail",
     "title": "The Old Chisholm Trail",
     "category": "folk",
-    "origin": "Traditional American cowboy song, 1870s — first published in John Lomax's 'Cowboy Songs and Other Frontier Ballads,' 1910",
+    "origin": "Traditional American cowboy song of the 1870s; first published in John A. Lomax, 'Cowboy Songs and Other Frontier Ballads,' 1910",
     "era": "19th century",
     "tags": [
       "cowboy",
+      "cattle drive",
       "western",
       "trail"
     ],
-    "note": "A cumulative trail-driving song with countless improvised verses, sung on cattle drives up the Chisholm Trail.",
+    "note": "One of the most-sung trail songs of the open-range era, with a famous 'coma ti yi youpy' refrain and, by cowboy report, dozens of improvised verses. Named for the cattle trail of drover Jesse Chisholm.",
     "verses": [
-      "Come along, boys, and listen to my tale,\nI'll tell you of my troubles on the old Chisholm trail.",
-      "Coma ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
-      "I started up the trail October twenty-third,\nI started up the trail with the 2-U herd.",
-      "Coma ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
-      "I'm up in the mornin' afore daylight,\nAnd afore I sleep the moon shines bright.",
-      "Coma ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
-      "It's cloudy in the west, a-lookin' like rain,\nAnd my durned old slicker's in the wagon again.",
-      "Coma ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
-      "I went to the boss to draw my roll,\nHe had it figgered out I was nine dollars in the hole.",
-      "Coma ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
-      "With my feet in the stirrups and my seat in the sky,\nI'll quit punchin' cows in the sweet by and by.",
-      "Coma ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya."
+      "Come along, boys, and listen to my tale,\nI'll tell you of my troubles on the old Chisholm trail.\nComa ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
+      "I started up the trail October twenty-third,\nI started up the trail with the 2-U herd.\nComa ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
+      "I'm up in the mornin' before daylight,\nAnd before I sleep the moon shines bright.\nComa ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
+      "It's cloudy in the west, a-lookin' like rain,\nAnd my darned old slicker's in the wagon again.\nComa ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya.",
+      "Goin' to the boss to draw my roll,\nGoin' back South to the girl I love.\nComa ti yi youpy, youpy ya, youpy ya,\nComa ti yi youpy, youpy ya."
     ]
   },
   {
     "id": "auld-lang-syne",
     "title": "Auld Lang Syne",
     "category": "parlor",
-    "origin": "Words by Robert Burns, 1788 — first printed in Johnson's 'Scots Musical Museum,' 1796",
+    "origin": "Words by Robert Burns, 1788, adapted from an older Scots folk song; first published in James Johnson's 'Scots Musical Museum,' vol. 5, 1796",
     "era": "18th century",
     "tags": [
       "scottish",
       "new year",
+      "friendship",
       "burns"
     ],
-    "note": "Burns set older folk fragments to a traditional tune. Now sung worldwide at the turn of the new year.",
+    "note": "Sung the world over at the stroke of the New Year. Burns said he took the words 'from an old man's singing'; the now-standard pentatonic tune was paired with them in 1799.",
     "verses": [
-      "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne?",
+      "Should auld acquaintance be forgot,\nAnd never brought to mind?\nShould auld acquaintance be forgot,\nAnd auld lang syne!",
       "For auld lang syne, my dear,\nFor auld lang syne,\nWe'll tak' a cup o' kindness yet,\nFor auld lang syne.",
-      "And surely ye'll be your pint-stowp,\nAnd surely I'll be mine,\nAnd we'll tak' a cup o' kindness yet,\nFor auld lang syne.",
-      "We twa hae run about the braes,\nAnd pou'd the gowans fine,\nBut we've wander'd mony a weary foot,\nSin' auld lang syne.",
-      "We twa hae paidl'd i' the burn,\nFrae mornin' sun till dine,\nBut seas between us braid hae roar'd,\nSin' auld lang syne.",
+      "We twa hae run about the braes,\nAnd pou'd the gowans fine;\nBut we've wander'd mony a weary foot,\nSin' auld lang syne.",
+      "We twa hae paidl'd in the burn,\nFrae mornin' sun till dine;\nBut seas between us braid hae roar'd\nSin' auld lang syne.",
       "And there's a hand, my trusty fiere,\nAnd gie's a hand o' thine,\nAnd we'll tak' a right guid-willie waught,\nFor auld lang syne."
+    ]
+  },
+  {
+    "id": "simple-gifts",
+    "title": "Simple Gifts",
+    "category": "spiritual",
+    "origin": "Elder Joseph Brackett Jr., 1848, Shaker community at Alfred, Maine",
+    "era": "19th century",
+    "tags": [
+      "shaker",
+      "folk hymn",
+      "dance song"
+    ],
+    "note": "A Shaker dancing song written in 1848. Little known outside Shaker communities until Aaron Copland wove its melody into his ballet score Appalachian Spring (1944); the original song is public domain.",
+    "verses": [
+      "'Tis the gift to be simple, 'tis the gift to be free,\n'Tis the gift to come down where we ought to be,\nAnd when we find ourselves in the place just right,\n'Twill be in the valley of love and delight.",
+      "When true simplicity is gained,\nTo bow and to bend we shan't be ashamed,\nTo turn, turn will be our delight,\nTill by turning, turning we come round right."
+    ]
+  },
+  {
+    "id": "whiskey-in-the-jar",
+    "title": "Whiskey in the Jar",
+    "category": "folk",
+    "origin": "Traditional Irish highwayman ballad, thought to date to the 17th century (Roud 533); earliest broadside printings mid-19th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "irish",
+      "highwayman",
+      "rock cover history"
+    ],
+    "note": "Folklorist Alan Lomax linked the song to the ballad-singing that inspired John Gay's The Beggar's Opera (1728). Popularized worldwide by Thin Lizzy (1972) and Metallica (1998), but the traditional song itself is public domain.",
+    "verses": [
+      "As I was going over the far-famed Kerry mountains,\nI met with Captain Farrell and his money he was counting.\nI first produced my pistol and then produced my rapier,\nSaying, \"Stand and deliver, for you are a bold deceiver.\"",
+      "Musha ring dumma do damma da,\nWhack for the daddy-o, whack for the daddy-o,\nThere's whiskey in the jar.",
+      "I counted out his money and it made a pretty penny,\nI put it in my pocket and I took it home to Jenny.\nShe sighed and she swore that she never would deceive me,\nBut the devil take the women, for they never can be easy.",
+      "I went into my chamber all for to take a slumber,\nI dreamt of gold and jewels and for sure it was no wonder,\nBut Jenny drew my charges and she filled them up with water,\nThen sent for Captain Farrell to be ready for the slaughter.",
+      "'Twas early in the morning before I rose to travel,\nUp came a band of footmen and likewise Captain Farrell.\nI first produced my pistol, for she stole away my rapier,\nBut I couldn't shoot the water, so a prisoner I was taken."
+    ]
+  },
+  {
+    "id": "casey-jones",
+    "title": "Casey Jones",
+    "category": "ballad",
+    "origin": "Words by T. Lawrence Seibert, music by Eddie Newton; copyrighted 1909 (Southern California Music Co.), based on an earlier ballad by engine-wiper Wallace Saunders",
+    "era": "early 20th century",
+    "tags": [
+      "railroad",
+      "folk hero",
+      "ballad"
+    ],
+    "note": "Casey Jones died in the 1900 wreck of the Cannonball Express on the Illinois Central; his friend Wallace Saunders made up the first verses. The 1909 published version is public domain in the US.",
+    "verses": [
+      "Come all you rounders if you want to hear\nThe story of a brave engineer,\nCasey Jones was the rounder's name,\nOn a six-eight wheeler, boys, he won his fame.",
+      "The caller called Casey at half past four,\nHe kissed his wife at the station door,\nMounted to the cabin with his orders in his hand,\nAnd he took his farewell trip to the promised land.",
+      "Casey Jones, mounted to his cabin,\nCasey Jones, with his orders in his hand,\nCasey Jones, mounted to his cabin,\nAnd he took his farewell trip to the promised land.",
+      "\"Put in your water and shovel in your coal,\nPut your head out the window, watch the drivers roll,\nI'll run her till she leaves the rail,\n'Cause we're eight hours late with the western mail.\"",
+      "He looked at his watch and his watch was slow,\nHe looked at the water and the water was low,\nHe turned to his fireman and this is what he said,\n\"Boy, we're going to reach 'Frisco, but we'll all be dead.\"",
+      "Casey pulled up that Reno hill,\nHe tooted for the crossing with an awful shrill,\nThe switchman knew by the engine's moans,\nThat the man at the throttle was Casey Jones."
+    ]
+  },
+  {
+    "id": "spanish-ladies",
+    "title": "Spanish Ladies",
+    "category": "sea-shanty",
+    "origin": "Traditional British naval song (Roud 687); earliest record in the 1796 logbook of HMS Nellie, printed in full by Captain Frederick Marryat in his novel Poor Jack (1840)",
+    "era": "18th century",
+    "tags": [
+      "capstan song",
+      "royal navy",
+      "farewell song"
+    ],
+    "note": "A homeward-bound naval song predating the merchant-sailor shanty era; later borrowed into the shanty repertoire. Famously recited by Quint in Jaws (1975) and used in Master and Commander.",
+    "verses": [
+      "Farewell and adieu to you, Spanish ladies,\nFarewell and adieu to you, ladies of Spain,\nFor we've received orders for to sail for old England,\nBut we hope in a short time to see you again.",
+      "We'll rant and we'll roar like true British sailors,\nWe'll rant and we'll roar all on the salt seas,\nUntil we strike soundings in the channel of old England,\nFrom Ushant to Scilly is thirty-five leagues.",
+      "We hove our ship to with the wind from sou'west, boys,\nWe hove our ship to, deep soundings to take,\n'Twas forty-five fathoms with a white sandy bottom,\nSo we squared our main yard and up channel did make.",
+      "The first land we sighted was called the Dodman,\nNext Rame Head off Plymouth, off Portsmouth the Wight,\nWe sailed by Beachy, by Fairlight and Dover,\nAnd then we bore up for the South Foreland light.",
+      "Then the signal was made for the grand fleet to anchor,\nAll in the Downs that night for to lie,\nLet go your shank painter, let go your cat stopper,\nHaul up your clewgarnets, let tacks and sheets fly."
+    ]
+  },
+  {
+    "id": "drill-ye-tarriers-drill",
+    "title": "Drill, Ye Tarriers, Drill",
+    "category": "work-song",
+    "origin": "Words by Thomas Casey, music by Charles Connolly; first published 1888",
+    "era": "late 19th century",
+    "tags": [
+      "railroad",
+      "irish",
+      "labor"
+    ],
+    "note": "A comic labor song about the Irish 'tarriers' who drilled and blasted rock for the American railroads. A number-one hit in 1891; published in 1888, it is in the public domain.",
+    "verses": [
+      "Every morning at seven o'clock\nThere were twenty tarriers a-working at the rock,\nAnd the boss comes along and he says, \"Keep still,\nAnd come down heavy on the cast-iron drill.\"",
+      "And drill, ye tarriers, drill,\nDrill, ye tarriers, drill,\nOh, it's work all day for the sugar in your tay,\nDown behind the railway,\nAnd drill, ye tarriers, drill, and blast, and fire.",
+      "The new foreman was Jean McCann,\nBy God, he was a blame mean man,\nLast week a premature blast went off,\nAnd a mile in the air went big Jim Goff.",
+      "When next payday came around,\nJim Goff a dollar short was found,\nWhen he asked what for, came this reply,\n\"You were docked for the time you were up in the sky.\"",
+      "The boss was a fine man down to the ground,\nAnd he married a lady six feet round,\nShe baked good bread and she baked it well,\nBut she baked it hard as the hobs of hell."
+    ]
+  },
+  {
+    "id": "yankee-doodle",
+    "title": "Yankee Doodle",
+    "category": "folk",
+    "origin": "Traditional; melody older than the words, first printed in the comic opera The Disappointment (New York/Philadelphia, 1767); lyrics assumed their familiar form c. 1775, printed in Glasgow 1782",
+    "era": "18th century",
+    "tags": [
+      "patriotic",
+      "revolutionary war",
+      "americana"
+    ],
+    "note": "Originally sung by British soldiers to mock colonial 'Yankees,' then embraced by Americans during the Revolution. 'Macaroni' referred to an over-fashionable dandy. Firmly public domain.",
+    "verses": [
+      "Yankee Doodle went to town,\nA-riding on a pony,\nStuck a feather in his cap\nAnd called it macaroni.",
+      "Yankee Doodle, keep it up,\nYankee Doodle dandy,\nMind the music and the step,\nAnd with the girls be handy.",
+      "Father and I went down to camp,\nAlong with Captain Gooding,\nAnd there we saw the men and boys\nAs thick as hasty pudding.",
+      "And there was Captain Washington\nUpon a slapping stallion,\nA-giving orders to his men,\nI guess there was a million.",
+      "And then the feathers on his hat,\nThey looked so very fine, ah,\nI wanted peskily to get\nTo give to my Jemima."
+    ]
+  },
+  {
+    "id": "the-ash-grove",
+    "title": "The Ash Grove",
+    "category": "folk",
+    "origin": "Traditional Welsh air (Llwyn Onn); tune first printed 1802 in Edward Jones's The Bardic Museum; best-known English lyrics by Thomas Oliphant, published 1862",
+    "era": "19th century",
+    "tags": [
+      "welsh",
+      "air",
+      "love lament"
+    ],
+    "note": "One of the most beloved Welsh melodies; a related air appears in John Gay's The Beggar's Opera (1728). Both the 1802 tune and the 1862 English words are public domain.",
+    "verses": [
+      "The ash grove, how graceful, how plainly 'tis speaking,\nThe harp through it playing has language for me.\nWhenever the light through its branches is breaking,\nA host of kind faces is gazing on me.",
+      "The friends of my childhood again are before me,\nEach step wakes a memory as freely I roam.\nWith soft whispers laden its leaves rustle o'er me,\nThe ash grove, the ash grove alone is my home.",
+      "Down yonder green valley where streamlets meander,\nWhen twilight is fading, I pensively rove,\nOr at the bright noontide in solitude wander\nAmid the dark shades of the lonely ash grove.",
+      "'Twas there while the blackbird was cheerfully singing\nI first met my dear one, the joy of my heart.\nAround us for gladness the bluebells were ringing,\nAh, then little thought I how soon we should part."
+    ]
+  },
+  {
+    "id": "git-along-little-dogies",
+    "title": "Git Along, Little Dogies",
+    "category": "folk",
+    "origin": "Traditional American cowboy song from the post-Civil War cattle drives; first printed in John A. Lomax's Cowboy Songs and Other Frontier Ballads (1910)",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "trail song"
+    ],
+    "note": "Also known as 'Whoopee Ti Yi Yo.' A night-herding song sung to keep cattle calm on the trail; 'dogies' are motherless calves. Public domain as a collected traditional song.",
+    "verses": [
+      "As I was a-walking one morning for pleasure,\nI spied a cowpuncher a-riding along;\nHis hat was throwed back and his spurs were a-jingling,\nAnd as he approached he was singing this song:",
+      "Whoopee ti yi yo, git along, little dogies,\nIt's your misfortune and none of my own,\nWhoopee ti yi yo, git along, little dogies,\nFor you know Wyoming will be your new home.",
+      "It's early in spring that we round up the dogies,\nWe mark them and brand them and bob off their tails;\nWe round up our horses, load up the chuck wagon,\nThen throw the little dogies out on the long trail.",
+      "Your mother she was raised way down in Texas,\nWhere the jimson weed and the sandburs grow;\nNow we'll fill you up on prickly pear and cholla\nTill you're ready for the trail to Idaho.",
+      "Some boys go up the trail just for pleasure,\nBut that's where they get it most awfully wrong;\nFor you haven't any idea the trouble they give us\nAs we go driving them all along."
+    ]
+  },
+  {
+    "id": "shall-we-gather-at-the-river",
+    "title": "Shall We Gather at the River",
+    "category": "spiritual",
+    "origin": "Words and music by Robert Lowry, 1864; first published 1865 as 'Beautiful River' in Happy Voices",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel",
+      "river"
+    ],
+    "note": "Written by Baptist minister Robert Lowry in Brooklyn during a summer epidemic. A staple of American revivals and funerals, later used in John Ford Westerns. Long in the public domain.",
+    "verses": [
+      "Shall we gather at the river,\nWhere bright angel feet have trod,\nWith its crystal tide forever\nFlowing by the throne of God?",
+      "Yes, we'll gather at the river,\nThe beautiful, the beautiful river;\nGather with the saints at the river\nThat flows by the throne of God.",
+      "On the margin of the river,\nWashing up its silver spray,\nWe will walk and worship ever,\nAll the happy golden day.",
+      "Ere we reach the shining river,\nLay we every burden down;\nGrace our spirits will deliver,\nAnd provide a robe and crown.",
+      "Soon we'll reach the shining river,\nSoon our pilgrimage will cease;\nSoon our happy hearts will quiver\nWith the melody of peace."
+    ]
+  },
+  {
+    "id": "little-brown-jug",
+    "title": "Little Brown Jug",
+    "category": "parlor",
+    "origin": "Written by Joseph Eastburn Winner (as 'Eastburn'), published in Philadelphia, 1869",
+    "era": "19th century",
+    "tags": [
+      "drinking song",
+      "americana",
+      "novelty"
+    ],
+    "note": "A comic drinking song that endured as a folk standard and gained fresh popularity during Prohibition. Glenn Miller turned it into a 1939 swing hit; the 1869 original is public domain.",
+    "verses": [
+      "My wife and I lived all alone,\nIn a little log hut we called our own;\nShe loved gin and I loved rum,\nI tell you what, we'd lots of fun.",
+      "Ha, ha, ha, you and me,\nLittle brown jug, don't I love thee;\nHa, ha, ha, you and me,\nLittle brown jug, don't I love thee.",
+      "'Tis you who makes my friends my foes,\n'Tis you who makes me wear old clothes;\nHere you are so near my nose,\nSo tip her up and down she goes.",
+      "When I go toiling to my farm,\nI take little brown jug under my arm;\nI place it under a shady tree,\nLittle brown jug, 'tis you and me.",
+      "If all the folks in Adam's race\nWere gathered together in one place,\nThen I'd prepare to shed a tear\nBefore I'd part from you, my dear."
+    ]
+  },
+  {
+    "id": "skye-boat-song",
+    "title": "The Skye Boat Song",
+    "category": "ballad",
+    "origin": "Traditional Gaelic rowing air collected in the 1870s by Anne Campbell MacLeod; lyrics by Sir Harold Boulton, first published 1884 in Songs of the North",
+    "era": "19th century",
+    "tags": [
+      "scottish",
+      "jacobite",
+      "bonnie prince charlie"
+    ],
+    "note": "Recounts Bonnie Prince Charlie's 1746 escape 'over the sea to Skye' with Flora MacDonald after Culloden. The traditional tune and the 1884 (pre-1928) lyric are both public domain in the US.",
+    "verses": [
+      "Speed, bonnie boat, like a bird on the wing,\nOnward, the sailors cry;\nCarry the lad that's born to be king\nOver the sea to Skye.",
+      "Loud the winds howl, loud the waves roar,\nThunderclaps rend the air;\nBaffled our foes stand by the shore,\nFollow they will not dare.",
+      "Though the waves leap, soft shall ye sleep,\nOcean's a royal bed;\nRocked in the deep, Flora will keep\nWatch by your weary head.",
+      "Many's the lad fought on that day,\nWell the claymore could wield,\nWhen the night came, silently lay\nDead on Culloden's field.",
+      "Burned are their homes, exile and death\nScatter the loyal men;\nYet, ere the sword cool in the sheath,\nCharlie will come again."
+    ]
+  },
+  {
+    "id": "down-by-the-salley-gardens",
+    "title": "Down by the Salley Gardens",
+    "category": "parlor",
+    "origin": "Poem by W. B. Yeats, published 1889 in The Wanderings of Oisin and Other Poems; set to the traditional air 'The Maids of Mourne Shore' by Herbert Hughes, 1909",
+    "era": "early 20th century",
+    "tags": [
+      "irish",
+      "art song",
+      "love lament"
+    ],
+    "note": "Yeats built the poem from three half-remembered lines sung by an old woman in County Sligo. Both the 1889 poem and Hughes's 1909 setting are public domain.",
+    "verses": [
+      "Down by the salley gardens my love and I did meet;\nShe passed the salley gardens with little snow-white feet.\nShe bid me take love easy, as the leaves grow on the tree;\nBut I, being young and foolish, with her would not agree.",
+      "In a field by the river my love and I did stand,\nAnd on my leaning shoulder she laid her snow-white hand.\nShe bid me take life easy, as the grass grows on the weirs;\nBut I was young and foolish, and now am full of tears."
+    ]
+  },
+  {
+    "id": "make-me-a-pallet-on-the-floor",
+    "title": "Make Me a Pallet on the Floor",
+    "category": "blues",
+    "origin": "Traditional; circulating in New Orleans by the turn of the 20th century, first documented in print c. 1908-1911 by folklorist Howard W. Odum",
+    "era": "early 20th century",
+    "tags": [
+      "blues standard",
+      "new orleans",
+      "folk blues"
+    ],
+    "note": "Often mistakenly credited to W. C. Handy, who reworked it as 'Atlanta Blues' (1923) — only that arrangement is copyrighted; the traditional song itself was treated as public domain even on its 1925 first recording.",
+    "verses": [
+      "Make me a pallet on your floor,\nMake me a pallet on your floor,\nMake it soft, make it low,\nSo my good gal will never know,\nOh, make me a pallet on your floor.",
+      "When I was sick and lying down,\nI did not have no friends in town,\nFor this one reason, if no more,\nJust make me a pallet on your floor.",
+      "Oh, don't turn a good man from your door,\nOh, don't turn a good man from your door,\nHe may be poor but he needn't be low,\nSo make him a pallet on your floor.",
+      "The reason I love my pallet on the floor,\nThe reason I love my pallet on the floor,\nMade so easy, way down low,\nWhere the wind don't blow through the cracks in the floor."
+    ]
+  },
+  {
+    "id": "delia",
+    "title": "Delia",
+    "category": "blues",
+    "origin": "Traditional African American murder ballad based on the Christmas Eve 1900 killing of 14-year-old Delia Green in Savannah, Georgia; collected by Howard Odum 1906-1908 and printed in the Journal of American Folklore, 1911",
+    "era": "early 20th century",
+    "tags": [
+      "murder ballad",
+      "georgia",
+      "folk blues"
+    ],
+    "note": "Also known as 'Delia's Gone.' A widely traveled ballad recorded by Blind Willie McTell, Blind Blake, and later Johnny Cash and Bob Dylan. Rooted in a documented real case; the traditional song is public domain.",
+    "verses": [
+      "Delia, oh Delia, Delia all my life,\nIf I hadn't have shot poor Delia,\nI'd have had her for my wife,\nDelia's gone, one more round, Delia's gone.",
+      "Delia, oh Delia, how can it be?\nYou loved all those rounders,\nBut you never did love me,\nDelia's gone, one more round, Delia's gone.",
+      "Cooney and his sweetheart sat down to talk,\nCooney drew his pistol,\nBegan to shoot and balk,\nDelia's gone, one more round, Delia's gone.",
+      "Cooney went to Atlanta, dressed all in black,\nHe took the train going down there,\nBut he never did come back,\nDelia's gone, one more round, Delia's gone.",
+      "Jailer, oh jailer, jailer, I can't sleep,\nFor all around my bedside\nPoor Delia's ghost does creep,\nDelia's gone, one more round, Delia's gone."
+    ]
+  },
+  {
+    "id": "leave-her-johnny",
+    "title": "Leave Her, Johnny",
+    "category": "sea-shanty",
+    "origin": "Traditional pump/capstan shanty derived from the c. 1850 song 'Across the Western Ocean'; documented in W. B. Whall's memoir School and Sea Days (1901), recalling the 1860s",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "pump song",
+      "farewell song"
+    ],
+    "note": "Reserved for the very end of a voyage, once the ship was moored — the one time a sailor could freely air his complaints about the ship and its officers. Traditional and public domain.",
+    "verses": [
+      "Oh, the times were hard and the wages low,\nLeave her, Johnny, leave her,\nI'll pack my bag and go below,\nAnd it's time for us to leave her.",
+      "Oh, the wind was foul and the sea ran high,\nLeave her, Johnny, leave her,\nShe shipped it green and none went by,\nAnd it's time for us to leave her.",
+      "I thought I heard the old man say,\nLeave her, Johnny, leave her,\nTomorrow you will get your pay,\nAnd it's time for us to leave her.",
+      "The work was hard, the voyage was long,\nLeave her, Johnny, leave her,\nThe seas were high, the gales were strong,\nAnd it's time for us to leave her.",
+      "Oh, leave her, Johnny, leave her with a grin,\nLeave her, Johnny, leave her,\nThere's many a worse ship than the one we're in,\nAnd it's time for us to leave her."
     ]
   }
 ]
