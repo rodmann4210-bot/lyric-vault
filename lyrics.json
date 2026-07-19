@@ -1030,27 +1030,6 @@
     ]
   },
   {
-    "id": "wellerman",
-    "title": "Soon May the Wellerman Come",
-    "category": "sea-shanty",
-    "origin": "Traditional New Zealand whaling ballad, generally dated to the 1860s; author unknown. Named for the supply ships of the Weller brothers of Otago",
-    "era": "19th century",
-    "tags": [
-      "whaling",
-      "new zealand",
-      "billy o' tea",
-      "traditional"
-    ],
-    "note": "A 19th-century shore-whalers' song of anonymous authorship, and thus public domain as a traditional work. Its lyrics were first set down in print only in the 1970s, and it went viral as a sea shanty in 2021, but the underlying song is old and uncopyrighted.",
-    "verses": [
-      "There once was a ship that put to sea,\nAnd the name of the ship was the Billy o' Tea.\nThe winds blew hard, her bow dipped down;\nBlow, me bully boys, blow.",
-      "Soon may the Wellerman come\nTo bring us sugar and tea and rum.\nOne day, when the tonguin' is done,\nWe'll take our leave and go.",
-      "She had not been two weeks from shore\nWhen down on her a right whale bore.\nThe captain called all hands and swore\nHe'd take that whale in tow.",
-      "Before the boat had hit the water,\nThe whale's tail came up and caught her.\nAll hands to the side, harpooned and fought her\nWhen she dived down below.",
-      "No line was cut, no whale was freed;\nThe captain's mind was not on greed,\nBut he belonged to the whaleman's creed;\nShe took that ship in tow."
-    ]
-  },
-  {
     "id": "nine-pound-hammer",
     "title": "Nine Pound Hammer",
     "category": "work-song",
@@ -1458,12 +1437,3 @@
       "farewell song"
     ],
     "note": "Reserved for the very end of a voyage, once the ship was moored — the one time a sailor could freely air his complaints about the ship and its officers. Traditional and public domain.",
-    "verses": [
-      "Oh, the times were hard and the wages low,\nLeave her, Johnny, leave her,\nI'll pack my bag and go below,\nAnd it's time for us to leave her.",
-      "Oh, the wind was foul and the sea ran high,\nLeave her, Johnny, leave her,\nShe shipped it green and none went by,\nAnd it's time for us to leave her.",
-      "I thought I heard the old man say,\nLeave her, Johnny, leave her,\nTomorrow you will get your pay,\nAnd it's time for us to leave her.",
-      "The work was hard, the voyage was long,\nLeave her, Johnny, leave her,\nThe seas were high, the gales were strong,\nAnd it's time for us to leave her.",
-      "Oh, leave her, Johnny, leave her with a grin,\nLeave her, Johnny, leave her,\nThere's many a worse ship than the one we're in,\nAnd it's time for us to leave her."
-    ]
-  }
-]
