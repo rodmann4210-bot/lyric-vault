@@ -2465,5 +2465,396 @@
       "And he carried along his zulu,\nLord, Lord, Lord,\nAnd along come a grey goose,\nLord, Lord, Lord.",
       "He throwed it up to his shoulder,\nLord, Lord, Lord,\nAnd he sight down that gun barrel,\nLord, Lord, Lord,\nAnd he pull that trigger,\nLord, Lord, Lord."
     ]
+  },
+  {
+    "id": "omie-wise",
+    "title": "Omie Wise",
+    "category": "ballad",
+    "origin": "Traditional North Carolina murder ballad based on the 1807/1808 drowning of Naomi Wise near Asheboro; the oldest known printed text appeared in the Greensboro Patriot, 29 April 1874",
+    "era": "early 19th century",
+    "tags": [
+      "murder ballad",
+      "appalachian",
+      "north carolina"
+    ],
+    "note": "Considered one of the oldest documented American murder ballads, tied to a real, court-recorded case. Recorded by artists from Doc Watson to Bob Dylan to Elvis Costello.",
+    "verses": [
+      "Oh, listen to my story, I'll tell you no lies,\nHow John Lewis did murder poor little Omie Wise.",
+      "He told her to meet him at Adams's Springs,\nHe promised her money and other fine things.",
+      "'Have you got any money, or have you got any clothes?'\n'No, I have no money, I'll tell you no lies,\nBut money won't clear you, John Lewis,' she cries.",
+      "He kissed her and hugged her and turned her around,\nThen pushed her in deep water, where he knew she would drown."
+    ]
+  },
+  {
+    "id": "john-hardy",
+    "title": "John Hardy",
+    "category": "ballad",
+    "origin": "Traditional West Virginia murder ballad based on the 1893 crime and 1894 execution of railroad worker John Hardy in McDowell County; earliest commercial recordings 1924-1925",
+    "era": "late 19th century",
+    "tags": [
+      "murder ballad",
+      "appalachian",
+      "west virginia"
+    ],
+    "note": "Often confused with the separate, older ballad \"John Henry\" due to the similar name and railroad setting, but based on a distinct, documented 1893 case. Traditional and public domain.",
+    "verses": [
+      "John Hardy was a desperate little man,\nHe carried two guns every day,\nHe shot down a man on the West Virginia line,\nYou oughta seen John Hardy getting away.",
+      "John Hardy stood in that old barroom,\nSo drunk that he could not see,\nA man walked up and took him by the arm,\nSaid, 'Johnny, come and go along with me.'",
+      "John Hardy stood in his old jail cell,\nThe tears running down from his eyes,\nHe said, 'I've been the death of many a poor boy,\nBut my six-shooters never told a lie.'"
+    ]
+  },
+  {
+    "id": "banks-of-the-ohio",
+    "title": "Banks of the Ohio",
+    "category": "ballad",
+    "origin": "Traditional 19th-century American murder ballad, not tied to a specific documented case; earliest commercial recordings 1927-1928",
+    "era": "19th century",
+    "tags": [
+      "murder ballad",
+      "river ballad"
+    ],
+    "note": "A close cousin of \"Omie Wise\" and \"Pretty Polly,\" telling of a jilted suitor who drowns his sweetheart. Traditional and public domain.",
+    "verses": [
+      "I asked my love to take a walk,\nTo walk a little way with me,\nAnd as we walked, then we would talk,\nAll about our wedding day.",
+      "Only say that you'll be mine,\nIn no other's arms entwine,\nDown beside where the waters flow,\nDown by the banks of the Ohio.",
+      "I held a knife against her breast,\nAs into my arms she pressed,\nShe cried, 'My love, don't you murder me,\nI'm not prepared for eternity.'"
+    ]
+  },
+  {
+    "id": "rocky-road-to-dublin",
+    "title": "The Rocky Road to Dublin",
+    "category": "folk",
+    "origin": "Written by D.K. Gavan, \"The Galway Poet,\" for English music hall performer Harry Clifton, published in the 1860s",
+    "era": "19th century",
+    "tags": [
+      "irish",
+      "comic song",
+      "travel song"
+    ],
+    "note": "A rapid-fire comic travelogue of a journey from Tuam to Dublin to Liverpool. Long a session-tune and step-dance favorite. Public domain since its 1860s publication.",
+    "verses": [
+      "In the merry month of June, from my home I started,\nLeft the girls of Tuam, sure they were nearly broken-hearted,\nSaluted father dear, kissed my darling mother,\nDrank a pint of beer, my grief and tears to smother.",
+      "One, two, three, four, five,\nHunt the hare and turn her down the rocky road,\nAnd all the way to Dublin, whack fol lol de rah!",
+      "In Mullingar that night I rested limbs so weary,\nStarted by daylight next morning, light and airy,\nTook a drop of the pure, to keep my heart from sinking,\nThat's the Paddy's cure whenever he's thinking."
+    ]
+  },
+  {
+    "id": "finnegans-wake",
+    "title": "Finnegan's Wake",
+    "category": "folk",
+    "origin": "Traditional Irish-American comic ballad, published as a broadside/sheet ballad in the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "irish",
+      "comic song",
+      "wake"
+    ],
+    "note": "A comic ballad about a hod-carrier who falls to his apparent death, is waked by mourners, and revives when whiskey splashes on him during a fight. Later inspired the title of James Joyce's novel.",
+    "verses": [
+      "Tim Finnegan lived in Walkin Street,\nA gentleman Irish mighty odd,\nHe had a brogue both rich and sweet,\nAnd to rise in the world he carried a hod.",
+      "Whack fol the dah, dance to your partner,\nWelt the floor, your trotters shake,\nIsn't it the truth I told you,\nLots of fun at Finnegan's wake?",
+      "One morning Tim was rather full,\nHis head felt heavy which made him shake,\nHe fell from the ladder and he broke his skull,\nSo they carried him home, his corpse to wake."
+    ]
+  },
+  {
+    "id": "the-parting-glass",
+    "title": "The Parting Glass",
+    "category": "folk",
+    "origin": "Traditional Scottish/Irish farewell song, dating to at least the 17th century; among the most popular songs in Scotland before \"Auld Lang Syne\" replaced it",
+    "era": "17th century or earlier",
+    "tags": [
+      "scottish",
+      "irish",
+      "farewell song"
+    ],
+    "note": "Traditionally sung at the end of a gathering. An ancient farewell song with no known author, still commonly sung to close a night of music.",
+    "verses": [
+      "Of all the money e'er I had,\nI spent it in good company,\nAnd all the harm I've ever done,\nAlas, it was to none but me.",
+      "So fill to me the parting glass,\nGood night and joy be with you all.",
+      "Of all the comrades e'er I had,\nThey're sorry for my going away,\nAnd all the sweethearts e'er I had,\nThey'd wish me one more day to stay."
+    ]
+  },
+  {
+    "id": "i-know-where-im-going",
+    "title": "I Know Where I'm Going",
+    "category": "folk",
+    "origin": "Traditional Irish/Scottish folk song, published in versions from the early 20th century, drawing on older floating verses",
+    "era": "early 20th century",
+    "tags": [
+      "irish",
+      "scottish",
+      "love song"
+    ],
+    "note": "A wistful love song widely collected across Ireland and Scotland in the early 1900s under various local titles. Traditional and public domain.",
+    "verses": [
+      "I know where I'm going,\nAnd I know who's going with me,\nI know who I love,\nBut the dear knows who I'll marry.",
+      "I have stockings of silk,\nShoes of fine green leather,\nCombs to buckle my hair,\nAnd a ring for every finger.",
+      "Feather beds are soft,\nPainted rooms are bonny,\nBut I would give them all\nFor my handsome, winsome Johnny."
+    ]
+  },
+  {
+    "id": "sourwood-mountain",
+    "title": "Sourwood Mountain",
+    "category": "folk",
+    "origin": "Traditional Appalachian fiddle tune and dance song, documented across the southern mountains by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "appalachian",
+      "dance tune"
+    ],
+    "note": "A staple square-dance and clogging tune with a distinctive nonsense refrain, endlessly extended with local, improvised verses. Traditional and public domain.",
+    "verses": [
+      "Chickens a-crowing on Sourwood Mountain,\nHey ho, diddle-um-day,\nSo many pretty girls I can't count 'em,\nHey ho, diddle-um-day.",
+      "My true love lives up the holler,\nHey ho, diddle-um-day,\nShe won't come and I won't foller,\nHey ho, diddle-um-day."
+    ]
+  },
+  {
+    "id": "cluck-old-hen",
+    "title": "Cluck Old Hen",
+    "category": "folk",
+    "origin": "Traditional American fiddle and banjo tune, documented across the Appalachian and Ozark regions by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "banjo tune",
+      "dance tune"
+    ],
+    "note": "A beginner-friendly old-time standard, sung with comic, ever-changing verses about a cantankerous hen. Traditional and public domain.",
+    "verses": [
+      "My old hen's a good old hen,\nShe lays eggs for the railroad men,\nSometimes one, sometimes two,\nSometimes enough for the whole durn crew.",
+      "Cluck old hen, cluck and squall,\nAin't laid an egg since late last fall,\nCluck old hen, cluck old hen,\nDidn't lay an egg for a poor old man."
+    ]
+  },
+  {
+    "id": "sally-goodin",
+    "title": "Sally Goodin",
+    "category": "folk",
+    "origin": "Traditional American fiddle tune, one of the oldest documented in Anglo-American fiddling; collected across the South and Midwest by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "dance tune",
+      "contest tune"
+    ],
+    "note": "One of the most iconic American fiddle tunes, still a standard test piece at fiddle contests for its many creative variations. Traditional and public domain.",
+    "verses": [
+      "Had a piece of pie and I had a piece of puddin',\nAnd I gave it all away just to see Sally Goodin.",
+      "Some folks say a preacher won't steal,\nI caught two in my cornfield,\nOne had a bushel, one had a peck,\nOne had a roastin' ear tied around his neck."
+    ]
+  },
+  {
+    "id": "ida-red",
+    "title": "Ida Red",
+    "category": "folk",
+    "origin": "Traditional American string-band song, first commercially recorded 1924 by Fiddlin' Powers and Family",
+    "era": "early 20th century",
+    "tags": [
+      "fiddle tune",
+      "string band",
+      "dance tune"
+    ],
+    "note": "A widely played square-dance standard that later fed directly into early rock and roll — Chuck Berry adapted its structure for \"Maybellene\" (1955). Traditional and public domain.",
+    "verses": [
+      "Ida Red, Ida Red,\nI'm plumb fool about Ida Red,\nOnce I danced with Ida Red,\nNow I'm dreamin' of Ida Red.",
+      "Ida Red, she's just my size,\nHer eyes shine like the stars in the skies,\nOl' Ida Red, Ida Red,\nOl' Ida Red, Ida Red."
+    ]
+  },
+  {
+    "id": "little-liza-jane",
+    "title": "Little Liza Jane",
+    "category": "folk",
+    "origin": "Traditional American folk song, likely originating in African American communities of the South; documented in print by the early 20th century, first commercially recorded in the 1910s-20s",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "banjo tune",
+      "dance tune"
+    ],
+    "note": "A call-and-response favorite that crossed from parlor and minstrel-adjacent stages into the old-time and New Orleans jazz repertoires alike. Traditional and public domain.",
+    "verses": [
+      "Come, my love, and live with me,\nLittle Liza Jane,\nI will take good care of thee,\nLittle Liza Jane.",
+      "Oh, Eliza, Little Liza Jane,\nOh, Eliza, Little Liza Jane.",
+      "I've got a house in Baltimore,\nLittle Liza Jane,\nStreetcar runs right by my door,\nLittle Liza Jane."
+    ]
+  },
+  {
+    "id": "frog-went-a-courtin",
+    "title": "Frog Went A-Courtin'",
+    "category": "folk",
+    "origin": "Traditional English/Scottish song, earliest known relative registered in the London Stationers' Register in 1548 as \"A Moste Strange Weddinge of the Frogge and the Mowse\"",
+    "era": "16th century or earlier",
+    "tags": [
+      "english folk",
+      "animal song",
+      "courting song"
+    ],
+    "note": "One of the oldest documented folk songs in the English language, sung continuously for nearly 500 years in one form or another. Ancient and public domain.",
+    "verses": [
+      "Frog went a-courtin' and he did ride, uh-huh,\nFrog went a-courtin' and he did ride,\nSword and pistol by his side, uh-huh.",
+      "He rode up to Miss Mousie's door, uh-huh,\nHe rode up to Miss Mousie's door,\nWhere he had been many times before, uh-huh.",
+      "'Miss Mouse, are you within?'\n'Yes, kind sir, I sit and spin.'\n'Please give to me your hand,'\nSaid the frog to the mouse, 'and I'll be your man.'"
+    ]
+  },
+  {
+    "id": "the-fox",
+    "title": "The Fox (Went Out on a Chilly Night)",
+    "category": "folk",
+    "origin": "Traditional English folk song, documented in England since at least the 15th century; widely collected in American folk song collections by the early 20th century",
+    "era": "15th century or earlier",
+    "tags": [
+      "english folk",
+      "animal song",
+      "hunting"
+    ],
+    "note": "An ancient comic ballad of a fox raiding a farmyard, sung continuously across England and America for centuries. Traditional and public domain.",
+    "verses": [
+      "The fox went out on a chilly night,\nHe prayed for the moon to give him light,\nFor he'd many a mile to go that night,\nBefore he reached the town-o, town-o, town-o,\nHe'd many a mile to go that night before he reached the town-o.",
+      "He ran till he came to a great big pen,\nWhere the ducks and the geese were kept therein,\n'A couple of you will grease my chin,\nBefore I leave this town-o, town-o, town-o.'",
+      "He grabbed the grey goose by the neck,\nHe throwed a duck across his back,\nHe didn't mind their quack, quack, quack,\nAnd their legs all danglin' down-o, down-o, down-o."
+    ]
+  },
+  {
+    "id": "billy-boy",
+    "title": "Billy Boy",
+    "category": "folk",
+    "origin": "Traditional English/American folk song, descended from an older Scottish ballad, \"Lord Randal\"; widely collected in England and America by the 19th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "english folk",
+      "question and answer",
+      "courting song"
+    ],
+    "note": "A comic question-and-answer courting song, structurally related to the much darker \"Lord Randall.\" Traditional and public domain.",
+    "verses": [
+      "Oh, where have you been, Billy Boy, Billy Boy?\nOh, where have you been, charming Billy?\nI have been to seek a wife, she's the joy of my life,\nBut she's a young thing and cannot leave her mother.",
+      "Did she ask you to come in, Billy Boy, Billy Boy?\nDid she ask you to come in, charming Billy?\nYes, she asked me to come in, there's a dimple in her chin,\nBut she's a young thing and cannot leave her mother.",
+      "Can she bake a cherry pie, Billy Boy, Billy Boy?\nCan she bake a cherry pie, charming Billy?\nShe can bake a cherry pie, quick as a cat can wink an eye,\nBut she's a young thing and cannot leave her mother."
+    ]
+  },
+  {
+    "id": "riddle-song",
+    "title": "The Riddle Song (I Gave My Love a Cherry)",
+    "category": "folk",
+    "origin": "Traditional English folk song brought to Appalachia by early settlers; the riddle format traces to medieval English literature, documented in the mountain South by the early 20th century",
+    "era": "medieval era or earlier",
+    "tags": [
+      "appalachian",
+      "english folk",
+      "riddle song"
+    ],
+    "note": "A gentle riddle song answering its own puzzles in the final verse (a cherry with no stone is a cherry in bloom; a baby with no crying is a baby still sleeping). Ancient and public domain.",
+    "verses": [
+      "I gave my love a cherry that has no stone,\nI gave my love a chicken that has no bone,\nI gave my love a ring that has no end,\nI gave my love a baby with no cryin'.",
+      "How can there be a cherry that has no stone?\nHow can there be a chicken that has no bone?\nHow can there be a ring that has no end?\nHow can there be a baby with no cryin'?",
+      "A cherry when it's bloomin', it has no stone,\nA chicken when it's pippin', it has no bone,\nA ring when it's rollin', it has no end,\nA baby when it's sleepin', has no cryin'."
+    ]
+  },
+  {
+    "id": "in-the-sweet-by-and-by",
+    "title": "In the Sweet By and By",
+    "category": "spiritual",
+    "origin": "Words by S. Fillmore Bennett, music by Joseph P. Webster, published 1868",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Legend holds that Webster composed the tune within thirty minutes of Bennett writing the words, at a Wisconsin drugstore. One of the most widely sung American gospel hymns. Public domain since 1868.",
+    "verses": [
+      "There's a land that is fairer than day,\nAnd by faith we can see it afar,\nFor the Father waits over the way,\nTo prepare us a dwelling place there.",
+      "In the sweet by and by,\nWe shall meet on that beautiful shore,\nIn the sweet by and by,\nWe shall meet on that beautiful shore.",
+      "We shall sing on that beautiful shore\nThe melodious songs of the blest,\nAnd our spirits shall sorrow no more,\nNot a sigh for the blessing of rest."
+    ]
+  },
+  {
+    "id": "wondrous-love",
+    "title": "What Wondrous Love Is This",
+    "category": "spiritual",
+    "origin": "Traditional American shape-note hymn, text traced to a 1811 camp-meeting songbook; first appeared with its familiar melody in William Walker's Southern Harmony, 1835",
+    "era": "early 19th century",
+    "tags": [
+      "shape-note hymn",
+      "gospel",
+      "appalachian"
+    ],
+    "note": "One of the great American folk hymns, sung in the haunting Dorian mode of Sacred Harp shape-note singing. Anonymous and public domain.",
+    "verses": [
+      "What wondrous love is this, O my soul, O my soul,\nWhat wondrous love is this, O my soul,\nWhat wondrous love is this, that caused the Lord of bliss\nTo bear the dreadful curse for my soul, for my soul,\nTo bear the dreadful curse for my soul.",
+      "To God and to the Lamb, I will sing, I will sing,\nTo God and to the Lamb, I will sing,\nTo God and to the Lamb, who is the great I Am,\nWhile millions join the theme, I will sing, I will sing,\nWhile millions join the theme, I will sing.",
+      "And when from death I'm free, I'll sing on, I'll sing on,\nAnd when from death I'm free, I'll sing on,\nAnd when from death I'm free, I'll sing and joyful be,\nAnd through eternity, I'll sing on, I'll sing on,\nAnd through eternity, I'll sing on."
+    ]
+  },
+  {
+    "id": "another-man-done-gone",
+    "title": "Another Man Done Gone",
+    "category": "work-song",
+    "origin": "Traditional African American prison work song from the Mississippi Delta; first documented and recorded by folklorists John and Alan Lomax in the 1930s-40s",
+    "era": "early 20th century",
+    "tags": [
+      "prison song",
+      "work song",
+      "call and response"
+    ],
+    "note": "A stark, minimal work song about escape and violence in the Southern prison system. Traditional and public domain.",
+    "verses": [
+      "Another man done gone,\nAnother man done gone,\nAnother man done gone from the county farm,\nAnother man done gone.",
+      "I didn't know his name,\nI didn't know his name,\nI didn't know his name, I didn't know his name,\nI didn't know his name.",
+      "He had a long chain on,\nHe had a long chain on,\nHe had a long chain on, he had a long chain on,\nHe had a long chain on."
+    ]
+  },
+  {
+    "id": "long-john",
+    "title": "Long John",
+    "category": "work-song",
+    "origin": "Traditional African American prison work song, documented by folklorists in Texas and Louisiana prison farms in the 1930s",
+    "era": "early 20th century",
+    "tags": [
+      "prison song",
+      "work song",
+      "call and response"
+    ],
+    "note": "A rhythmic axe- or hoe-work song about a man on the run from prison, sung to coordinate the pace of manual labor. Traditional and public domain.",
+    "verses": [
+      "Long John, he's long gone,\nLike a turkey through the corn,\nWith his long clothes on,\nLike a turkey through the corn.",
+      "He's long gone, he's long gone,\nHe's long gone,\nBig black rabbit ran a hundred mile,\nHe's long gone.",
+      "Well, some folks say he never was born,\nJust growed up like a turnip greens,\nHe's long gone, he's long gone,\nLike a turkey through the corn."
+    ]
+  },
+  {
+    "id": "the-butcher-boy",
+    "title": "The Butcher Boy",
+    "category": "ballad",
+    "origin": "Traditional English/American ballad, assembled from older broadside verses circulating in England by the 18th century; documented widely in American folk collections by the early 20th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "english folk",
+      "appalachian",
+      "love lament"
+    ],
+    "note": "A tragic ballad of a young woman abandoned by her lover, built from floating verses shared with several other traditional laments. Ancient and public domain.",
+    "verses": [
+      "In London city where I did dwell,\nA butcher boy I loved so well,\nHe courted me my life away,\nAnd now with me he will not stay.",
+      "There is a place in this same town,\nWhere my love goes and sits himself down,\nHe takes another girl on his knee,\nAnd tells to her what he told to me.",
+      "She went upstairs to make her bed,\nAnd not a word to her mother said,\nHer mother she went upstairs to see,\nAnd found her hanging from a tree."
+    ]
+  },
+  {
+    "id": "black-is-the-color",
+    "title": "Black Is the Color of My True Love's Hair",
+    "category": "folk",
+    "origin": "Traditional Scottish-American folk song; lyrics collected by Cecil Sharp in Kentucky in 1917, likely older",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "scottish",
+      "love song"
+    ],
+    "note": "A haunting Appalachian love song of Scottish descent. Presented here in the traditional lyric form documented by Cecil Sharp's 1917 field collection, predating any individually copyrighted 20th-century melodic arrangement.",
+    "verses": [
+      "Black is the color of my true love's hair,\nHer lips are like some roses fair,\nShe has the sweetest smile and the gentlest hands,\nAnd I love the ground whereon she stands.",
+      "I love my love and well she knows,\nI love the ground whereon she goes,\nI wish the day it soon would come,\nWhen she and I could be as one.",
+      "I go to the Clyde and I mourn and weep,\nFor satisfied I ne'er can be,\nI write her a letter, just a few short lines,\nAnd suffer death a thousand times."
+    ]
   }
 ]
