@@ -1921,5 +1921,190 @@
       "In eighteen hundred and forty-two,\nFrom Hartlepool I moved to Crewe,\nAnd I found myself a job to do,\nA-working on the railway.",
       "In eighteen hundred and forty-three,\nI broke my shin at the knee,\nI broke my shin at the knee,\nA-working on the railway."
     ]
+  },
+  {
+    "id": "matty-groves",
+    "title": "Matty Groves",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 81 (\"Little Musgrave and Lady Barnard\"), earliest printed broadside c. 1658-1664",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "rock cover history"
+    ],
+    "note": "One of the oldest English ballads in continuous circulation. Fairport Convention's landmark 1969 electric arrangement helped define British folk-rock.",
+    "verses": [
+      "A holiday, a holiday, and the first one of the year,\nLord Barnard's wife came into the church, the gospel for to hear.",
+      "And when the meeting it was done, the ladies all went home,\nThen up and spoke a little foot page, by the fireside sitting alone.",
+      "'What news, what news, my little page, what news hast brought to me?'\n'I bring you news, my mistress dear, sad news I bring to thee.'",
+      "'You must go home, Lord Barnard,' he cried, 'as fast as horse can run,\nFor Matty Groves is at your house, in bed with your wife alone.'"
+    ]
+  },
+  {
+    "id": "house-carpenter",
+    "title": "The House Carpenter",
+    "category": "ballad",
+    "origin": "Traditional Anglo-American ballad descended from \"James Harris (The Daemon Lover),\" Child Ballad No. 243; the earliest broadside is entered in the London Stationers' Register in 1657",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "supernatural ballad",
+      "rock cover history"
+    ],
+    "note": "A ghostly-lover ballad that crossed to America and shed most of its supernatural framing. Bob Dylan recorded it early in his career (1961-62), and it became a folk-revival and folk-rock standard.",
+    "verses": [
+      "'Well met, well met, my own true love,\nWell met, well met,' cried he,\n'I've just returned from the salt, salt sea,\nAnd it's all for the love of thee.'",
+      "'I could have married a king's daughter there,\nShe would have married me,\nBut I refused the golden crown,\nAll for the love of thee.'",
+      "'If you could have married a king's daughter there,\nI'm sure you're the one to blame,\nFor I am married to a house carpenter,\nAnd I'm sure he's a fine young man.'",
+      "'Will you forsake your house carpenter,\nAnd go along with me?\nI'll take you where the grass grows green,\nOn the banks of the deep blue sea.'"
+    ]
+  },
+  {
+    "id": "golden-vanity",
+    "title": "The Golden Vanity",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 286, thought to originate in a 17th-century broadside about Sir Walter Raleigh's ship the Sweet Trinity",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "sea ballad",
+      "betrayal"
+    ],
+    "note": "A centuries-old maritime ballad of a cabin boy who sinks an enemy ship, then is betrayed by his own captain. Collected across England, Scotland, and Appalachia.",
+    "verses": [
+      "There was a little ship and she sailed upon the sea,\nAnd the name of the ship was the Golden Vanity,\nAnd she sailed upon the lowland, lonesome low,\nAnd she sailed upon the lowland sea.",
+      "Then up spoke the cabin boy, and boldly outspoke he,\nSaid, 'What will you give me if I sink her in the sea?'\n'I will give you gold, I will give you fee,\nAnd my eldest daughter your bonny bride shall be.'",
+      "He turned upon his back and away swam he,\nHe swam till he came to the Golden Vanity,\nBut the captain would not take him up, so cruel was he,\nAnd he left him in the lowland, lonesome low."
+    ]
+  },
+  {
+    "id": "pretty-polly",
+    "title": "Pretty Polly",
+    "category": "ballad",
+    "origin": "Descended from the 18th-century English broadside ballad \"The Gosport Tragedy,\" first printed c. 1760; the shortened Appalachian form documented in American folk collections by the early 20th century",
+    "era": "18th century",
+    "tags": [
+      "murder ballad",
+      "appalachian",
+      "child-adjacent ballad"
+    ],
+    "note": "One of the most-recorded murder ballads in bluegrass and old-time music. The text here follows the condensed traditional Appalachian form rather than any single copyrighted recording.",
+    "verses": [
+      "Pretty Polly, pretty Polly, come go along with me,\nPretty Polly, pretty Polly, come go along with me,\nBefore we get married some pleasure to see.",
+      "He led her over hills and valleys so deep,\nHe led her over hills and valleys so deep,\nAt length pretty Polly began to weep.",
+      "'Willie, oh Willie, I'm afraid of your ways,\nWillie, oh Willie, I'm afraid of your ways,\nThe way that you've rambled, you'll lead me astray.'",
+      "He dug on her grave more than half of the night,\nHe dug on her grave more than half of the night,\nAnd went home to his bed till the daylight."
+    ]
+  },
+  {
+    "id": "old-joe-clark",
+    "title": "Old Joe Clark",
+    "category": "folk",
+    "origin": "Traditional American fiddle tune of Appalachian origin, thought to date from the late 19th century; documented in print by the 1910s-1920s",
+    "era": "late 19th century",
+    "tags": [
+      "fiddle tune",
+      "appalachian",
+      "bluegrass standard"
+    ],
+    "note": "One of the most widely known American fiddle tunes, with hundreds of floating, often nonsensical verses swapped freely between performers. Traditional and public domain.",
+    "verses": [
+      "Old Joe Clark, he had a house,\nFifteen stories high,\nAnd every story in that house\nWas filled with chicken pie.",
+      "Fare thee well, old Joe Clark,\nFare thee well, I'm gone,\nFare thee well, old Joe Clark,\nGoodbye, Lucy, long.",
+      "I went down to old Joe's house,\nHe invited me to supper,\nStumped my toe on the table leg,\nStuck my nose in the butter."
+    ]
+  },
+  {
+    "id": "the-cuckoo",
+    "title": "The Cuckoo",
+    "category": "folk",
+    "origin": "Traditional English folk song brought to Appalachia by early settlers; documented in England by the 18th century and collected in the American South by Cecil Sharp in the 1910s",
+    "era": "18th century",
+    "tags": [
+      "appalachian",
+      "english folk",
+      "banjo tune"
+    ],
+    "note": "A wandering-verse song about restlessness and unfaithful love, using the cuckoo as a symbol of a fickle lover. A staple of old-time claw-hammer banjo repertoire.",
+    "verses": [
+      "Oh, the cuckoo, she's a pretty bird,\nShe warbles as she flies,\nShe never hollers cuckoo,\nTill the fourth day of July.",
+      "Jack o' diamonds, Jack o' diamonds,\nI know you of old,\nYou've robbed my poor pockets,\nOf silver and gold.",
+      "I've played cards in England,\nI've played cards in Spain,\nI'll bet you ten dollars\nI'll beat you next game."
+    ]
+  },
+  {
+    "id": "crawdad-song",
+    "title": "The Crawdad Song",
+    "category": "folk",
+    "origin": "Traditional American folk song, documented in the South and Appalachia by the early 20th century; call-and-response \"crawdad hole\" verses collected by folklorists including John Lomax",
+    "era": "early 20th century",
+    "tags": [
+      "childrens song",
+      "appalachian",
+      "call and response"
+    ],
+    "note": "A simple, widely varied call-and-response song sung across the American South, with countless regional and invented verses. Traditional and public domain.",
+    "verses": [
+      "You get a line and I'll get a pole, honey,\nYou get a line and I'll get a pole, babe,\nYou get a line and I'll get a pole,\nWe'll go down to the crawdad hole,\nHoney, baby, mine.",
+      "Get up, old man, you slept too late, honey,\nGet up, old man, you slept too late, babe,\nGet up, old man, you slept too late,\nLast piece of crawdad's on your plate,\nHoney, baby, mine.",
+      "Sittin' on the ice till my feet got cold, honey,\nSittin' on the ice till my feet got cold, babe,\nSittin' on the ice till my feet got cold,\nWatchin' that crawdad hole,\nHoney, baby, mine."
+    ]
+  },
+  {
+    "id": "duncan-and-brady",
+    "title": "Duncan and Brady",
+    "category": "blues",
+    "origin": "Traditional murder ballad based on the killing of a St. Louis policeman on 6 October 1890; first commercially recorded 1929 by Wilmer Watts and His Lonely Eagles",
+    "era": "late 19th century",
+    "tags": [
+      "murder ballad",
+      "st. louis",
+      "missouri",
+      "rock cover history"
+    ],
+    "note": "Rooted in the same 1890s St. Louis underworld that produced \"Stagolee\" and \"Frankie and Johnny.\" Carried into the folk revival by Lead Belly, Dave Van Ronk, and Bob Dylan.",
+    "verses": [
+      "Duncan Jarvis was tendin' the bar,\nIn walked Brady with a shinin' star,\nBrady said to Duncan, 'You are under arrest,'\nDuncan shot a hole in Brady's breast.",
+      "Brady fell down on the barroom floor,\n'Now, please, Mr. Duncan, don't you shoot me no more,'\nWomen all cryin', ain't it a shame,\nShot King Brady, gonna shoot him again.",
+      "'Brady, Brady, Brady, you know you done wrong,\nYou broke in my grocery when the game was goin' on,\nKnockin' down the window and tearin' down the door,\nAnd now you're lyin' dead on the grocery floor.'"
+    ]
+  },
+  {
+    "id": "little-maggie",
+    "title": "Little Maggie",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song, likely originating in the late 1800s; earliest commercial recording 1928 by Grayson and Whitter",
+    "era": "late 19th century",
+    "tags": [
+      "appalachian",
+      "bluegrass standard",
+      "rock cover history"
+    ],
+    "note": "Part of the \"Darling Corey\" family of Appalachian \"white blues\" songs. A bluegrass jam-session staple, later reworked by Robert Plant on his 2010 album Band of Joy.",
+    "verses": [
+      "Oh, yonder stands little Maggie,\nWith a dram glass in her hand,\nShe's drinking away her troubles,\nAnd a-courting some other man.",
+      "Oh, how can I ever stand it,\nJust to see them two blue eyes,\nA-shining in the moonlight,\nLike two diamonds in the sky.",
+      "Last time I saw little Maggie,\nShe was sitting on the banks of the sea,\nWith a forty-four around her,\nAnd a banjo on her knee.",
+      "Lay down your last gold dollar,\nLay down your gold watch and chain,\nLittle Maggie's gonna dance for daddy,\nListen to that old banjo ring."
+    ]
+  },
+  {
+    "id": "kumbaya",
+    "title": "Kumbaya",
+    "category": "spiritual",
+    "origin": "Traditional African American Gullah spiritual from the Sea Islands of South Carolina and Georgia; earliest documented recordings made in 1926 by folklorist Robert Winslow Gordon",
+    "era": "early 20th century",
+    "tags": [
+      "gospel",
+      "gullah",
+      "call and response"
+    ],
+    "note": "Its authorship was falsely claimed for decades by an evangelist who said he wrote it in the 1930s; the 1926 Library of Congress recordings, made years before that claim, confirm it as an older traditional Gullah spiritual.",
+    "verses": [
+      "Kumbaya, my Lord, kumbaya,\nKumbaya, my Lord, kumbaya,\nKumbaya, my Lord, kumbaya,\nOh Lord, kumbaya.",
+      "Someone's singing, Lord, kumbaya,\nSomeone's singing, Lord, kumbaya,\nSomeone's singing, Lord, kumbaya,\nOh Lord, kumbaya.",
+      "Someone's crying, Lord, kumbaya,\nSomeone's crying, Lord, kumbaya,\nSomeone's crying, Lord, kumbaya,\nOh Lord, kumbaya.",
+      "Someone's praying, Lord, kumbaya,\nSomeone's praying, Lord, kumbaya,\nSomeone's praying, Lord, kumbaya,\nOh Lord, kumbaya."
+    ]
   }
 ]
