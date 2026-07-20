@@ -2106,5 +2106,364 @@
       "Someone's crying, Lord, kumbaya,\nSomeone's crying, Lord, kumbaya,\nSomeone's crying, Lord, kumbaya,\nOh Lord, kumbaya.",
       "Someone's praying, Lord, kumbaya,\nSomeone's praying, Lord, kumbaya,\nSomeone's praying, Lord, kumbaya,\nOh Lord, kumbaya."
     ]
+  },
+  {
+    "id": "little-sadie",
+    "title": "Little Sadie",
+    "category": "ballad",
+    "origin": "Traditional American murder ballad; earliest documented text collected 1922 in Joplin, Missouri by folklorist Vance Randolph, first commercially recorded 1928",
+    "era": "early 20th century",
+    "tags": [
+      "murder ballad",
+      "missouri",
+      "appalachian",
+      "rock cover history"
+    ],
+    "note": "Also known as \"Bad Lee Brown.\" This is the older, traditional root of the song — distinct from \"Cocaine Blues,\" a separately copyrighted 1947 reworking by Troy \"Red\" Arnall that Johnny Cash later made famous at Folsom Prison.",
+    "verses": [
+      "I went out last night, made a little round,\nI met little Sadie, and I blowed her down,\nWent back home and got into bed,\nA forty-four smokeless under my head.",
+      "I began to think what a deed I'd done,\nI grabbed my hat and away I run,\nMade a good run but a little too slow,\nThey overtook me in Jericho.",
+      "I was standing there just a-taking my dram,\nWhen up stepped the sheriff from Thomasville town,\nHe walked right up and he took me by the arm,\nSaid, 'Young man, you're under arrest.'"
+    ]
+  },
+  {
+    "id": "ballad-of-jesse-james",
+    "title": "Jesse James",
+    "category": "ballad",
+    "origin": "Traditional American outlaw ballad; earliest known printed text published September 15, 1886 in the Daily Nebraska Press, four years after James's death",
+    "era": "late 19th century",
+    "tags": [
+      "outlaw ballad",
+      "missouri",
+      "folk hero"
+    ],
+    "note": "Written soon after the Missouri outlaw was shot by gang member Robert Ford in 1882, popularly (though not certainly) attributed to a songster named Billy Gashade. Traditional and public domain.",
+    "verses": [
+      "Jesse James was a lad that killed many a man,\nHe robbed the Glendale train,\nHe stole from the rich and he gave to the poor,\nHe'd a hand and a heart and a brain.",
+      "Oh, Jesse had a wife to mourn all her life,\nThe children they were brave,\nBut that dirty little coward that shot Mr. Howard\nHas laid poor Jesse in his grave.",
+      "It was his brother Frank that robbed the Gallatin bank,\nAnd carried the money from the town,\nIt was in this very place that they had a little race,\nFor they shot Captain Sheets to the ground.",
+      "It was little Robert Ford, that dirty little coward,\nI wonder how he does feel,\nFor he ate of Jesse's bread and he slept in Jesse's bed,\nThen he laid poor Jesse in his grave."
+    ]
+  },
+  {
+    "id": "cole-younger",
+    "title": "Cole Younger",
+    "category": "ballad",
+    "origin": "Traditional American outlaw ballad; earliest documented text 1910, published in John Lomax's Cowboy Songs and Other Frontier Ballads",
+    "era": "late 19th century",
+    "tags": [
+      "outlaw ballad",
+      "missouri",
+      "cowboy song"
+    ],
+    "note": "Sung from the perspective of Missouri outlaw Cole Younger, captured after the failed 1876 Northfield, Minnesota bank raid alongside the James brothers. Traditional and public domain.",
+    "verses": [
+      "I am a noble-minded man, Cole Younger is my name,\nOf my many a depredation my friends I brought to shame,\nFor robbing of the Northfield bank the same I can't deny,\nFor it leaves me a poor prisoner, in the Stillwater jail to lie.",
+      "We started out for old Fort Scott, all in the state of Kansas,\nFor the purpose of avenging Quantrill and the rebel man's advance,\nAnd we'd fight them anti-guerrillas until our dying day,\nFor the debt they owed our father's blood they never could repay.",
+      "It was in a Northfield, Minnesota, one Thursday afternoon,\nOur pistols were a-drawing, and it filled us all with gloom,\nFor Charlie Pitts he was a hero, by our side he did remain,\nWhile the citizens and the marshal, their bullets fell like rain."
+    ]
+  },
+  {
+    "id": "shady-grove",
+    "title": "Shady Grove",
+    "category": "folk",
+    "origin": "Traditional Appalachian courting song, shares its melody with the older ballad \"Matty Groves\"; documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "fiddle tune",
+      "courting song"
+    ],
+    "note": "One of the most common old-time and bluegrass jam standards, with countless improvised verses swapped between players. Traditional and public domain.",
+    "verses": [
+      "Shady Grove, my little love,\nShady Grove, I say,\nShady Grove, my little love,\nGoing away someday.",
+      "Cheeks as red as a blooming rose,\nEyes of the deepest brown,\nYou're the darling of my heart,\nStay 'til the sun goes down.",
+      "When I was a little boy,\nI wanted a Barlow knife,\nNow I want little Shady Grove,\nTo say she'll be my wife."
+    ]
+  },
+  {
+    "id": "cindy",
+    "title": "Cindy",
+    "category": "folk",
+    "origin": "Traditional Appalachian courting/dance song of uncertain origin, likely 19th century; collected widely across the American South by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "dance tune",
+      "courting song"
+    ],
+    "note": "A widely varied square-dance favorite with countless floating verses, sung across the southern Appalachians for generations. Traditional and public domain.",
+    "verses": [
+      "You ought to see my Cindy,\nShe lives away down south,\nShe's so sweet the honey bees\nSwarm around her mouth.",
+      "Get along home, Cindy, Cindy,\nGet along home, Cindy, Cindy,\nGet along home, Cindy, Cindy,\nI'll marry you sometime.",
+      "She took me to the parlor,\nShe cooled me with her fan,\nShe swore I was the purtiest thing\nIn the shape of mortal man."
+    ]
+  },
+  {
+    "id": "darling-corey",
+    "title": "Darling Corey",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song of the \"white blues\" family; earliest commercial recording 1918 (B.F. Shelton, 1927, following earlier field collections)",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "bluegrass standard",
+      "moonshine"
+    ],
+    "note": "A moonshine-and-heartbreak ballad closely related to \"Little Maggie,\" a bluegrass jam-session staple recorded by Bill Monroe, the Stanley Brothers, and Pete Seeger. Traditional and public domain.",
+    "verses": [
+      "Wake up, wake up, darling Corey,\nWhat makes you sleep so sound?\nThe revenue officers are coming,\nGonna tear your still house down.",
+      "Go away, go away, darling Corey,\nQuit hanging around my bed,\nPretty women run me distracted,\nWhiskey's gonna kill me dead.",
+      "The first time I saw darling Corey,\nShe was sitting on the banks of the sea,\nHad a forty-four strapped around her body,\nAnd a banjo on her knee."
+    ]
+  },
+  {
+    "id": "cripple-creek",
+    "title": "Cripple Creek",
+    "category": "folk",
+    "origin": "Traditional American fiddle tune, documented across the Appalachian and Ozark regions by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "appalachian",
+      "dance tune"
+    ],
+    "note": "One of the most widely played beginner fiddle and banjo tunes in old-time music, with dozens of interchangeable verses. Traditional and public domain.",
+    "verses": [
+      "I've got a girl, lives up on the hill,\nWon't work and her daddy won't,\nGoing up Cripple Creek, going in a run,\nGoing up Cripple Creek to have some fun.",
+      "Girls on Cripple Creek about half grown,\nJump on a boy like a dog on a bone,\nRoll my britches to my knees,\nWade old Cripple Creek when I please."
+    ]
+  },
+  {
+    "id": "boil-them-cabbage-down",
+    "title": "Boil Them Cabbage Down",
+    "category": "folk",
+    "origin": "Traditional Appalachian song with roots in African American work-song tradition; widely documented in southern folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "fiddle tune",
+      "dance tune"
+    ],
+    "note": "A simple, endlessly extendable song used to teach beginning banjo and fiddle players, with a chorus more famous than any of its many interchangeable verses. Traditional and public domain.",
+    "verses": [
+      "Boil them cabbage down, down,\nTurn them hoecakes round, round,\nThe only song that I can sing\nIs boil them cabbage down.",
+      "Possum up a 'simmon tree,\nRabbit on the ground,\nRabbit says, 'You son of a gun,\nShake them 'simmons down.'"
+    ]
+  },
+  {
+    "id": "arkansas-traveler",
+    "title": "The Arkansas Traveler",
+    "category": "folk",
+    "origin": "Traditional American fiddle tune and comic dialogue, popularized in the 1840s-50s and widely printed by the 1860s; often attributed to Arkansas politician Sanford C. Faulkner",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "comic dialogue",
+      "americana"
+    ],
+    "note": "Originally a spoken comic routine between a traveler and a backwoods squatter, set to a well-known fiddle tune. One of the most recognizable American folk melodies. Traditional and public domain.",
+    "verses": [
+      "Once upon a time in Arkansas,\nAn old man sat by his cabin door,\nAnd fiddled at a tune without a name,\nWhile his corn-patch was gone to weeds and shame.",
+      "'Say, old man, can you tell me where this road goes to?'\n'It's never gone anywhere since I've lived here,\nIt's always right here where it is every mornin'.'\nSo the traveler learned to play the other half of that tune."
+    ]
+  },
+  {
+    "id": "green-grow-the-rushes-o",
+    "title": "Green Grow the Rushes, O",
+    "category": "folk",
+    "origin": "Traditional English cumulative counting song, structurally related to Hebrew \"Echad Mi Yodea\"; documented in England since at least the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "english folk",
+      "counting song",
+      "cumulative song"
+    ],
+    "note": "A cumulative call-and-response song layering religious and folk symbolism verse by verse. Ancient and public domain.",
+    "verses": [
+      "I'll sing you one, O!\nGreen grow the rushes, O!\nWhat is your one, O?\nOne is one and all alone and evermore shall be so.",
+      "I'll sing you two, O!\nGreen grow the rushes, O!\nWhat are your two, O?\nTwo, two, the lily-white boys, clothed all in green, O,\nOne is one and all alone and evermore shall be so."
+    ]
+  },
+  {
+    "id": "cherry-tree-carol",
+    "title": "The Cherry Tree Carol",
+    "category": "ballad",
+    "origin": "Traditional English carol/ballad, Child Ballad No. 54, derived from the apocryphal Gospel of Pseudo-Matthew; documented in England from at least the 15th century",
+    "era": "15th century or earlier",
+    "tags": [
+      "child ballad",
+      "christmas carol",
+      "appalachian"
+    ],
+    "note": "One of the oldest English Christmas carols, retelling an apocryphal story of Joseph and a pregnant Mary. Carried to Appalachia and preserved in the Southern mountain singing tradition.",
+    "verses": [
+      "Joseph was an old man, and an old man was he,\nWhen he wedded Mary, in the land of Galilee.",
+      "Joseph and Mary walked through an orchard good,\nWhere was cherries and berries, so red as any blood.",
+      "'O then bespoke Mary, so meek and so mild,\n\"Pluck me one cherry, Joseph, for I am with child.\"",
+      "'O then bespoke Joseph, with words so unkind,\n\"Let him pluck thee a cherry that brought thee with child.\"'"
+    ]
+  },
+  {
+    "id": "binnorie",
+    "title": "The Twa Sisters (Binnorie)",
+    "category": "ballad",
+    "origin": "Traditional Scottish/English ballad, Child Ballad No. 10, with broadside versions dating to at least 1656",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "murder ballad",
+      "scottish"
+    ],
+    "note": "One of the darkest and most widespread ballads in the English tradition, found in hundreds of variants across the British Isles and North America. Ancient and public domain.",
+    "verses": [
+      "There were two sisters lived in a bower,\nBinnorie, O Binnorie,\nThere came a knight to be their wooer,\nBy the bonnie mill-dams of Binnorie.",
+      "He courted the eldest with glove and ring,\nBinnorie, O Binnorie,\nBut he loved the youngest above all thing,\nBy the bonnie mill-dams of Binnorie.",
+      "'O sister, sister, walk with me,\nBinnorie, O Binnorie,\nTo see our father's ships come in,\nBy the bonnie mill-dams of Binnorie.'",
+      "She's ta'en her by the lily hand,\nBinnorie, O Binnorie,\nAnd thrown her into the river strand,\nBy the bonnie mill-dams of Binnorie."
+    ]
+  },
+  {
+    "id": "lord-randall",
+    "title": "Lord Randall",
+    "category": "ballad",
+    "origin": "Traditional Scottish/English ballad, Child Ballad No. 12, thought to date from at least the 17th century; collected across Britain, Ireland, Italy, and North America",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "question and answer"
+    ],
+    "note": "A question-and-answer ballad in which a mother learns her son has been poisoned by his sweetheart. One of the most widespread ballads in Europe, and the model for Bob Dylan's \"A Hard Rain's A-Gonna Fall.\"",
+    "verses": [
+      "'O where hae ye been, Lord Randall, my son?\nO where hae ye been, my handsome young man?'\n'I hae been at the greenwood; mother, mak my bed soon,\nFor I'm wearied wi hunting, and fain wad lie down.'",
+      "'What got ye to your dinner, Lord Randall, my son?\nWhat got ye to your dinner, my handsome young man?'\n'I gat eels boiled in broo; mother, mak my bed soon,\nFor I'm wearied wi hunting, and fain wad lie down.'",
+      "'And what became of your bloodhounds, Lord Randall, my son?\nAnd what became of your bloodhounds, my handsome young man?'\n'O they swelled and they died; mother, mak my bed soon,\nFor I'm wearied wi hunting, and fain wad lie down.'",
+      "'O I fear ye are poisoned, Lord Randall, my son!\nO I fear ye are poisoned, my handsome young man!'\n'O yes, I am poisoned; mother, mak my bed soon,\nFor I'm sick at the heart, and I fain wad lie down.'"
+    ]
+  },
+  {
+    "id": "trees-they-do-grow-high",
+    "title": "The Trees They Do Grow High",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad (Roud 31), documented in broadsides from the early 19th century, likely older",
+    "era": "early 19th century",
+    "tags": [
+      "english folk",
+      "scottish",
+      "love ballad"
+    ],
+    "note": "A ballad of an arranged child marriage, sung from the bride's perspective as she waits for her young husband to grow up. Traditional and public domain.",
+    "verses": [
+      "The trees they do grow high, and the leaves they do grow green,\nMany is the time my true love I've seen,\nMany an hour I have watched him all alone,\nHe's young, but he's daily growing.",
+      "'O father, dear father, you've done to me great wrong,\nYou have married me to a boy who is too young,\nI'm twice twelve and he is but fourteen,\nHe's young, but he's daily growing.'",
+      "'O daughter, dear daughter, I've done to you no wrong,\nI have married you to a great lord's son,\nHe will be a match for you when I am dead and gone,\nHe's young, but he's daily growing.'"
+    ]
+  },
+  {
+    "id": "come-all-ye-fair-and-tender-ladies",
+    "title": "Come All Ye Fair and Tender Ladies",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song assembled from older English broadside verses; documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "love lament",
+      "floating verses"
+    ],
+    "note": "A warning song to young women about the falseness of men, built from \"floating verses\" shared with many other traditional love laments. Traditional and public domain.",
+    "verses": [
+      "Come all ye fair and tender ladies,\nTake warning how you court young men,\nThey're like a star on a summer's morning,\nThey first appear and then they're gone.",
+      "They'll tell to you some loving story,\nThey'll make you think they love you well,\nAnd away they'll go and court some other,\nAnd leave you there in grief to dwell.",
+      "I wish I was a little sparrow,\nAnd I had wings and I could fly,\nRight to my false love's window,\nI'd light on it and there I'd die."
+    ]
+  },
+  {
+    "id": "groundhog",
+    "title": "Groundhog",
+    "category": "folk",
+    "origin": "Traditional Appalachian hunting song, documented widely across the southern mountains by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "hunting song",
+      "banjo tune"
+    ],
+    "note": "A comic Appalachian hunting song describing the pursuit, cooking, and eating of a groundhog, sung by generations of old-time banjo players. Traditional and public domain.",
+    "verses": [
+      "Get your gun and whistle up your dog,\nGet your gun and whistle up your dog,\nGet your gun and whistle up your dog,\nWe're goin' to the hills to catch a groundhog, groundhog.",
+      "Here comes Sal with a great big smile,\nHere comes Sal with a great big smile,\nHere comes Sal with a great big smile,\nSayin' groundhog gravy all the while, groundhog.",
+      "Take him home and skin him in the pot,\nTake him home and skin him in the pot,\nTake him home and skin him in the pot,\nCall all the neighbors, whether or not, groundhog."
+    ]
+  },
+  {
+    "id": "salty-dog-blues",
+    "title": "Salty Dog Blues",
+    "category": "folk",
+    "origin": "Traditional American string-band standard, first commercially recorded 1924 by Papa Charlie Jackson (\"Salty Dog Blues\") and again in 1926 by the Allen Brothers",
+    "era": "early 20th century",
+    "tags": [
+      "string band",
+      "bluegrass standard",
+      "blues"
+    ],
+    "note": "A foundational bluegrass and old-time jam standard, with Papa Charlie Jackson's 1924 recording among the earliest commercial blues records by an African American solo artist. Public domain since the 1920s.",
+    "verses": [
+      "Standing on the corner with the low-down blues,\nA great big hole in the bottom of my shoes,\nHoney, let me be your salty dog.",
+      "Salty dog, salty dog,\nHoney, let me be your salty dog.",
+      "Look here, sugar, tell me who's your man,\nAnd what in the world are you tryin' to prove?\nHoney, let me be your salty dog."
+    ]
+  },
+  {
+    "id": "reubens-train",
+    "title": "Reuben's Train",
+    "category": "work-song",
+    "origin": "Traditional Appalachian railroad folk song, closely related to \"900 Miles\"; documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "railroad",
+      "appalachian",
+      "banjo tune"
+    ],
+    "note": "A wandering-verse railroad song shared across the American South, often blended with \"900 Miles\" and other train laments. Traditional and public domain.",
+    "verses": [
+      "Oh, the train, the train, the Reuben train,\nOh, the train, the train, the Reuben train,\nOh, the train, the train, the Reuben train,\nDone gone by.",
+      "Well, I'll be gone, oh, when you hear that whistle blow,\nWell, I'll be gone, oh, when you hear that whistle blow,\nA hundred miles, a hundred miles, a hundred miles."
+    ]
+  },
+  {
+    "id": "unfortunate-rake",
+    "title": "The Unfortunate Rake",
+    "category": "ballad",
+    "origin": "Traditional Irish/English broadside ballad, documented from the late 18th century",
+    "era": "18th century",
+    "tags": [
+      "broadside ballad",
+      "irish",
+      "military"
+    ],
+    "note": "The root ballad behind an entire family of American songs, including \"St. James Infirmary Blues\" and \"Streets of Laredo.\" A soldier, dying of a disease from a life of dissipation, requests a grand military funeral. Ancient and public domain.",
+    "verses": [
+      "As I was a-walking down by the Lock Hospital,\nAs I was a-walking one morning of late,\nWho did I spy but my own dear comrade,\nWrapped up in flannel, so hard was his fate.",
+      "'Had she but told me when she disordered me,\nHad she but told me of it in time,\nI might have got salts and pills of white mercury,\nBut now I'm cut down in the height of my prime.'",
+      "'Get six young soldiers to carry my coffin,\nGet six young girls to bear up my pall,\nGive them each bunches of roses to carry,\nSo they don't smell me as they carry me along.'"
+    ]
+  },
+  {
+    "id": "grey-goose",
+    "title": "The Grey Goose",
+    "category": "work-song",
+    "origin": "Traditional African American tale-song, documented in Texas prison communities in the early 20th century; popularized nationally through Lead Belly's 1930s-40s field recordings for the Library of Congress",
+    "era": "early 20th century",
+    "tags": [
+      "work song",
+      "tale song",
+      "call and response"
+    ],
+    "note": "A tall-tale call-and-response song about an indestructible goose, sung to set a steady work rhythm. The traditional song itself, distinct from any single performer's specific recorded arrangement, is public domain.",
+    "verses": [
+      "Last Monday morning,\nLord, Lord, Lord,\nLast Monday morning,\nLord, Lord, Lord,\nMy daddy went a-hunting,\nLord, Lord, Lord.",
+      "And he carried along his zulu,\nLord, Lord, Lord,\nAnd along come a grey goose,\nLord, Lord, Lord.",
+      "He throwed it up to his shoulder,\nLord, Lord, Lord,\nAnd he sight down that gun barrel,\nLord, Lord, Lord,\nAnd he pull that trigger,\nLord, Lord, Lord."
+    ]
   }
 ]
