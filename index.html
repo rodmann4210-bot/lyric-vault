@@ -27,7 +27,6 @@
     font-family:var(--mono);
     min-height:100vh;
   }
-  /* ---------- header ---------- */
   header{
     border-bottom:1px solid var(--line);
     padding:22px 24px 18px;
@@ -128,7 +127,6 @@
     white-space:nowrap;
   }
   .count b{ color:var(--amber); font-weight:600; }
-  /* ---------- main grid ---------- */
   main{
     max-width:1100px;
     margin:0 auto;
@@ -198,7 +196,6 @@
     padding:60px 20px;
     font-size:13px;
   }
-  /* ---------- detail overlay ---------- */
   .overlay{
     display:none;
     position:fixed; inset:0;
@@ -300,10 +297,12 @@
 </style>
 </head>
 <body>
+
 <header>
   <div class="eyebrow">WATCH FLOOR · ARCHIVE STATION</div>
   <h1><span class="reel" id="reel"></span> Lyric Vault</h1>
   <div class="sub">A working library of public-domain lyrics — traditional folk, blues, spirituals, sea shanties, ballads, and 19th-century songbook standards — cleared for remix, adaptation, and homage. Every entry is sourced and dated in its detail card.</div>
+
   <div class="controls">
     <input type="text" id="search" placeholder="Search title, tag, or origin...">
     <div class="chip active" data-cat="all">All</div>
@@ -317,20 +316,25 @@
     <div class="count" id="count"></div>
   </div>
 </header>
+
 <main>
   <div class="grid" id="grid"></div>
   <div class="empty" id="empty" style="display:none;">No songs match that search. Try a different term or clear the filter.</div>
 </main>
+
 <footer>© 2026 R. Grimes · All rights reserved — app &amp; design. Lyric texts in this archive are public domain.</footer>
+
 <div class="overlay" id="overlay">
   <div class="sheet" id="sheet"></div>
 </div>
+
 <script>
 // ======================= DATA =======================
 // Add new songs by appending an object in this shape. Verify public-domain
 // status (pre-1928 US publication, or traditional/anonymous authorship)
 // before adding anything.
 let LYRIC_LIBRARY = [];
+
 const CATEGORY_LABEL = {
   "spiritual": "Spiritual",
   "folk": "Folk",
@@ -340,21 +344,26 @@ const CATEGORY_LABEL = {
   "ballad": "Ballad",
   "parlor": "Parlor Song"
 };
+
 // ======================= APP =======================
 let activeCategory = "all";
 let searchTerm = "";
+
 const grid = document.getElementById('grid');
 const emptyEl = document.getElementById('empty');
 const countEl = document.getElementById('count');
 const overlay = document.getElementById('overlay');
 const sheet = document.getElementById('sheet');
 const reel = document.getElementById('reel');
+
 function metaText(song){
   return (song.title + ' ' + song.origin + ' ' + song.tags.join(' ')).toLowerCase();
 }
+
 function lyricLines(song){
   return song.verses.flatMap(v => v.split('\n'));
 }
+
 function matches(song){
   const inCat = activeCategory === 'all' || song.category === activeCategory;
   if(!inCat) return false;
@@ -362,9 +371,11 @@ function matches(song){
   if(metaText(song).includes(searchTerm)) return true;
   return lyricLines(song).some(line => line.toLowerCase().includes(searchTerm));
 }
+
 function escapeHtml(str){
   return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
 }
+
 function highlight(line){
   if(!searchTerm) return escapeHtml(line);
   const idx = line.toLowerCase().indexOf(searchTerm);
@@ -374,25 +385,30 @@ function highlight(line){
   const after = escapeHtml(line.slice(idx + searchTerm.length));
   return `${before}<mark>${match}</mark>${after}`;
 }
+
 function lyricSnippet(song){
   if(!searchTerm || metaText(song).includes(searchTerm)) return null;
   const line = lyricLines(song).find(l => l.toLowerCase().includes(searchTerm));
   return line ? line.trim() : null;
 }
+
 function sortKey(title){
   return title.replace(/^The\s+/i, '').toLowerCase();
 }
+
 function render(){
   const results = LYRIC_LIBRARY
     .filter(matches)
     .sort((a, b) => sortKey(a.title).localeCompare(sortKey(b.title)));
   grid.innerHTML = '';
   countEl.innerHTML = `<b>${results.length}</b> of ${LYRIC_LIBRARY.length} songs`;
+
   if(results.length === 0){
     emptyEl.style.display = 'block';
     return;
   }
   emptyEl.style.display = 'none';
+
   results.forEach(song => {
     const snippet = lyricSnippet(song);
     const card = document.createElement('div');
@@ -408,6 +424,7 @@ function render(){
     grid.appendChild(card);
   });
 }
+
 function openSheet(song){
   sheet.innerHTML = `
     <button class="close-btn" id="closeBtn">&times;</button>
@@ -423,20 +440,24 @@ function openSheet(song){
   document.getElementById('closeBtn').addEventListener('click', closeSheet);
   reel.parentElement.parentElement && document.body.classList.add('spinning');
 }
+
 function closeSheet(){
   overlay.classList.remove('open');
   document.body.classList.remove('spinning');
 }
+
 overlay.addEventListener('click', (e) => {
   if(e.target === overlay) closeSheet();
 });
 document.addEventListener('keydown', (e) => {
   if(e.key === 'Escape') closeSheet();
 });
+
 document.getElementById('search').addEventListener('input', (e) => {
   searchTerm = e.target.value.trim().toLowerCase();
   render();
 });
+
 document.querySelectorAll('.chip').forEach(chip => {
   chip.addEventListener('click', () => {
     document.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
@@ -445,8 +466,11 @@ document.querySelectorAll('.chip').forEach(chip => {
     render();
   });
 });
+
 // ---- Load the vault from the single source of truth ----
-fetch('lyrics.json')
+// Cache-busting timestamp added so GitHub Pages' CDN can never serve a
+// stale copy of lyrics.json after an update.
+fetch('lyrics.json?t=' + Date.now(), {cache: 'no-store'})
   .then(function(r){ if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
   .then(function(data){ LYRIC_LIBRARY = data; render(); })
   .catch(function(err){
@@ -455,5 +479,6 @@ fetch('lyrics.json')
     countEl.innerHTML = '';
   });
 </script>
+
 </body>
 </html>
