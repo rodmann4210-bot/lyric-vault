@@ -1437,3 +1437,489 @@
       "farewell song"
     ],
     "note": "Reserved for the very end of a voyage, once the ship was moored — the one time a sailor could freely air his complaints about the ship and its officers. Traditional and public domain.",
+    "verses": [
+      "Oh, the times were hard and the wages low,\nLeave her, Johnny, leave her,\nI'll pack my bag and go below,\nAnd it's time for us to leave her.",
+      "Oh, the wind was foul and the sea ran high,\nLeave her, Johnny, leave her,\nShe shipped it green and none went by,\nAnd it's time for us to leave her.",
+      "I thought I heard the old man say,\nLeave her, Johnny, leave her,\nTomorrow you will get your pay,\nAnd it's time for us to leave her.",
+      "The work was hard, the voyage was long,\nLeave her, Johnny, leave her,\nThe seas were high, the gales were strong,\nAnd it's time for us to leave her.",
+      "Oh, leave her, Johnny, leave her with a grin,\nLeave her, Johnny, leave her,\nThere's many a worse ship than the one we're in,\nAnd it's time for us to leave her."
+    ]
+  },
+  {
+    "id": "row-row-row-your-boat",
+    "title": "Row, Row, Row Your Boat",
+    "category": "folk",
+    "origin": "Traditional American round; earliest confirmed publication 1852, credited to Eliphalet Oram Lyte in later 19th-century songbooks",
+    "era": "19th century",
+    "tags": [
+      "round",
+      "childrens song",
+      "americana"
+    ],
+    "note": "One of the most widely sung rounds in the English language, taught in American schools since the 19th century. Long in the public domain.",
+    "verses": [
+      "Row, row, row your boat,\nGently down the stream,\nMerrily, merrily, merrily, merrily,\nLife is but a dream."
+    ]
+  },
+  {
+    "id": "pop-goes-the-weasel",
+    "title": "Pop Goes the Weasel",
+    "category": "folk",
+    "origin": "Traditional English dance tune, referenced in print by the 1850s; American verses (\"Monkey\" verse) added by the 1900s",
+    "era": "19th century",
+    "tags": [
+      "dance tune",
+      "childrens song",
+      "english folk"
+    ],
+    "note": "A country dance song of obscure meaning — 'popping the weasel' may reference pawning a tailor's iron. Public domain across all its traditional verses.",
+    "verses": [
+      "Half a pound of tuppenny rice,\nHalf a pound of treacle,\nThat's the way the money goes,\nPop! goes the weasel.",
+      "Up and down the City Road,\nIn and out the Eagle,\nThat's the way the money goes,\nPop! goes the weasel.",
+      "A penny for a spool of thread,\nA penny for a needle,\nThat's the way the money goes,\nPop! goes the weasel."
+    ]
+  },
+  {
+    "id": "the-girl-i-left-behind-me",
+    "title": "The Girl I Left Behind Me",
+    "category": "folk",
+    "origin": "Traditional Irish/British march tune, in use by British and American armies since at least the late 18th century; earliest printed lyrics c. 1791",
+    "era": "18th century",
+    "tags": [
+      "military march",
+      "irish",
+      "farewell song"
+    ],
+    "note": "A marching tune played by regiments departing for war on both sides of the Atlantic, from the American Revolution through the Civil War and beyond. Ancient and public domain.",
+    "verses": [
+      "I'm lonesome since I crossed the hill,\nAnd o'er the moor and valley,\nSuch heavy thoughts my heart do fill,\nSince parting with my Sally.\nI seek no more the fine or gay,\nFor each does but remind me\nHow swift the hours did pass away\nWith the girl I left behind me.",
+      "Oh, ne'er shall I forget the night\nThe stars were bright above me,\nAnd gently lent their silvery light\nWhen first she vowed she loved me.\nBut now I'm bound to Brighton camp,\nGood Lord, may weather find me,\nAnd send me safely back again\nTo the girl I left behind me."
+    ]
+  },
+  {
+    "id": "turkey-in-the-straw",
+    "title": "Turkey in the Straw",
+    "category": "folk",
+    "origin": "Traditional American fiddle tune, melody traceable to the 1820s-30s Irish/British jig tradition; the innocuous \"turkey\" verses were widely circulated in print by the early 1900s",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "dance tune",
+      "americana"
+    ],
+    "note": "A staple of American fiddle music. The tune was also used for the separately-titled, racially offensive minstrel song \"Zip Coon\" (c. 1834) — the verses presented here are the unrelated, family-friendly \"turkey\" lyrics in standard circulation today, not that minstrel text.",
+    "verses": [
+      "Turkey in the straw, turkey in the hay,\nRoll 'em up and twist 'em up a high tuckahaw,\nAnd hit 'em up a tune called Turkey in the Straw.",
+      "Went out to milk, and I didn't know how,\nI milked the goat instead of the cow,\nA monkey sittin' on a pile of straw,\nA-winkin' at his mother-in-law."
+    ]
+  },
+  {
+    "id": "skip-to-my-lou",
+    "title": "Skip to My Lou",
+    "category": "folk",
+    "origin": "Traditional American play-party song, documented in the Midwest by the 1840s; first collected in print by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "play-party",
+      "dance song",
+      "americana"
+    ],
+    "note": "A 'play-party' song — sung a cappella for dancing games in communities where instrumental dance music was frowned upon. Public domain as an anonymous traditional song.",
+    "verses": [
+      "Lost my partner, what'll I do?\nLost my partner, what'll I do?\nLost my partner, what'll I do?\nSkip to my Lou, my darling.",
+      "Skip, skip, skip to my Lou,\nSkip, skip, skip to my Lou,\nSkip, skip, skip to my Lou,\nSkip to my Lou, my darling.",
+      "I'll get another one prettier than you,\nI'll get another one prettier than you,\nI'll get another one prettier than you,\nSkip to my Lou, my darling."
+    ]
+  },
+  {
+    "id": "shell-be-comin-round-the-mountain",
+    "title": "She'll Be Comin' Round the Mountain",
+    "category": "folk",
+    "origin": "Derived from the African American spiritual \"When the Chariot Comes,\" published 1899 in William E. Barton's Old Plantation Hymns; secular verses adapted by Midwestern railroad workers in the 1890s, first printed in Carl Sandburg's The American Songbag, 1927",
+    "era": "19th century",
+    "tags": [
+      "spiritual",
+      "railroad",
+      "childrens song"
+    ],
+    "note": "Traces to a spiritual about the Second Coming, reworked into a secular folk favorite. Both the underlying 1899 spiritual and the 1927 printed secular version are public domain.",
+    "verses": [
+      "She'll be comin' round the mountain when she comes,\nShe'll be comin' round the mountain when she comes,\nShe'll be comin' round the mountain,\nShe'll be comin' round the mountain,\nShe'll be comin' round the mountain when she comes.",
+      "She'll be drivin' six white horses when she comes,\nShe'll be drivin' six white horses when she comes,\nShe'll be drivin' six white horses,\nShe'll be drivin' six white horses,\nShe'll be drivin' six white horses when she comes.",
+      "We will all go out to meet her when she comes,\nWe will all go out to meet her when she comes,\nWe will all go out to meet her,\nWe will all go out to meet her,\nWe will all go out to meet her when she comes."
+    ]
+  },
+  {
+    "id": "buffalo-gals",
+    "title": "Buffalo Gals",
+    "category": "folk",
+    "origin": "Written by John Hodges (performing as \"Cool White\") as \"Lubly Fan,\" copyrighted 1844",
+    "era": "19th century",
+    "tags": [
+      "minstrel era",
+      "dance song",
+      "americana"
+    ],
+    "note": "Originally a minstrel-stage song later adapted into countless local variants (\"Buffalo gals,\" \"Alabama gals,\" etc.) as it traveled. The verses below are the commonly sung, non-dialect chorus and verse in standard circulation.",
+    "verses": [
+      "As I was walking down the street,\nDown the street, down the street,\nA pretty little girl I chanced to meet,\nUnder the silvery moon.",
+      "Buffalo gals, won't you come out tonight,\nCome out tonight, come out tonight,\nBuffalo gals, won't you come out tonight,\nAnd dance by the light of the moon?",
+      "I asked her if she'd have a talk,\nHave a talk, have a talk,\nHer feet took up the whole sidewalk,\nAnd left no room for me."
+    ]
+  },
+  {
+    "id": "old-dan-tucker",
+    "title": "Old Dan Tucker",
+    "category": "folk",
+    "origin": "Attributed to Dan Emmett, copyrighted 1843",
+    "era": "19th century",
+    "tags": [
+      "minstrel era",
+      "dance song",
+      "americana"
+    ],
+    "note": "One of the most popular songs of the 1840s minstrel stage, later absorbed into square dance and children's song repertoires. Presented here with the commonly sung, non-dialect verses in wide circulation today.",
+    "verses": [
+      "Old Dan Tucker was a fine old man,\nWashed his face in a frying pan,\nCombed his hair with a wagon wheel,\nAnd died with a toothache in his heel.",
+      "Get out the way, old Dan Tucker,\nYou're too late to get your supper,\nSupper's over and breakfast's cookin',\nOld Dan Tucker just stands there lookin'.",
+      "Old Dan Tucker came to town,\nRiding a billy goat, leading a hound,\nThe hound dog barked, the billy goat jumped,\nAnd threw old Dan across a stump."
+    ]
+  },
+  {
+    "id": "jeanie-with-the-light-brown-hair",
+    "title": "Jeanie with the Light Brown Hair",
+    "category": "parlor",
+    "origin": "Stephen Foster, published 1854 by Firth, Pond & Co., New York",
+    "era": "19th century",
+    "tags": [
+      "stephen foster",
+      "serenade",
+      "americana"
+    ],
+    "note": "Written for Foster's estranged wife Jane; became the official state song of Kentucky (as 'My Old Kentucky Home' companion) in the 20th century. Public domain since its 1854 publication.",
+    "verses": [
+      "I dream of Jeanie with the light brown hair,\nBorne, like a vapor, on the summer air;\nI see her tripping where the bright streams play,\nHappy as the daisies that dance on her way.",
+      "Many were the wild notes her merry voice would pour,\nMany were the blithe birds that warbled them o'er:\nOh! I dream of Jeanie with the light brown hair,\nFloating, like a vapor, on the soft summer air.",
+      "I long for Jeanie with the daydawn smile,\nRadiant in gladness, warm with winning guile;\nI hear her melodies, like joys gone by,\nSighing round my heart o'er the fond hopes that die."
+    ]
+  },
+  {
+    "id": "my-darling-nelly-gray",
+    "title": "My Darling Nelly Gray",
+    "category": "parlor",
+    "origin": "Benjamin Russell Hanby, published 1856 by Oliver Ditson & Co., Boston",
+    "era": "19th century",
+    "tags": [
+      "abolitionist",
+      "parlor ballad",
+      "pre-civil war"
+    ],
+    "note": "Written by an Ohio abolitionist minister's son about a slave family torn apart by sale, decades before the Civil War. Public domain since its 1856 publication.",
+    "verses": [
+      "There's a low green valley on the old Kentucky shore,\nThere I've whiled many happy hours away,\nA-sitting and a-singing by the little cottage door,\nWhere lived my darling Nelly Gray.",
+      "Oh, my poor Nelly Gray, they have taken you away,\nAnd I'll never see my darling any more;\nI'm sitting by the river and I'm weeping all the day,\nFor you've gone from the old Kentucky shore.",
+      "One night I went to see her, but she's gone, the neighbors say,\nThe white man bound her with his chain;\nThey have taken her to Georgia for to wear her life away,\nAs she toils in the cotton and the cane."
+    ]
+  },
+  {
+    "id": "when-johnny-comes-marching-home",
+    "title": "When Johnny Comes Marching Home",
+    "category": "parlor",
+    "origin": "Patrick Sarsfield Gilmore, published 1863 (under the pen name Louis Lambert)",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "patriotic",
+      "homecoming"
+    ],
+    "note": "Written by a Union bandmaster, possibly adapted from the older Irish tune 'Johnny I Hardly Knew Ye.' Public domain since its 1863 publication.",
+    "verses": [
+      "When Johnny comes marching home again,\nHurrah! Hurrah!\nWe'll give him a hearty welcome then,\nHurrah! Hurrah!\nThe men will cheer, the boys will shout,\nThe ladies they will all turn out,\nAnd we'll all feel gay\nWhen Johnny comes marching home.",
+      "The old church bell will peal with joy,\nHurrah! Hurrah!\nTo welcome home our darling boy,\nHurrah! Hurrah!\nThe village lads and lassies say,\nWith roses they will strew the way,\nAnd we'll all feel gay\nWhen Johnny comes marching home.",
+      "Get ready for the jubilee,\nHurrah! Hurrah!\nWe'll give the hero three times three,\nHurrah! Hurrah!\nThe laurel wreath is ready now\nTo place upon his loyal brow,\nAnd we'll all feel gay\nWhen Johnny comes marching home."
+    ]
+  },
+  {
+    "id": "tenting-on-the-old-camp-ground",
+    "title": "Tenting on the Old Camp Ground",
+    "category": "parlor",
+    "origin": "Walter Kittredge, published 1864",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "lament",
+      "peace song"
+    ],
+    "note": "Written by a Union soldier and popular on both sides of the Civil War as a weary plea for peace. Public domain since its 1860s publication.",
+    "verses": [
+      "We're tenting tonight on the old camp ground,\nGive us a song to cheer\nOur weary hearts, a song of home,\nAnd friends we love so dear.",
+      "Many are the hearts that are weary tonight,\nWishing for the war to cease;\nMany are the hearts looking for the right,\nTo see the dawn of peace.\nTenting tonight, tenting tonight,\nTenting on the old camp ground.",
+      "We've been tenting tonight on the old camp ground,\nThinking of days gone by,\nOf the loved ones at home that gave us the hand,\nAnd the tear that said goodbye."
+    ]
+  },
+  {
+    "id": "battle-cry-of-freedom",
+    "title": "The Battle Cry of Freedom",
+    "category": "parlor",
+    "origin": "George Frederick Root, published 1862 by Root & Cady, Chicago",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "patriotic",
+      "union"
+    ],
+    "note": "One of the most popular songs of the Union Army, with a separate Confederate-lyric variant sung to the same tune. The 1862 original is public domain.",
+    "verses": [
+      "Yes, we'll rally round the flag, boys, we'll rally once again,\nShouting the battle cry of freedom,\nWe will rally from the hillside, we'll gather from the plain,\nShouting the battle cry of freedom.",
+      "The Union forever! Hurrah, boys, hurrah!\nDown with the traitor, up with the star;\nWhile we rally round the flag, boys, we rally once again,\nShouting the battle cry of freedom.",
+      "We are springing to the call of our brothers gone before,\nShouting the battle cry of freedom,\nAnd we'll fill the vacant ranks with a million freemen more,\nShouting the battle cry of freedom."
+    ]
+  },
+  {
+    "id": "daisy-bell",
+    "title": "Daisy Bell (A Bicycle Built for Two)",
+    "category": "parlor",
+    "origin": "Harry Dacre, published 1892",
+    "era": "19th century",
+    "tags": [
+      "novelty",
+      "bicycle craze",
+      "victorian"
+    ],
+    "note": "Written during the 1890s bicycle craze; later famous as the song IBM's computer HAL 9000 sings while being shut down in 2001: A Space Odyssey (1968). Public domain since 1892.",
+    "verses": [
+      "Daisy, Daisy, give me your answer, do!\nI'm half crazy, all for the love of you!\nIt won't be a stylish marriage,\nI can't afford a carriage,\nBut you'll look sweet upon the seat\nOf a bicycle built for two.",
+      "We will go 'tandem' as man and wife,\nDaisy, Daisy!\nPeddling away down the road of life,\nI and my Daisy Bell!\nWhen the road's dark, we can both despise\nP'licemen and lamps as well;\nThere are 'bright lights' in the dazzling eyes\nOf beautiful Daisy Bell!"
+    ]
+  },
+  {
+    "id": "after-the-ball",
+    "title": "After the Ball",
+    "category": "parlor",
+    "origin": "Charles K. Harris, published 1891",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "waltz",
+      "sentimental"
+    ],
+    "note": "One of the biggest hits of the 1890s, selling over five million copies of sheet music and helping establish Tin Pan Alley. Public domain since its 1891 publication.",
+    "verses": [
+      "A little maiden climbed an old man's knee,\nBegged for a story, \"Do, Uncle, please.\nWhy are you single; why live alone?\nHave you no babies; have you no home?\"",
+      "After the ball is over, after the break of morn,\nAfter the dancers' leaving, after the stars are gone,\nMany a heart is aching, if you could read them all,\nMany the hopes that have vanished, after the ball.",
+      "\"I have a story, sweetheart,\" he said,\n\"A story that's sad, and old as the days;\nIt was many years ago I loved a maid,\nBeautiful, one who is now passed away.\""
+    ]
+  },
+  {
+    "id": "the-sidewalks-of-new-york",
+    "title": "The Sidewalks of New York",
+    "category": "parlor",
+    "origin": "Words by James W. Blake, music by Charles B. Lawlor, published 1894",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "new york",
+      "nostalgia"
+    ],
+    "note": "A nostalgic waltz that became an unofficial anthem of New York City, later used as Al Smith's 1928 presidential campaign song. Public domain since 1894.",
+    "verses": [
+      "Down in front of Casey's old brown wooden stoop,\nOn a summer's evening we formed a merry group,\nBoys and girls together, we would sing and waltz,\nWhile Tony played the organ on the sidewalks of New York.",
+      "East side, west side, all around the town,\nThe tots sang 'ring-a-rosie', 'London Bridge is falling down,'\nBoys and girls together, me and Mamie O'Rourke,\nTripped the light fantastic on the sidewalks of New York.",
+      "Things have changed since those times, some are up in 'G',\nOthers they are wand'rers, but they all feel just like me,\nThey'd part with all they've got, could they once more walk,\nWith their best girl and have a twirl on the sidewalks of New York."
+    ]
+  },
+  {
+    "id": "in-the-good-old-summer-time",
+    "title": "In the Good Old Summer Time",
+    "category": "parlor",
+    "origin": "Words by Ren Shields, music by George Evans, published 1902",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "summer",
+      "nostalgia"
+    ],
+    "note": "A hit of the early Tin Pan Alley era, still played at ballparks and county fairs. Public domain since 1902.",
+    "verses": [
+      "There's a time in each year that we always hold dear,\nGood old summer time,\nWith the birds and the trees'es and sweet scented breezes,\nGood old summer time.",
+      "In the good old summer time,\nIn the good old summer time,\nStrolling through the shady lanes with your baby mine,\nYou hold her hand and she holds yours,\nAnd that's a very good sign\nThat she's your tootsie wootsie in the good old summer time.",
+      "When your day's work is over then you are in clover,\nAnd life is one beautiful rhyme,\nNo trouble annoying, each one is enjoying\nThe good old summer time."
+    ]
+  },
+  {
+    "id": "bill-bailey",
+    "title": "Bill Bailey, Won't You Please Come Home",
+    "category": "blues",
+    "origin": "Hughie Cannon, published 1902",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "ragtime",
+      "jazz standard"
+    ],
+    "note": "One of the most recorded songs of the Tin Pan Alley era, later a jazz standard covered by Louis Armstrong, Bobby Darin, and countless others. Public domain since 1902.",
+    "verses": [
+      "On one summer's day, sun was shining fine,\nThe lady love of old Bill Bailey was hanging out clothes on the line,\nIn her back yard, and weeping hard,\nShe married a butcher, but he's her man,\nAnd to a friend she said, in tears,\"I'm all alone,\"\nI've been savin' this ad through the years.",
+      "Won't you come home, Bill Bailey, won't you come home?\nShe moans the whole day long,\nI'll do the cooking, honey, I'll pay the rent,\nI know I've done you wrong,\n'Member that rainy evenin' I threw you out,\nWith nothin' but a fine tooth comb,\nI know I'm to blame, well, ain't that a shame,\nBill Bailey, won't you please come home."
+    ]
+  },
+  {
+    "id": "meet-me-in-st-louis",
+    "title": "Meet Me in St. Louis, Louis",
+    "category": "parlor",
+    "origin": "Words by Andrew B. Sterling, music by Kerry Mills, published 1904",
+    "era": "early 20th century",
+    "tags": [
+      "worlds fair",
+      "missouri",
+      "st. louis",
+      "tin pan alley"
+    ],
+    "note": "Written for the 1904 St. Louis World's Fair, and still associated with the city today. Public domain since 1904.",
+    "verses": [
+      "When Louis came home to the flat,\nHe hung up his coat and his hat,\nHe gazed all around, but no wifey he found,\nSo he said, \"Where can Flossie be at?\"\nA note on the table he spied,\nHe read it just once, then he cried:\nIt read, \"Louis dear, it's too slow for me here,\nSo I think I will go on my way.\"",
+      "Meet me in St. Louis, Louis,\nMeet me at the fair,\nDon't tell me the lights are shining\nAny place but there;\nWe will dance the hoochee koochee,\nI will be your tootsie wootsie,\nIf you will meet me in St. Louis, Louis,\nMeet me at the fair.",
+      "\"Meet me down at the Union Station,\nHoney, dear, don't be late;\nMeet me down at the Union Station,\nBy the big clock wait;\nMeet me at the fountain there, dear,\nOr I will meet you at the gate,\nMeet me in St. Louis, Louis,\nMeet me at the fair.\""
+    ]
+  },
+  {
+    "id": "red-wing",
+    "title": "Red Wing",
+    "category": "parlor",
+    "origin": "Words by Thurland Chattaway, music by Kerry Mills, published 1907",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "indian intermezzo",
+      "americana"
+    ],
+    "note": "One of the best-known 'Indian intermezzo' songs of the Tin Pan Alley era; its melody was later reused for the labor anthem 'Union Maid.' Public domain since 1907.",
+    "verses": [
+      "Now the moon shines tonight on pretty Red Wing,\nThe breeze is sighing, the night bird's crying,\nFar away her warrior's sleeping,\nWhile Red Wing's weeping her heart away.",
+      "She loved a warrior bold,\nThis shy little maid of old,\nBut brave and gay he rode one day,\nTo the battle far away.",
+      "Now the moon shines tonight on pretty Red Wing,\nThe breeze is sighing, the night bird's crying,\nFar away her warrior's sleeping,\nWhile Red Wing's weeping her heart away."
+    ]
+  },
+  {
+    "id": "take-me-out-to-the-ball-game",
+    "title": "Take Me Out to the Ball Game",
+    "category": "parlor",
+    "origin": "Words by Jack Norworth, music by Albert Von Tilzer, published 1908",
+    "era": "early 20th century",
+    "tags": [
+      "baseball",
+      "tin pan alley",
+      "seventh-inning stretch"
+    ],
+    "note": "Sung during the seventh-inning stretch at ballparks across America; neither writer had attended a professional game before writing it. Public domain since 1908.",
+    "verses": [
+      "Katie Casey was baseball mad,\nHad the fever and had it bad,\nJust to root for the home town crew,\nEv'ry sou Katie blew.\nOn a Saturday, her young beau\nCalled to see if she'd like to go\nTo see a show, but Miss Kate said, \"No,\nI'll tell you what you can do.\"",
+      "Take me out to the ball game,\nTake me out with the crowd,\nBuy me some peanuts and cracker jack,\nI don't care if I never get back,\nLet me root, root, root for the home team,\nIf they don't win, it's a shame,\nFor it's one, two, three strikes, you're out,\nAt the old ball game."
+    ]
+  },
+  {
+    "id": "shine-on-harvest-moon",
+    "title": "Shine On, Harvest Moon",
+    "category": "parlor",
+    "origin": "Words by Jack Norworth, music by Nora Bayes, published 1908",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "vaudeville",
+      "autumn"
+    ],
+    "note": "Introduced by husband-and-wife vaudeville stars Norworth and Bayes; later a standard revived in film and jazz. Public domain since 1908.",
+    "verses": [
+      "I ain't had no lovin' since April, January, June, or July,\nSnow time ain't no time to stay outdoors and spoon,\nSo shine on, shine on harvest moon, for me and my gal.",
+      "Shine on, shine on harvest moon,\nUp in the sky,\nI ain't had no lovin' since January, February, June or July,\nSnow time ain't no time to stay outdoors and spoon,\nSo shine on, shine on harvest moon,\nFor me and my gal."
+    ]
+  },
+  {
+    "id": "home-sweet-home",
+    "title": "Home! Sweet Home!",
+    "category": "parlor",
+    "origin": "Words by John Howard Payne, music adapted by Henry Bishop, from the opera Clari, or the Maid of Milan, 1823",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "nostalgia",
+      "americana"
+    ],
+    "note": "One of the most popular songs of the 19th century, played to remind soldiers of home on both sides of the Civil War (and reportedly banned from Union camps to prevent desertion). Public domain since 1823.",
+    "verses": [
+      "'Mid pleasures and palaces though we may roam,\nBe it ever so humble, there's no place like home;\nA charm from the skies seems to hallow us there,\nWhich, seek through the world, is ne'er met with elsewhere.",
+      "Home, home, sweet, sweet home!\nThere's no place like home!\nThere's no place like home!",
+      "An exile from home, splendor dazzles in vain;\nOh, give me my lowly thatched cottage again;\nThe birds singing gaily, that came at my call,\nGive me them, and the peace of mind, dearer than all."
+    ]
+  },
+  {
+    "id": "the-last-rose-of-summer",
+    "title": "The Last Rose of Summer",
+    "category": "parlor",
+    "origin": "Thomas Moore, published 1805 in his Irish Melodies, set to a traditional Irish air",
+    "era": "early 19th century",
+    "tags": [
+      "irish melody",
+      "thomas moore",
+      "lament"
+    ],
+    "note": "One of Thomas Moore's most famous Irish Melodies, later quoted by Beethoven and Flotow. Public domain since its 1805 publication.",
+    "verses": [
+      "'Tis the last rose of summer,\nLeft blooming alone;\nAll her lovely companions\nAre faded and gone;\nNo flower of her kindred,\nNo rosebud is nigh,\nTo reflect back her blushes,\nOr give sigh for sigh.",
+      "I'll not leave thee, thou lone one,\nTo pine on the stem;\nSince the lovely are sleeping,\nGo, sleep thou with them;\nThus kindly I scatter\nThy leaves o'er the bed,\nWhere thy mates of the garden\nLie scentless and dead."
+    ]
+  },
+  {
+    "id": "the-minstrel-boy",
+    "title": "The Minstrel Boy",
+    "category": "parlor",
+    "origin": "Thomas Moore, published 1813 in his Irish Melodies, set to the traditional Irish air \"The Moreen\"",
+    "era": "early 19th century",
+    "tags": [
+      "irish melody",
+      "thomas moore",
+      "patriotic"
+    ],
+    "note": "Written in memory of friends Moore lost in the 1798 Irish Rebellion; long a favorite at military funerals. Public domain since its 1813 publication.",
+    "verses": [
+      "The Minstrel Boy to the war is gone,\nIn the ranks of death you'll find him;\nHis father's sword he has girded on,\nAnd his wild harp slung behind him.\n\"Land of song!\" said the warrior bard,\n\"Though all the world betrays thee,\nOne sword, at least, thy rights shall guard,\nOne faithful harp shall praise thee!\"",
+      "The Minstrel fell! But the foeman's chain\nCould not bring his proud soul under;\nThe harp he loved ne'er spoke again,\nFor he tore its chords asunder;\nAnd said, \"No chains shall sully thee,\nThou soul of love and bravery!\nThy songs were made for the pure and free,\nThey shall never sound in slavery.\""
+    ]
+  },
+  {
+    "id": "the-wild-rover",
+    "title": "The Wild Rover",
+    "category": "folk",
+    "origin": "Traditional British Isles song; earliest known printed text 1829 (as a temperance ballad), Roud Folk Song Index no. 1173",
+    "era": "19th century",
+    "tags": [
+      "irish",
+      "temperance",
+      "drinking song"
+    ],
+    "note": "Often linked to the 19th-century temperance movement despite its rowdy reputation today; the traditional song has no identified author and is public domain.",
+    "verses": [
+      "I've been a wild rover for many a year,\nAnd I've spent all my money on whiskey and beer,\nBut now I'm returning with gold in great store,\nAnd I never will play the wild rover no more.",
+      "And it's no, nay, never,\nNo, nay, never, no more,\nWill I play the wild rover,\nNo, never, no more.",
+      "I went into an alehouse I used to frequent,\nAnd I told the landlady my money was spent,\nI asked her for credit, she answered me \"Nay,\nSuch a custom as yours I could have any day.\""
+    ]
+  },
+  {
+    "id": "paddy-works-on-the-railway",
+    "title": "Paddy Works on the Railway",
+    "category": "work-song",
+    "origin": "Traditional Irish-American railroad work song; documented in print by 1864 as \"Paddy on the Railway\"",
+    "era": "19th century",
+    "tags": [
+      "railroad",
+      "irish",
+      "labor"
+    ],
+    "note": "Sung by the Irish immigrant laborers who built much of the American and Canadian rail network in the mid-19th century. Traditional and public domain.",
+    "verses": [
+      "In eighteen hundred and forty-one,\nI put my corduroy breeches on,\nI put my corduroy breeches on,\nTo work upon the railway, the railway,\nI'm weary of the railway,\nPoor Paddy works on the railway.",
+      "In eighteen hundred and forty-two,\nFrom Hartlepool I moved to Crewe,\nAnd I found myself a job to do,\nA-working on the railway.",
+      "In eighteen hundred and forty-three,\nI broke my shin at the knee,\nI broke my shin at the knee,\nA-working on the railway."
+    ]
+  }
+]
