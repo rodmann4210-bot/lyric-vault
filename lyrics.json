@@ -3635,5 +3635,396 @@
       "I had a bottle of Burgundy wine,\nMy love she did not know,\nI poisoned that dear little girl,\nWhose name was Rose Connelly.",
       "My father often told me,\nThat money would set me free,\nIf I would murder that dear little girl,\nWhose name was Rose Connelly."
     ]
+  },
+  {
+    "id": "mary-had-a-little-lamb",
+    "title": "Mary Had a Little Lamb",
+    "category": "folk",
+    "origin": "Poem by Sarah Josepha Hale, published 1830 in Boston; the familiar tune added later in the 19th century",
+    "era": "19th century",
+    "tags": [
+      "nursery rhyme",
+      "childrens song"
+    ],
+    "note": "One of the most famous nursery rhymes in the English language, reportedly inspired by a real incident involving a girl named Mary Sawyer and her pet lamb. Public domain since 1830.",
+    "verses": [
+      "Mary had a little lamb,\nIts fleece was white as snow,\nAnd everywhere that Mary went,\nThe lamb was sure to go.",
+      "It followed her to school one day,\nWhich was against the rule,\nIt made the children laugh and play,\nTo see a lamb at school.",
+      "And so the teacher turned it out,\nBut still it lingered near,\nAnd waited patiently about,\nTill Mary did appear."
+    ]
+  },
+  {
+    "id": "twinkle-twinkle-little-star",
+    "title": "Twinkle, Twinkle, Little Star",
+    "category": "folk",
+    "origin": "Poem by Jane Taylor, published 1806 in Rhymes for the Nursery; set to the French melody \"Ah! vous dirai-je, Maman,\" published 1761",
+    "era": "18th century",
+    "tags": [
+      "nursery rhyme",
+      "childrens song",
+      "lullaby"
+    ],
+    "note": "The tune, still used for the alphabet song and \"Baa, Baa, Black Sheep,\" originated as a French folk melody decades before Taylor's English lyrics were written. Both are public domain.",
+    "verses": [
+      "Twinkle, twinkle, little star,\nHow I wonder what you are,\nUp above the world so high,\nLike a diamond in the sky.",
+      "When the blazing sun is gone,\nWhen he nothing shines upon,\nThen you show your little light,\nTwinkle, twinkle, all the night.",
+      "Then the traveler in the dark,\nThanks you for your tiny spark,\nHe could not see which way to go,\nIf you did not twinkle so."
+    ]
+  },
+  {
+    "id": "baa-baa-black-sheep",
+    "title": "Baa, Baa, Black Sheep",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme, first printed in Tommy Thumb's Pretty Song Book, 1744",
+    "era": "18th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "childrens song"
+    ],
+    "note": "One of the oldest English nursery rhymes still commonly sung, set to the same tune as \"Twinkle, Twinkle, Little Star.\" Ancient and public domain.",
+    "verses": [
+      "Baa, baa, black sheep,\nHave you any wool?\nYes sir, yes sir,\nThree bags full.",
+      "One for the master,\nOne for the dame,\nAnd one for the little boy\nWho lives down the lane."
+    ]
+  },
+  {
+    "id": "hickory-dickory-dock",
+    "title": "Hickory Dickory Dock",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme, first printed in Tommy Thumb's Pretty Song Book, 1744",
+    "era": "18th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "childrens song",
+      "counting rhyme"
+    ],
+    "note": "Possibly connected to old English shepherd counting systems ('hevera, devera, dick'). Ancient and public domain.",
+    "verses": [
+      "Hickory dickory dock,\nThe mouse ran up the clock,\nThe clock struck one,\nThe mouse ran down,\nHickory dickory dock."
+    ]
+  },
+  {
+    "id": "jack-and-jill",
+    "title": "Jack and Jill",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme, first printed in 1765 in Mother Goose's Melody",
+    "era": "18th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "childrens song"
+    ],
+    "note": "One of the most enduringly popular English nursery rhymes, of disputed and much-speculated origin. Ancient and public domain.",
+    "verses": [
+      "Jack and Jill went up the hill,\nTo fetch a pail of water,\nJack fell down and broke his crown,\nAnd Jill came tumbling after.",
+      "Up Jack got and home did trot,\nAs fast as he could caper,\nHe went to bed to mend his head,\nWith vinegar and brown paper."
+    ]
+  },
+  {
+    "id": "old-king-cole",
+    "title": "Old King Cole",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme, first printed in the 18th century, possibly referencing a legendary early British king",
+    "era": "18th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "childrens song"
+    ],
+    "note": "A cheerful rhyme of uncertain historical basis, possibly connected to a figure from British legend. Ancient and public domain.",
+    "verses": [
+      "Old King Cole was a merry old soul,\nAnd a merry old soul was he,\nHe called for his pipe, and he called for his bowl,\nAnd he called for his fiddlers three.",
+      "Every fiddler he had a fine fiddle,\nAnd a very fine fiddle had he,\nOh there's none so rare as can compare,\nWith King Cole and his fiddlers three."
+    ]
+  },
+  {
+    "id": "hey-diddle-diddle",
+    "title": "Hey Diddle Diddle",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme, first printed in 1765 in Mother Goose's Melody",
+    "era": "18th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "childrens song",
+      "nonsense rhyme"
+    ],
+    "note": "A classic nonsense rhyme of unknown origin, endlessly speculated about by folklorists. Ancient and public domain.",
+    "verses": [
+      "Hey diddle diddle,\nThe cat and the fiddle,\nThe cow jumped over the moon,\nThe little dog laughed to see such sport,\nAnd the dish ran away with the spoon."
+    ]
+  },
+  {
+    "id": "the-muffin-man",
+    "title": "The Muffin Man",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme, referencing itinerant muffin sellers of Victorian England; documented in print by the early 19th century",
+    "era": "19th century",
+    "tags": [
+      "nursery rhyme",
+      "childrens song",
+      "london"
+    ],
+    "note": "References the muffin men who once sold fresh muffins door-to-door in London streets. Traditional and public domain.",
+    "verses": [
+      "Do you know the muffin man,\nThe muffin man, the muffin man,\nDo you know the muffin man,\nWho lives on Drury Lane?",
+      "Yes, I know the muffin man,\nThe muffin man, the muffin man,\nYes, I know the muffin man,\nWho lives on Drury Lane."
+    ]
+  },
+  {
+    "id": "ring-around-the-rosie",
+    "title": "Ring Around the Rosie",
+    "category": "folk",
+    "origin": "Traditional English/American nursery rhyme and singing game, first documented in print in 1881 in Kate Greenaway's Mother Goose",
+    "era": "19th century",
+    "tags": [
+      "nursery rhyme",
+      "childrens song",
+      "singing game"
+    ],
+    "note": "A popular ring-dance singing game for children. Despite a widespread modern legend connecting it to the Great Plague, folklorists have found no evidence supporting that origin story. Public domain since 1881.",
+    "verses": [
+      "Ring around the rosie,\nA pocket full of posies,\nAshes, ashes,\nWe all fall down."
+    ]
+  },
+  {
+    "id": "standin-in-the-need-of-prayer",
+    "title": "Standin' in the Need of Prayer",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "prayer song"
+    ],
+    "note": "A humble, confessional spiritual with a widely recognized 'not my brother, not my sister, but it's me' refrain structure. Traditional and public domain.",
+    "verses": [
+      "It's me, it's me, it's me, O Lord,\nStandin' in the need of prayer,\nIt's me, it's me, it's me, O Lord,\nStandin' in the need of prayer.",
+      "Not my brother, not my sister, but it's me, O Lord,\nStandin' in the need of prayer,\nNot my brother, not my sister, but it's me, O Lord,\nStandin' in the need of prayer.",
+      "Not the preacher, not the deacon, but it's me, O Lord,\nStandin' in the need of prayer,\nNot the preacher, not the deacon, but it's me, O Lord,\nStandin' in the need of prayer."
+    ]
+  },
+  {
+    "id": "man-going-round-taking-names",
+    "title": "There's a Man Going Round Taking Names",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "death and judgment"
+    ],
+    "note": "A meditative spiritual on mortality, imagining death as a figure recording names for judgment. Traditional and public domain.",
+    "verses": [
+      "There's a man going round taking names,\nThere's a man going round taking names,\nHe has taken my father's name,\nAnd he's left my heart in pain,\nThere's a man going round taking names.",
+      "There's a man going round taking names,\nThere's a man going round taking names,\nHe has taken my mother's name,\nAnd he's left my heart in pain,\nThere's a man going round taking names."
+    ]
+  },
+  {
+    "id": "all-gods-chillun-got-shoes",
+    "title": "All God's Chillun Got Shoes",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "heaven"
+    ],
+    "note": "A spiritual affirming the promise of heaven's equality and dignity, later given a famous concert arrangement by Marian Anderson. Traditional and public domain.",
+    "verses": [
+      "I got shoes, you got shoes,\nAll God's children got shoes,\nWhen I get to heaven, gonna put on my shoes,\nGonna walk all over God's heaven, heaven, heaven.",
+      "I got a robe, you got a robe,\nAll God's children got a robe,\nWhen I get to heaven, gonna put on my robe,\nGonna shout all over God's heaven, heaven, heaven.",
+      "I got a crown, you got a crown,\nAll God's children got a crown,\nWhen I get to heaven, gonna put on my crown,\nGonna shout all over God's heaven, heaven, heaven."
+    ]
+  },
+  {
+    "id": "roll-jordan-roll",
+    "title": "Roll, Jordan, Roll",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, adapted from an 18th-century Methodist hymn by Charles Wesley; documented in Slave Songs of the United States, 1867",
+    "era": "18th century or earlier",
+    "tags": [
+      "gospel",
+      "jordan"
+    ],
+    "note": "One of the earliest documented African American spirituals, reworked from an English hymn tune into a distinctive call-and-response form. Public domain since at least 1867.",
+    "verses": [
+      "Roll, Jordan, roll,\nRoll, Jordan, roll,\nI want to go to heaven when I die,\nTo hear old Jordan roll.",
+      "Oh, brothers, you ought to have been there,\nYes, my Lord,\nA-sitting up in the kingdom,\nTo hear old Jordan roll.",
+      "Oh, sisters, you ought to have been there,\nYes, my Lord,\nA-sitting up in the kingdom,\nTo hear old Jordan roll."
+    ]
+  },
+  {
+    "id": "jacobs-ladder",
+    "title": "We Are Climbing Jacob's Ladder",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th century, drawing on the Genesis account of Jacob's dream",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "perseverance"
+    ],
+    "note": "A steady, marching spiritual using the biblical image of a ladder to heaven as a metaphor for spiritual progress. Traditional and public domain.",
+    "verses": [
+      "We are climbing Jacob's ladder,\nWe are climbing Jacob's ladder,\nWe are climbing Jacob's ladder,\nSoldiers of the cross.",
+      "Every rung goes higher, higher,\nEvery rung goes higher, higher,\nEvery rung goes higher, higher,\nSoldiers of the cross.",
+      "Do you think I'll make a soldier?\nDo you think I'll make a soldier?\nDo you think I'll make a soldier?\nSoldiers of the cross."
+    ]
+  },
+  {
+    "id": "cant-you-line-it",
+    "title": "Can't You Line It",
+    "category": "work-song",
+    "origin": "Traditional African American railroad track-lining work song, documented by folklorists in Southern railroad camps in the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "railroad",
+      "work song",
+      "call and response"
+    ],
+    "note": "A 'gandy dancer' work song sung by track-lining crews to coordinate the heavy, synchronized labor of shifting rail track. Traditional and public domain.",
+    "verses": [
+      "Can't you line it?\nCan't you line it?\nCan't you line it?\nCan't you line 'em, boys?",
+      "Ho, boys, can't you line it?\nAh, shuck, can't you line it?\nOh, Lordy, can't you line it?\nCan't you line the old jack bar?",
+      "See that woman all dressed in red?\nCan't you line it?\nMaybe she is mad at what I said,\nCan't you line it?"
+    ]
+  },
+  {
+    "id": "goodbye-old-paint",
+    "title": "Goodbye Old Paint",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, collected 1927 by John Lomax from Texas singer Jess Morris, who learned it from a cowhand in the 1880s",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "trail song"
+    ],
+    "note": "A wistful farewell song addressed to a cowboy's paint horse, one of the oldest and most beloved trail-drive songs. Traditional and public domain.",
+    "verses": [
+      "My foot in the stirrup, my pony won't stand,\nGoodbye, old Paint, I'm a-leaving Cheyenne,\nGoodbye, old Paint, I'm a-leaving Cheyenne.",
+      "Old Paint's a good pony, he paces when he can,\nGoodbye, little Annie, I'm off for Cheyenne,\nGoodbye, old Paint, I'm a-leaving Cheyenne.",
+      "I'm a-riding old Paint, I'm a-leading old Fan,\nGoodbye, little Annie, I'm off to Montan',\nGoodbye, old Paint, I'm a-leaving Cheyenne."
+    ]
+  },
+  {
+    "id": "columbia-gem-of-the-ocean",
+    "title": "Columbia, the Gem of the Ocean",
+    "category": "parlor",
+    "origin": "Words and music generally credited to David T. Shaw and Thomas a Becket, published 1843",
+    "era": "19th century",
+    "tags": [
+      "patriotic",
+      "naval"
+    ],
+    "note": "A once-popular unofficial American patriotic anthem, especially associated with the U.S. Navy in the 19th and early 20th centuries. Public domain since 1843.",
+    "verses": [
+      "O Columbia, the gem of the ocean,\nThe home of the brave and the free,\nThe shrine of each patriot's devotion,\nA world offers homage to thee.",
+      "Thy mandates make heroes assemble,\nWhen Liberty's form stands in view,\nThy banners make tyranny tremble,\nWhen borne by the red, white, and blue.",
+      "When borne by the red, white, and blue,\nWhen borne by the red, white, and blue,\nThy banners make tyranny tremble,\nWhen borne by the red, white, and blue."
+    ]
+  },
+  {
+    "id": "hail-columbia",
+    "title": "Hail, Columbia",
+    "category": "parlor",
+    "origin": "Music by Philip Phile (as \"The President's March,\" 1789); words by Joseph Hopkinson, added 1798",
+    "era": "18th century",
+    "tags": [
+      "patriotic"
+    ],
+    "note": "Served as a de facto national anthem of the United States for much of the 19th century and remains the official entrance march of the Vice President. Public domain since 1798.",
+    "verses": [
+      "Hail, Columbia, happy land!\nHail, ye heroes, heaven-born band,\nWho fought and bled in freedom's cause,\nAnd when the storm of war was gone,\nEnjoyed the peace your valor won.",
+      "Firm, united let us be,\nRallying round our liberty,\nAs a band of brothers joined,\nPeace and safety we shall find.",
+      "Sound, sound the trump of fame,\nLet Washington's great name\nRing through the world with loud applause,\nRing through the world with loud applause."
+    ]
+  },
+  {
+    "id": "my-country-tis-of-thee",
+    "title": "My Country, 'Tis of Thee",
+    "category": "parlor",
+    "origin": "Words by Samuel Francis Smith, written 1831, set to the same melody as \"God Save the King/Queen\"",
+    "era": "19th century",
+    "tags": [
+      "patriotic",
+      "hymn"
+    ],
+    "note": "Smith wrote the words as a 19-year-old seminary student, unaware the tune was already the British national anthem. Long served as an unofficial American anthem. Public domain since 1831.",
+    "verses": [
+      "My country, 'tis of thee,\nSweet land of liberty,\nOf thee I sing;\nLand where my fathers died,\nLand of the pilgrims' pride,\nFrom every mountainside\nLet freedom ring.",
+      "My native country, thee,\nLand of the noble free,\nThy name I love;\nI love thy rocks and rills,\nThy woods and templed hills;\nMy heart with rapture thrills,\nLike that above.",
+      "Let music swell the breeze,\nAnd ring from all the trees\nSweet freedom's song;\nLet mortal tongues awake,\nLet all that breathe partake,\nLet rocks their silence break,\nThe sound prolong."
+    ]
+  },
+  {
+    "id": "ive-been-working-on-the-railroad",
+    "title": "I've Been Working on the Railroad",
+    "category": "work-song",
+    "origin": "First published as \"Levee Song\" in Carmina Princetonia, a Princeton University songbook, 1894; the \"Dinah\" verse melody has been dated to before 1850",
+    "era": "19th century",
+    "tags": [
+      "railroad",
+      "childrens song",
+      "nursery rhyme"
+    ],
+    "note": "The 1894 original was published with offensive minstrel dialect and racist lyrics, which are omitted here entirely. By around 1915, children's songbooks had already replaced them with the neutral verses presented below, which are the version in standard circulation today.",
+    "verses": [
+      "I've been working on the railroad,\nAll the livelong day,\nI've been working on the railroad,\nJust to pass the time away.",
+      "Can't you hear the whistle blowing,\nRise up so early in the morn,\nCan't you hear the captain shouting,\n'Dinah, blow your horn!'",
+      "Someone's in the kitchen with Dinah,\nSomeone's in the kitchen, I know,\nSomeone's in the kitchen with Dinah,\nStrummin' on the old banjo."
+    ]
+  },
+  {
+    "id": "utah-carroll",
+    "title": "Utah Carroll",
+    "category": "ballad",
+    "origin": "Traditional American cowboy ballad, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "tribute"
+    ],
+    "note": "A cowboy ballad honoring a fellow rider who died saving a rancher's daughter from a stampede. Traditional and public domain.",
+    "verses": [
+      "Oh, we were down in the ranch house,\non the Brazos so bold,\nAnd it happened I remember,\nin the days of 'ninety-fold,\nMy pardner was a cowboy,\nUtah Carroll, his name,\nFew, if any on the ranch,\ncould with Utah lay claim.",
+      "Ike Ferguson was the ranchman,\nfor whom the work we did,\nHe had one lovely daughter,\nwith us she loved to ride,\nShe would ride, ah, like a cowboy,\nout on the plains so free,\nShe never seemed so happy,\nas when out with Utah and me."
+    ]
+  },
+  {
+    "id": "wife-of-ushers-well",
+    "title": "The Wife of Usher's Well",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 79, collected in various forms across Britain and America; the earliest known text appears in the 1802 Minstrelsy of the Scottish Border",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "ghost ballad"
+    ],
+    "note": "A gentle ghost ballad in which three drowned sons return briefly to comfort their grieving mother before returning to the sea. Ancient and public domain.",
+    "verses": [
+      "There lived a wife at Usher's well,\nAnd a wealthy wife was she,\nShe had three stout and stalwart sons,\nAnd sent them o'er the sea.",
+      "They hadna been a week from her,\nA week but barely three,\nWhen word came to the carline wife,\nThat her three sons were gane.",
+      "'I wish the wind may never cease,\nNor fashes in the flood,\nTill my three sons come hame to me,\nIn earthly flesh and blood.'",
+      "It fell about the Martinmas,\nWhen nights are long and mirk,\nThe carline wife's three sons came hame,\nAnd their hats were o' the birk."
+    ]
+  },
+  {
+    "id": "lord-lovel",
+    "title": "Lord Lovel",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad, Child Ballad No. 75, with printed broadsides dating to the early 19th century",
+    "era": "19th century",
+    "tags": [
+      "child ballad",
+      "love ballad",
+      "tragedy"
+    ],
+    "note": "A romantic ballad in which two parted lovers each die of grief and are buried side by side, their entwined rose and briar echoing the ending of \"Barbara Allen.\" Traditional and public domain.",
+    "verses": [
+      "Lord Lovel he stood at his castle gate,\nCombing his milk-white steed,\nWhen up came Lady Nancy Belle,\nTo wish her lover good speed, speed, speed,\nTo wish her lover good speed.",
+      "'Where are you going, Lord Lovel?' she said,\n'Oh, where are you going?' said she,\n'I'm going, my Lady Nancy Belle,\nStrange countries for to see, see, see,\nStrange countries for to see.'",
+      "He had not been gone but a year and a day,\nStrange countries for to see,\nWhen languishing thoughts came into his head,\nLady Nancy Belle he would go see, see, see,\nLady Nancy Belle he would go see.",
+      "He rode and he rode on his milk-white steed,\nTill he came to London town,\nAnd there he heard St. Pancras' bells,\nAnd the people all mourning round, round, round,\nAnd the people all mourning round."
+    ]
   }
 ]
