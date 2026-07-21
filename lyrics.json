@@ -2856,5 +2856,416 @@
       "I love my love and well she knows,\nI love the ground whereon she goes,\nI wish the day it soon would come,\nWhen she and I could be as one.",
       "I go to the Clyde and I mourn and weep,\nFor satisfied I ne'er can be,\nI write her a letter, just a few short lines,\nAnd suffer death a thousand times."
     ]
+  },
+  {
+    "id": "haul-away-joe",
+    "title": "Haul Away Joe",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard British and American sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song"
+    ],
+    "note": "A short-drag shanty for hauling square-rig halyards, sung with a hard pull on 'Joe.' No individual author identified. Traditional and public domain.",
+    "verses": [
+      "Away, haul away, we'll haul away Joe,\nAway, haul away, we'll haul away Joe,\nOnce I had a scolding wife, and she wouldn't do for me,\nAway, haul away, we'll haul away Joe.",
+      "I traded her for a barrel of flour, and things went better then,\nAway, haul away, we'll haul away Joe,\nWhen I was a little lad, my mother always told me,\nAway, haul away, we'll haul away Joe.",
+      "King Louis was the King of France before the Revolution,\nAway, haul away, we'll haul away Joe,\nBut then he got his head cut off, which spoiled his constitution,\nAway, haul away, we'll haul away Joe."
+    ]
+  },
+  {
+    "id": "south-australia",
+    "title": "South Australia",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, likely originating among wool-trade sailors on the Australian run in the 1880s",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "australia"
+    ],
+    "note": "Sung to heave the anchor windlass on ships bound to and from Australia. Traditional and public domain.",
+    "verses": [
+      "In South Australia I was born,\nHeave away, haul away,\nIn South Australia, round Cape Horn,\nWe're bound for South Australia.",
+      "Heave away, haul away,\nHeave away, haul away,\nHeave away, you rolling king,\nWe're bound for South Australia.",
+      "As I walked out one morning fair,\nHeave away, haul away,\nIt's there I met Miss Nancy Blair,\nWe're bound for South Australia."
+    ]
+  },
+  {
+    "id": "rio-grande",
+    "title": "Rio Grande",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard sailing ships in the mid-to-late 19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "farewell song"
+    ],
+    "note": "A homeward-bound shanty sung while weighing anchor for the Rio Grande do Sul cattle trade. No author identified; traditional and public domain.",
+    "verses": [
+      "Oh, say, were you ever in Rio Grande?\nAway, you Rio,\nOh, say, were you ever in Rio Grande?\nWe're bound for the Rio Grande.",
+      "And away, you Rio, away, you Rio,\nSing fare you well, my bonny young girl,\nWe're bound for the Rio Grande.",
+      "So it's pack up your donkey and haul up your gear,\nAway, you Rio,\nWe're bound away from Liverpool here,\nWe're bound for the Rio Grande."
+    ]
+  },
+  {
+    "id": "boney",
+    "title": "Boney Was a Warrior",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty commemorating Napoleon Bonaparte, likely originating among early-19th-century sailors",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "napoleon"
+    ],
+    "note": "A shanty tracing Napoleon's career from Corsica to his 1821 death on St. Helena, sung by sailors for generations after the fact. Traditional and public domain.",
+    "verses": [
+      "Boney was a warrior,\nAway, ay-ah,\nA warrior, a terrier,\nJean Francois.",
+      "Boney fought the Prussians,\nAway, ay-ah,\nBoney fought the Russians,\nJean Francois.",
+      "Boney went to Moscow,\nAway, ay-ah,\nMoscow was a-blazing,\nJean Francois.",
+      "Boney went to Elba,\nAway, ay-ah,\nBoney he came back again,\nJean Francois."
+    ]
+  },
+  {
+    "id": "roll-the-old-chariot",
+    "title": "Roll the Old Chariot Along",
+    "category": "sea-shanty",
+    "origin": "Traditional stamp-and-go shanty, adapted from the African American spiritual \"Roll the Old Chariot\"; documented aboard sailing ships by the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "spiritual-derived",
+      "call and response"
+    ],
+    "note": "A rousing hauling shanty adapted from a camp-meeting spiritual, with endless improvised verses ending 'and we'll all hang on behind.' Traditional and public domain.",
+    "verses": [
+      "Oh, a drop of Nelson's blood wouldn't do us any harm,\nAnd we'll all hang on behind!",
+      "Oh, a drop of Nelson's blood wouldn't do us any harm,\nAnd we'll all hang on behind!\nAnd we'll roll the old chariot along,\nAnd we'll roll the old chariot along,\nAnd we'll roll the old chariot along,\nAnd we'll all hang on behind!",
+      "Oh, a nice fat cook wouldn't do us any harm,\nAnd we'll all hang on behind!\nAnd we'll roll the old chariot along."
+    ]
+  },
+  {
+    "id": "a-roving",
+    "title": "A-Roving",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, its verses derived from a much older 17th-century English song, \"The Maiden's Complaint\"; documented in shanty collections by the late 19th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "courting song"
+    ],
+    "note": "One of the oldest shanty melodies still commonly sung, adapted from a Jacobean-era comic song. Traditional and public domain.",
+    "verses": [
+      "In Amsterdam there lived a maid,\nMark well what I do say,\nIn Amsterdam there lived a maid,\nAnd she was mistress of her trade,\nI'll go no more a-roving with you, fair maid.",
+      "A-roving, a-roving,\nSince roving's been my ruin,\nI'll go no more a-roving,\nWith you, fair maid.",
+      "Her eyes are like two stars so bright,\nMark well what I do say,\nHer eyes are like two stars so bright,\nHer face it is her fortune quite,\nI'll go no more a-roving with you, fair maid."
+    ]
+  },
+  {
+    "id": "sir-patrick-spens",
+    "title": "Sir Patrick Spens",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 58, possibly referencing a 13th-century royal voyage; the earliest printed text appeared in 1765 in Bishop Thomas Percy's Reliques of Ancient English Poetry",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "sea ballad"
+    ],
+    "note": "Widely regarded as one of the finest of the Scottish popular ballads, telling of a doomed sea voyage ordered by a king. Ancient and public domain.",
+    "verses": [
+      "The king sits in Dunfermline town,\nDrinking the blude-red wine;\n'O whar will I get a guid sailor,\nTo sail this ship of mine?'",
+      "'To Noroway, to Noroway,\nTo Noroway o'er the faem;\nThe king's daughter of Noroway,\n'Tis thou maun bring her hame.'",
+      "'O wha is this has done this deed,\nThis ill deed done to me,\nTo send me out this time o' the year,\nTo sail upon the sea?'",
+      "'Late late yestre'en I saw the new moone,\nWi' the auld moone in hir arme,\nAnd I feir, I feir, my deir master,\nThat we will cum to harme.'"
+    ]
+  },
+  {
+    "id": "geordie",
+    "title": "Geordie",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad, Child Ballad No. 209, with printed broadsides dating to the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "love ballad",
+      "gallows"
+    ],
+    "note": "A ballad of a woman pleading for the life of her condemned lover. Widely collected across the British Isles and Appalachia in dozens of variants. Ancient and public domain.",
+    "verses": [
+      "As I walked out over London Bridge,\nOne misty morning early,\nI overheard a fair pretty maid,\nWas lamenting for her Geordie.",
+      "'O my Geordie will be hanged in a golden chain,\n'Tis not the chain of many,\nHe was born of King's royal breed,\nAnd lost to a virtuous lady.'",
+      "'Go bridle me my milk-white steed,\nGo bridle me my pony,\nI will ride to London's court,\nTo plead for the life of Geordie.'"
+    ]
+  },
+  {
+    "id": "bonnie-earl-of-moray",
+    "title": "The Bonnie Earl of Moray",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 181, commemorating the 1592 murder of James Stewart, 2nd Earl of Moray",
+    "era": "16th century",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "historical ballad"
+    ],
+    "note": "One of the few Child ballads tied to a precisely dated historical event — the earl's assassination in a political feud. Sung continuously in Scotland for over 400 years. Ancient and public domain.",
+    "verses": [
+      "Ye Highlands and ye Lowlands,\nOh, where hae ye been?\nThey hae slain the Earl of Moray,\nAnd laid him on the green.",
+      "'Now wae be to thee, Huntly,\nAnd wherefore did you sae?\nI bade you bring him wi' you,\nBut forbade you him to slay.'",
+      "He was a braw gallant,\nAnd he rid at the ring;\nAnd the bonnie Earl of Moray,\nOh, he might have been a king."
+    ]
+  },
+  {
+    "id": "zebra-dun",
+    "title": "The Zebra Dun",
+    "category": "folk",
+    "origin": "Traditional American cowboy ballad, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "tall tale"
+    ],
+    "note": "A comic ballad of a scholarly stranger who astonishes cowhands by breaking a wild outlaw horse. Traditional and public domain.",
+    "verses": [
+      "We were camped on the plains at the head of the Cimarron,\nWhen along came a stranger and stopped to arger some,\nHe looked so very foolish that we began to look around,\nWe thought he was a greenhorn that had just 'scaped from town.",
+      "We asked him if he had been raised way out in the West,\nAnd he said he had left home for reasons of his own,\nAn old bald-face outlaw the boys called Zebra Dun,\nWe couldn't hire a man that could ride him for love or money.",
+      "He mounted that old outlaw and curled his hair back,\nHe emptied both his pockets, all but a chew of tobacco,\nOld Dun found he couldn't run away and quit,\nHe went to bucking, then he began to weave and pitch."
+    ]
+  },
+  {
+    "id": "blood-on-the-saddle",
+    "title": "Blood on the Saddle",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, likely descended from an older lumberjack ballad; documented in Western folklore collections by the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "dark comedy"
+    ],
+    "note": "A darkly comic cowboy song describing a fatal riding accident, sung with deadpan repetition. Traditional and public domain.",
+    "verses": [
+      "There was blood on the saddle,\nAnd blood on the ground,\nAnd a great big puddle,\nOf blood all around.",
+      "A cowboy lay in it,\nAll covered with gore,\nAnd he ne'er will ride,\nAny broncos no more.",
+      "Oh, pity the cowboy,\nAll bloody and red,\nFor the bronco fell on him,\nAnd bashed in his head."
+    ]
+  },
+  {
+    "id": "doney-gal",
+    "title": "Doney Gal",
+    "category": "folk",
+    "origin": "Traditional American cowboy trail song, collected by John and Alan Lomax in their Western folk song collections of the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "trail song"
+    ],
+    "note": "A gentle night-herding song sung to soothe cattle and pass the long hours of a trail drive. Traditional and public domain.",
+    "verses": [
+      "Oh, the moon is climbing high, love,\nStars are in the sky, love,\nAnd it's pretty good to be out on the night herd,\nRidin' with my Doney Gal.",
+      "Oh, we'll drive them on to Kansas,\nWhere the girls all dance the Kansas,\nAnd there's likker there that's fit for any man,\nRidin' with my Doney Gal.",
+      "When the day's work is all over,\nAnd we've fed the boys their chuck,\nWe'll bed the cattle down and sing 'em soft and low,\nRidin' with my Doney Gal."
+    ]
+  },
+  {
+    "id": "ezekiel-saw-the-wheel",
+    "title": "Ezekiel Saw the Wheel",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual based on the vision in the Book of Ezekiel; documented in spiritual collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "call and response"
+    ],
+    "note": "A joyful spiritual drawing on the prophet Ezekiel's vision of a wheel in the sky. Traditional and public domain.",
+    "verses": [
+      "Ezekiel saw the wheel,\nWay up in the middle of the air,\nEzekiel saw the wheel,\nWay in the middle of the air.",
+      "And the little wheel run by faith,\nAnd the big wheel run by the grace of God,\nA wheel in a wheel,\nWay in the middle of the air.",
+      "Some go to church for to sing and shout,\nBefore six months they are all turned out,\nWay in the middle of the air."
+    ]
+  },
+  {
+    "id": "this-train",
+    "title": "This Train",
+    "category": "spiritual",
+    "origin": "Traditional African American gospel song, first documented in field recordings and collections of the 1920s-30s",
+    "era": "early 20th century",
+    "tags": [
+      "gospel",
+      "train song",
+      "call and response"
+    ],
+    "note": "A gospel train song using the railroad as a metaphor for the journey to salvation, listing who is and isn't welcome aboard. Traditional and public domain.",
+    "verses": [
+      "This train is bound for glory, this train,\nThis train is bound for glory, this train,\nThis train is bound for glory,\nDon't ride nothin' but the righteous and the holy,\nThis train is bound for glory, this train.",
+      "This train don't carry no gamblers, this train,\nThis train don't carry no gamblers, this train,\nThis train don't carry no gamblers,\nNo hypocrites, no side-street ramblers,\nThis train don't carry no gamblers, this train.",
+      "This train don't carry no liars, this train,\nThis train don't carry no liars, this train,\nThis train don't carry no liars,\nNo hypocrites and no high flyers,\nThis train don't carry no liars, this train."
+    ]
+  },
+  {
+    "id": "just-a-closer-walk-with-thee",
+    "title": "Just a Closer Walk with Thee",
+    "category": "spiritual",
+    "origin": "Traditional African American gospel song, likely originating in 19th-century Southern churches; author unknown",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "new orleans",
+      "jazz funeral"
+    ],
+    "note": "Perhaps the most frequently played hymn in New Orleans jazz funerals. A 1940 arrangement by Kenneth Morris popularized the song nationally, but the traditional words and melody themselves are of unknown, older authorship and are in the public domain.",
+    "verses": [
+      "I am weak but Thou art strong,\nJesus, keep me from all wrong,\nI'll be satisfied as long\nAs I walk, let me walk close to Thee.",
+      "Just a closer walk with Thee,\nGrant it, Jesus, is my plea,\nDaily walking close to Thee,\nLet it be, dear Lord, let it be.",
+      "Through this world of toil and snares,\nIf I falter, Lord, who cares?\nWho with me my burden shares?\nNone but Thee, dear Lord, none but Thee."
+    ]
+  },
+  {
+    "id": "rock-my-soul",
+    "title": "Rock My Soul in the Bosom of Abraham",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "call and response"
+    ],
+    "note": "A joyful, driving spiritual drawing on the parable of Lazarus and Abraham's bosom from the Gospel of Luke. Traditional and public domain.",
+    "verses": [
+      "So high, you can't get over it,\nSo low, you can't get under it,\nSo wide, you can't get round it,\nOh, rock my soul.",
+      "Rock my soul in the bosom of Abraham,\nRock my soul in the bosom of Abraham,\nRock my soul in the bosom of Abraham,\nOh, rock my soul."
+    ]
+  },
+  {
+    "id": "nelly-bly",
+    "title": "Nelly Bly",
+    "category": "parlor",
+    "origin": "Stephen Foster, published 1849 by Firth, Pond & Co., New York",
+    "era": "19th century",
+    "tags": [
+      "stephen foster",
+      "minstrel era",
+      "americana"
+    ],
+    "note": "A cheerful, upbeat song written for Christy's Minstrels, distinct from and predating the famous journalist Nellie Bly (born 1864), who took her pen name from this earlier song. Public domain since 1849.",
+    "verses": [
+      "Nelly Bly shuts her eye when she goes to sleep,\nWhen she wakens up again, her eyes begin to peep,\nHigh, Nelly, ho, Nelly, listen love to me,\nI'll sing for you, play for you, a dulcem melody.",
+      "Nelly Bly has a voice like a turtle dove,\nI hear it in the meadow and I hear it in the grove,\nNelly Bly has a heart warm as cup of tea,\nAnd bigger than the sweet potato down in Tennessee.",
+      "Heigh, Nelly, ho, Nelly, listen, love, to me,\nI'll sing for you, play for you, a dulcem melody,\nHeigh, Nelly, ho, Nelly, listen love to me,\nI'll sing for you, play for you, a dulcem melody."
+    ]
+  },
+  {
+    "id": "come-where-my-love-lies-dreaming",
+    "title": "Come Where My Love Lies Dreaming",
+    "category": "parlor",
+    "origin": "Stephen Foster, published 1855 by Firth, Pond & Co., New York",
+    "era": "19th century",
+    "tags": [
+      "stephen foster",
+      "serenade",
+      "part song"
+    ],
+    "note": "A gentle vocal quartet piece, written for the popular parlor genre of harmonized part-singing. Public domain since 1855.",
+    "verses": [
+      "Come where my love lies dreaming,\nDreaming the happy hours away,\nIn visions bright redeeming,\nThe fleeting joys of day.",
+      "Come where my love lies dreaming,\nDreaming the happy hours away,\nCome where my love lies dreaming,\nDreaming the happy hours away.",
+      "Weary hearts, dream on together,\nSummer days will smile again,\nCome where my love lies dreaming,\nDreaming the happy hours away."
+    ]
+  },
+  {
+    "id": "some-folks",
+    "title": "Some Folks",
+    "category": "parlor",
+    "origin": "Stephen Foster, published 1855 by Firth, Pond & Co., New York",
+    "era": "19th century",
+    "tags": [
+      "stephen foster",
+      "comic song",
+      "americana"
+    ],
+    "note": "A lighthearted contrast between gloomy folks and the cheerful narrator, one of Foster's more purely comic numbers. Public domain since 1855.",
+    "verses": [
+      "Some folks like to sigh, some folks do,\nSome folks are always in the blues,\nSome folks love to sigh, but as for me,\nI keep as merry as the day is long.",
+      "Some folks like to weep, some folks do,\nSome folks lose their courage too,\nBut as for me I keep a laughing face,\nAnd sing along all the day.",
+      "Then let the world go round and round,\nAnd let the sun shine bright,\nI'll do my best each day to smile,\nAnd sing away till night."
+    ]
+  },
+  {
+    "id": "waiting-for-the-robert-e-lee",
+    "title": "Waiting for the Robert E. Lee",
+    "category": "parlor",
+    "origin": "Words by L. Wolfe Gilbert, music by Lewis F. Muir, published 1912",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "riverboat",
+      "ragtime"
+    ],
+    "note": "A ragtime-era hit celebrating a Mississippi steamboat race, later a jazz standard. Public domain since 1912.",
+    "verses": [
+      "Way down on the levee, in old Alabamy,\nThere's Daddy and Mammy, there's Ephraim and Sammy,\nOn a moonlight night you'll find them all,\nThey've got a date, so at the gate they stall.",
+      "Watch them shufflin' along,\nGo, hear that mournful song,\nThey're stoppin' there,\nThey're proud of that old man,\nThat old man,\nRun, get your grip, get on the ship,\nFor tomorrow day we're gonna have a big time.",
+      "Watch for the Robert E. Lee,\nSoon you will see,\nComin' round the bend,\nSignal 'er please, through the trees,\nYou'll see her smoke a'bendin'."
+    ]
+  },
+  {
+    "id": "by-the-beautiful-sea",
+    "title": "By the Beautiful Sea",
+    "category": "parlor",
+    "origin": "Words by Harold Atteridge, music by Harry Carroll, published 1914",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "summer",
+      "seaside"
+    ],
+    "note": "A carefree seaside singalong that became a fixture of boardwalk sheet-music culture. Public domain since 1914.",
+    "verses": [
+      "By the sea, by the sea, by the beautiful sea,\nYou and I, you and I, oh how happy we'll be,\nWhen each wave comes a-rolling in,\nWe will duck or swim,\nAnd we'll float and fool around the water.",
+      "Over and under, and then up for air,\nPa is rich, ma is rich, so now what do we care,\nI love to be beside your side,\nBeside the seaside,\nBy the beautiful sea."
+    ]
+  },
+  {
+    "id": "aint-we-got-fun",
+    "title": "Ain't We Got Fun",
+    "category": "parlor",
+    "origin": "Words by Gus Kahn and Raymond B. Egan, music by Richard A. Whiting, published 1921",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "jazz age",
+      "comic song"
+    ],
+    "note": "A cheerfully ironic Jazz Age song about being broke but happy, later quoted in F. Scott Fitzgerald's The Great Gatsby. Public domain since 1921.",
+    "verses": [
+      "Every morning, every evening,\nAin't we got fun?\nNot much money, oh, but honey,\nAin't we got fun?",
+      "The rent's unpaid, dear, we haven't a car,\nBut anyhow we've got fun,\nThere's nothing surer, the rich get rich and the poor get children,\nIn the meantime, in between time,\nAin't we got fun?",
+      "Landlord, landlord, my roof needs a-mendin',\nBefore the place I live falls down,\nI can pay the rent, but the landlord's a gent,\nAnd he says he's satisfied, if I ain't got fun."
+    ]
+  },
+  {
+    "id": "toot-toot-tootsie",
+    "title": "Toot, Toot, Tootsie (Goo' Bye)",
+    "category": "parlor",
+    "origin": "Words and music by Gus Kahn, Ernie Erdman, and Dan Russo, published 1922",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "jazz age",
+      "farewell song"
+    ],
+    "note": "A Jazz Age farewell song, famously performed by Al Jolson in The Jazz Singer (1927), the first feature-length film with synchronized dialogue. Public domain since 1922.",
+    "verses": [
+      "Toot, toot, Tootsie, goo'bye,\nToot, toot, Tootsie, don't cry,\nThe choo choo train that takes me,\nAway from you, no words can tell how sad it makes me.",
+      "Kiss me, Tootsie, and then,\nDo it over again,\nWatch for the mail,\nI'll never fail,\nIf you don't get a letter then you know I'm in jail.",
+      "Think of me, Tootsie, when the lights are low,\nDream of the day that I'll be with you again,\nWatch for the mail, I'll never fail,\nIf you don't get a letter then you know I'm in jail."
+    ]
   }
 ]
