@@ -4026,5 +4026,405 @@
       "He had not been gone but a year and a day,\nStrange countries for to see,\nWhen languishing thoughts came into his head,\nLady Nancy Belle he would go see, see, see,\nLady Nancy Belle he would go see.",
       "He rode and he rode on his milk-white steed,\nTill he came to London town,\nAnd there he heard St. Pancras' bells,\nAnd the people all mourning round, round, round,\nAnd the people all mourning round."
     ]
+  },
+  {
+    "id": "rock-of-ages",
+    "title": "Rock of Ages",
+    "category": "spiritual",
+    "origin": "Words by Augustus Toplady, published 1775 (an earlier 1763 version exists); tune by Thomas Hastings, 1830",
+    "era": "18th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "One of the most widely translated and sung hymns in Christian history, reportedly inspired by Toplady sheltering from a storm in a gorge in England. Public domain since the 18th century.",
+    "verses": [
+      "Rock of Ages, cleft for me,\nLet me hide myself in Thee;\nLet the water and the blood,\nFrom Thy wounded side which flowed,\nBe of sin the double cure,\nSave from wrath and make me pure.",
+      "Not the labor of my hands\nCan fulfill Thy law's demands;\nCould my zeal no respite know,\nCould my tears forever flow,\nAll for sin could not atone;\nThou must save, and Thou alone.",
+      "While I draw this fleeting breath,\nWhen mine eyes shall close in death,\nWhen I soar to worlds unknown,\nSee Thee on Thy judgment throne,\nRock of Ages, cleft for me,\nLet me hide myself in Thee."
+    ]
+  },
+  {
+    "id": "nearer-my-god-to-thee",
+    "title": "Nearer, My God, to Thee",
+    "category": "spiritual",
+    "origin": "Words by Sarah Flower Adams, published 1841; most common American tune by Lowell Mason, 1856",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Famously said to have been played by the band as the Titanic sank in 1912, though the exact truth of that account is debated. Public domain since 1841.",
+    "verses": [
+      "Nearer, my God, to Thee,\nNearer to Thee!\nE'en though it be a cross\nThat raiseth me,\nStill all my song shall be,\nNearer, my God, to Thee,\nNearer, my God, to Thee,\nNearer to Thee!",
+      "Though like the wanderer,\nThe sun gone down,\nDarkness be over me,\nMy rest a stone,\nYet in my dreams I'd be\nNearer, my God, to Thee,\nNearer, my God, to Thee,\nNearer to Thee!",
+      "Then, with my waking thoughts\nBright with Thy praise,\nOut of my stony griefs\nBethel I'll raise;\nSo by my woes to be\nNearer, my God, to Thee,\nNearer, my God, to Thee,\nNearer to Thee!"
+    ]
+  },
+  {
+    "id": "abide-with-me",
+    "title": "Abide with Me",
+    "category": "spiritual",
+    "origin": "Words by Henry Francis Lyte, written 1847 shortly before his death; tune by William Henry Monk, 1861",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Written by an English clergyman as he was dying of tuberculosis. Long a staple at British state and sporting occasions, including the FA Cup Final. Public domain since 1847.",
+    "verses": [
+      "Abide with me; fast falls the eventide;\nThe darkness deepens; Lord, with me abide;\nWhen other helpers fail and comforts flee,\nHelp of the helpless, O abide with me.",
+      "Swift to its close ebbs out life's little day;\nEarth's joys grow dim; its glories pass away;\nChange and decay in all around I see;\nO Thou who changest not, abide with me.",
+      "I need Thy presence every passing hour;\nWhat but Thy grace can foil the tempter's power?\nWho, like Thyself, my guide and stay can be?\nThrough cloud and sunshine, O abide with me."
+    ]
+  },
+  {
+    "id": "how-firm-a-foundation",
+    "title": "How Firm a Foundation",
+    "category": "spiritual",
+    "origin": "Text first published 1787 in John Rippon's A Selection of Hymns, credited only to \"K\" — likely Robert Keene, Rippon's precentor",
+    "era": "18th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "A favorite hymn of several American presidents, said to have been requested by Andrew Jackson and Robert E. Lee on their deathbeds. Public domain since 1787.",
+    "verses": [
+      "How firm a foundation, ye saints of the Lord,\nIs laid for your faith in His excellent word!\nWhat more can He say than to you He hath said,\nYou who unto Jesus for refuge have fled?",
+      "'Fear not, I am with thee, O be not dismayed,\nFor I am thy God and will still give thee aid;\nI'll strengthen thee, help thee, and cause thee to stand,\nUpheld by My righteous, omnipotent hand.'",
+      "'When through the deep waters I call thee to go,\nThe rivers of sorrow shall not overflow;\nFor I will be with thee, thy troubles to bless,\nAnd sanctify to thee thy deepest distress.'"
+    ]
+  },
+  {
+    "id": "blessed-assurance",
+    "title": "Blessed Assurance",
+    "category": "spiritual",
+    "origin": "Words by Fanny Crosby, music by Phoebe Knapp, published 1873",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Written by the blind hymn writer Fanny Crosby, one of the most prolific hymnists in American history, credited with over 8,000 hymns. Public domain since 1873.",
+    "verses": [
+      "Blessed assurance, Jesus is mine,\nOh, what a foretaste of glory divine,\nHeir of salvation, purchase of God,\nBorn of His Spirit, washed in His blood.",
+      "This is my story, this is my song,\nPraising my Savior all the day long,\nThis is my story, this is my song,\nPraising my Savior all the day long.",
+      "Perfect submission, perfect delight,\nVisions of rapture now burst on my sight,\nAngels descending bring from above,\nEchoes of mercy, whispers of love."
+    ]
+  },
+  {
+    "id": "sweet-adeline",
+    "title": "Sweet Adeline",
+    "category": "parlor",
+    "origin": "Words by Richard H. Gerard, music by Harry Armstrong, published 1903",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "barbershop",
+      "serenade"
+    ],
+    "note": "One of the most iconic barbershop quartet songs in American music, adopted as Boston Red Sox owner John F. Fitzgerald's signature tune. Public domain since 1903.",
+    "verses": [
+      "Sweet Adeline, my Adeline,\nAt night, dear heart, for you I pine,\nIn all my dreams, your fair face beams,\nYou're the flower of my heart, sweet Adeline.",
+      "In the golden dawn from birdland,\nHear the songbird sing to me,\nSweet Adeline, my Adeline,\nI'll wait a lonely lifetime through,\nFor Adeline, my Adeline."
+    ]
+  },
+  {
+    "id": "school-days",
+    "title": "School Days",
+    "category": "parlor",
+    "origin": "Words by Will D. Cobb, music by Gus Edwards, published 1907",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "nostalgia",
+      "childhood"
+    ],
+    "note": "A nostalgic hit celebrating one-room schoolhouse days, with its 'reading and 'riting and 'rithmetic' refrain still widely quoted. Public domain since 1907.",
+    "verses": [
+      "School days, school days,\nDear old golden rule days,\n'Reading and 'riting and 'rithmetic,\nTaught to the tune of a hickory stick.",
+      "You were my queen in calico,\nI was your bashful, barefoot beau,\nAnd you wrote on my slate, 'I love you, Joe,'\nWhen we were a couple of kids."
+    ]
+  },
+  {
+    "id": "down-by-the-old-mill-stream",
+    "title": "Down by the Old Mill Stream",
+    "category": "parlor",
+    "origin": "Words and music by Tell Taylor, published 1910",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "nostalgia",
+      "barbershop"
+    ],
+    "note": "A slow waltz that became one of the best-selling pieces of sheet music of the pre-World War I era. Public domain since 1910.",
+    "verses": [
+      "Down by the old mill stream,\nWhere I first met you,\nWith your eyes so blue,\nDressed in gingham too,\nIt was there I knew,\nThat you loved me true.",
+      "You were sixteen,\nMy village queen,\nBy the old mill stream."
+    ]
+  },
+  {
+    "id": "in-my-merry-oldsmobile",
+    "title": "In My Merry Oldsmobile",
+    "category": "parlor",
+    "origin": "Words by Vincent Bryan, music by Gus Edwards, published 1905",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "automobile age",
+      "courting song"
+    ],
+    "note": "One of the first popular songs to celebrate the new automobile age, still used in Oldsmobile advertising decades later. Public domain since 1905.",
+    "verses": [
+      "Come away with me, Lucille,\nIn my merry Oldsmobile,\nDown the road of life we'll fly,\nAutomobubbling, you and I.",
+      "To the church we'll swiftly steal,\nThen our wedding bells will peal,\nYou can go as far as you like with me,\nIn my merry Oldsmobile."
+    ]
+  },
+  {
+    "id": "wait-till-the-sun-shines-nellie",
+    "title": "Wait Till the Sun Shines, Nellie",
+    "category": "parlor",
+    "origin": "Words by Andrew B. Sterling, music by Harry Von Tilzer, published 1905",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "waltz",
+      "sentimental"
+    ],
+    "note": "A gentle, reassuring waltz consoling a couple through hard financial times. Public domain since 1905.",
+    "verses": [
+      "Wait till the sun shines, Nellie,\nWhen the clouds go drifting by,\nWe will be happy, Nellie,\nDon't you sigh.",
+      "Down lover's lane we'll wander,\nSweethearts, you and I,\nWait till the sun shines, Nellie,\nBy and by."
+    ]
+  },
+  {
+    "id": "believe-me-endearing-young-charms",
+    "title": "Believe Me, If All Those Endearing Young Charms",
+    "category": "parlor",
+    "origin": "Thomas Moore, published 1808 in his Irish Melodies, set to the traditional air \"My Lodging Is on the Cold Ground\"",
+    "era": "early 19th century",
+    "tags": [
+      "irish melody",
+      "thomas moore",
+      "love song"
+    ],
+    "note": "One of Thomas Moore's most beloved Irish Melodies, a promise of enduring love regardless of fading beauty. Public domain since 1808.",
+    "verses": [
+      "Believe me, if all those endearing young charms,\nWhich I gaze on so fondly today,\nWere to change by tomorrow, and fleet in my arms,\nLike fairy gifts fading away,\nThou wouldst still be adored, as this moment thou art,\nLet thy loveliness fade as it will,\nAnd around the dear ruin each wish of my heart\nWould entwine itself verdantly still.",
+      "It is not while beauty and youth are thine own,\nAnd thy cheeks unprofaned by a tear,\nThat the fervor and faith of a soul can be known,\nTo which time will but make thee more dear;\nNo, the heart that has truly loved never forgets,\nBut as truly loves on to the close,\nAs the sunflower turns on her god when he sets,\nThe same look which she turned when he rose."
+    ]
+  },
+  {
+    "id": "wearing-of-the-green",
+    "title": "The Wearing of the Green",
+    "category": "folk",
+    "origin": "Traditional Irish street ballad from the era of the 1798 Irish Rebellion, when wearing a green shamrock was made a punishable offense by British authorities",
+    "era": "18th century",
+    "tags": [
+      "irish",
+      "rebellion",
+      "protest song"
+    ],
+    "note": "A protest ballad from the United Irishmen's 1798 uprising, later revised by Dion Boucicault for an 1864 play. The original street-ballad text is ancient and public domain.",
+    "verses": [
+      "O Paddy dear, and did you hear the news that's going round?\nThe shamrock is by law forbid to grow on Irish ground,\nNo more Saint Patrick's Day we'll keep, his color can't be seen,\nFor there's a cruel law against the wearing of the green.",
+      "I met with Napper Tandy, and he took me by the hand,\nAnd he said, 'How's poor old Ireland, and how does she stand?'\nShe's the most distressful country that ever yet was seen,\nFor they're hanging men and women there for the wearing of the green.",
+      "So if the color we must wear is England's cruel red,\nSure Ireland's sons will ne'er forget the blood that they have shed,\nYou may take the shamrock from your hat and cast it on the sod,\nBut 'twill take root and flourish still, though under foot 'tis trod."
+    ]
+  },
+  {
+    "id": "lorena",
+    "title": "Lorena",
+    "category": "parlor",
+    "origin": "Words by Rev. Henry D.L. Webster, music by Joseph Philbrick Webster, published 1857",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "parlor ballad",
+      "sentimental"
+    ],
+    "note": "An immensely popular sentimental ballad among soldiers on both sides of the Civil War, considered so demoralizing to homesick troops that some Confederate officers reportedly discouraged its singing. Public domain since 1857.",
+    "verses": [
+      "The years creep slowly by, Lorena,\nThe snow is on the grass again,\nThe sun's low down the sky, Lorena,\nThe frost gleams where the flowers have been.",
+      "A hundred months have passed, Lorena,\nSince last I held that hand in mine,\nAnd felt the pulse beat fast, Lorena,\nThough mine beat faster far than thine.",
+      "It matters little now, Lorena,\nThe past is in the eternal past,\nOur heads will soon lie low, Lorena,\nLife's tide is ebbing out so fast."
+    ]
+  },
+  {
+    "id": "night-herding-song",
+    "title": "Night Herding Song",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910, credited in part to cowboy Harry Stephens",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "lullaby"
+    ],
+    "note": "A slow, soothing song sung by cowhands circling a resting herd overnight, meant to keep both cattle and rider calm. Traditional and public domain.",
+    "verses": [
+      "Oh, slow up, dogies, quit your roving round,\nYou have wandered and tramped all over the ground,\nOh, graze along, dogies, and feed kinda slow,\nAnd don't forever be on the go.",
+      "Oh, move slow, dogies, move slow,\nHi-oo, hi-oo,\nMove slow, little dogies, move slow.",
+      "I've circle-herded and night-herded, and camp-herded too,\nBut to keep you together, that's what I can't do,\nMy horse is leg-weary and I'm awful tired,\nBut if I let you get away I'm sure to be fired."
+    ]
+  },
+  {
+    "id": "take-this-hammer",
+    "title": "Take This Hammer",
+    "category": "work-song",
+    "origin": "Traditional African American prison and railroad work song, closely related to \"John Henry\" and \"Nine Pound Hammer\"; documented by folklorists in the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "prison song",
+      "railroad",
+      "work song"
+    ],
+    "note": "A hammer-swinging work song, expressing a worker's wish to escape harsh labor conditions. Traditional and public domain.",
+    "verses": [
+      "Take this hammer, carry it to the captain,\nTake this hammer, carry it to the captain,\nTake this hammer, carry it to the captain,\nTell him I'm gone, tell him I'm gone.",
+      "If he asks you was I running,\nIf he asks you was I running,\nIf he asks you was I running,\nTell him I was flying, tell him I was flying.",
+      "I don't want no cold cornbread,\nI don't want no cold cornbread,\nI don't want no cold cornbread,\nNor no cold peas, no cold peas."
+    ]
+  },
+  {
+    "id": "the-cowboys-dream",
+    "title": "The Cowboy's Dream",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, sung to the tune of \"My Bonnie Lies Over the Ocean\"; first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "hymn-adjacent"
+    ],
+    "note": "A gentle cowboy hymn imagining heaven as an eternal, well-run range where cattle never stray. Traditional and public domain.",
+    "verses": [
+      "Last night as I lay on the prairie,\nAnd looked at the stars in the sky,\nI wondered if ever a cowboy\nWould drift to that sweet by and by.",
+      "Roll on, roll on,\nRoll on, little dogies, roll on, roll on,\nRoll on, roll on,\nRoll on, little dogies, roll on.",
+      "The road to that bright, happy region\nIs a highway for sinner and saint,\nBut milling herds are not allowed there,\nNo cowboys with morals that's faint."
+    ]
+  },
+  {
+    "id": "every-time-i-feel-the-spirit",
+    "title": "Every Time I Feel the Spirit",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "call and response"
+    ],
+    "note": "A joyful spiritual expressing continual renewal of faith, later given a well-known concert arrangement by Harry T. Burleigh. Traditional and public domain.",
+    "verses": [
+      "Every time I feel the Spirit,\nMoving in my heart, I will pray,\nEvery time I feel the Spirit,\nMoving in my heart, I will pray.",
+      "Upon the mountain, my Lord spoke,\nOut of His mouth came fire and smoke,\nAll around me looked so fine,\nI asked my Lord if all was mine.",
+      "Jordan River is chilly and cold,\nIt chills the body but not the soul,\nThere ain't but one train on this track,\nIt runs to heaven and right back."
+    ]
+  },
+  {
+    "id": "hush-hush-somebodys-callin-my-name",
+    "title": "Hush, Hush, Somebody's Callin' My Name",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "death and judgment"
+    ],
+    "note": "A hushed, contemplative spiritual about hearing a divine call, often sung in a quiet, reverent style. Traditional and public domain.",
+    "verses": [
+      "Hush, hush, somebody's callin' my name,\nHush, hush, somebody's callin' my name,\nHush, hush, somebody's callin' my name,\nOh my Lord, oh my Lord, what shall I do?",
+      "Sounds like Jesus, somebody's callin' my name,\nSounds like Jesus, somebody's callin' my name,\nSounds like Jesus, somebody's callin' my name,\nOh my Lord, oh my Lord, what shall I do?",
+      "Soon one mornin', death come creepin' in my room,\nSoon one mornin', death come creepin' in my room,\nSoon one mornin', death come creepin' in my room,\nOh my Lord, oh my Lord, what shall I do?"
+    ]
+  },
+  {
+    "id": "rockin-jerusalem",
+    "title": "Rockin' Jerusalem",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "christmas",
+      "call and response"
+    ],
+    "note": "A joyful spiritual sung especially around Christmas, celebrating the announcement of Christ's birth. Traditional and public domain.",
+    "verses": [
+      "Rockin' Jerusalem, Jerusalem,\nRockin' Jerusalem tonight,\nRockin' Jerusalem, Jerusalem,\nOh, Jerusalem, tonight.",
+      "See that star up yonder,\nSee how she shines and shines and shines,\nSee that star up yonder,\nHear angels singin'.",
+      "Mary had a baby, yes, Lord,\nMary had a baby, yes, my Lord,\nMary had a baby, yes, Lord,\nThe people keep a-comin' and the train done gone."
+    ]
+  },
+  {
+    "id": "blow-boys-blow",
+    "title": "Blow, Boys, Blow",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships in the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song"
+    ],
+    "note": "A shanty referencing the notorious slave and merchant trade of the mid-Atlantic era, sung for hauling square-rig halyards. Traditional and public domain.",
+    "verses": [
+      "A Yankee ship came down the river,\nBlow, boys, blow,\nHer masts and yards they shine like silver,\nBlow, my bully boys, blow.",
+      "How do you know she's a Yankee liner?\nBlow, boys, blow,\nThe stars and stripes fly out behind her,\nBlow, my bully boys, blow.",
+      "Who do you think is the captain of her?\nBlow, boys, blow,\nOld Bully Jones is the captain of her,\nBlow, my bully boys, blow."
+    ]
+  },
+  {
+    "id": "sally-brown",
+    "title": "Sally Brown",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard sailing ships in the West Indies trade by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "caribbean"
+    ],
+    "note": "A widely sung capstan shanty referencing the West Indies trade routes, likely originating among Caribbean or American sailors. Traditional and public domain.",
+    "verses": [
+      "Sally Brown, she's a bright mulatto,\nWay, hey, roll and go,\nShe drinks rum and chews tobacco,\nSpend my money on Sally Brown.",
+      "Sally Brown, I love your daughter,\nWay, hey, roll and go,\nLove her more since I first sought her,\nSpend my money on Sally Brown.",
+      "Seven long years I courted Sally,\nWay, hey, roll and go,\nThen she jilted me for Nancy,\nSpend my money on Sally Brown."
+    ]
+  },
+  {
+    "id": "ranzo",
+    "title": "Ranzo (Reuben Ranzo)",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard whaling and merchant ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "comic song"
+    ],
+    "note": "A comic shanty about a hapless tailor-turned-sailor who is rescued from a flogging by a sympathetic captain who teaches him seamanship. Traditional and public domain.",
+    "verses": [
+      "Oh, poor old Reuben Ranzo,\nRanzo, boys, Ranzo,\nOh, poor old Reuben Ranzo,\nRanzo, boys, Ranzo.",
+      "He shipped on board a whaler,\nRanzo, boys, Ranzo,\nHe shipped as a sailor,\nRanzo, boys, Ranzo.",
+      "But Ranzo was no sailor,\nRanzo, boys, Ranzo,\nSo they took him to the captain,\nRanzo, boys, Ranzo."
+    ]
+  },
+  {
+    "id": "elfin-knight",
+    "title": "The Elfin Knight",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 2, with the earliest known broadside dated to around 1670",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "impossible tasks"
+    ],
+    "note": "The ancient parent ballad of \"Scarborough Fair,\" featuring the same impossible-tasks structure exchanged between a supernatural knight and a mortal woman. Ancient and public domain.",
+    "verses": [
+      "My plaid awa, my plaid awa,\nAnd ower the hill and far awa,\nAnd far awa to Norrowa,\nMy plaid shall not be blown awa.",
+      "'Ye maun mak' a sark to me,\nParsley, sage, rosemary, and thyme,\nWithoot ony cut or heme,' quo he,\nAnd you shall be a true lover o' mine.",
+      "'And ye maun wash it in yonder well,\nParsley, sage, rosemary, and thyme,\nWhere the dew never wat nor rain ever fell,\nAnd you shall be a true lover o' mine.'"
+    ]
   }
 ]
