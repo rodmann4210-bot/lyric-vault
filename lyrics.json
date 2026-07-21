@@ -3267,5 +3267,373 @@
       "Kiss me, Tootsie, and then,\nDo it over again,\nWatch for the mail,\nI'll never fail,\nIf you don't get a letter then you know I'm in jail.",
       "Think of me, Tootsie, when the lights are low,\nDream of the day that I'll be with you again,\nWatch for the mail, I'll never fail,\nIf you don't get a letter then you know I'm in jail."
     ]
+  },
+  {
+    "id": "god-rest-ye-merry-gentlemen",
+    "title": "God Rest Ye Merry, Gentlemen",
+    "category": "parlor",
+    "origin": "Traditional English carol, text and tune both dating to at least the 18th century; first printed in its familiar form in the 1760s",
+    "era": "18th century or earlier",
+    "tags": [
+      "christmas carol",
+      "english folk",
+      "hymn"
+    ],
+    "note": "One of the oldest English carols still commonly sung, referenced by Charles Dickens in A Christmas Carol (1843). Ancient and public domain.",
+    "verses": [
+      "God rest ye merry, gentlemen,\nLet nothing you dismay,\nRemember Christ our Saviour\nWas born on Christmas day,\nTo save us all from Satan's power\nWhen we were gone astray.",
+      "O tidings of comfort and joy,\nComfort and joy,\nO tidings of comfort and joy.",
+      "In Bethlehem, in Jewry,\nThis blessed babe was born,\nAnd laid within a manger\nUpon this blessed morn,\nThe which His mother Mary\nDid nothing take in scorn."
+    ]
+  },
+  {
+    "id": "the-first-noel",
+    "title": "The First Noel",
+    "category": "parlor",
+    "origin": "Traditional English carol, likely originating in Cornwall; first printed in Carols Ancient and Modern, 1823",
+    "era": "18th century or earlier",
+    "tags": [
+      "christmas carol",
+      "english folk",
+      "hymn"
+    ],
+    "note": "A carol of unknown authorship compiled from an older oral tradition. Public domain since its earliest printings.",
+    "verses": [
+      "The first Noel, the angels did say,\nWas to certain poor shepherds in fields as they lay,\nIn fields where they lay keeping their sheep,\nOn a cold winter's night that was so deep.",
+      "Noel, Noel, Noel, Noel,\nBorn is the King of Israel.",
+      "They looked up and saw a star,\nShining in the east, beyond them far,\nAnd to the earth it gave great light,\nAnd so it continued both day and night."
+    ]
+  },
+  {
+    "id": "here-we-come-a-wassailing",
+    "title": "Here We Come A-Wassailing",
+    "category": "parlor",
+    "origin": "Traditional English carol associated with the custom of wassailing, dating to at least the 18th century; documented in print by the mid-19th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "christmas carol",
+      "english folk",
+      "wassail"
+    ],
+    "note": "Sung door-to-door by wassailers seeking food and drink in exchange for songs and blessings, a tradition dating back centuries in England. Ancient and public domain.",
+    "verses": [
+      "Here we come a-wassailing among the leaves so green,\nHere we come a-wand'ring so fair to be seen,\nLove and joy come to you, and to you your wassail too,\nAnd God bless you and send you a happy new year.",
+      "We are not daily beggars that beg from door to door,\nBut we are neighbours' children whom you have seen before,\nCall up the butler of this house, put on his golden ring,\nLet him bring us up a glass of beer, and better we shall sing."
+    ]
+  },
+  {
+    "id": "deck-the-halls",
+    "title": "Deck the Halls",
+    "category": "parlor",
+    "origin": "Melody from the Welsh New Year's carol \"Nos Galan,\" traceable to the 16th century; English lyrics by Scottish musician Thomas Oliphant, published 1862",
+    "era": "16th century or earlier",
+    "tags": [
+      "christmas carol",
+      "welsh",
+      "holiday"
+    ],
+    "note": "The tune is a centuries-old Welsh winter carol; the familiar English 'fa la la' lyrics were fitted to it in 1862. Both are public domain.",
+    "verses": [
+      "Deck the halls with boughs of holly,\nFa la la la la, la la la la,\n'Tis the season to be jolly,\nFa la la la la, la la la la.",
+      "Don we now our gay apparel,\nFa la la, la la la, la la la,\nTroll the ancient Yuletide carol,\nFa la la la la, la la la la.",
+      "See the blazing yule before us,\nFa la la la la, la la la la,\nStrike the harp and join the chorus,\nFa la la la la, la la la la."
+    ]
+  },
+  {
+    "id": "joy-to-the-world",
+    "title": "Joy to the World",
+    "category": "parlor",
+    "origin": "Words by Isaac Watts, published 1719; the familiar tune arranged by Lowell Mason in 1836, adapting themes from Handel's Messiah",
+    "era": "18th century",
+    "tags": [
+      "christmas carol",
+      "hymn"
+    ],
+    "note": "Watts based the text on Psalm 98, and it wasn't originally intended as a Christmas carol at all. One of the most-published hymns in North America. Public domain since 1719.",
+    "verses": [
+      "Joy to the world, the Lord is come,\nLet earth receive her King,\nLet every heart prepare Him room,\nAnd heaven and nature sing,\nAnd heaven and nature sing,\nAnd heaven and heaven and nature sing.",
+      "Joy to the earth, the Savior reigns,\nLet men their songs employ,\nWhile fields and floods, rocks, hills, and plains\nRepeat the sounding joy,\nRepeat the sounding joy,\nRepeat, repeat the sounding joy.",
+      "He rules the world with truth and grace,\nAnd makes the nations prove\nThe glories of His righteousness,\nAnd wonders of His love,\nAnd wonders of His love,\nAnd wonders, wonders of His love."
+    ]
+  },
+  {
+    "id": "hark-the-herald-angels-sing",
+    "title": "Hark! The Herald Angels Sing",
+    "category": "parlor",
+    "origin": "Words by Charles Wesley, published 1739; set to a melody by Felix Mendelssohn adapted by William H. Cummings in 1855",
+    "era": "18th century",
+    "tags": [
+      "christmas carol",
+      "hymn",
+      "wesley"
+    ],
+    "note": "Written by the brother of Methodism's founder John Wesley. Public domain since its 1739 publication; the Mendelssohn-derived tune has also long been public domain.",
+    "verses": [
+      "Hark! The herald angels sing,\n'Glory to the newborn King;\nPeace on earth and mercy mild,\nGod and sinners reconciled.'",
+      "Joyful, all ye nations rise,\nJoin the triumph of the skies,\nWith angelic host proclaim,\n'Christ is born in Bethlehem.'",
+      "Hark! The herald angels sing,\n'Glory to the newborn King.'"
+    ]
+  },
+  {
+    "id": "o-little-town-of-bethlehem",
+    "title": "O Little Town of Bethlehem",
+    "category": "parlor",
+    "origin": "Words by Phillips Brooks, written 1868 after a visit to Bethlehem; music by Lewis Redner, composed the same year",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "hymn"
+    ],
+    "note": "Brooks, an Episcopal rector, wrote the carol for his Philadelphia church's Sunday school. Public domain since 1868.",
+    "verses": [
+      "O little town of Bethlehem,\nHow still we see thee lie,\nAbove thy deep and dreamless sleep\nThe silent stars go by,\nYet in thy dark streets shineth\nThe everlasting light,\nThe hopes and fears of all the years\nAre met in thee tonight.",
+      "For Christ is born of Mary,\nAnd gathered all above,\nWhile mortals sleep, the angels keep\nTheir watch of wondering love,\nO morning stars together,\nProclaim the holy birth,\nAnd praises sing to God the King,\nAnd peace to men on earth."
+    ]
+  },
+  {
+    "id": "it-came-upon-the-midnight-clear",
+    "title": "It Came Upon the Midnight Clear",
+    "category": "parlor",
+    "origin": "Words by Edmund Sears, published 1849; music by Richard Storrs Willis, 1850",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "hymn"
+    ],
+    "note": "Written by a Unitarian minister, notable for its social conscience verses about war and suffering, unusual for a Christmas carol of its era. Public domain since 1849.",
+    "verses": [
+      "It came upon the midnight clear,\nThat glorious song of old,\nFrom angels bending near the earth,\nTo touch their harps of gold,\n'Peace on the earth, good will to men,\nFrom heaven's all-gracious King,'\nThe world in solemn stillness lay,\nTo hear the angels sing.",
+      "Still through the cloven skies they come,\nWith peaceful wings unfurled,\nAnd still their heavenly music floats\nO'er all the weary world;\nAbove its sad and lowly plains,\nThey bend on hovering wing,\nAnd ever o'er its Babel sounds\nThe blessed angels sing."
+    ]
+  },
+  {
+    "id": "we-three-kings",
+    "title": "We Three Kings of Orient Are",
+    "category": "parlor",
+    "origin": "Words and music by John Henry Hopkins Jr., written 1857 for a Christmas pageant at General Theological Seminary in New York",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "hymn",
+      "epiphany"
+    ],
+    "note": "One of the few widely-sung Christmas carols written entirely by a single American author, both words and music. Public domain since 1857.",
+    "verses": [
+      "We three kings of Orient are,\nBearing gifts we traverse afar,\nField and fountain, moor and mountain,\nFollowing yonder star.",
+      "O star of wonder, star of night,\nStar with royal beauty bright,\nWestward leading, still proceeding,\nGuide us to thy perfect light.",
+      "Born a King on Bethlehem's plain,\nGold I bring to crown Him again,\nKing forever, ceasing never,\nOver us all to reign."
+    ]
+  },
+  {
+    "id": "good-king-wenceslas",
+    "title": "Good King Wenceslas",
+    "category": "parlor",
+    "origin": "Words by John Mason Neale, published 1853, set to the melody of a 13th-century spring carol, \"Tempus Adest Floridum\"",
+    "era": "13th century or earlier",
+    "tags": [
+      "christmas carol",
+      "hymn",
+      "charity"
+    ],
+    "note": "Tells the legend of a 10th-century Bohemian duke braving harsh weather to give alms to a poor man. Both the ancient tune and Neale's 1853 words are public domain.",
+    "verses": [
+      "Good King Wenceslas looked out,\nOn the feast of Stephen,\nWhen the snow lay round about,\nDeep and crisp and even,\nBrightly shone the moon that night,\nThough the frost was cruel,\nWhen a poor man came in sight,\nGathering winter fuel.",
+      "'Hither, page, and stand by me,\nIf thou know'st it, telling,\nYonder peasant, who is he?\nWhere and what his dwelling?'\n'Sire, he lives a good league hence,\nUnderneath the mountain,\nRight against the forest fence,\nBy Saint Agnes' fountain.'"
+    ]
+  },
+  {
+    "id": "grandfathers-clock",
+    "title": "Grandfather's Clock",
+    "category": "parlor",
+    "origin": "Henry Clay Work, published 1876",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "americana",
+      "novelty"
+    ],
+    "note": "A sentimental novelty song so popular it made 'grandfather clock' the standard English term for the tall pendulum clock, which previously had no common name. Public domain since 1876.",
+    "verses": [
+      "My grandfather's clock was too large for the shelf,\nSo it stood ninety years on the floor,\nIt was taller by half than the old man himself,\nThough it weighed not a pennyweight more.",
+      "It was bought on the morn of the day that he was born,\nAnd was always his treasure and pride,\nBut it stopped short, never to go again,\nWhen the old man died.",
+      "Ninety years without slumbering,\nHis life seconds numbering,\nIt stopped short, never to go again,\nWhen the old man died."
+    ]
+  },
+  {
+    "id": "marching-through-georgia",
+    "title": "Marching Through Georgia",
+    "category": "parlor",
+    "origin": "Henry Clay Work, published 1865",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "patriotic",
+      "union"
+    ],
+    "note": "Written to celebrate Sherman's March to the Sea; a Union favorite that, decades later, was controversially played for visiting Sherman at parades in the South. Public domain since 1865. One verse from the original sheet music, containing offensive racial dialect, is omitted here.",
+    "verses": [
+      "Bring the good old bugle, boys, we'll sing another song,\nSing it with a spirit that will start the world along,\nSing it as we used to sing it, fifty thousand strong,\nWhile we were marching through Georgia.",
+      "Hurrah! Hurrah! We bring the jubilee!\nHurrah! Hurrah! The flag that makes you free!\nSo we sang the chorus from Atlanta to the sea,\nWhile we were marching through Georgia.",
+      "Yes and there were Union men who wept with joyful tears,\nWhen they saw the honored flag they had not seen for years,\nHardly could they be restrained from breaking forth in cheers,\nWhile we were marching through Georgia."
+    ]
+  },
+  {
+    "id": "polly-wolly-doodle",
+    "title": "Polly Wolly Doodle",
+    "category": "folk",
+    "origin": "Traditional American minstrel-era song, documented in print by the 1880s",
+    "era": "19th century",
+    "tags": [
+      "americana",
+      "childrens song",
+      "nonsense song"
+    ],
+    "note": "A cheerful nonsense song that crossed from minstrel stages into children's songbooks, still commonly sung today. Traditional and public domain.",
+    "verses": [
+      "Oh, I went down South for to see my Sal,\nSing polly wolly doodle all the day,\nMy Sal, she is a spunky gal,\nSing polly wolly doodle all the day.",
+      "Fare thee well, fare thee well,\nFare thee well, my fairy fay,\nFor I'm going to Louisiana for to see my Susyanna,\nSinging polly wolly doodle all the day.",
+      "Oh, my Sal, she is a maiden fair,\nSing polly wolly doodle all the day,\nWith curly eyes and laughing hair,\nSing polly wolly doodle all the day."
+    ]
+  },
+  {
+    "id": "my-bonnie-lies-over-the-ocean",
+    "title": "My Bonnie Lies Over the Ocean",
+    "category": "parlor",
+    "origin": "Traditional Scottish/American song, published as sheet music in 1881, credited to Charles E. Pratt",
+    "era": "19th century",
+    "tags": [
+      "scottish",
+      "americana",
+      "farewell song"
+    ],
+    "note": "A widely sung folk favorite of uncertain deeper origin, formally published in 1881. Public domain.",
+    "verses": [
+      "My bonnie lies over the ocean,\nMy bonnie lies over the sea,\nMy bonnie lies over the ocean,\nOh, bring back my bonnie to me.",
+      "Bring back, bring back,\nOh, bring back my bonnie to me, to me,\nBring back, bring back,\nOh, bring back my bonnie to me.",
+      "Last night as I lay on my pillow,\nLast night as I lay on my bed,\nLast night as I lay on my pillow,\nI dreamed that my bonnie was dead."
+    ]
+  },
+  {
+    "id": "jolly-good-fellow",
+    "title": "For He's a Jolly Good Fellow",
+    "category": "folk",
+    "origin": "Traditional tune derived from the French \"Malbrough s'en va-t-en guerre\" (18th century); English lyrics documented in print by the mid-19th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "celebration song",
+      "english folk"
+    ],
+    "note": "Sung worldwide to celebrate achievements and birthdays, with a melody tracing back to a French song about the Duke of Marlborough. Ancient and public domain.",
+    "verses": [
+      "For he's a jolly good fellow,\nFor he's a jolly good fellow,\nFor he's a jolly good fellow,\nWhich nobody can deny.",
+      "For he's a jolly good fellow,\nFor he's a jolly good fellow,\nFor he's a jolly good fellow,\nWhich nobody can deny.",
+      "And so say all of us,\nAnd so say all of us,\nFor he's a jolly good fellow,\nWhich nobody can deny."
+    ]
+  },
+  {
+    "id": "tavern-in-the-town",
+    "title": "There Is a Tavern in the Town",
+    "category": "folk",
+    "origin": "Traditional English/American drinking song, first published by William H. Hills in 1883",
+    "era": "19th century",
+    "tags": [
+      "drinking song",
+      "college song",
+      "americana"
+    ],
+    "note": "A comic lament of unrequited love, long a staple of college glee clubs and barbershop quartets. Public domain since 1883.",
+    "verses": [
+      "There is a tavern in the town, in the town,\nAnd there my dear love sits him down, sits him down,\nAnd drinks his wine 'mid laughter free,\nAnd never, never thinks of me.",
+      "Fare thee well, for I must leave thee,\nDo not let this parting grieve thee,\nAnd remember that the best of friends must part, must part.",
+      "He left me for a damsel dark, damsel dark,\nEach Friday night they used to spark, used to spark,\nAnd now my love, once true to me,\nTakes this dark damsel on his knee."
+    ]
+  },
+  {
+    "id": "vive-lamour",
+    "title": "Vive L'Amour",
+    "category": "folk",
+    "origin": "Traditional American college drinking song, documented at Yale and other American colleges by the 1840s",
+    "era": "19th century",
+    "tags": [
+      "drinking song",
+      "college song",
+      "americana"
+    ],
+    "note": "One of the oldest American college songs still commonly sung, its French title roughly meaning 'long live love.' Traditional and public domain.",
+    "verses": [
+      "Let every good fellow now join in a song,\nVive l'amour, vive l'amour,\nSuccess to each other and pass it along,\nVive l'amour, vive l'amour.",
+      "Vive la, vive la, vive l'amour,\nVive la, vive la, vive l'amour,\nVive l'amour, vive l'amour,\nVive la compagnie.",
+      "A friend on your left and a friend on your right,\nVive l'amour, vive l'amour,\nIn love and good fellowship let us unite,\nVive l'amour, vive l'amour."
+    ]
+  },
+  {
+    "id": "wagoners-lad",
+    "title": "The Wagoner's Lad",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song, likely descended from older English broadside verses; documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "love lament"
+    ],
+    "note": "A wistful song of a woman lamenting her hard lot in love, built from floating verses shared with several related Appalachian laments. Traditional and public domain.",
+    "verses": [
+      "Oh hard is the fortune of all womankind,\nShe's always controlled, she's always confined,\nControlled by her parents until she's a wife,\nA slave to her husband the rest of her life.",
+      "I'm a poor girl, my fortune is sad,\nI've always been courted by the wagoner's lad,\nHe courted me daily by night and by day,\nAnd now he is loaded and going away.",
+      "Your parents don't like me because I am poor,\nThey say I'm not worthy of entering your door,\nI work for my living, my money's my own,\nAnd if they don't like me, they can leave me alone."
+    ]
+  },
+  {
+    "id": "balm-in-gilead",
+    "title": "There Is a Balm in Gilead",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, drawing on the Book of Jeremiah; documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "comfort song"
+    ],
+    "note": "A comforting spiritual affirming that healing and hope remain available even amid despair. Traditional and public domain.",
+    "verses": [
+      "There is a balm in Gilead,\nTo make the wounded whole,\nThere is a balm in Gilead,\nTo heal the sin-sick soul.",
+      "Sometimes I feel discouraged,\nAnd think my work's in vain,\nBut then the Holy Spirit\nRevives my soul again.",
+      "If you cannot preach like Peter,\nIf you cannot pray like Paul,\nYou can tell the love of Jesus,\nAnd say He died for all."
+    ]
+  },
+  {
+    "id": "reillys-daughter",
+    "title": "Reilly's Daughter",
+    "category": "folk",
+    "origin": "Traditional Irish-American comic song, documented in folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "irish",
+      "comic song",
+      "courting song"
+    ],
+    "note": "A lighthearted comic ballad about courting a wealthy man's daughter, popular in Irish-American session and pub-song traditions. Traditional and public domain.",
+    "verses": [
+      "Oh, I am a rambler and a rover from the town of Ballyhooley,\nAnd I fell in love with Reilly's daughter, at the fair of Ballinasloe,\nWith her hair as black as the raven's wing, and her eyes as bright as the morning dew,\nOh, I am a rambler and a rover, and I'm goin' to see Reilly's daughter.",
+      "Her father he keeps a still house, right down by the sea,\nAnd many's a jar of the pure old stuff, he's poured out for me,\nOh, if I could win the heart of Reilly's daughter, wouldn't I be a happy man,\nWith the still house and the daughter both, I'd have the best of the land.",
+      "Now Reilly played the fiddle, and I danced with all my might,\nI never thought of Reilly's daughter till the middle of the night,\nOh, I am a rambler and a rover from the town of Ballyhooley,\nAnd I'm on my way to see Reilly's daughter, at the fair of Ballinasloe."
+    ]
+  },
+  {
+    "id": "down-in-the-willow-garden",
+    "title": "Down in the Willow Garden",
+    "category": "ballad",
+    "origin": "Traditional Appalachian murder ballad of probable Irish origin, tracing to a song called \"Rose Connolly\" noted by collector Edward Bunting in Coleraine, Ireland, in 1811; documented in Appalachia by Cecil Sharp in 1915",
+    "era": "early 19th century",
+    "tags": [
+      "murder ballad",
+      "appalachian",
+      "irish"
+    ],
+    "note": "Also known as \"Rose Connelly.\" Part of the same Anglo-Irish murder-ballad family as \"The Knoxville Girl\" and \"Banks of the Ohio.\" Traditional and public domain.",
+    "verses": [
+      "Down in the willow garden,\nMy true love and I did meet,\nAnd there we sat a-courting,\nMy love fell off to sleep.",
+      "I had a bottle of Burgundy wine,\nMy love she did not know,\nI poisoned that dear little girl,\nWhose name was Rose Connelly.",
+      "My father often told me,\nThat money would set me free,\nIf I would murder that dear little girl,\nWhose name was Rose Connelly."
+    ]
   }
 ]
