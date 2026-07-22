@@ -6094,5 +6094,297 @@
       "Don't the clouds look lonesome, cross the deep blue sea,\nDon't the clouds look lonesome, cross the deep blue sea,\nDon't my baby look the sweetest, in the world to me.",
       "Sun's gonna shine in my back door someday,\nSun's gonna shine in my back door someday,\nThe wind's gonna change and blow my blues away."
     ]
+  },
+  {
+    "id": "get-up-and-bar-the-door",
+    "title": "Get Up and Bar the Door",
+    "category": "ballad",
+    "origin": "Traditional Scottish comic ballad, Child Ballad No. 275, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "comic ballad",
+      "scottish"
+    ],
+    "note": "A comic ballad in which a stubborn husband and wife's silent standoff over who should shut the door lets thieves walk right in. Ancient and public domain.",
+    "verses": [
+      "It fell about the Martinmas time,\nAnd a gay time it was then,\nWhen our goodwife got puddings to make,\nAnd she's boiled them in the pan.",
+      "The wind sae cauld blew south and north,\nAnd blew into the floor,\nQuoth our goodman to our goodwife,\n'Get up and bar the door.'",
+      "'My hand is in my hussyfskep,\nGoodman, as ye may see,\nAnd it should not be barred this hundred year,\nIt's no be barred for me.'"
+    ]
+  },
+  {
+    "id": "three-ravens",
+    "title": "The Three Ravens",
+    "category": "ballad",
+    "origin": "Traditional English ballad, first printed in Thomas Ravenscroft's Melismata, 1611",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "animal ballad",
+      "chivalric"
+    ],
+    "note": "A gentle, chivalric ballad in which a slain knight is faithfully guarded by his hawks, hounds, and a grieving doe, denying the ravens their expected feast. Ancient and public domain.",
+    "verses": [
+      "There were three ravens sat on a tree,\nDown a down, hay down, hay down,\nThere were three ravens sat on a tree,\nWith a down,\nThere were three ravens sat on a tree,\nThey were as black as they might be,\nWith a down derry, derry, derry, down, down.",
+      "The one of them said to his mate,\n'Where shall we our breakfast take?'\n'Down in yonder green field,\nThere lies a knight slain under his shield.'",
+      "'His hounds they lie down at his feet,\nSo well they can their master keep,\nHis hawks they fly so eagerly,\nThere's no fowl dare him come nigh.'"
+    ]
+  },
+  {
+    "id": "my-lord-what-a-morning",
+    "title": "My Lord, What a Morning",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "judgment day"
+    ],
+    "note": "A solemn spiritual anticipating the day of final judgment, later given a well-known concert arrangement by Harry T. Burleigh. Traditional and public domain.",
+    "verses": [
+      "My Lord, what a morning,\nMy Lord, what a morning,\nOh, my Lord, what a morning,\nWhen the stars begin to fall.",
+      "You'll hear the trumpet sound,\nTo wake the nations underground,\nLooking to my God's right hand,\nWhen the stars begin to fall.",
+      "You'll hear the sinner cry,\nTo wake the nations underground,\nLooking to my God's right hand,\nWhen the stars begin to fall."
+    ]
+  },
+  {
+    "id": "sit-down-servant",
+    "title": "Sit Down, Servant",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "rest and reward"
+    ],
+    "note": "A spiritual imagining the exhausted laborer finally granted rest and honor in heaven. Traditional and public domain.",
+    "verses": [
+      "Sit down, servant, sit down,\nSit down, servant, sit down,\nSit down, servant, sit down,\nI can't sit down.",
+      "My soul's so happy that I can't sit down,\nCan't sit down, can't sit down,\nMy soul's so happy that I can't sit down,\nI can't sit down.",
+      "Talkin' about a time in heaven,\nCan't sit down, can't sit down,\nGoing to sit right down and rest a little while,\nI can't sit down."
+    ]
+  },
+  {
+    "id": "done-made-my-vow",
+    "title": "Done Made My Vow",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "commitment"
+    ],
+    "note": "A determined spiritual affirming a pledge to remain faithful through to the very end of life's journey. Traditional and public domain.",
+    "verses": [
+      "Done made my vow to the Lord,\nAnd I never will turn back,\nI will go, I shall go,\nTo see what the end will be.",
+      "I told my Jesus it would be all right,\nIf He changed my name,\nI told my Jesus it would be all right,\nIf He changed my name.",
+      "There is something within me,\nThat holdeth the reins,\nI will go, I shall go,\nTo see what the end will be."
+    ]
+  },
+  {
+    "id": "the-dreadnought",
+    "title": "The Dreadnought",
+    "category": "sea-shanty",
+    "origin": "Traditional forecastle ballad celebrating the record-breaking packet ship Dreadnought, which sailed the Liverpool-New York run in the 1850s-60s",
+    "era": "19th century",
+    "tags": [
+      "sea ballad",
+      "packet ship"
+    ],
+    "note": "A boastful sailors' ballad celebrating a genuinely famous fast packet ship, nicknamed the 'Wild Boat of the Atlantic.' Traditional and public domain.",
+    "verses": [
+      "There's a saucy wild packet, a packet of fame,\nShe belongs to New York and the Dreadnought's her name,\nShe's bound to the westward where the strong winds do blow,\nBound away in the Dreadnought, to the westward we'll go.",
+      "Now the time's fast approaching we sail o'er the sea,\nAll ye friends and relations, pray keep up for me,\nBut a health to the Dreadnought and all her brave crew,\nTo bold Captain Samuels and his officers too.",
+      "So it's now we are sailing on the ocean so wide,\nWhere the deep and blue waters roll fast by her side,\nSo it's now we are sailing for old England's shore,\nAnd through the Dreadnought's power, boys, our tricks will be o'er."
+    ]
+  },
+  {
+    "id": "shallow-brown",
+    "title": "Shallow Brown",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, likely with roots in the Caribbean or American maritime trade; documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "farewell song"
+    ],
+    "note": "A haunting, melancholic shanty addressed to a departing sailor, among the more musically distinctive of the traditional shanty repertoire. Traditional and public domain.",
+    "verses": [
+      "Oh, Shallow, Shallow Brown,\nYou're going to leave me,\nOh, Shallow, Shallow Brown,\nYou're going away.",
+      "Oh, Shallow Brown, don't you hear me calling,\nOh, Shallow, Shallow Brown,\nYou're going away.",
+      "I'm bound away this very day,\nOh, Shallow, Shallow Brown,\nI'm bound away to leave you,\nOh, Shallow, Shallow Brown."
+    ]
+  },
+  {
+    "id": "paddy-doyles-boots",
+    "title": "Paddy Doyle's Boots",
+    "category": "sea-shanty",
+    "origin": "Traditional short-drag shanty, sung for a single sharp pull such as hoisting a heavy sail; documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "short-drag song"
+    ],
+    "note": "One of the shortest traditional shanties, used for a single powerful heave rather than sustained hauling. Traditional and public domain.",
+    "verses": [
+      "To me way, hey, ay, we'll all throw dirt,\nAnd we'll all throw dirt at Paddy Doyle's boots,\nWe'll all throw dirt, and we'll all throw dirt,\nAnd we'll all throw dirt at Paddy Doyle's boots."
+    ]
+  },
+  {
+    "id": "ten-thousand-cattle",
+    "title": "Ten Thousand Cattle",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "trail song"
+    ],
+    "note": "A cowboy lament about a devastating cattle-drive loss, sung with the weary resignation typical of range ballads. Traditional and public domain.",
+    "verses": [
+      "Ten thousand cattle straying,\nAll gone astray,\nWe circled all day,\nBut we circled in vain,\nNot a hoof, not a horn,\nOf my darling I could find,\nFor the Texas fever it left them behind.",
+      "Went out on the round-up,\nAnd found nary a steer,\nThe wolves and the coyotes,\nHad left nothing but the tears,\nI'm goin' to leave old Texas now,\nThey've got no use for the longhorn cow."
+    ]
+  },
+  {
+    "id": "trail-to-mexico",
+    "title": "The Trail to Mexico",
+    "category": "folk",
+    "origin": "Traditional American cowboy trail song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "trail song"
+    ],
+    "note": "A cowboy ballad of heartbreak on a long cattle drive south of the border, one of many trail songs collected in the early 20th century range-song revival. Traditional and public domain.",
+    "verses": [
+      "I made up my mind to change my way,\nAnd quit my crowd that was so gay,\nTo leave my native home for a while,\nAnd travel West for many a mile.",
+      "'Twas all in the merry month of May,\nWhen I started for Texas far away,\nI left my darling girl behind,\nShe said her heart was only mine.",
+      "With a herd of longhorns I did go,\nDown to a place called Mexico,\nI was in hopes to change my mind,\nAnd leave my darling girl behind."
+    ]
+  },
+  {
+    "id": "oh-dem-golden-slippers",
+    "title": "Oh, Dem Golden Slippers",
+    "category": "parlor",
+    "origin": "Words and music by James A. Bland, published 1879",
+    "era": "19th century",
+    "tags": [
+      "minstrel era",
+      "celebration song"
+    ],
+    "note": "Written by James Bland, one of the most successful Black songwriters of the 19th century, this became a jubilant standard associated with Philadelphia's Mummers Parade tradition. Public domain since 1879. One verse from the original sheet music, containing offensive racial dialect, is omitted here.",
+    "verses": [
+      "Oh, my golden slippers am laid away,\n'Cause I don't 'spect to wear 'em till my weddin' day,\nAnd my long-tail coat, that I loved so well,\nI will wear up in the chariot in the morn'.",
+      "Oh, dem golden slippers, oh, dem golden slippers,\nGolden slippers I'm goin' to wear, because they look so neat,\nOh, dem golden slippers, oh, dem golden slippers,\nGolden slippers I'm goin' to wear to walk the golden street."
+    ]
+  },
+  {
+    "id": "in-the-baggage-coach-ahead",
+    "title": "In the Baggage Coach Ahead",
+    "category": "parlor",
+    "origin": "Words and music by Gussie L. Davis, published 1896",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "sentimental",
+      "tearjerker"
+    ],
+    "note": "Written by one of the most successful Black Tin Pan Alley songwriters of the era, this tearjerker about a widower and his motherless baby was one of the biggest hits of the 1890s. Public domain since 1896.",
+    "verses": [
+      "On a dark stormy night, as the train rattled on,\nAll the passengers had gone to bed,\nExcept one young man with a babe in his arms,\nWho sat there with a bowed down head.",
+      "In the baggage coach ahead,\nIn the baggage coach ahead,\nNobody knew of the sorrow and woe,\nOf that baby's mother, so pale and dead,\nAs the train rolled swiftly ahead."
+    ]
+  },
+  {
+    "id": "break-the-news-to-mother",
+    "title": "Break the News to Mother",
+    "category": "parlor",
+    "origin": "Words and music by Charles K. Harris, published 1897",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "sentimental",
+      "war"
+    ],
+    "note": "Written by the composer of 'After the Ball,' this dying-soldier tearjerker became newly popular during the Spanish-American War the following year. Public domain since 1897.",
+    "verses": [
+      "While the shot and shell were screaming, upon the battlefield,\nThe boys in blue were fighting, their noble flag to shield,\nCame a cry from their brave captain, 'Look, boys, our flag is down,\nWho'll volunteer to save it from disgrace?'",
+      "'Just break the news to mother, she knows how dear I love her,\nAnd tell her not to wait for me, for I'm not coming home,\nJust say there is no other, can take the place of mother,\nThen kiss her dear sweet lips for me, and break the news to her.'"
+    ]
+  },
+  {
+    "id": "charles-guiteau",
+    "title": "Charles Guiteau",
+    "category": "ballad",
+    "origin": "Traditional American broadside ballad, first appearing shortly after the July 1881 assassination of President James A. Garfield; adapted from the earlier 1858 execution ballad \"James A. Rogers\" (Laws E11)",
+    "era": "19th century",
+    "tags": [
+      "assassination ballad",
+      "gallows confession",
+      "americana"
+    ],
+    "note": "A confession ballad sung from the assassin's imagined point of view, part of a family of similarly structured 'gallows confession' songs reused for different real crimes. Traditional and public domain.",
+    "verses": [
+      "Come all you tender Christians,\nWherever you may be,\nAnd likewise pay attention,\nTo these few lines from me.",
+      "My name is Charles Guiteau,\nMy name I'll ne'er deny,\nI leave my aged parents,\nIn sorrow for to die.",
+      "Oh, little did I think,\nWhile in my youthful bloom,\nI'd be carried to the scaffold,\nTo meet my fatal doom."
+    ]
+  },
+  {
+    "id": "boston-burglar",
+    "title": "The Boston Burglar",
+    "category": "ballad",
+    "origin": "Traditional American ballad, likely of Irish or Anglo-American broadside origin; documented in folk collections since the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "outlaw ballad",
+      "prison song"
+    ],
+    "note": "A widely traveled ballad of a young burglar sentenced to prison, sung with the same wistful regret found in many transportation and prison ballads. Traditional and public domain.",
+    "verses": [
+      "I was born in Boston city, a place you all know well,\nBrought up by honest parents, the truth to you I'll tell,\nBrought up by honest parents, and reared most tenderly,\nUntil I became a roving man, at the age of twenty-three.",
+      "My character was taken then, and I was sent to jail,\nMy friends they tried to clear me, but nothing could avail,\nThe jury found me guilty, the clerk he wrote it down,\nThe judge he passed the sentence, I was bound for Charlestown.",
+      "So all you jolly fellows, a warning take by me,\nAnd shun all evil company, wherever you may be,\nFor if you don't you're sure to rue it, until your dying day,\nLike me you'll waste your youthful days in Charlestown far away."
+    ]
+  },
+  {
+    "id": "rye-whiskey",
+    "title": "Rye Whiskey",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song, likely descended from older English/Scots-Irish drinking song traditions; documented in southern folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "drinking song"
+    ],
+    "note": "A widely varied drinking song with an enormous number of floating, often improvised verses across its many regional versions. Traditional and public domain.",
+    "verses": [
+      "Rye whiskey, rye whiskey, rye whiskey I cry,\nIf I don't get rye whiskey, I surely will die.",
+      "I've been to England, I've been to Rome,\nBut I'll drink my rye whiskey when I get back home.",
+      "If the ocean was whiskey and I was a duck,\nI'd swim to the bottom and never come up."
+    ]
+  },
+  {
+    "id": "hop-high-ladies",
+    "title": "Hop High, Ladies",
+    "category": "folk",
+    "origin": "Traditional American play-party and square-dance song, documented in southern folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "play-party",
+      "dance song",
+      "appalachian"
+    ],
+    "note": "Also known as 'The Cake Walk into Town.' A lively square-dance play-party song sung a cappella for community dances. Traditional and public domain.",
+    "verses": [
+      "Hop high, ladies, the cake's all dough,\nWhy don't you make like a-Molly Bawn?\nHop high, ladies, the cake's all dough,\nYou needn't mind the weather if the wind don't blow.",
+      "Some folks say that a preacher won't steal,\nI caught two in my cornfield,\nOne had a bushel, one had a peck,\nOne had a roastin' ear tied around his neck.",
+      "My true love's a blue-eyed daisy,\nIf I get well, I'll go plumb crazy,\nHop high, ladies, three in a row,\nHop high, ladies, don't you know."
+    ]
   }
 ]
