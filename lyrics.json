@@ -5432,5 +5432,366 @@
       "I bought me a hen, my hen pleased me,\nI fed my hen under yonder tree,\nMy hen says chimmy-chuck, chimmy-chuck,\nMy cat says fiddle-i-fee.",
       "I bought me a duck, my duck pleased me,\nI fed my duck under yonder tree,\nMy duck says quack, quack,\nMy hen says chimmy-chuck, chimmy-chuck,\nMy cat says fiddle-i-fee."
     ]
+  },
+  {
+    "id": "old-rugged-cross",
+    "title": "The Old Rugged Cross",
+    "category": "spiritual",
+    "origin": "Words and music by George Bennard, completed and copyrighted 1913",
+    "era": "early 20th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Written by a Methodist evangelist over several months of meditation in Michigan and Wisconsin. One of the most beloved American gospel hymns. Public domain since 1913.",
+    "verses": [
+      "On a hill far away stood an old rugged cross,\nThe emblem of suffering and shame,\nAnd I love that old cross where the dearest and best,\nFor a world of lost sinners was slain.",
+      "So I'll cherish the old rugged cross,\nTill my trophies at last I lay down,\nI will cling to the old rugged cross,\nAnd exchange it some day for a crown.",
+      "In that old rugged cross, stained with blood so divine,\nA wondrous beauty I see,\nFor 'twas on that old cross Jesus suffered and died,\nTo pardon and sanctify me."
+    ]
+  },
+  {
+    "id": "sweet-hour-of-prayer",
+    "title": "Sweet Hour of Prayer",
+    "category": "spiritual",
+    "origin": "Words attributed to William Walford, published 1845; music by William Bradbury, 1859",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Walford, a blind English lay preacher, is said to have composed the words in his head and dictated them to a visiting American minister. Public domain since 1845.",
+    "verses": [
+      "Sweet hour of prayer, sweet hour of prayer,\nThat calls me from a world of care,\nAnd bids me at my Father's throne,\nMake all my wants and wishes known.",
+      "In seasons of distress and grief,\nMy soul has often found relief,\nAnd oft escaped the tempter's snare,\nBy thy return, sweet hour of prayer.",
+      "Sweet hour of prayer, sweet hour of prayer,\nThy wings shall my petition bear,\nTo Him whose truth and faithfulness\nEngage the waiting soul to bless."
+    ]
+  },
+  {
+    "id": "just-as-i-am",
+    "title": "Just As I Am",
+    "category": "spiritual",
+    "origin": "Words by Charlotte Elliott, published 1835; most common tune by William Bradbury, 1849",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "Written by an English invalid poet, this became one of the most-used hymns for evangelical altar calls, famously associated with Billy Graham's crusades in the 20th century. Public domain since 1835.",
+    "verses": [
+      "Just as I am, without one plea,\nBut that Thy blood was shed for me,\nAnd that Thou bidst me come to Thee,\nO Lamb of God, I come, I come.",
+      "Just as I am, and waiting not\nTo rid my soul of one dark blot,\nTo Thee whose blood can cleanse each spot,\nO Lamb of God, I come, I come.",
+      "Just as I am, though tossed about\nWith many a conflict, many a doubt,\nFightings and fears within, without,\nO Lamb of God, I come, I come."
+    ]
+  },
+  {
+    "id": "softly-and-tenderly",
+    "title": "Softly and Tenderly",
+    "category": "spiritual",
+    "origin": "Words and music by Will L. Thompson, published 1880",
+    "era": "19th century",
+    "tags": [
+      "hymn",
+      "gospel"
+    ],
+    "note": "A gentle invitational hymn, reportedly a favorite of evangelist Dwight L. Moody, who is said to have called Thompson a greater hymn-writer than himself. Public domain since 1880.",
+    "verses": [
+      "Softly and tenderly Jesus is calling,\nCalling for you and for me,\nSee, on the portals He's waiting and watching,\nWatching for you and for me.",
+      "Come home, come home,\nYe who are weary, come home,\nEarnestly, tenderly, Jesus is calling,\nCalling, O sinner, come home.",
+      "Why should we tarry when Jesus is pleading,\nPleading for you and for me,\nWhy should we linger and heed not His mercies,\nMercies for you and for me?"
+    ]
+  },
+  {
+    "id": "thomas-the-rhymer",
+    "title": "Thomas the Rhymer",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 37, connected to the legend of 13th-century poet Thomas of Erceldoune; earliest printed text appears in Robert Jamieson's Popular Ballads, 1806",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "fairy ballad"
+    ],
+    "note": "A ballad in which a mortal poet is taken by the Queen of Elfland and granted the gift (and curse) of a tongue that cannot lie. Ancient and public domain.",
+    "verses": [
+      "True Thomas lay on Huntlie bank,\nA ferlie he spied wi' his e'e,\nAnd there he saw a lady bright,\nCome riding down by the Eildon tree.",
+      "Her skirt was o' the grass-green silk,\nHer mantle o' the velvet fyne,\nAt ilka tett of her horse's mane,\nHung fifty siller bells and nine.",
+      "'Harp and carp, Thomas,' she said,\n'Harp and carp along wi' me,\nAnd if ye dare to kiss my lips,\nSure of your body I will be.'"
+    ]
+  },
+  {
+    "id": "hind-horn",
+    "title": "Hind Horn",
+    "category": "ballad",
+    "origin": "Traditional Scottish/English ballad, Child Ballad No. 17, drawing on the medieval romance of King Horn, dated to the 13th century",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "recognition ballad"
+    ],
+    "note": "A ballad in which a returning lover uses a magic ring to test his sweetheart's faithfulness before revealing himself. Ancient and public domain.",
+    "verses": [
+      "In Scotland there was a babe born,\nWith a hey lillelu and a how lo lan,\nAnd his name it was called young Hind Horn,\nAnd the birk and the broom blooms bonnie.",
+      "Seven long years he served the king,\nAnd it's a' for the sake of his daughter Jean.",
+      "'Here is a ring to thee I'll give,\nAnd as lang as this ring keeps new,\nYou may know that I am a lover true.'"
+    ]
+  },
+  {
+    "id": "broomfield-hill",
+    "title": "The Broomfield Hill",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 43, documented from at least the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "magic ballad"
+    ],
+    "note": "A ballad in which a woman outwits a knight's plan to seduce her while she sleeps, using magic herbs to escape unharmed. Ancient and public domain.",
+    "verses": [
+      "There was a knight and a lady bright,\nHad a true tryst at the broom,\nThe one to come at twelve o'clock,\nThe other to be there at noon.",
+      "'I'll gar my true-love eat a leaf,\nThat springs on yonder tree,\nAnd it shall gar him sleep sound,\nUntil I come and gae.'",
+      "And when she came to broomfield hill,\nShe found her love asleep,\nWith a silver belt about his head,\nAnd a broom-cow at his feet."
+    ]
+  },
+  {
+    "id": "i-want-jesus-to-walk-with-me",
+    "title": "I Want Jesus to Walk with Me",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "comfort song"
+    ],
+    "note": "A quiet, personal spiritual asking for divine companionship through life's trials. Traditional and public domain.",
+    "verses": [
+      "I want Jesus to walk with me,\nI want Jesus to walk with me,\nAll along my pilgrim journey,\nI want Jesus to walk with me.",
+      "In my trials, Lord, walk with me,\nIn my trials, Lord, walk with me,\nWhen my heart is almost breaking,\nI want Jesus to walk with me.",
+      "When I'm troubled, walk with me,\nWhen I'm troubled, walk with me,\nWhen my head is bowed in sorrow,\nI want Jesus to walk with me."
+    ]
+  },
+  {
+    "id": "certainly-lord",
+    "title": "Certainly Lord",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "call and response"
+    ],
+    "note": "A call-and-response spiritual affirming faith with the emphatic reply 'certainly, Lord.' Traditional and public domain.",
+    "verses": [
+      "Have you got good religion? Certainly, Lord!\nHave you got good religion? Certainly, Lord!\nHave you got good religion? Certainly, Lord!\nCertainly, certainly, certainly, Lord!",
+      "Have you been baptized? Certainly, Lord!\nHave you been baptized? Certainly, Lord!\nHave you been baptized? Certainly, Lord!\nCertainly, certainly, certainly, Lord!",
+      "Do you love everybody? Certainly, Lord!\nDo you love everybody? Certainly, Lord!\nDo you love everybody? Certainly, Lord!\nCertainly, certainly, certainly, Lord!"
+    ]
+  },
+  {
+    "id": "oh-freedom",
+    "title": "Oh, Freedom",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, emerging soon after the end of the Civil War in 1865, adapted from the earlier spiritual \"Before I'd Be a Slave\" (documented 1899)",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "freedom",
+      "civil rights"
+    ],
+    "note": "A defiant post-emancipation spiritual, later a central anthem of the 1950s-60s Civil Rights Movement, famously performed by Odetta and sung on the Selma to Montgomery march. Traditional and public domain.",
+    "verses": [
+      "Oh, freedom, oh, freedom,\nOh, freedom over me, over me,\nAnd before I'd be a slave,\nI'll be buried in my grave,\nAnd go home to my Lord and be free.",
+      "No more moanin', no more moanin',\nNo more moanin' over me, over me,\nAnd before I'd be a slave,\nI'll be buried in my grave,\nAnd go home to my Lord and be free.",
+      "No more weepin', no more weepin',\nNo more weepin' over me, over me,\nAnd before I'd be a slave,\nI'll be buried in my grave,\nAnd go home to my Lord and be free."
+    ]
+  },
+  {
+    "id": "coast-of-high-barbary",
+    "title": "The Coast of High Barbary",
+    "category": "sea-shanty",
+    "origin": "Traditional English sea ballad, referencing the Barbary pirates of North Africa; documented in broadside form from the 17th-18th centuries",
+    "era": "18th century or earlier",
+    "tags": [
+      "sea ballad",
+      "pirates"
+    ],
+    "note": "An old sea ballad of a naval encounter with Barbary corsairs, sung aboard both merchant and naval vessels for generations. Traditional and public domain.",
+    "verses": [
+      "Look ahead, look astern, look the weather and the lee,\nBlow high, blow low, and so sailed we,\nI spy a wreck to windward, and a lofty ship to lee,\nA-sailing down along the coast of the High Barbary.",
+      "'O are you a pirate or a man-o'-war?' cried we,\nBlow high, blow low, and so sailed we,\n'O no, I'm not a pirate but a man-o'-war,' cried he,\nA-sailing down along the coast of the High Barbary.",
+      "'Then back your topsails, man-o'-war,' cried we,\nBlow high, blow low, and so sailed we,\nBut instead he fired a broadside right into our lee,\nA-sailing down along the coast of the High Barbary."
+    ]
+  },
+  {
+    "id": "heave-away-my-johnny",
+    "title": "Heave Away, My Johnny",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard emigrant ships crossing the Atlantic in the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "emigration"
+    ],
+    "note": "A capstan shanty associated with the transatlantic emigrant trade of the 1800s, sung while weighing anchor for the long crossing to America. Traditional and public domain.",
+    "verses": [
+      "As I walked out one morning fair,\nHeave away, my Johnny, heave away,\nTo view the fields and the flowers there,\nAway, my Johnny boys, we're all bound to go.",
+      "I heard a maiden that did complain,\nHeave away, my Johnny, heave away,\nThat she'd never see her true love again,\nAway, my Johnny boys, we're all bound to go.",
+      "We're bound away to New York town,\nHeave away, my Johnny, heave away,\nTo see the girls all dance around,\nAway, my Johnny boys, we're all bound to go."
+    ]
+  },
+  {
+    "id": "bucking-bronco",
+    "title": "The Bucking Bronco",
+    "category": "folk",
+    "origin": "Traditional American cowgirl song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "love lament"
+    ],
+    "note": "A wistful ballad, unusually sung from a woman's perspective, warning other girls away from charming cowboys. Traditional and public domain.",
+    "verses": [
+      "My love is a rider, wild broncos he breaks,\nThough he's promised to quit it, just for my sake,\nHe ropes and he ties, he throws the great steers,\nHe learned the trade early, he's rode all his years.",
+      "Now all you young maidens, where'er you reside,\nBeware of the cowboy who swings the rawhide,\nHe'll court you and pet you and leave you to go,\nIn the spring up the trail on his bucking bronco."
+    ]
+  },
+  {
+    "id": "the-band-played-on",
+    "title": "The Band Played On",
+    "category": "parlor",
+    "origin": "Words by John F. Palmer, music by Charles B. Ward, published 1895",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "waltz",
+      "gilded age"
+    ],
+    "note": "A waltz-time hit satirizing high society, with its famous 'Casey would waltz with the strawberry blonde' refrain. Public domain since 1895.",
+    "verses": [
+      "Matt Casey formed a social club that beat all creation,\nThey ordered a room and bought a drum for a large celebration,\nTo gain admission you had to wear a badge or discard,\nAnd if you got gay, they'd throw you away, quicker than a Bowery guard.",
+      "Casey would waltz with the strawberry blonde,\nAnd the band played on,\nHe'd glide 'cross the floor with the girl he adored,\nAnd the band played on,\nHis brain was so loaded it nearly exploded,\nThe poor girl would shake with alarm,\nHe'd ne'er leave the girl with the strawberry curls,\nAnd the band played on."
+    ]
+  },
+  {
+    "id": "bird-in-a-gilded-cage",
+    "title": "A Bird in a Gilded Cage",
+    "category": "parlor",
+    "origin": "Words by Arthur J. Lamb, music by Harry Von Tilzer, published 1900",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "sentimental",
+      "waltz"
+    ],
+    "note": "One of the biggest sheet-music hits of its era, telling of a woman who married for wealth rather than love. Public domain since 1900.",
+    "verses": [
+      "The ballroom was filled with fashion's throng,\nIt shone with a thousand lights,\nAnd there was a woman who passed along,\nThe fairest of all the sights.",
+      "She's only a bird in a gilded cage,\nA beautiful sight to see,\nYou may think she's happy and free from care,\nShe's not, though she seems to be,\n'Tis sad when you think of her wasted life,\nFor youth cannot mate with age,\nAnd her beauty was sold for an old man's gold,\nShe's a bird in a gilded cage."
+    ]
+  },
+  {
+    "id": "apple-tree",
+    "title": "In the Shade of the Old Apple Tree",
+    "category": "parlor",
+    "origin": "Words by Harry H. Williams, music by Egbert Van Alstyne, published 1905",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "nostalgia",
+      "waltz"
+    ],
+    "note": "A nostalgic waltz recalling a rural courtship, one of the best-selling songs of 1905. Public domain since 1905.",
+    "verses": [
+      "In the shade of the old apple tree,\nWhere the love in your eyes I could see,\nWhen the voice that I heard, like the song of a bird,\nSeemed to whisper sweet music to me.",
+      "I could hear the dull buzz of the bee,\nIn the blossoms as you said to me,\nWith a heart that is true, I'll be waiting for you,\nIn the shade of the old apple tree."
+    ]
+  },
+  {
+    "id": "old-oaken-bucket",
+    "title": "The Old Oaken Bucket",
+    "category": "parlor",
+    "origin": "Words by Samuel Woodworth, published 1817 (as a poem); set to music by various composers, most commonly George Kiallmark, 1826",
+    "era": "19th century",
+    "tags": [
+      "nostalgia",
+      "americana"
+    ],
+    "note": "A sentimental poem recalling the well-bucket of the poet's childhood farm, one of the most widely reprinted American poems of the 19th century before being set to music. Public domain since 1817.",
+    "verses": [
+      "How dear to this heart are the scenes of my childhood,\nWhen fond recollection presents them to view,\nThe orchard, the meadow, the deep-tangled wildwood,\nAnd every loved spot which my infancy knew.",
+      "The old oaken bucket, the iron-bound bucket,\nThe moss-covered bucket, which hung in the well.",
+      "That moss-covered vessel I hailed as a treasure,\nFor often at noon, when returned from the field,\nI found it the source of an exquisite pleasure,\nThe purest and sweetest that nature can yield."
+    ]
+  },
+  {
+    "id": "long-long-ago",
+    "title": "Long, Long Ago",
+    "category": "parlor",
+    "origin": "Words and music by Thomas Haynes Bayly, published 1833",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "nostalgia"
+    ],
+    "note": "A gentle English parlor ballad of remembered love, still occasionally used in the melody for other songs and nursery adaptations. Public domain since 1833.",
+    "verses": [
+      "Tell me the tales that to me were so dear,\nLong, long ago, long, long ago,\nSing me the songs I delighted to hear,\nLong, long ago, long ago.",
+      "Now you are come, all my grief is removed,\nLet me forget that so long you have roved,\nLet me believe that you love as you loved,\nLong, long ago, long ago.",
+      "Do you remember the path where we met?\nLong, long ago, long, long ago,\nAh, yes, you told me you ne'er would forget,\nLong, long ago, long ago."
+    ]
+  },
+  {
+    "id": "sweet-genevieve",
+    "title": "Sweet Genevieve",
+    "category": "parlor",
+    "origin": "Words by George Cooper, music by Henry Tucker, published 1869",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "sentimental"
+    ],
+    "note": "A sentimental ballad of mourning for a lost love, remaining popular in barbershop quartet repertoire well into the 20th century. Public domain since 1869.",
+    "verses": [
+      "Sweet Genevieve, sweet Genevieve,\nThe days may come, the days may go,\nBut still the hands of memory weave,\nThe blissful dreams of long ago.",
+      "Sweet Genevieve, sweet Genevieve,\nMy days of youth seem all a dream,\nOh, I loved you then, as I love you still,\nSince first you dawned on my sight.",
+      "The old church bell had pealed its last,\nWhile happy feet were gathered at the door,\nFive winters have come and gone,\nSince I stood beside you before."
+    ]
+  },
+  {
+    "id": "preacher-and-the-bear",
+    "title": "The Preacher and the Bear",
+    "category": "parlor",
+    "origin": "Words and music by Joe Arzonia (credited as Arzonia Fields), copyrighted 1904",
+    "era": "early 20th century",
+    "tags": [
+      "comic song",
+      "tin pan alley",
+      "novelty"
+    ],
+    "note": "A comic novelty hit about a preacher treed by a bear during an illicit Sunday hunting trip, one of the best-selling records of the early 1900s (notably by Arthur Collins). Public domain since 1904.",
+    "verses": [
+      "A preacher went out a-huntin', 'twas on one Sunday morn,\nWith his gun upon his shoulder, he says, 'I'm going for game.'\nHe spied a great big grizzly bear a-standin' by a tree,\nHe grabbed his gun and away he run, up a tree he flew like the very devil.",
+      "Oh, Lord, you delivered Daniel from the lion's den,\nAlso delivered Jonah from the belly of the whale, and then,\nThree Hebrew children from the fiery furnace,\nSo the Good Book do declare,\nOh, Lord, if you can't help me,\nFor goodness sake don't help that bear."
+    ]
+  },
+  {
+    "id": "ida-sweet-as-apple-cider",
+    "title": "Ida, Sweet as Apple Cider",
+    "category": "parlor",
+    "origin": "Words and music by Eddie Munson and Eddie Leonard, published 1903",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "courting song"
+    ],
+    "note": "A cheerful courting song that remained a standard vaudeville and barbershop number for decades. Public domain since 1903.",
+    "verses": [
+      "I've got a girl, she's on my mind,\nAll the time, she's some kind,\nShe's got a way, believe me, it's a way that's all her own,\nWhen it comes to lovin' I'll bet she's a champion.",
+      "Ida, sweet as apple cider,\nSweeter than all I know,\nCome out in the moonlight, and see with me,\nThe silv'ry moon a-glow,\nI've got a longin' for a home, sweet home,\nWith someone just like you,\nIda, sweet as apple cider,\nI'm gettin' stuck on you."
+    ]
   }
 ]
