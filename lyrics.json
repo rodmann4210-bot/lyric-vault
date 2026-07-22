@@ -4426,5 +4426,386 @@
       "'Ye maun mak' a sark to me,\nParsley, sage, rosemary, and thyme,\nWithoot ony cut or heme,' quo he,\nAnd you shall be a true lover o' mine.",
       "'And ye maun wash it in yonder well,\nParsley, sage, rosemary, and thyme,\nWhere the dew never wat nor rain ever fell,\nAnd you shall be a true lover o' mine.'"
     ]
+  },
+  {
+    "id": "over-there",
+    "title": "Over There",
+    "category": "parlor",
+    "origin": "Words and music by George M. Cohan, published 1917, the day after the United States entered World War I",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "patriotic",
+      "tin pan alley"
+    ],
+    "note": "Reportedly written by Cohan on a train the day the U.S. declared war, becoming the most popular American song of World War I. Public domain since 1917.",
+    "verses": [
+      "Johnnie, get your gun, get your gun, get your gun,\nTake it on the run, on the run, on the run,\nHear them calling you and me,\nEvery son of liberty.",
+      "Over there, over there,\nSend the word, send the word over there,\nThat the Yanks are coming, the Yanks are coming,\nThe drums rum-tumming everywhere.",
+      "So prepare, say a prayer,\nSend the word, send the word to beware,\nWe'll be over, we're coming over,\nAnd we won't come back till it's over, over there."
+    ]
+  },
+  {
+    "id": "its-a-long-way-to-tipperary",
+    "title": "It's a Long Way to Tipperary",
+    "category": "parlor",
+    "origin": "Words and music by Jack Judge and Harry Williams, published 1912",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "marching song",
+      "irish"
+    ],
+    "note": "Written before the war as a music hall number, it became an anthem of marching British soldiers in World War I. Public domain since 1912.",
+    "verses": [
+      "Up to mighty London came an Irishman one day,\nAs the streets are paved with gold, sure everyone was gay,\nSinging songs of Piccadilly, Strand, and Leicester Square,\nTill Paddy got excited, then he shouted to them there:",
+      "It's a long way to Tipperary,\nIt's a long way to go,\nIt's a long way to Tipperary,\nTo the sweetest girl I know,\nGoodbye, Piccadilly, farewell, Leicester Square,\nIt's a long, long way to Tipperary,\nBut my heart's right there."
+    ]
+  },
+  {
+    "id": "pack-up-your-troubles",
+    "title": "Pack Up Your Troubles in Your Old Kit-Bag",
+    "category": "parlor",
+    "origin": "Words by George Asaf, music by Felix Powell, published 1915",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "marching song"
+    ],
+    "note": "A cheerfully defiant marching song written for British troops, urging them to stay upbeat through hardship. Public domain since 1915.",
+    "verses": [
+      "Private Perks is a funny little codger,\nWith a smile, a funny smile,\nFive feet none, he's an artful little dodger,\nWith a smile, a sunny smile.",
+      "Pack up your troubles in your old kit-bag,\nAnd smile, smile, smile,\nWhile you've a lucifer to light your fag,\nSmile, boys, that's the style.\nWhat's the use of worrying?\nIt never was worthwhile,\nSo pack up your troubles in your old kit-bag,\nAnd smile, smile, smile."
+    ]
+  },
+  {
+    "id": "keep-the-home-fires-burning",
+    "title": "Keep the Home Fires Burning",
+    "category": "parlor",
+    "origin": "Words by Lena Guilbert Ford, music by Ivor Novello, published 1914",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "home front",
+      "sentimental"
+    ],
+    "note": "Written in the early months of World War I as a message of comfort to soldiers and their families. Public domain since 1914.",
+    "verses": [
+      "They were summoned from the hillside,\nThey were called in from the glen,\nAnd the country found them ready,\nAt the stirring call for men.",
+      "Keep the home fires burning,\nWhile your hearts are yearning,\nThough your lads are far away,\nThey dream of home,\nThere's a silver lining,\nThrough the dark clouds shining,\nTurn the dark cloud inside out,\nTill the boys come home."
+    ]
+  },
+  {
+    "id": "k-k-k-katy",
+    "title": "K-K-K-Katy",
+    "category": "parlor",
+    "origin": "Words and music by Geoffrey O'Hara, published 1918",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "comic song",
+      "tin pan alley"
+    ],
+    "note": "A stammering comic love song immensely popular among American soldiers overseas, its distinctive title spelling built into the melody itself. Public domain since 1918.",
+    "verses": [
+      "Jimmy was a soldier brave and bold,\nKaty was a maid with hair of gold,\nLike an act of fate, Kate was standing at the gate,\nWatching all the soldiers marching by.",
+      "K-K-K-Katy, beautiful Katy,\nYou're the only g-g-g-girl that I adore,\nWhen the m-m-moon shines,\nOver the cowshed,\nI'll be waiting at the k-k-k-kitchen door."
+    ]
+  },
+  {
+    "id": "roses-of-picardy",
+    "title": "Roses of Picardy",
+    "category": "parlor",
+    "origin": "Words by Fred Weatherly, music by Haydn Wood, published 1916",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "sentimental",
+      "ballad"
+    ],
+    "note": "One of the most beloved sentimental ballads of World War I, set in the war-torn Picardy region of northern France. Public domain since 1916.",
+    "verses": [
+      "She is watching by the poplars,\nColinette with the sea-blue eyes,\nShe is watching and longing and waiting,\nWhere the long white roadway lies.",
+      "Roses are shining in Picardy,\nIn the hush of the silver dew,\nRoses are flowering in Picardy,\nBut there's never a rose like you.",
+      "And the roses will die with the summertime,\nAnd our roads may be far apart,\nBut there's one rose that dies not in Picardy,\n'Tis the rose that I keep in my heart."
+    ]
+  },
+  {
+    "id": "how-ya-gonna-keep-em-down-on-the-farm",
+    "title": "How Ya Gonna Keep 'Em Down on the Farm?",
+    "category": "parlor",
+    "origin": "Words by Sam M. Lewis and Joe Young, music by Walter Donaldson, published 1919",
+    "era": "early 20th century",
+    "tags": [
+      "wwi",
+      "comic song",
+      "tin pan alley"
+    ],
+    "note": "Written just after the Armistice, wondering whether soldiers who had seen Paris would readjust to rural life at home. The best-selling sheet music of 1919. Public domain.",
+    "verses": [
+      "Reuben, Reuben, I've been thinking,\nSaid his wifey dear,\nNow that all is peaceful and calm,\nThe boys will soon be back on the farm.",
+      "How ya gonna keep 'em down on the farm,\nAfter they've seen Paree?\nHow ya gonna keep 'em away from Broadway,\nJazzin' around and paintin' the town?",
+      "How ya gonna keep 'em away from harm,\nThat's the mystery,\nThey'll never want to see a rake or a plow,\nAnd who the deuce can parley-vous a cow?"
+    ]
+  },
+  {
+    "id": "fair-margaret-and-sweet-william",
+    "title": "Fair Margaret and Sweet William",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 74, referenced as early as 1611 in a play by Beaumont and Fletcher",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "love ballad",
+      "tragedy"
+    ],
+    "note": "A tragic ballad of two lovers who each die of grief on the same night, echoing themes found in \"Barbara Allen\" and \"Lord Lovel.\" Ancient and public domain.",
+    "verses": [
+      "As it fell out on a long summer's day,\nTwo lovers they sat on a hill,\nThey sat together that long summer's day,\nAnd could not talk their fill.",
+      "'I see no harm by you, Margaret,\nAnd you see none by me;\nBefore tomorrow at eight o'clock,\nA rich wedding you shall see.'",
+      "Fair Margaret sat in her bower window,\nCombing her yellow hair,\nThere she spied sweet William and his bride,\nAs they were riding near."
+    ]
+  },
+  {
+    "id": "unquiet-grave",
+    "title": "The Unquiet Grave",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 78, likely descended from an older folk belief that excessive mourning disturbs the dead",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "grief ballad",
+      "supernatural"
+    ],
+    "note": "A gentle, melancholy ballad in which a grieving lover's tears trouble the spirit of the deceased, who asks to be allowed to rest. Ancient and public domain.",
+    "verses": [
+      "The wind doth blow today, my love,\nAnd a few small drops of rain,\nI never had but one true love,\nIn cold grave she was lain.",
+      "'I'll do as much for my true love,\nAs any young man may,\nI'll sit and mourn all at her grave,\nFor a twelvemonth and a day.'",
+      "The twelvemonth and a day being up,\nThe dead began to speak,\n'Oh who sits weeping on my grave,\nAnd will not let me sleep?'"
+    ]
+  },
+  {
+    "id": "wife-wrapt-in-wethers-skin",
+    "title": "The Wife Wrapt in Wether's Skin",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish comic ballad, Child Ballad No. 277, documented from at least the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "comic ballad"
+    ],
+    "note": "A rare comic entry among the Child Ballads, in which a henpecked husband disciplines his lazy wife by beating a sheepskin thrown over her back rather than her directly. Ancient and public domain.",
+    "verses": [
+      "There was an old man came over the lea,\nHa, ha, ha, but I will never marry,\nHe came over the lea,\nA-courting o' me,\nWith his ha, ha, ha, but I will never marry.",
+      "My father he did give consent,\nHa, ha, ha, but I will never marry,\nMy mother she gave a good intent,\nWith his ha, ha, ha, but I will never marry.",
+      "He wrapped her in a wether's skin,\nHa, ha, ha, but I will never marry,\nAnd taws her well, and taws her well,\nFor I'll not spoil her wether's skin."
+    ]
+  },
+  {
+    "id": "walk-together-children",
+    "title": "Walk Together Children",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "unity"
+    ],
+    "note": "A spiritual of unity and shared purpose, urging the community not to grow weary on the journey toward the promised land. Traditional and public domain.",
+    "verses": [
+      "Walk together, children,\nDon't you get weary,\nWalk together, children,\nDon't you get weary,\nWalk together, children,\nDon't you get weary,\nThere's a great camp meeting in the promised land.",
+      "Sing together, children,\nDon't you get weary,\nSing together, children,\nDon't you get weary,\nThere's a great camp meeting in the promised land.",
+      "Pray together, children,\nDon't you get weary,\nPray together, children,\nDon't you get weary,\nThere's a great camp meeting in the promised land."
+    ]
+  },
+  {
+    "id": "keep-your-lamps-trimmed-and-burning",
+    "title": "Keep Your Lamps Trimmed and Burning",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, drawing on the parable of the ten virgins in the Gospel of Matthew; documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "watchfulness"
+    ],
+    "note": "A spiritual urging readiness and vigilance, based on the biblical parable of the wise and foolish virgins. Traditional and public domain.",
+    "verses": [
+      "Keep your lamps trimmed and burning,\nKeep your lamps trimmed and burning,\nKeep your lamps trimmed and burning,\nFor this old world is almost done.",
+      "Children, don't get weary,\nChildren, don't get weary,\nChildren, don't get weary,\nFor this old world is almost done.",
+      "Christian journey soon be over,\nChristian journey soon be over,\nChristian journey soon be over,\nFor this old world is almost done."
+    ]
+  },
+  {
+    "id": "old-ship-of-zion",
+    "title": "Old Ship of Zion",
+    "category": "spiritual",
+    "origin": "Traditional African American and Anglo-American spiritual, documented in camp-meeting songbooks from the early-to-mid 19th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "ship metaphor"
+    ],
+    "note": "A widely shared camp-meeting spiritual using a ship bound for glory as a metaphor for salvation, sung across both Black and white church traditions in the American South. Traditional and public domain.",
+    "verses": [
+      "What ship is this that will take us all home?\nO glory hallelujah!\nAnd safely land us on Canaan's shore?\nO glory hallelujah!",
+      "'Tis the old ship of Zion, 'tis the old ship of Zion,\n'Tis the old ship of Zion,\nGet on board, get on board.",
+      "It has landed many a thousand,\nO glory hallelujah!\nAnd will land as many more,\nO glory hallelujah!"
+    ]
+  },
+  {
+    "id": "fire-down-below",
+    "title": "Fire Down Below",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song"
+    ],
+    "note": "A shanty using shipboard fire as a metaphor for romantic longing, sung while working the capstan. Traditional and public domain.",
+    "verses": [
+      "There is fire down below, so we'd better all take care,\nFor there's fire down below, so it's fire down below,\nThere is fire in the galley, and there's fire in the hold,\nThere's fire down below, so it's fire down below.",
+      "There is fire in my heart, love, there's fire in my head,\nFor there's fire down below, so it's fire down below,\nThere is fire in the top and there's fire in the mast,\nThere's fire down below, so it's fire down below."
+    ]
+  },
+  {
+    "id": "tommys-gone-to-hilo",
+    "title": "Tommy's Gone to Hilo",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, referencing the port of Ilo, Peru; documented aboard sailing ships trading nitrate along the South American coast in the 19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "farewell song"
+    ],
+    "note": "A wistful shanty about a shipmate who has departed for the South American nitrate trade ports. Traditional and public domain.",
+    "verses": [
+      "Tommy's gone, what shall I do,\nAway to Hilo,\nTommy's gone, what shall I do,\nTom's gone to Hilo.",
+      "Tommy's gone and I'll go too,\nAway to Hilo,\nTommy's gone and I'll go too,\nTom's gone to Hilo.",
+      "Tommy's gone to Callao,\nAway to Hilo,\nAnd he will come back no more,\nTom's gone to Hilo."
+    ]
+  },
+  {
+    "id": "water-boy",
+    "title": "Water Boy",
+    "category": "work-song",
+    "origin": "Traditional African American prison and chain-gang work song, documented by folklorists in Southern prison camps in the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "prison song",
+      "work song",
+      "call and response"
+    ],
+    "note": "A work song calling for a water boy to bring relief from the heat of hard labor, later given a well-known concert arrangement by Avery Robinson. The traditional song itself is public domain.",
+    "verses": [
+      "Water boy, where are you hiding?\nIf you don't come, I'm gonna tell your pa,\nWater boy, where are you hiding?\nIf you don't come, gonna tell your pa.",
+      "Says don't you know the wagon's not turnin',\nMy neck's on fire and my chest gonna go,\nSays don't you know the wagon's not turnin',\nMy neck's on fire and my chest gonna go.",
+      "There ain't no hammer, in this whole land,\nThat's gonna ring like mine, boy, that's gonna ring like mine,\nThere ain't no hammer, in this whole land,\nThat's gonna ring like mine."
+    ]
+  },
+  {
+    "id": "grizzly-bear",
+    "title": "Grizzly Bear",
+    "category": "work-song",
+    "origin": "Traditional African American prison work song from Texas prison farms, documented by folklorists John and Alan Lomax in the 1930s",
+    "era": "early 20th century",
+    "tags": [
+      "prison song",
+      "work song",
+      "call and response"
+    ],
+    "note": "A rhythmic axe- or logging-work song about hunting a bear, sung to coordinate the pace of manual labor. Traditional and public domain.",
+    "verses": [
+      "Grizzly bear, grizzly bear,\nWonder what old grizzly thinkin',\nGrizzly bear, grizzly bear,\nWonder what old grizzly thinkin'.",
+      "Well, I looked at that bear,\nAnd that bear looked at me,\nI knowed right then\nThat old bear had to be free.",
+      "Grizzly bear a-standin' on the mountain,\nA-wavin' both his paws,\nGrizzly bear a-standin' on the mountain,\nA-wavin' both his paws."
+    ]
+  },
+  {
+    "id": "scotlands-burning",
+    "title": "Scotland's Burning",
+    "category": "folk",
+    "origin": "Traditional English/Scottish round, documented in print by the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "round",
+      "fire song",
+      "childrens song"
+    ],
+    "note": "A simple four-part round traditionally sung to teach children part-singing, of uncertain origin despite its dramatic title. Ancient and public domain.",
+    "verses": [
+      "Scotland's burning, Scotland's burning,\nLook out, look out,\nFire, fire, fire, fire,\nPour on water, pour on water."
+    ]
+  },
+  {
+    "id": "white-coral-bells",
+    "title": "White Coral Bells",
+    "category": "folk",
+    "origin": "Traditional English/American round, text possibly drawing on a Victorian-era poem; documented in American songbooks by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "round",
+      "childrens song",
+      "nature"
+    ],
+    "note": "A gentle four-part round about lily-of-the-valley flowers, a staple of children's choirs and summer camps. Traditional and public domain.",
+    "verses": [
+      "White coral bells, upon a slender stalk,\nLilies of the valley deck my garden walk,\nOh, don't you wish that you could hear them ring?\nThat will happen only when the fairies sing."
+    ]
+  },
+  {
+    "id": "colorado-trail",
+    "title": "The Colorado Trail",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, first published in Carl Sandburg's The American Songbag, 1927, credited to cowboy source Margaret Larkin",
+    "era": "early 20th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "lament"
+    ],
+    "note": "A brief, wistful trail song of parting, quoted by Carl Sandburg as one of the most haunting of the range ballads he collected. Traditional and public domain.",
+    "verses": [
+      "Eyes like the morning star,\nCheeks like a rose,\nLaura was a pretty girl,\nGod almighty knows.",
+      "Weep, all ye little rains,\nWail, winds, wail,\nAll along, along, along,\nThe Colorado trail."
+    ]
+  },
+  {
+    "id": "wraggle-taggle-gypsies",
+    "title": "The Wraggle Taggle Gypsies",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad, Child Ballad No. 200, with printed broadsides from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "elopement",
+      "comic ballad"
+    ],
+    "note": "A ballad of a lady who abandons her wealthy husband to run off with a band of Romani travelers, sung with more amusement than tragedy. Ancient and public domain.",
+    "verses": [
+      "There were three gypsies a-come to my door,\nAnd downstairs ran this a-lady, oh!\nOne sang high and another sang low,\nAnd the other sang, bonny, bonny Biscay, oh!",
+      "Then she pulled off her silk finished gown,\nAnd put on hose of leather, oh!\nThe ragged, ragged rags about our door,\nShe's gone with the wraggle taggle gypsies, oh!",
+      "It was late last night when my lord came home,\nInquiring for his lady, oh!\nThe servants said, on every hand,\nShe's gone with the wraggle taggle gypsies, oh!"
+    ]
+  },
+  {
+    "id": "john-barleycorn",
+    "title": "John Barleycorn",
+    "category": "folk",
+    "origin": "Traditional English ballad personifying barley (and the beer and whiskey made from it); documented in print since at least the 16th century, with Robert Burns publishing a well-known version in 1782",
+    "era": "16th century or earlier",
+    "tags": [
+      "english folk",
+      "harvest song",
+      "personification"
+    ],
+    "note": "An ancient allegorical ballad in which barley is planted, harvested, and processed into drink, described as a series of assaults on a personified 'John Barleycorn' who always survives. Ancient and public domain.",
+    "verses": [
+      "There was three kings into the east,\nThree kings both great and high,\nAnd they hae sworn a solemn oath,\nJohn Barleycorn should die.",
+      "They took a plough and plough'd him down,\nPut clods upon his head,\nAnd they hae sworn a solemn oath,\nJohn Barleycorn was dead.",
+      "But the cheerful spring came kindly on,\nAnd showers began to fall,\nJohn Barleycorn got up again,\nAnd sore surpris'd them all.",
+      "They've taen a weapon, long and sharp,\nAnd cut him by the knee,\nThey ty'd him fast upon a cart,\nLike a rogue for forgerie."
+    ]
   }
 ]
