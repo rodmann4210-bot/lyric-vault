@@ -5793,5 +5793,306 @@
       "I've got a girl, she's on my mind,\nAll the time, she's some kind,\nShe's got a way, believe me, it's a way that's all her own,\nWhen it comes to lovin' I'll bet she's a champion.",
       "Ida, sweet as apple cider,\nSweeter than all I know,\nCome out in the moonlight, and see with me,\nThe silv'ry moon a-glow,\nI've got a longin' for a home, sweet home,\nWith someone just like you,\nIda, sweet as apple cider,\nI'm gettin' stuck on you."
     ]
+  },
+  {
+    "id": "sweet-williams-ghost",
+    "title": "Sweet William's Ghost",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 77, first printed in 1740 in Allan Ramsay's Tea-Table Miscellany",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "ghost ballad"
+    ],
+    "note": "A ghost ballad in which a deceased lover returns to ask his sweetheart to release him from his troth so his spirit may rest. Ancient and public domain.",
+    "verses": [
+      "There came a ghost to Margaret's door,\nWith many a grievous groan,\nAnd aye he tirled at the pin,\nBut answer made she none.",
+      "'Is this my father Philip?\nOr is't my brother John?\nOr is't my true-love Willie,\nFrom Scotland new come home?'",
+      "''Tis not thy father Philip,\nNor yet thy brother John,\nBut 'tis thy true-love Willie,\nFrom Scotland new come home.'"
+    ]
+  },
+  {
+    "id": "king-henry",
+    "title": "King Henry",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 32, with roots possibly connected to medieval romance tales; documented from the 18th century",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "supernatural"
+    ],
+    "note": "A strange ballad in which a hospitable king is tested by a monstrous, supernatural guest who transforms into a beautiful woman once properly served. Ancient and public domain.",
+    "verses": [
+      "Let never a man a-wooing wend,\nThat lacketh things three,\nA store of gold, an open heart,\nAnd full of charity.",
+      "And this was seen of King Henry,\nFor he lay burd-alone,\nAnd he's ta'en him to a haunted hunt's hall,\nWas seven miles frae a town.",
+      "He's chased the deer now him before,\nAnd the roe down by the den,\nTill the fattest buck in a' the flock,\nKing Henry he has slain."
+    ]
+  },
+  {
+    "id": "get-on-board-little-children",
+    "title": "Get on Board, Little Children",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, using the Underground Railroad and gospel train imagery; documented in spiritual collections of the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "underground railroad",
+      "train song"
+    ],
+    "note": "A gospel train spiritual, its imagery widely understood to carry a coded message of escape during the era of slavery. Traditional and public domain.",
+    "verses": [
+      "Get on board, little children,\nGet on board, little children,\nGet on board, little children,\nThere's room for many a more.",
+      "The gospel train's a-comin',\nI hear it just at hand,\nI hear the car wheels rumblin',\nAnd rollin' through the land.",
+      "I hear the train a-comin',\nShe's comin' round the curve,\nShe's loosened all her steam and brakes,\nAnd strainin' every nerve."
+    ]
+  },
+  {
+    "id": "fix-me-jesus",
+    "title": "Fix Me, Jesus",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "preparation"
+    ],
+    "note": "A quiet, contemplative spiritual asking for spiritual readiness before death. Traditional and public domain.",
+    "verses": [
+      "Fix me, Jesus, fix me,\nFix me, Jesus, fix me,\nFix me for my long white robe,\nFix me, Jesus, fix me.",
+      "Fix me for my journey home,\nFix me, Jesus, fix me,\nFix me for my starry crown,\nFix me, Jesus, fix me.",
+      "Fix me for the judgment day,\nFix me, Jesus, fix me,\nWon't you fix me for that day,\nFix me, Jesus, fix me."
+    ]
+  },
+  {
+    "id": "city-called-heaven",
+    "title": "City Called Heaven",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "longing"
+    ],
+    "note": "A spiritual of deep longing and isolation, imagining a heavenly city as refuge from earthly sorrow. Traditional and public domain.",
+    "verses": [
+      "I am a poor pilgrim of sorrow,\nI'm left in this wide world alone,\nNo hope for tomorrow,\nI've started to make heaven my home.",
+      "Sometimes I am tossed and driven, Lord,\nSometimes I don't know where to roam,\nI've heard of a city called heaven,\nI've started to make it my home.",
+      "My mother has gone to pure glory,\nMy father's still walkin' in sin,\nMy sisters and brothers won't own me,\nBecause I am tryin' to get in."
+    ]
+  },
+  {
+    "id": "storm-along",
+    "title": "Storm Along (Mister Stormalong)",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard and capstan shanty, likely referencing a legendary giant sailor figure of American maritime folklore; documented aboard ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "folk hero",
+      "funeral song"
+    ],
+    "note": "Sometimes sung as a funeral or dirge shanty for a fellow sailor, honoring the legendary 'Old Stormalong,' a folkloric giant of the sea. Traditional and public domain.",
+    "verses": [
+      "Old Stormy he is dead and gone,\nTo my aye, storm along,\nOld Stormy he is dead and gone,\nAye, aye, aye, Mister Storm along.",
+      "We'll dig his grave with a silver spade,\nTo my aye, storm along,\nHis shroud of the finest silk was made,\nAye, aye, aye, Mister Storm along.",
+      "We'll lower him down with a golden chain,\nTo my aye, storm along,\nAnd every day we'll watch his grave,\nAye, aye, aye, Mister Storm along."
+    ]
+  },
+  {
+    "id": "sacramento",
+    "title": "Sacramento",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty from the California Gold Rush era, documented aboard ships sailing 'round the Horn to San Francisco in the 1850s",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "gold rush"
+    ],
+    "note": "A rousing shanty sung by sailors racing to the California goldfields, referencing the boomtown of Sacramento. Traditional and public domain.",
+    "verses": [
+      "Oh, around Cape Horn we're bound to go,\nTo my hoodah, to my hoodah,\nAround Cape Horn through the sleet and snow,\nHoodah, to my hoodah, day.",
+      "We're bound for the town of Sacramento,\nTo my hoodah, to my hoodah,\nWith a bran' new suit for the growing season,\nHoodah, to my hoodah, day.",
+      "So it's blow, ye winds, heigh-ho,\nFor Californ-i-o,\nThere's plenty of gold, so I've been told,\nOn the banks of the Sacramento."
+    ]
+  },
+  {
+    "id": "the-alabama",
+    "title": "The Alabama (Roll, Alabama, Roll)",
+    "category": "sea-shanty",
+    "origin": "Traditional Civil War-era sea ballad commemorating the Confederate raider CSS Alabama, sunk off Cherbourg, France in 1864",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "civil war",
+      "naval"
+    ],
+    "note": "A shanty recounting the exploits and sinking of the Confederate commerce raider Alabama, later collected as a folk song by sailors of many nations. Traditional and public domain.",
+    "verses": [
+      "When the Alabama's keel was laid,\nRoll, Alabama, roll,\n'Twas laid in the yard of Jonathan Laird,\nOh, roll, Alabama, roll.",
+      "She was built at Birkenhead, far away,\nRoll, Alabama, roll,\nShe was built at Birkenhead, far away,\nOh, roll, Alabama, roll.",
+      "Down south she went a-cruisin' about,\nRoll, Alabama, roll,\nAnd many a Yankee ship laid low,\nOh, roll, Alabama, roll."
+    ]
+  },
+  {
+    "id": "sioux-indians",
+    "title": "Sioux Indians",
+    "category": "folk",
+    "origin": "Traditional American pioneer ballad, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "pioneer"
+    ],
+    "note": "A pioneer-era travel ballad recounting a wagon train's encounter with Sioux warriors on the westward trail. Traditional and public domain.",
+    "verses": [
+      "We crossed the broad prairie, our purpose to find,\nA country far distant and pleasant in clime,\nWe were led by a pilot, expecting to gain,\nA fertile new region, free from care and pain.",
+      "In our little band there were forty and four,\nAnd all of us reached this fair Colorado shore,\nOur pilot he tried, our way to lead on,\nWhile the red skins pursued us, our lives for to take.",
+      "We heard of Sioux Indians all out on the plain,\nA-killing poor drivers and burning their grain,\nThey killed men and women, and children also,\nAs we were informed by the man from Ohio."
+    ]
+  },
+  {
+    "id": "pick-a-bale-of-cotton",
+    "title": "Pick a Bale of Cotton",
+    "category": "work-song",
+    "origin": "Traditional African American work song from the 19th-century American South, with earliest documented field recordings made in 1933 by folklorists John and Alan Lomax",
+    "era": "19th century",
+    "tags": [
+      "work song",
+      "cotton field",
+      "call and response"
+    ],
+    "note": "A rhythmic cotton-picking work song of unknown, anonymous authorship, later given a well-known personal arrangement by Lead Belly. The traditional song predates and is distinct from any single performer's specific version.",
+    "verses": [
+      "Oh, Lordy, pick a bale of cotton,\nOh, Lordy, pick a bale a day,\nOh, Lordy, pick a bale of cotton,\nOh, Lordy, pick a bale a day.",
+      "Me and my partner can pick a bale of cotton,\nMe and my partner can pick a bale a day,\nMe and my partner can pick a bale of cotton,\nMe and my partner can pick a bale a day.",
+      "Gonna pick a bale of cotton, gonna pick it by myself,\nGonna pick a bale of cotton, gonna pick it by myself,\nGonna pick a bale of cotton, gonna pick it by myself."
+    ]
+  },
+  {
+    "id": "old-blue",
+    "title": "Old Blue",
+    "category": "folk",
+    "origin": "Traditional American folk song about a hunting hound, documented in southern folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "hound dog song",
+      "americana"
+    ],
+    "note": "A well-loved song about a faithful hunting dog, later covered by many folk revival artists. Traditional and public domain.",
+    "verses": [
+      "I had a dog and his name was Blue,\nBetcha five dollars he's a good dog too,\nSaddle up, boys, and go with me,\nWe're gonna chase this possum up a hollow tree.",
+      "Old Blue treed and I went to see,\nThere was a possum up that 'simmon tree,\nOld Blue barked and I went to look,\nThere was old Blue treed on a possum's track.",
+      "Old Blue died and he died so hard,\nHe shook the ground in my back yard,\nDug his grave with a silver spade,\nLowered him down with a golden chain."
+    ]
+  },
+  {
+    "id": "my-wild-irish-rose",
+    "title": "My Wild Irish Rose",
+    "category": "parlor",
+    "origin": "Words and music by Chauncey Olcott, published 1899",
+    "era": "19th century",
+    "tags": [
+      "irish-american",
+      "tin pan alley",
+      "love song"
+    ],
+    "note": "Written by an Irish-American vaudeville and Broadway star, this became one of the most enduring Irish-American parlor ballads. Public domain since 1899.",
+    "verses": [
+      "If you listen, I'll sing you a sweet little song,\nOf a flow'r that's now dead, yet dearer to me,\nYes, dearer to me than all of its mates,\nThough each holds a beauty that no other shares.",
+      "My wild Irish Rose,\nThe sweetest flow'r that grows,\nYou may search ev'rywhere,\nBut none can compare,\nWith my wild Irish Rose.",
+      "My wild Irish Rose,\nThe dearest flow'r that grows,\nAnd some day for my sake,\nShe may let me take,\nThe bloom from my wild Irish Rose."
+    ]
+  },
+  {
+    "id": "when-irish-eyes-are-smiling",
+    "title": "When Irish Eyes Are Smiling",
+    "category": "parlor",
+    "origin": "Words by Chauncey Olcott and George Graff Jr., music by Ernest Ball, published 1912",
+    "era": "early 20th century",
+    "tags": [
+      "irish-american",
+      "tin pan alley"
+    ],
+    "note": "One of the most enduring Irish-American songs, written for the Broadway show The Isle o' Dreams. Public domain since 1912.",
+    "verses": [
+      "There's a tear in your eye,\nAnd I'm wondering why,\nFor it never should be there at all,\nWith such power in your smile,\nSure a stone you'd beguile,\nSo there's never a teardrop should fall.",
+      "When Irish eyes are smiling,\nSure, 'tis like a morn in spring,\nIn the lilt of Irish laughter,\nYou can hear the angels sing,\nWhen Irish hearts are happy,\nAll the world seems bright and gay,\nAnd when Irish eyes are smiling,\nSure, they steal your heart away."
+    ]
+  },
+  {
+    "id": "meet-me-tonight-in-dreamland",
+    "title": "Meet Me Tonight in Dreamland",
+    "category": "parlor",
+    "origin": "Words by Beth Slater Whitson, music by Leo Friedman, published 1909",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "lullaby",
+      "sentimental"
+    ],
+    "note": "A gentle romantic ballad by the same songwriting team behind 'Let Me Call You Sweetheart.' Public domain since 1909.",
+    "verses": [
+      "Softly the leaves of the roses,\nFalling upon the ground,\nSweetly the wind of the summer,\nIn the treetops sound.",
+      "Meet me tonight in dreamland,\nUnder the silv'ry moon,\nMeet me tonight in dreamland,\nWhere love's sweet roses bloom,\nCome with the love-light gleaming,\nIn your dear eyes of blue,\nMeet me in dreamland,\nSweet dreamy dreamland,\nThere let my dreams come true."
+    ]
+  },
+  {
+    "id": "lonesome-road-blues",
+    "title": "Lonesome Road Blues (Going Down the Road Feeling Bad)",
+    "category": "blues",
+    "origin": "Traditional American folk-blues song, documented in Appalachian and southern collections by the early 20th century, first commercially recorded 1923 by Henry Whitter",
+    "era": "early 20th century",
+    "tags": [
+      "appalachian",
+      "blues",
+      "travel song"
+    ],
+    "note": "A widely traveled lament song, part of a large family of related 'going down the road' traditional songs. Traditional and public domain.",
+    "verses": [
+      "I'm going down this road feeling bad, Lord, Lord,\nI'm going down this road feeling bad,\nI'm going down this road feeling bad, bad, bad,\nAnd I ain't gonna be treated this way.",
+      "I'm going where the water tastes like wine, Lord, Lord,\nI'm going where the water tastes like wine,\nI'm going where the water tastes like wine,\nAnd I ain't gonna be treated this way.",
+      "Two dollar shoes hurt my feet, Lord, Lord,\nTwo dollar shoes hurt my feet,\nTwo dollar shoes hurt my feet, feet, feet,\nAnd I ain't gonna be treated this way."
+    ]
+  },
+  {
+    "id": "little-log-cabin-in-the-lane",
+    "title": "The Little Log Cabin in the Lane",
+    "category": "parlor",
+    "origin": "Words and music by Will S. Hays, published 1871",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "nostalgia",
+      "americana"
+    ],
+    "note": "A sentimental ballad recalling a humble childhood home, one of the most popular songs of its era and a favorite of early country and bluegrass musicians. Public domain since 1871.",
+    "verses": [
+      "Oh, the old log cabin, tumblin' down, tumblin' down,\nOh, the old log cabin, tumblin' down,\nThe rats and the mice, they are playin' cards,\nIn the little log cabin in the lane.",
+      "The chimney's fell down, and it's stopped up the door,\nWith the coon dog barkin' 'neath the sycamore,\nThe hinges are rusted and the roof has caved in,\nIn the little log cabin in the lane.",
+      "But it's dearer to me than the mansions so fine,\nFor it's there that my heart, it will always incline,\nAnd I'll never forget those old days of mine,\nIn the little log cabin in the lane."
+    ]
+  },
+  {
+    "id": "poor-boy",
+    "title": "Poor Boy",
+    "category": "blues",
+    "origin": "Traditional African American folk-blues song, documented in Southern folk collections of the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "blues",
+      "travel song",
+      "floating verses"
+    ],
+    "note": "A wandering-verse blues song shared widely among early 20th-century folk and blues singers, its lyrics floating freely between related songs. Traditional and public domain.",
+    "verses": [
+      "Poor boy, long ways from home,\nPoor boy, long ways from home,\nPoor boy, long ways from home,\nA long ways from home.",
+      "Don't the clouds look lonesome, cross the deep blue sea,\nDon't the clouds look lonesome, cross the deep blue sea,\nDon't my baby look the sweetest, in the world to me.",
+      "Sun's gonna shine in my back door someday,\nSun's gonna shine in my back door someday,\nThe wind's gonna change and blow my blues away."
+    ]
   }
 ]
