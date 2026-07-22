@@ -4807,5 +4807,630 @@
       "But the cheerful spring came kindly on,\nAnd showers began to fall,\nJohn Barleycorn got up again,\nAnd sore surpris'd them all.",
       "They've taen a weapon, long and sharp,\nAnd cut him by the knee,\nThey ty'd him fast upon a cart,\nLike a rogue for forgerie."
     ]
+  },
+  {
+    "id": "chester",
+    "title": "Chester",
+    "category": "parlor",
+    "origin": "Words and music by William Billings, published 1770 in The New-England Psalm-Singer",
+    "era": "18th century",
+    "tags": [
+      "revolutionary war",
+      "hymn",
+      "patriotic"
+    ],
+    "note": "Often called the unofficial anthem of the American Revolution, sung by Continental Army soldiers at Valley Forge. Public domain since 1770.",
+    "verses": [
+      "Let tyrants shake their iron rod,\nAnd Slav'ry clank her galling chains,\nWe fear them not, we trust in God,\nNew England's God forever reigns.",
+      "Howe and Burgoyne and Clinton too,\nWith Prescot and Cornwallis join'd,\nTogether plot our overthrow,\nIn one infernal league combin'd.",
+      "When God inspir'd us for the fight,\nTheir ranks were broke, their lines were forc'd,\nTheir ships were shatter'd in our sight,\nOr swiftly driven from our coast."
+    ]
+  },
+  {
+    "id": "liberty-song",
+    "title": "The Liberty Song",
+    "category": "parlor",
+    "origin": "Words by John Dickinson, published 1768, set to the British naval tune \"Heart of Oak\" by William Boyce (1759)",
+    "era": "18th century",
+    "tags": [
+      "revolutionary war",
+      "patriotic"
+    ],
+    "note": "One of the earliest patriotic songs of the American colonies, written in protest of British taxation before the Revolutionary War even began. Public domain since 1768.",
+    "verses": [
+      "Come, join hand in hand, brave Americans all,\nAnd rouse your bold hearts at fair Liberty's call,\nNo tyrannous acts shall suppress your just claim,\nOr stain with dishonor America's name.",
+      "In freedom we're born, and in freedom we'll live,\nOur purses are ready,\nSteady, Friends, steady,\nNot as slaves, but as freemen our money we'll give.",
+      "This bumper I crown for our sovereign's health,\nAnd this for Britannia's glory and wealth,\nThat wealth and that glory immortal may be,\nIf she is but just, and we are but free."
+    ]
+  },
+  {
+    "id": "free-america",
+    "title": "Free America",
+    "category": "parlor",
+    "origin": "Words attributed to Dr. Joseph Warren, published 1770s, set to the same tune as \"The British Grenadiers\"",
+    "era": "18th century",
+    "tags": [
+      "revolutionary war",
+      "patriotic"
+    ],
+    "note": "A defiant patriotic song of the pre-Revolutionary colonies, attributed to a Massachusetts physician who later died at the Battle of Bunker Hill. Public domain since the 1770s.",
+    "verses": [
+      "That seat of science, Athens,\nAnd earth's proud mistress, Rome,\nWhere now are all their glories?\nWe scarce can find their tomb.",
+      "Then join hand in hand, brave Americans all,\nBy uniting we stand, by dividing we fall,\nIn so righteous a cause let us hope to succeed,\nFor Heaven approves of each generous deed.",
+      "Torn from a world of tyrants,\nBeneath this western sky,\nWe formed a new dominion,\nA land of liberty."
+    ]
+  },
+  {
+    "id": "all-through-the-night",
+    "title": "All Through the Night (Ar Hyd y Nos)",
+    "category": "folk",
+    "origin": "Traditional Welsh melody, first published 1784 in Edward Jones's Musical and Poetical Relics of the Welsh Bards; English lyrics by Harold Boulton, 1884",
+    "era": "18th century",
+    "tags": [
+      "welsh",
+      "lullaby"
+    ],
+    "note": "One of the most beloved Welsh melodies, sung as a lullaby across the English-speaking world. Both the ancient tune and the 1884 English lyric are public domain.",
+    "verses": [
+      "Sleep, my child, and peace attend thee,\nAll through the night,\nGuardian angels God will send thee,\nAll through the night.\nSoft the drowsy hours are creeping,\nHill and vale in slumber sleeping,\nI my loving vigil keeping,\nAll through the night.",
+      "While the moon her watch is keeping,\nAll through the night,\nWhile the weary world is sleeping,\nAll through the night,\nO'er thy spirit gently stealing,\nVisions of delight revealing,\nBreathes a pure and holy feeling,\nAll through the night."
+    ]
+  },
+  {
+    "id": "men-of-harlech",
+    "title": "Men of Harlech",
+    "category": "folk",
+    "origin": "Traditional Welsh melody, likely referencing the seven-year siege of Harlech Castle in the 1460s; earliest printed version dates to 1794",
+    "era": "18th century",
+    "tags": [
+      "welsh",
+      "military march"
+    ],
+    "note": "One of the most recognizable Welsh martial tunes, commemorating the longest siege in the history of the British Isles. Public domain since its 1794 publication.",
+    "verses": [
+      "Men of Harlech, march to glory,\nVictory is hov'ring o'er ye,\nBright-eyed freedom stands before ye,\nHear ye not her call?",
+      "At your sloth she seems to wonder,\nRend the sluggish bonds asunder,\nLet the war-cry's deaf'ning thunder,\nEach to arms enthrall.",
+      "Men of Harlech, young or hoary,\nWould you win a name in story,\nStrike for home, for life, for glory,\nFreedom, God, and right."
+    ]
+  },
+  {
+    "id": "scots-wha-hae",
+    "title": "Scots Wha Hae",
+    "category": "folk",
+    "origin": "Words by Robert Burns, written 1793, imagined as Robert the Bruce's address before the 1314 Battle of Bannockburn",
+    "era": "18th century",
+    "tags": [
+      "scottish",
+      "patriotic",
+      "burns"
+    ],
+    "note": "Long served as an unofficial Scottish national anthem, written by Burns to commemorate the medieval Scottish victory over England. Public domain since 1793.",
+    "verses": [
+      "Scots, wha hae wi' Wallace bled,\nScots, wham Bruce has aften led,\nWelcome to your gory bed,\nOr to victorie!",
+      "Now's the day, and now's the hour;\nSee the front o' battle lour;\nSee approach proud Edward's power,\nChains and slaverie!",
+      "Wha will be a traitor knave?\nWha will fill a coward's grave?\nWha sae base as be a slave?\nLet him turn and flee!"
+    ]
+  },
+  {
+    "id": "farewell-to-nova-scotia",
+    "title": "Farewell to Nova Scotia",
+    "category": "folk",
+    "origin": "Traditional Canadian Maritime folk song, melody derived from an older Scottish tune; documented in Nova Scotia folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "maritime",
+      "canadian",
+      "farewell song"
+    ],
+    "note": "A beloved Nova Scotia farewell song, often mistakenly assumed to be much older than its actual 19th-century Maritime provenance. Traditional and public domain.",
+    "verses": [
+      "The sun was setting in the west,\nThe birds were singing on ev'ry tree,\nAll nature seemed inclined for rest,\nBut still there was no rest for me.",
+      "Farewell to Nova Scotia, the sea-bound coast,\nLet your mountains dark and dreary be,\nFor when I am far away on the briny ocean tossed,\nWill you ever heave a sigh or a wish for me?",
+      "I grieve to leave my native land,\nI grieve to leave my comrades all,\nAnd my parents whom I held so dear,\nAnd the bonnie, bonnie lassie that I do adore."
+    ]
+  },
+  {
+    "id": "the-mermaid",
+    "title": "The Mermaid",
+    "category": "ballad",
+    "origin": "Traditional English sea ballad, Child Ballad No. 289, with printed broadsides from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "sea ballad",
+      "superstition"
+    ],
+    "note": "A ballad built on the old sailor's superstition that sighting a mermaid foretells a ship's doom. Ancient and public domain.",
+    "verses": [
+      "'Twas Friday morn when we set sail,\nAnd we were not far from land,\nWhen the captain, he spied a mermaid so fair,\nWith a comb and a glass in her hand.",
+      "Oh, the ocean waves may roll,\nAnd the stormy winds may blow,\nWhile we poor sailors go skipping to the top,\nAnd the landlubbers lie down below, below, below,\nAnd the landlubbers lie down below.",
+      "Then up spoke the captain of our gallant ship,\nAnd a fine old man was he,\n'This fishy mermaid has warned me of our doom,\nWe shall sink to the bottom of the sea.'"
+    ]
+  },
+  {
+    "id": "three-blind-mice",
+    "title": "Three Blind Mice",
+    "category": "folk",
+    "origin": "Traditional English round, first printed in 1609 in Thomas Ravenscroft's Deuteromelia",
+    "era": "17th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "round",
+      "childrens song"
+    ],
+    "note": "One of the oldest musical rounds still commonly sung in English, printed over four centuries ago. Ancient and public domain.",
+    "verses": [
+      "Three blind mice, three blind mice,\nSee how they run, see how they run,\nThey all ran after the farmer's wife,\nWho cut off their tails with a carving knife,\nDid you ever see such a sight in your life,\nAs three blind mice?"
+    ]
+  },
+  {
+    "id": "farmer-in-the-dell",
+    "title": "The Farmer in the Dell",
+    "category": "folk",
+    "origin": "Traditional German-American singing game, documented in American folk collections by the 1880s",
+    "era": "19th century",
+    "tags": [
+      "nursery rhyme",
+      "singing game",
+      "childrens song"
+    ],
+    "note": "A widely known children's circle game, likely brought to America by German immigrants. Traditional and public domain.",
+    "verses": [
+      "The farmer in the dell,\nThe farmer in the dell,\nHi-ho, the derry-o,\nThe farmer in the dell.",
+      "The farmer takes a wife,\nThe farmer takes a wife,\nHi-ho, the derry-o,\nThe farmer takes a wife.",
+      "The wife takes a child,\nThe wife takes a child,\nHi-ho, the derry-o,\nThe wife takes a child."
+    ]
+  },
+  {
+    "id": "mulberry-bush",
+    "title": "Here We Go Round the Mulberry Bush",
+    "category": "folk",
+    "origin": "Traditional English singing game, documented in print by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "nursery rhyme",
+      "singing game",
+      "childrens song"
+    ],
+    "note": "A widely known children's circle game with endlessly extendable verses about daily chores. Traditional and public domain.",
+    "verses": [
+      "Here we go round the mulberry bush,\nThe mulberry bush, the mulberry bush,\nHere we go round the mulberry bush,\nOn a cold and frosty morning.",
+      "This is the way we wash our clothes,\nWash our clothes, wash our clothes,\nThis is the way we wash our clothes,\nOn a cold and frosty morning.",
+      "This is the way we go to school,\nGo to school, go to school,\nThis is the way we go to school,\nOn a cold and frosty morning."
+    ]
+  },
+  {
+    "id": "wasnt-that-a-mighty-day",
+    "title": "Wasn't That a Mighty Day",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "christmas"
+    ],
+    "note": "A joyful spiritual celebrating the day of Christ's birth, sung especially around Christmas in Black church traditions. Traditional and public domain.",
+    "verses": [
+      "Wasn't that a mighty day,\nWhen Jesus Christ was born,\nWasn't that a mighty day,\nWhen Jesus Christ was born.",
+      "Sing hallelujah,\nWhen Jesus Christ was born,\nSing hallelujah,\nWhen Jesus Christ was born.",
+      "Wise men came from the east,\nWhen Jesus Christ was born,\nWise men came from the east,\nWhen Jesus Christ was born."
+    ]
+  },
+  {
+    "id": "peter-go-ring-dem-bells",
+    "title": "Peter, Go Ring Dem Bells",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "celebration"
+    ],
+    "note": "A joyful spiritual instructing the Apostle Peter to ring the bells of heaven in celebration. Traditional and public domain.",
+    "verses": [
+      "Peter, go ring dem bells,\nPeter, go ring dem bells,\nPeter, go ring dem bells,\nI heard from heaven today.",
+      "Ring dem bells,\nRing dem bells,\nI heard from heaven today.",
+      "Don't you hear the bells now ringing?\nDon't you hear the bells now ringing?\nDon't you hear the bells now ringing?\nI heard from heaven today."
+    ]
+  },
+  {
+    "id": "shule-aroon",
+    "title": "Shule Aroon",
+    "category": "folk",
+    "origin": "Traditional Irish ballad, likely originating in the late 17th century amid the \"Wild Geese\" emigration of Irish soldiers to French service",
+    "era": "17th century or earlier",
+    "tags": [
+      "irish",
+      "farewell song",
+      "gaelic"
+    ],
+    "note": "A woman's lament for a departing soldier, sung partly in Irish Gaelic. Its melody was later adapted into the American Revolutionary War song \"Johnny Has Gone for a Soldier.\" Ancient and public domain.",
+    "verses": [
+      "I wish I were on yonder hill,\n'Tis there I'd sit and cry my fill,\nAnd every tear would turn a mill,\nIs go dte tu mo mhuirnin slan.",
+      "Shule, shule, shule aroon,\nShule go succir agus, shule go ciuin,\nShule go den durus agus eiligh liom,\nIs go dte tu mo mhuirnin slan.",
+      "I'll sell my rock, I'll sell my reel,\nI'll sell my only spinning wheel,\nTo buy my love a sword of steel,\nIs go dte tu mo mhuirnin slan."
+    ]
+  },
+  {
+    "id": "bard-of-armagh",
+    "title": "The Bard of Armagh",
+    "category": "folk",
+    "origin": "Traditional Irish ballad, likely referencing 18th-century blind Irish harper and priest Patrick Donnelly; the melody later carried the American song \"Streets of Laredo\"",
+    "era": "18th century",
+    "tags": [
+      "irish",
+      "farewell song"
+    ],
+    "note": "An aging bard's reflection on mortality and legacy. Its tune traveled to America and became the melody for \"Streets of Laredo\" and \"The Cowboy's Lament.\" Ancient and public domain.",
+    "verses": [
+      "Oh, list to the lay of a poor Irish harper,\nAnd scorn not the strings in his old withered hand,\nBut remember his fingers could once move sharper,\nTo raise up the merry strains of his dear native land.",
+      "It was long before the shamrock, our green isle's loved emblem,\nWas crushed in its beauty 'neath the Saxon's cruel hand,\nI led my brave clansmen through blood and through danger,\nAnd never feared conflict though a poor Irish stranger.",
+      "And when Sergeant Death in his cold arms shall embrace me,\nOh, lull me to sleep with sweet Erin go bragh,\nBy the side of my Kathleen, my dear native lassie,\nI will forget the woes of Old Ireland far away."
+    ]
+  },
+  {
+    "id": "on-top-of-old-smoky",
+    "title": "On Top of Old Smoky",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song, likely derived from older English ballads; documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "love lament"
+    ],
+    "note": "A wistful love-lost ballad, one of the most widely known Appalachian folk songs, set on the Great Smoky Mountains of Tennessee and North Carolina. Traditional and public domain.",
+    "verses": [
+      "On top of old Smoky,\nAll covered with snow,\nI lost my true lover,\nFor courtin' too slow.",
+      "For courtin's a pleasure,\nAnd partin' is grief,\nBut a false-hearted lover,\nIs worse than a thief.",
+      "A thief will just rob you,\nAnd take what you have,\nBut a false-hearted lover,\nWill lead you to the grave."
+    ]
+  },
+  {
+    "id": "green-grass-grew-all-around",
+    "title": "The Green Grass Grew All Around",
+    "category": "folk",
+    "origin": "Traditional American cumulative folk song, documented in songbooks and folk collections since the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "cumulative song",
+      "childrens song",
+      "nature"
+    ],
+    "note": "A cumulative, endlessly building song about a tree, a branch, a nest, and an egg, popular with children's groups and campfire singing. Traditional and public domain.",
+    "verses": [
+      "There was a tree, all in the wood,\nThe prettiest tree, you ever did see,\nThe tree in the hole, and the hole in the ground,\nAnd the green grass grew all around, all around,\nAnd the green grass grew all around.",
+      "And on that tree, there was a limb,\nThe prettiest limb, you ever did see,\nThe limb on the tree, the tree in the hole,\nAnd the hole in the ground,\nAnd the green grass grew all around, all around,\nAnd the green grass grew all around."
+    ]
+  },
+  {
+    "id": "london-bridge",
+    "title": "London Bridge Is Falling Down",
+    "category": "folk",
+    "origin": "Traditional English nursery rhyme and singing game, with possible roots in medieval England; first printed in its familiar form in the early 19th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "nursery rhyme",
+      "singing game",
+      "london"
+    ],
+    "note": "One of the most widely known English nursery rhymes and singing games, of much-debated and uncertain deep origin. Ancient and public domain.",
+    "verses": [
+      "London Bridge is falling down,\nFalling down, falling down,\nLondon Bridge is falling down,\nMy fair lady.",
+      "Build it up with wood and clay,\nWood and clay, wood and clay,\nBuild it up with wood and clay,\nMy fair lady.",
+      "Wood and clay will wash away,\nWash away, wash away,\nWood and clay will wash away,\nMy fair lady."
+    ]
+  },
+  {
+    "id": "the-dodger-song",
+    "title": "The Dodger Song",
+    "category": "folk",
+    "origin": "Traditional American political satire song, documented in Ozark folk collections by the early 20th century; roots possibly tracing to 1880s populist-era protest songs",
+    "era": "19th century",
+    "tags": [
+      "satire",
+      "political",
+      "americana"
+    ],
+    "note": "A cheerfully cynical satire skewering politicians, lawyers, merchants, and preachers alike as 'dodgers.' Traditional and public domain.",
+    "verses": [
+      "Yes, the candidate's a dodger, yes, a well-known dodger,\nYes, the candidate's a dodger, yes and I'm a dodger too,\nHe'll meet you and treat you and ask you for your vote,\nBut look out, boys, he's a-dodgin' for a note.",
+      "Yes, we're all dodging, dodging, dodging, dodging,\nYes, we're all dodging, out of our way,\nThrough this world of sin we're all a-dodgin',\nYes, we're all dodging out of our way.",
+      "Yes, the lawyer's a dodger, yes, a well-known dodger,\nYes, the lawyer's a dodger, yes and I'm a dodger too,\nHe'll plead your case and claim you for a friend,\nBut look out, boys, he's easy for to bend."
+    ]
+  },
+  {
+    "id": "blow-the-candle-out",
+    "title": "Blow the Candle Out",
+    "category": "folk",
+    "origin": "Traditional English broadside ballad, documented in print from the 18th century",
+    "era": "18th century",
+    "tags": [
+      "english folk",
+      "courting song"
+    ],
+    "note": "A comic courting ballad advising a young apprentice on how to visit his sweetheart discreetly. Traditional and public domain.",
+    "verses": [
+      "'Twas of a young apprentice, that came from Staffordshire,\nHe courted his young mistress and he loved her wondrous dear,\nHe asked her, 'Would she marry him?' \nShe made him this reply,\n'I'll wait till I'm of age, sweetheart, and then I'll tell you why.'",
+      "Come all you young apprentices, wherever you may be,\nI pray you pay attention and listen unto me,\nBe true unto your sweetheart, be constant, kind, and free,\nAnd when you go to see your love, blow the candle out."
+    ]
+  },
+  {
+    "id": "sam-hall",
+    "title": "Sam Hall",
+    "category": "folk",
+    "origin": "Traditional English gallows ballad, developed from an earlier broadside called \"Jack Hall,\" documented in music hall performance by the 1840s",
+    "era": "19th century",
+    "tags": [
+      "gallows ballad",
+      "comic song",
+      "english folk"
+    ],
+    "note": "A darkly comic ballad sung from the perspective of a condemned chimney-sweep-turned-thief, unrepentant to the end. A staple of British music hall performance. Traditional and public domain.",
+    "verses": [
+      "My name it is Sam Hall, Sam Hall,\nMy name it is Sam Hall, Sam Hall,\nMy name it is Sam Hall,\nAnd I hate you one and all,\nYou're a gang of muckers all,\nDamn your eyes.",
+      "I killed a man, they said, so they said,\nI killed a man, they said, so they said,\nI killed a man, they said,\nAnd I smashed his bleedin' head,\nAnd I left him there for dead,\nDamn his eyes.",
+      "I shall see you all in hell, all in hell,\nI shall see you all in hell, all in hell,\nI shall see you all in hell,\nAnd I hope you frizzle well,\nJust to see how you can smell,\nDamn your eyes."
+    ]
+  },
+  {
+    "id": "sam-bass",
+    "title": "Sam Bass",
+    "category": "ballad",
+    "origin": "Traditional Texas outlaw ballad based on the life of train robber Sam Bass, killed by Texas Rangers in 1878; first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "outlaw ballad",
+      "texas",
+      "cowboy song"
+    ],
+    "note": "One of the most famous outlaw ballads of the American West, chronicling Bass's rise from ranch hand to notorious train robber. Traditional and public domain.",
+    "verses": [
+      "Sam Bass was born in Indiana, it was his native home,\nAnd at the age of seventeen young Sam began to roam,\nSam first came out to Texas a cowboy for to be,\nA kinder-hearted fellow you seldom ever see.",
+      "Sam used to deal in race stock, one called the Denton mare,\nHe matched her in scrub races and took her to the fair,\nSam used to coin the money and spent it just as free,\nHe always drank good whiskey wherever he might be.",
+      "Jim Murphy was arrested and then released on bail,\nHe jumped his bond at Tyler and then went straight to jail,\nHe sent for Major Jones and had a private talk,\nAnd told how he'd betray poor Sam if he was turned out to walk."
+    ]
+  },
+  {
+    "id": "poor-ellen-smith",
+    "title": "Poor Ellen Smith",
+    "category": "ballad",
+    "origin": "Traditional North Carolina murder ballad based on the 1892 killing of Ellen Smith near Winston, North Carolina; first commercially recorded 1927 by the Carolina Buddies",
+    "era": "late 19th century",
+    "tags": [
+      "murder ballad",
+      "north carolina",
+      "appalachian"
+    ],
+    "note": "Rooted in a documented 1892 case in which Peter DeGraff was convicted and hanged for the crime. Traditional and public domain.",
+    "verses": [
+      "Poor Ellen Smith, how she was found,\nShot through the heart, lyin' cold on the ground,\nHer clothes were all scattered and thrown on the ground,\nAnd blood marks the spot where poor Ellen was found.",
+      "I've been sentenced to die, boys, on the gallows so high,\nFor killing poor Ellen and now I must die,\nI told 'em I loved her, I told 'em to tell,\nThat I never would harm her, I loved her so well.",
+      "They picked up poor Ellen and carried her home,\nBeneath the tall pine trees they buried her low,\nThe birds still are singing, her memory to keep,\nWhile poor Ellen Smith in her cold grave doth sleep."
+    ]
+  },
+  {
+    "id": "haul-on-the-bowline",
+    "title": "Haul on the Bowline",
+    "category": "sea-shanty",
+    "origin": "Traditional short-drag shanty, possibly dating as far back as the era of Sir Francis Drake in the 16th century, though firmly documented aboard sailing ships by the 19th century",
+    "era": "16th century or earlier",
+    "tags": [
+      "shanty",
+      "halyard song"
+    ],
+    "note": "Possibly the oldest shanty still commonly sung, with some scholars tracing references to the Tudor navy. Traditional and public domain.",
+    "verses": [
+      "Haul on the bowline, the fore and maintop bowline,\nHaul on the bowline, the bowline haul!",
+      "Haul on the bowline, Kitty is my darling,\nHaul on the bowline, the bowline haul!",
+      "Haul on the bowline, so early in the morning,\nHaul on the bowline, the bowline haul!"
+    ]
+  },
+  {
+    "id": "whup-jamboree",
+    "title": "Whup Jamboree",
+    "category": "sea-shanty",
+    "origin": "Traditional homeward-bound capstan shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "homecoming"
+    ],
+    "note": "A lively homeward-bound shanty, sung with anticipation as a ship neared port at the end of a long voyage. Traditional and public domain.",
+    "verses": [
+      "Now we are in the harbor of Havre de Grace,\nWhup jamboree, whup jamboree,\nAnd every man showed a joyful face,\nWhup jim bo, whup jim bo.",
+      "So we'll pay Paddy Doyle for his boots,\nWhup jamboree, whup jamboree,\nAnd we'll all drink brandy and gin,\nWhup jim bo, whup jim bo.",
+      "Then it's home, dearie, home,\nWhup jamboree, whup jamboree,\nOh, don't you hear the old man say,\nWhup jim bo, whup jim bo."
+    ]
+  },
+  {
+    "id": "long-time-ago",
+    "title": "Long Time Ago",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song"
+    ],
+    "note": "A gentle, slow-paced halyard shanty with a wandering, easily improvised set of verses. Traditional and public domain.",
+    "verses": [
+      "A Yankee ship came down the river,\nBlow, boys, blow,\nHer masts and yards they shone like silver,\nLong time ago.",
+      "Who do you think was the captain of her?\nBlow, boys, blow,\nOld Bully Waterman was the captain of her,\nLong time ago.",
+      "She's a fast clipper ship and a bully good crew,\nBlow, boys, blow,\nA down-east Yankee for her captain too,\nLong time ago."
+    ]
+  },
+  {
+    "id": "listen-to-the-mockingbird",
+    "title": "Listen to the Mockingbird",
+    "category": "parlor",
+    "origin": "Words and music by Septimus Winner (under the pen name Alice Hawthorne), published 1855",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "americana"
+    ],
+    "note": "One of the best-selling songs of the 19th century, later used as incidental music in countless silent films and cartoons. Public domain since 1855.",
+    "verses": [
+      "I'm dreaming now of Hallie, sweet Hallie, sweet Hallie,\nI'm dreaming now of Hallie, for the thought of her is one that never dies,\nShe's sleeping in the valley, the valley, the valley,\nShe's sleeping in the valley, and the mockingbird is singing where she lies.",
+      "Listen to the mockingbird, listen to the mockingbird,\nThe mockingbird still singing o'er her grave,\nListen to the mockingbird, listen to the mockingbird,\nStill singing where the weeping willows wave."
+    ]
+  },
+  {
+    "id": "silver-threads-among-the-gold",
+    "title": "Silver Threads Among the Gold",
+    "category": "parlor",
+    "origin": "Words by Eben E. Rexford, music by Hart Pease Danks, published 1873",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "sentimental"
+    ],
+    "note": "A sentimental ballad of enduring love in old age, one of the most popular American songs of the late 19th century. Public domain since 1873.",
+    "verses": [
+      "Darling, I am growing old,\nSilver threads among the gold,\nShine upon my brow today,\nLife is fading fast away.",
+      "But, my darling, you will be, will be,\nAlways young and fair to me,\nYes, my darling, you will be,\nAlways young and fair to me.",
+      "When your hair is silver white,\nAnd your cheeks no longer bright,\nWith the roses of the May,\nI will kiss your lips and say,\nOh, my darling, mine alone, alone,\nYou have never older grown."
+    ]
+  },
+  {
+    "id": "free-at-last",
+    "title": "Free at Last",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "freedom"
+    ],
+    "note": "A spiritual of hope and deliverance, later echoed in Martin Luther King Jr.'s 1963 \"I Have a Dream\" speech, which quoted the spiritual's refrain. Traditional and public domain.",
+    "verses": [
+      "Free at last, free at last,\nThank God almighty, I'm free at last,\nFree at last, free at last,\nThank God almighty, I'm free at last.",
+      "Way down yonder in the graveyard walk,\nI thank God I'm free at last,\nMe and my Jesus going to meet and talk,\nI thank God I'm free at last.",
+      "On my knees when the light passed by,\nI thank God I'm free at last,\nThought my soul would rise and fly,\nI thank God I'm free at last."
+    ]
+  },
+  {
+    "id": "great-day",
+    "title": "Great Day",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "judgment day"
+    ],
+    "note": "An energetic spiritual anticipating the day of judgment with joy rather than fear. Traditional and public domain.",
+    "verses": [
+      "Great day, great day, the righteous marching,\nGreat day, God's going to build up Zion's walls.",
+      "This is the day of jubilee,\nGod's going to build up Zion's walls,\nThe Lord has set His people free,\nGod's going to build up Zion's walls.",
+      "Chariot rode on the mountain top,\nGod's going to build up Zion's walls,\nMy God spoke and the chariot stopped,\nGod's going to build up Zion's walls."
+    ]
+  },
+  {
+    "id": "gonna-sing-when-the-spirit-says-sing",
+    "title": "I'm Gonna Sing When the Spirit Says Sing",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "call and response"
+    ],
+    "note": "A joyful spiritual of spontaneous, spirit-led worship, sung with the same call-and-response structure across many verses. Traditional and public domain.",
+    "verses": [
+      "I'm gonna sing when the spirit says sing,\nI'm gonna sing when the spirit says sing,\nAnd obey the spirit of the Lord.",
+      "I'm gonna shout when the spirit says shout,\nI'm gonna shout when the spirit says shout,\nAnd obey the spirit of the Lord.",
+      "I'm gonna pray when the spirit says pray,\nI'm gonna pray when the spirit says pray,\nAnd obey the spirit of the Lord."
+    ]
+  },
+  {
+    "id": "trooper-and-the-maid",
+    "title": "The Trooper and the Maid",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, documented in broadside form from the 18th century, closely related to Child Ballad No. 299",
+    "era": "18th century or earlier",
+    "tags": [
+      "scottish",
+      "love ballad"
+    ],
+    "note": "A ballad of a soldier's brief romance with a maid before he rides off to war, widely collected across Scotland and Ireland. Traditional and public domain.",
+    "verses": [
+      "A trooper lad cam' here last night,\nWi' his blankets, boots, and a',\nHe's laid his pistols at my bed head,\nAnd he's turned his face to the wa'.",
+      "'Oh, ye'll gang oot and haud my horse,\nAnd hold him weel, I say,\nAnd dinna let him touch the corn,\nFor I maun march at break o' day.'",
+      "'Oh, come again, my trooper lad,\nWhen a' your wars are done,\nAnd if ye stay till I grow auld,\nI'll wait till ye come hame.'"
+    ]
+  },
+  {
+    "id": "shortnin-bread",
+    "title": "Shortnin' Bread",
+    "category": "folk",
+    "origin": "Traditional African American folk song, documented in print by the 1900s; became a national hit after James Whitcomb Riley published a poem drawing on it in 1900",
+    "era": "19th century",
+    "tags": [
+      "childrens song",
+      "dance tune",
+      "americana"
+    ],
+    "note": "A widely sung children's clapping and dance song. Presented here with the standard verses in common circulation today, without heavier period dialect found in some early printings.",
+    "verses": [
+      "Mama's little baby loves shortnin', shortnin',\nMama's little baby loves shortnin' bread,\nMama's little baby loves shortnin', shortnin',\nMama's little baby loves shortnin' bread.",
+      "Put on the skillet, put on the lid,\nMama's gonna make a little shortnin' bread,\nThat ain't all she's gonna do,\nMama's gonna make a little coffee too.",
+      "Three little children lyin' in bed,\nTwo were sick and the other 'most dead,\nSent for the doctor and the doctor said,\n'Give those children some shortnin' bread.'"
+    ]
+  },
+  {
+    "id": "weevily-wheat",
+    "title": "Weevily Wheat",
+    "category": "folk",
+    "origin": "Traditional Appalachian play-party song, likely originating in 18th-century Scotland; documented in American folk collections by the early 20th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "appalachian",
+      "play-party",
+      "dance song"
+    ],
+    "note": "A play-party dance song with roots possibly connected to Jacobite-era Scottish tunes, brought to Appalachia by Scots-Irish settlers. Traditional and public domain.",
+    "verses": [
+      "Oh, I won't have none of your weevily wheat,\nI won't have none of your barley,\nI'll take some flour in half an hour,\nTo bake a cake for Charley.",
+      "Charley he's a nice young man,\nCharley he's a dandy,\nCharley he's a nice young man,\nHe buys the girls some candy.",
+      "The higher up the cherry tree,\nThe riper grows the cherries,\nThe more you hug and kiss the girls,\nThe sooner they will marry."
+    ]
+  },
+  {
+    "id": "fly-around-my-pretty-little-miss",
+    "title": "Fly Around My Pretty Little Miss",
+    "category": "folk",
+    "origin": "Traditional Appalachian play-party and square-dance song, documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "play-party",
+      "dance song"
+    ],
+    "note": "A lively square-dance play-party song, sung a cappella for dances in communities without instrumental music. Traditional and public domain.",
+    "verses": [
+      "Fly around, my pretty little miss,\nFly around, my daisy,\nFly around, my pretty little miss,\nYou almost drive me crazy.",
+      "I don't care what the old folks say,\nHome ain't home no longer,\nI don't care what the old folks say,\nHome ain't home no longer.",
+      "Little bit of meat and a whole lot of bone,\nWhat's the matter with this old gal?\nMade my living with a hoein' corn,\nWhat's the matter with this old gal?"
+    ]
+  },
+  {
+    "id": "bought-me-a-cat",
+    "title": "Bought Me a Cat",
+    "category": "folk",
+    "origin": "Traditional American cumulative folk song, documented in Appalachian and Ozark folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "cumulative song",
+      "childrens song",
+      "farm song"
+    ],
+    "note": "A cumulative farmyard song in which the singer acquires a new animal each verse, layering all the previous animal sounds together. Traditional and public domain.",
+    "verses": [
+      "I bought me a cat, my cat pleased me,\nI fed my cat under yonder tree,\nMy cat says fiddle-i-fee.",
+      "I bought me a hen, my hen pleased me,\nI fed my hen under yonder tree,\nMy hen says chimmy-chuck, chimmy-chuck,\nMy cat says fiddle-i-fee.",
+      "I bought me a duck, my duck pleased me,\nI fed my duck under yonder tree,\nMy duck says quack, quack,\nMy hen says chimmy-chuck, chimmy-chuck,\nMy cat says fiddle-i-fee."
+    ]
   }
 ]
