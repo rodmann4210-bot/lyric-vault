@@ -6386,5 +6386,319 @@
       "Some folks say that a preacher won't steal,\nI caught two in my cornfield,\nOne had a bushel, one had a peck,\nOne had a roastin' ear tied around his neck.",
       "My true love's a blue-eyed daisy,\nIf I get well, I'll go plumb crazy,\nHop high, ladies, three in a row,\nHop high, ladies, don't you know."
     ]
+  },
+  {
+    "id": "young-beichan",
+    "title": "Young Beichan (Lord Bateman)",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad, Child Ballad No. 53, possibly connected to medieval legends of Gilbert Becket; documented in broadside form from the 18th century",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "recognition ballad"
+    ],
+    "note": "A ballad in which a lord, imprisoned abroad, is freed by a foreign noblewoman who later crosses the sea to find him on his wedding day. Ancient and public domain.",
+    "verses": [
+      "Lord Bateman was a noble lord,\nA noble lord of high degree,\nHe shipped himself all aboard of a ship,\nSome foreign country for to see.",
+      "He sailed east, he sailed west,\nUntil he came to famed Turkey,\nWhere he was taken and put in prison,\nUntil his life was quite weary.",
+      "'Have you got houses, have you got land,\nOr does Northumberland belong to thee?\nWhat would you give to the fair young lady,\nThat out of prison would set you free?'"
+    ]
+  },
+  {
+    "id": "twa-corbies",
+    "title": "The Twa Corbies",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 26, first printed in 1803 in Sir Walter Scott's Minstrelsy of the Scottish Border",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "corvid ballad"
+    ],
+    "note": "A stark, unsentimental Scottish counterpart to the gentler English \"Three Ravens,\" in which two crows discuss feasting on a fallen knight, forgotten already by his hawk, hound, and lady. Ancient and public domain.",
+    "verses": [
+      "As I was walking all alane,\nI heard twa corbies making a mane,\nThe tane unto the tither say,\n'Where sall we gang and dine today?'",
+      "'In behint yon auld fail dyke,\nI wot there lies a new-slain knight,\nAnd naebody kens that he lies there,\nBut his hawk, his hound, and lady fair.'",
+      "'His hound is to the hunting gane,\nHis hawk to fetch the wild-fowl hame,\nHis lady's ta'en another mate,\nSo we may mak our dinner sweet.'"
+    ]
+  },
+  {
+    "id": "rise-and-shine",
+    "title": "Rise and Shine",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, retelling the story of Noah's ark; documented in spiritual and children's church song collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "noah",
+      "childrens spiritual"
+    ],
+    "note": "A lively spiritual recounting the story of Noah, popular in both Black church tradition and children's Sunday school songbooks. Traditional and public domain.",
+    "verses": [
+      "Rise and shine, and give God the glory, glory,\nRise and shine, and give God the glory, glory,\nRise and shine, and give God the glory, glory,\nChildren of the Lord.",
+      "So Noah built him, he built him an arky, arky,\nNoah built him, he built him an arky, arky,\nBuilt it out of gopher barky, barky,\nChildren of the Lord.",
+      "The animals, the animals, they came in by twosies, twosies,\nAnimals, animals, they came in by twosies, twosies,\nElephants and kangaroosies, roosies,\nChildren of the Lord."
+    ]
+  },
+  {
+    "id": "dry-bones",
+    "title": "Dry Bones (Dem Bones)",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, drawing on Ezekiel's vision of the valley of dry bones; documented in spiritual collections, popularized in James Weldon Johnson's 1928 arrangement",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "ezekiel",
+      "anatomy song"
+    ],
+    "note": "A rhythmic spiritual tracing the human skeleton bone by bone, drawing on a vivid image from the Book of Ezekiel. The underlying traditional spiritual predates the 1928 arrangement and is public domain.",
+    "verses": [
+      "Toe bone connected to the foot bone,\nFoot bone connected to the heel bone,\nHeel bone connected to the ankle bone,\nNow hear the word of the Lord.",
+      "Dem bones, dem bones, gonna walk around,\nDem bones, dem bones, gonna walk around,\nDem bones, dem bones, gonna walk around,\nNow hear the word of the Lord.",
+      "Ezekiel connected dem dry bones,\nEzekiel connected dem dry bones,\nEzekiel connected dem dry bones,\nNow hear the word of the Lord."
+    ]
+  },
+  {
+    "id": "great-getting-up-morning",
+    "title": "Great Getting-Up Morning",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "judgment day"
+    ],
+    "note": "A dramatic spiritual describing the trumpet call of judgment day, sung with building intensity across its many verses. Traditional and public domain.",
+    "verses": [
+      "In that great getting-up morning,\nFare thee well, fare thee well,\nIn that great getting-up morning,\nFare thee well, fare thee well.",
+      "There's a better day a-coming,\nFare thee well, fare thee well,\nGabriel's gonna blow his trumpet,\nFare thee well, fare thee well.",
+      "Gonna blow it loud and lonesome,\nFare thee well, fare thee well,\nGonna wake the nations, wake 'em early,\nFare thee well, fare thee well."
+    ]
+  },
+  {
+    "id": "greenland-whale-fisheries",
+    "title": "The Greenland Whale Fisheries",
+    "category": "sea-shanty",
+    "origin": "Traditional English/American whaling ballad, documented in broadside form as early as the 1720s, referencing the historic Greenland whale hunting grounds",
+    "era": "18th century or earlier",
+    "tags": [
+      "whaling",
+      "sea ballad"
+    ],
+    "note": "One of the oldest documented whaling ballads in the English language, describing the loss of a whale, boat, and crew in the dangerous Arctic hunting grounds. Ancient and public domain.",
+    "verses": [
+      "'Twas in eighteen hundred and fifty-three,\nAnd of June the thirteenth day,\nThat our gallant ship her anchor weighed,\nAnd for Greenland sailed away, brave boys,\nAnd for Greenland sailed away.",
+      "The lookout in the crosstrees stood,\nWith his spyglass in his hand,\n'There's a whale, there's a whale, there's a whalefish,' he cried,\n'And she blows at every span, brave boys,\nAnd she blows at every span.'",
+      "Our boat was struck, and the line paid out,\nBut she gave a flourish with her tail,\nThe boat capsized and four men were drowned,\nAnd we never caught that whale, brave boys,\nAnd we never caught that whale."
+    ]
+  },
+  {
+    "id": "blow-ye-winds",
+    "title": "Blow, Ye Winds",
+    "category": "sea-shanty",
+    "origin": "Traditional American whaling shanty, documented aboard New England whaling ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "whaling",
+      "recruitment song"
+    ],
+    "note": "A whaling recruitment song satirizing the false promises made to entice young men into the brutal whaling trade. Traditional and public domain.",
+    "verses": [
+      "'Tis advertised in Boston, New York, and Buffalo,\nFive hundred brave Americans, a-whaling for to go,\nSinging, blow, ye winds in the morning,\nAnd blow, ye winds, high-o!\nClear away your running gear,\nAnd blow, ye winds, high-o!",
+      "They send you to New Bedford, that famous whaling port,\nAnd give you to some landsharks, to board and fit you out,\nThey tell you of the clipper ships a-running in and out,\nAnd say you'll take five hundred sperm before you're six months out.",
+      "It's now we're out to sea, my boys, the wind comes on to blow,\nOne half the watch is sick on deck, the other half below,\nBut as for me, I'm not sick, but I'm so bold as I can stand,\nI'm going up aloft, my boys, to hand, reef, and to steer."
+    ]
+  },
+  {
+    "id": "windy-old-weather",
+    "title": "Windy Old Weather",
+    "category": "sea-shanty",
+    "origin": "Traditional English fishing song, associated with the herring fleets of East Anglia; documented in fishing communities by the 19th century",
+    "era": "19th century",
+    "tags": [
+      "fishing song",
+      "farewell song"
+    ],
+    "note": "A gentle work song sung by herring fishermen, expressing weary resignation at the hardships of stormy weather and uncertain catches. Traditional and public domain.",
+    "verses": [
+      "Oh, it's windy old weather, boys, it's stormy old weather,\nWhen the wind blows we'll all pull together,\nOh, it's windy old weather, boys, it's stormy old weather,\nWhen the wind blows we'll all pull together.",
+      "And the poor fisherman, he goes sailing,\nAll out on the deep, briny sea,\nWhile his wife and his children are waiting,\nFor him to come home safely.",
+      "So we'll haul in the nets in the morning,\nAnd we'll haul in the nets in the night,\nFor it's windy old weather, boys, stormy old weather,\nWhen the wind blows we'll all pull together."
+    ]
+  },
+  {
+    "id": "diamond-joe",
+    "title": "Diamond Joe",
+    "category": "folk",
+    "origin": "Traditional American cowboy/cattle song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "work complaint"
+    ],
+    "note": "A cowhand's wry, complaint-filled ballad about working for a demanding ranch boss named Diamond Joe. Traditional and public domain.",
+    "verses": [
+      "I used to work for Diamond Joe,\nHe fed me on burned beans and dough,\nJoe, Joe, come and get my old gray hoss,\nSaddle him up, I'm the devil to cross.",
+      "Diamond Joe, Diamond Joe,\nCome and get your old gray hoss,\nDiamond Joe, Diamond Joe,\nCome and get your old gray hoss.",
+      "He worked me in the sun and rain,\nAnd fed me nothin' but a corn and grain,\nDiamond Joe, you'd better come,\nBefore I take my leave for home."
+    ]
+  },
+  {
+    "id": "jawbone",
+    "title": "Jawbone",
+    "category": "work-song",
+    "origin": "Traditional African American work song, likely from the plantation and post-Civil War South; documented in early folk song collections of the late 19th century",
+    "era": "19th century",
+    "tags": [
+      "work song",
+      "dance song"
+    ],
+    "note": "A rhythmic call-and-response work and dance song, its odd title possibly referencing a jawbone used as a percussion instrument. Traditional and public domain.",
+    "verses": [
+      "Jawbone eat and jawbone talk,\nJawbone eat with a knife and fork,\nJawbone, jawbone, where you been?\nRound the world and back again.",
+      "Jawbone walkin', jawbone talkin',\nJawbone eatin' with a knife and fork,\nJawbone, jawbone, don't you cry,\nYou'll be a mule by and by."
+    ]
+  },
+  {
+    "id": "shuck-corn",
+    "title": "Shuck That Corn Before You Eat",
+    "category": "work-song",
+    "origin": "Traditional African American work song sung during autumn corn-shucking gatherings; documented in Southern folk collections of the 19th century",
+    "era": "19th century",
+    "tags": [
+      "work song",
+      "harvest song",
+      "call and response"
+    ],
+    "note": "A rhythmic harvest-time work song sung communally at corn-shucking gatherings, a common seasonal social and labor event across the rural South. Traditional and public domain.",
+    "verses": [
+      "Shuck that corn before you eat,\nShuck that corn before you eat,\nEv'rybody sing till the moon shine bright,\nShuck that corn before you eat.",
+      "Pile it high and pile it low,\nShuck that corn before you eat,\nWork all night till the roosters crow,\nShuck that corn before you eat.",
+      "Turn out here and shuck this corn,\nShuck that corn before you eat,\nBiggest crop since I was born,\nShuck that corn before you eat."
+    ]
+  },
+  {
+    "id": "letter-edged-in-black",
+    "title": "The Letter Edged in Black",
+    "category": "parlor",
+    "origin": "Words and music by Hattie Nevada, published 1897",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "sentimental",
+      "tearjerker"
+    ],
+    "note": "A tearjerker ballad about receiving news of a parent's death by mail, later recorded by the Carter Family and many country artists. Public domain since 1897.",
+    "verses": [
+      "I was standing at my window yesterday morning,\nWithout a thought of worry or of care,\nWhen I saw the postman coming up the pathway,\nWith a swift and steady step I did not know.",
+      "I opened it and read it, oh, my God, the sorrow,\nIt caused the tears from my eyes to overflow,\nMy father wrote me these few lines and said, 'Be brave, my boy,\nYour dear mother's gone, her sorrows we all know.'",
+      "There's a whitened saint above who watches o'er us,\nThere's a golden crown for all our tears and pain,\nBut it's hard to lose a mother while we're waiting,\nFor a letter edged in black to come again."
+    ]
+  },
+  {
+    "id": "two-little-girls-in-blue",
+    "title": "Two Little Girls in Blue",
+    "category": "parlor",
+    "origin": "Words and music by Charles Graham, published 1893",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "sentimental",
+      "tearjerker"
+    ],
+    "note": "A sentimental ballad of two sisters, once inseparable, whose lives take opposite turns after a broken romance. Public domain since 1893.",
+    "verses": [
+      "An old man gazed on a photograph,\nIn a locket he'd worn for years,\nHis nephew asked him the reason why,\nThat picture had caused him tears.",
+      "'I'll tell you a story,' the old man said,\n'Of a love that has been true,\nTwo little girls in blue, lad,\nTwo little girls in blue.",
+      "'They were sisters, we were brothers,\nAnd learned to love the two,\nAnd one little girl in blue, lad,\nWon your heart from you.'"
+    ]
+  },
+  {
+    "id": "little-annie-rooney",
+    "title": "Little Annie Rooney",
+    "category": "parlor",
+    "origin": "Words and music by Michael Nolan, published 1890",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "music hall",
+      "courting song"
+    ],
+    "note": "A cheerful courting song popular on both sides of the Atlantic, later lending its title to a series of silent film comedies. Public domain since 1890.",
+    "verses": [
+      "I'm not a girl who cares for gold or silver,\nFor I've a love, I love him very dear,\nHe works so hard the whole day long,\nTo earn enough to make our home more cheer.",
+      "She is my sweetheart, I'm her beau,\nShe's my Annie, I'm her Joe,\nSoon we'll marry, never to part,\nLittle Annie Rooney is my sweetheart."
+    ]
+  },
+  {
+    "id": "foggy-foggy-dew-english",
+    "title": "The Foggy, Foggy Dew",
+    "category": "folk",
+    "origin": "Traditional English folk song, catalogued as Roud 558, with roots tracing to at least the 18th century; distinct from the unrelated Irish ballad of similar name about the 1916 Easter Rising",
+    "era": "18th century or earlier",
+    "tags": [
+      "english folk",
+      "love lament"
+    ],
+    "note": "A wistful ballad of a weaver's brief romance, told with restraint through euphemism rather than explicit detail. Ancient and public domain.",
+    "verses": [
+      "When I was a bachelor, I lived all alone,\nI worked at the weaver's trade,\nAnd the only, only thing that I ever did wrong,\nWas to woo a fair young maid.",
+      "I wooed her in the wintertime,\nAnd in the summer, too,\nAnd the only, only thing that I did that was wrong,\nWas to keep her from the foggy, foggy dew.",
+      "One night she came to my bedside,\nWhen I was fast asleep,\nShe laid her head upon my bed,\nAnd she began to weep."
+    ]
+  },
+  {
+    "id": "devilish-mary",
+    "title": "Devilish Mary",
+    "category": "folk",
+    "origin": "Traditional Appalachian comic ballad, likely of English origin; documented in southern mountain folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "comic ballad",
+      "marriage"
+    ],
+    "note": "A comic complaint song about marrying a hot-tempered woman, in the same vein as \"The Wife Wrapt in Wether's Skin.\" Traditional and public domain.",
+    "verses": [
+      "I wish I was a young girl again,\nBut a young girl I'll never be,\nTill apples grow on an orange tree,\nDevilish Mary won't marry me.",
+      "I courted her for seven long years,\nAt last we come to be married,\nI wish't my heart had a-broke before,\nEver I saw devilish Mary.",
+      "She'll scratch your eyes and tear your hair,\nAnd throw the fryin' pan at you too,\nDevilish Mary was her name,\nAnd I'll never marry again."
+    ]
+  },
+  {
+    "id": "old-gray-mare",
+    "title": "The Old Gray Mare",
+    "category": "folk",
+    "origin": "Melody adapted from the 1858 minstrel song \"Down in Alabam',\" with the familiar comic lyrics documented by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "fiddle tune",
+      "dance song",
+      "comic song"
+    ],
+    "note": "A widely known comic dance song, its melody borrowed from an older minstrel-era tune, now sung with entirely different, family-friendly lyrics. Traditional and public domain.",
+    "verses": [
+      "Oh, the old gray mare, she ain't what she used to be,\nAin't what she used to be, ain't what she used to be,\nThe old gray mare, she ain't what she used to be,\nMany long years ago.",
+      "Many long years ago, many long years ago,\nThe old gray mare, she ain't what she used to be,\nMany long years ago.",
+      "She used to jump the fences that she can't jump now,\nCan't jump now, can't jump now,\nShe used to jump the fences that she can't jump now,\nMany long years ago."
+    ]
+  },
+  {
+    "id": "angelina-baker",
+    "title": "Angelina Baker",
+    "category": "folk",
+    "origin": "Stephen Foster, published 1850 by Firth, Pond & Co., New York",
+    "era": "19th century",
+    "tags": [
+      "stephen foster",
+      "minstrel era"
+    ],
+    "note": "A lively banjo tune written for the minstrel stage, later absorbed into the old-time fiddle and banjo repertoire as an instrumental standard. Public domain since 1850.",
+    "verses": [
+      "Way down on the Mississippi floating,\nEverything was there so gay,\nI once did love a pretty little girl,\nAnd her name it was Angelina Baker.",
+      "Angelina Baker, Angelina Baker,\nOh, I once did love a pretty little girl,\nAnd her name it was Angelina Baker.",
+      "Angelina Baker's gone,\nShe left me here to weep and mourn,\nWhy she left me I don't know,\nI'll try to sing my song."
+    ]
   }
 ]
