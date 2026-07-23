@@ -6700,5 +6700,302 @@
       "Angelina Baker, Angelina Baker,\nOh, I once did love a pretty little girl,\nAnd her name it was Angelina Baker.",
       "Angelina Baker's gone,\nShe left me here to weep and mourn,\nWhy she left me I don't know,\nI'll try to sing my song."
     ]
+  },
+  {
+    "id": "tam-lin",
+    "title": "Tam Lin",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 39, documented from at least the late 18th century, with roots in older fairy-lore traditions",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "fairy ballad"
+    ],
+    "note": "One of the most celebrated Scottish ballads, in which a young woman braves the Queen of Fairies to win back her mortal lover, transformed into monstrous shapes as she holds fast to him. Ancient and public domain.",
+    "verses": [
+      "O I forbid you, maidens a',\nThat wear gowd on your hair,\nTo come or gae by Carterhaugh,\nFor young Tam Lin is there.",
+      "Janet has kilted her green kirtle,\nA little aboon her knee,\nAnd she has broded her yellow hair,\nA little aboon her bree,\nAnd she's awa' to Carterhaugh,\nAs fast as she can hie.",
+      "'O tell me, tell me, Tam Lin,' she said,\n'For's sake that died on tree,\nIf e'er ye was in holy chapel,\nOr christendom did see?'",
+      "'They'll turn me in your arms, lady,\nInto an esk and adder,\nBut hold me fast, and fear me not,\nI am your bairn's father.'"
+    ]
+  },
+  {
+    "id": "lady-isabel-and-the-elf-knight",
+    "title": "Lady Isabel and the Elf Knight",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad, Child Ballad No. 4, with related versions found across most of Europe, likely dating to the medieval era",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "escape ballad"
+    ],
+    "note": "A ballad in which a clever young woman outwits a serial-killing suitor and turns his own trap back upon him. One of the most widely distributed ballads in the world, found in dozens of European languages. Ancient and public domain.",
+    "verses": [
+      "Fair lady Isabel sits in her bower sewing,\nAye as the gowans grow gay,\nThere she heard an elf-knight blawing his horn,\nThe first morning in May.",
+      "'If I had yon horn that I hear blawing,\nAnd yon elf-knight to sleep in my bosom.'\nThis maiden had scarcely these words spoken,\nTill in at her window the elf-knight has luppen.",
+      "'It's a very strange matter, fair maiden,' said he,\n'I canna' blaw my horn but ye call on me,\nBut will ye go to yon greenwood side?\nIf ye canna' gang, I will cause you to ride.'"
+    ]
+  },
+  {
+    "id": "farmers-curst-wife",
+    "title": "The Farmer's Curst Wife",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish comic ballad, Child Ballad No. 278, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "comic ballad"
+    ],
+    "note": "A comic ballad in which the Devil carries off a farmer's shrewish wife, only to find her too much trouble even for Hell, and returns her. Ancient and public domain.",
+    "verses": [
+      "There was an old man who lived in a wood,\nAs you shall plainly see,\nHe said he could do more work in a day,\nThan his wife could do in three.",
+      "The Devil he came to the farmer one day,\n'One of your family I must have now,\nIt's not your oldest son that I crave,\nBut your old scolding wife I now must have.'",
+      "When she got there, the little devils they run,\nSome with a club and some with a pitchfork,\nShe up with her foot and kicked fourteen more,\nOut through the gates before her."
+    ]
+  },
+  {
+    "id": "aint-that-good-news",
+    "title": "Ain't That Good News",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented by John and Alan Lomax in a 1934 Library of Congress field recording in Huntsville, Texas",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "heaven"
+    ],
+    "note": "A joyful spiritual anticipating heavenly reward. Distinct from Sam Cooke's 1964 secular pop song of the same title, which was a later reworking of this older traditional gospel song.",
+    "verses": [
+      "I've a crown up in the Kingdom,\nAin't that good news,\nI've a crown up in the Kingdom,\nAin't that good news,\nI'm-a gonna lay down this world,\nGonna shoulder up my cross,\nGonna take it home to my Jesus,\nAin't that good news!",
+      "I've a harp up in the Kingdom,\nAin't that good news,\nI've a harp up in the Kingdom,\nAin't that good news,\nI'm-a gonna lay down this world,\nGonna shoulder up my cross,\nGonna take it home to my Jesus,\nAin't that good news!",
+      "I've a robe up in the Kingdom,\nAin't that good news,\nI've a robe up in the Kingdom,\nAin't that good news,\nI'm-a gonna lay down this world,\nGonna shoulder up my cross,\nGonna take it home to my Jesus,\nAin't that good news!"
+    ]
+  },
+  {
+    "id": "jesus-on-the-mainline",
+    "title": "Jesus on the Main Line",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "prayer song"
+    ],
+    "note": "A spiritual using the then-new technology of the telephone as a metaphor for direct communication with God through prayer. Traditional and public domain.",
+    "verses": [
+      "Jesus on the main line, tell Him what you want,\nJesus on the main line, tell Him what you want,\nJesus on the main line, tell Him what you want,\nCall Him up and tell Him what you want.",
+      "If you need more patience, tell Him what you want,\nIf you need more patience, tell Him what you want,\nIf you need more patience, tell Him what you want,\nCall Him up and tell Him what you want.",
+      "If you're sick and afflicted, tell Him what you want,\nIf you're sick and afflicted, tell Him what you want,\nIf you're sick and afflicted, tell Him what you want,\nCall Him up and tell Him what you want."
+    ]
+  },
+  {
+    "id": "elijah-rock",
+    "title": "Elijah Rock",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century, drawing on the story of the prophet Elijah",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "elijah"
+    ],
+    "note": "A driving, rhythmic spiritual celebrating the prophet Elijah's ascension to heaven in a fiery chariot. Traditional and public domain.",
+    "verses": [
+      "Elijah rock, shout, shout,\nElijah rock, comin' up, Lord,\nElijah rock, shout, shout,\nElijah rock, comin' up, Lord.",
+      "Satan's mad, and I am glad,\nHe missed that soul he thought he had,\nElijah rock, shout, shout,\nElijah rock, comin' up, Lord.",
+      "I never been to heaven but I've been told,\nStreets up there are paved with gold,\nElijah rock, shout, shout,\nElijah rock, comin' up, Lord."
+    ]
+  },
+  {
+    "id": "hanging-johnny",
+    "title": "Hanging Johnny",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "gallows humor"
+    ],
+    "note": "A darkly comic halyard shanty in which a sailor nicknamed 'Hanging Johnny' claims to hang everything from ropes to relatives, sung with tongue-in-cheek gallows humor. Traditional and public domain.",
+    "verses": [
+      "Oh, they call me Hanging Johnny,\nAway, boys, away,\nOh, they call me Hanging Johnny,\nSo hang, boys, hang.",
+      "They says I hanged my granny,\nAway, boys, away,\nThey says I hanged my granny,\nSo hang, boys, hang.",
+      "First I hanged her cat, boys,\nAway, boys, away,\nThen I hanged her dog, boys,\nSo hang, boys, hang."
+    ]
+  },
+  {
+    "id": "flying-cloud",
+    "title": "The Flying Cloud",
+    "category": "ballad",
+    "origin": "Traditional Irish-American ballad about a fictional pirate slave ship, documented in broadside and folk collections from the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "sea ballad",
+      "gallows confession",
+      "irish-american"
+    ],
+    "note": "A long confession ballad, told from the gallows, of a sailor drawn into piracy and the slave trade aboard the ship Flying Cloud. Traditional and public domain.",
+    "verses": [
+      "My name is Edward Hollander, as you might understand,\nI was born in the county of Waterford, in Erin's happy land,\nWhen I was young and in my prime, and fortune on me smiled,\nMy parents reared me tenderly, I being their only child.",
+      "My father bound me to a trade in Waterford's own town,\nHe bound me to a cooper there, by the name of William Brown,\nI served my master faithfully, for eighteen months or more,\nThen I shipped on board the Ocean Queen, bound for Bermuda's shore.",
+      "It was after the boarding of the Ocean Queen, we set sail for the Gold Coast shore,\nAnd the fifty-five poor slaves, my boys, from their native land we bore,\nWe made them walk upon the deck, all in a rank and file,\nBetter for them if they'd died at home, than to work in Cuba's isle."
+    ]
+  },
+  {
+    "id": "little-joe-the-wrangler",
+    "title": "Little Joe the Wrangler",
+    "category": "ballad",
+    "origin": "Words by N. Howard \"Jack\" Thorp, published 1908 in his collection Songs of the Cowboys, one of the earliest cowboy song anthologies",
+    "era": "early 20th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "tribute"
+    ],
+    "note": "A tribute ballad to a young orphan cowhand who dies in a stampede saving the herd. Public domain since 1908.",
+    "verses": [
+      "Little Joe the wrangler, he'll wrangle never more,\nHis days with the remuda they are done,\n'Twas a year ago last April he joined our happy band,\nA little Texas stray and all alone.",
+      "'Twas long late in the evening he rode up to our camp,\nAnd asked if he could get a job,\nHe said he'd lost his parents, a poor and orphan lad,\nAnd he was driven from his home by a mob.",
+      "'Twas a dark and stormy night, we was on a bed ground,\nThe herd was millin' round and round,\nWhen we heard the cattle rushing, we heard a hellish sound,\nAnd Joe he went to the leaders side."
+    ]
+  },
+  {
+    "id": "comin-thro-the-rye",
+    "title": "Comin' Thro' the Rye",
+    "category": "folk",
+    "origin": "Words by Robert Burns, published 1782, set to a traditional Scottish tune",
+    "era": "18th century",
+    "tags": [
+      "scottish",
+      "burns",
+      "folk song"
+    ],
+    "note": "A cheerful Scottish folk song about chance meetings in a rye field, later immortalized as the title reference in J.D. Salinger's The Catcher in the Rye. Public domain since 1782.",
+    "verses": [
+      "Gin a body meet a body,\nComin' thro' the rye,\nGin a body kiss a body,\nNeed a body cry?",
+      "Ilka lassie has her laddie,\nNane, they say, hae I,\nYet all the lads they smile on me,\nWhen comin' thro' the rye.",
+      "Gin a body meet a body,\nComin' frae the town,\nGin a body kiss a body,\nNeed a body frown?"
+    ]
+  },
+  {
+    "id": "sweet-rosie-ogrady",
+    "title": "Sweet Rosie O'Grady",
+    "category": "parlor",
+    "origin": "Words and music by Maude Nugent, published 1896",
+    "era": "19th century",
+    "tags": [
+      "tin pan alley",
+      "irish-american",
+      "courting song"
+    ],
+    "note": "Written by one of the few successful women Tin Pan Alley songwriters of her era, this became a beloved Irish-American courting ballad. Public domain since 1896.",
+    "verses": [
+      "A simple little maiden, from the wild and woolly west,\nShe thinks she is the queen of all, the queen of all the rest,\nOh, she's not built like a palace, she has manners plain and true,\nShe wears no jewels, no silks and satins, and yet a bird in curls.",
+      "Sweet Rosie O'Grady, my dear little rose,\nShe's my steady lady, most everyone knows,\nAnd when we are married, how happy we'll be,\nI love sweet Rosie O'Grady, and Rosie O'Grady loves me."
+    ]
+  },
+  {
+    "id": "tararaboomdeay",
+    "title": "Ta-ra-ra Boom-de-ay",
+    "category": "parlor",
+    "origin": "Words and music by Henry J. Sayers, published 1891",
+    "era": "19th century",
+    "tags": [
+      "music hall",
+      "novelty",
+      "dance song"
+    ],
+    "note": "One of the biggest transatlantic hits of the early 1890s, its nonsense refrain became so ubiquitous it was parodied and referenced for decades afterward. Public domain since 1891.",
+    "verses": [
+      "A smart and stylish girl you see,\nBelle of good society,\nNot too strict, but rather free,\nYet as right as right can be.",
+      "Ta-ra-ra boom-de-ay,\nTa-ra-ra boom-de-ay,\nTa-ra-ra boom-de-ay,\nTa-ra-ra boom-de-ay.",
+      "Never mind, whate'er they say,\nIt doesn't matter, anyway,\nWhatever people do or say,\nI live my life the modern way."
+    ]
+  },
+  {
+    "id": "comrades",
+    "title": "Comrades",
+    "category": "parlor",
+    "origin": "Words and music by Felix McGlennon, published 1887",
+    "era": "19th century",
+    "tags": [
+      "music hall",
+      "friendship",
+      "sentimental"
+    ],
+    "note": "A sentimental music-hall ballad of lifelong friendship, popular on both sides of the Atlantic. Public domain since 1887.",
+    "verses": [
+      "Comrades, comrades, ever since we were boys,\nSharing each other's sorrows, sharing each other's joys,\nComrades when manhood was dawning, faithful whate'er may betide,\nWhen danger threatened, my darling old comrade, was there at my side.",
+      "Comrades, comrades,\nEver since we were boys,\nSharing each other's sorrows,\nSharing each other's joys."
+    ]
+  },
+  {
+    "id": "hammer-ring",
+    "title": "Hammer Ring",
+    "category": "work-song",
+    "origin": "Traditional African American railroad and prison work song, documented by folklorists in Southern work camps in the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "work song",
+      "hammer song",
+      "railroad"
+    ],
+    "note": "A hammering work song from the same family as \"John Henry\" and \"Nine Pound Hammer,\" sung to coordinate steel-driving crews. Traditional and public domain.",
+    "verses": [
+      "Hammer ring, oh, hammer ring,\nHammer ring, oh, hammer ring,\nCan't you hear that hammer ring?\nCan't you hear that hammer ring?",
+      "This old hammer, killed John Henry,\nBut it won't kill me, boys, it won't kill me,\nThis old hammer, killed John Henry,\nBut it won't kill me.",
+      "Take this hammer, throw it in the river,\nGonna throw it in the river, gonna throw it in the river,\nTake this hammer, throw it in the river,\nIt rings like gold, boys, it rings like gold."
+    ]
+  },
+  {
+    "id": "one-potato-two-potato",
+    "title": "One Potato, Two Potato",
+    "category": "folk",
+    "origin": "Traditional English/American counting-out rhyme, documented in American children's folklore collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "nursery rhyme",
+      "counting rhyme",
+      "childrens game"
+    ],
+    "note": "A widely known counting-out rhyme used by children to select who is 'it' in playground games. Traditional and public domain.",
+    "verses": [
+      "One potato, two potato,\nThree potato, four,\nFive potato, six potato,\nSeven potato, more."
+    ]
+  },
+  {
+    "id": "rakes-of-mallow",
+    "title": "The Rakes of Mallow",
+    "category": "folk",
+    "origin": "Traditional Irish tune, documented in print by the mid-18th century, associated with the fashionable spa town of Mallow, County Cork",
+    "era": "18th century",
+    "tags": [
+      "irish",
+      "drinking song",
+      "dance tune"
+    ],
+    "note": "A lively Irish dance tune celebrating the carefree young gentlemen ('rakes') who once frequented the resort town of Mallow. Traditional and public domain.",
+    "verses": [
+      "Beauing, belling, dancing, drinking,\nBreaking windows, damning, sinking,\nEver raking, never thinking,\nLive the rakes of Mallow.",
+      "Spending faster than it comes,\nBeating waiters, bailiffs, duns,\nLive the rakes of Mallow.",
+      "One time nought but claret drinking,\nThen like politicians thinking,\nTo raise the sinking funds when sinking,\nLive the rakes of Mallow."
+    ]
+  },
+  {
+    "id": "croppy-boy",
+    "title": "The Croppy Boy",
+    "category": "ballad",
+    "origin": "Traditional Irish ballad commemorating the 1798 Irish Rebellion, with the familiar version first printed by William McBurney (\"Carroll Malone\") in 1845",
+    "era": "19th century",
+    "tags": [
+      "irish",
+      "rebellion ballad"
+    ],
+    "note": "A ballad of a young rebel captured and executed during the 1798 uprising, named for the cropped hairstyle worn by United Irishmen sympathizers. Public domain since its 1845 printing.",
+    "verses": [
+      "It was early, early in the spring,\nThe birds did whistle and sweetly sing,\nChanging their notes from tree to tree,\nAnd the song they sang was old Ireland free.",
+      "It was early, early in the night,\nThe yeoman cavalry gave me a fright,\nThe yeoman cavalry was my downfall,\nAnd I was taken by Lord Cornwall.",
+      "'Twas in the guard-house where I was laid,\nAnd in a parlor where I was tried,\nMy sentence passed and my courage low,\nWhen to Dungannon I was forced to go."
+    ]
   }
 ]
