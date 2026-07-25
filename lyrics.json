@@ -7194,5 +7194,329 @@
       "There cam a laird out ower the muir,\nAnd he came seeking a bride,\nAnd he has courted Kate Jaffray,\nTo be his own dear bride.",
       "But young Lochinvar, he heard the news,\nAnd fast to the wedding he came,\nHe's taen the bride out by the hand,\nAnd he's set her upon his steed."
     ]
+  },
+  {
+    "id": "bailiffs-daughter-of-islington",
+    "title": "The Bailiff's Daughter of Islington",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 105, first printed in broadside form in the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "recognition ballad",
+      "love ballad"
+    ],
+    "note": "A ballad in which a disguised young woman tests her long-absent love's faithfulness before revealing her true identity. Ancient and public domain.",
+    "verses": [
+      "There was a youth, and a well-belov'd youth,\nAnd he was a squire's son,\nHe loved the bailiff's daughter dear,\nThat lived in Islington.",
+      "She was coy, and she would not believe\nThat he did love her so,\nNo, nor at any time would she\nAny countenance to him show.",
+      "But when his friends did understand\nHis fond and foolish mind,\nThey sent him up to fair London,\nAn apprentice for to bind."
+    ]
+  },
+  {
+    "id": "baffled-knight",
+    "title": "The Baffled Knight",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 112, documented from the 16th century",
+    "era": "16th century or earlier",
+    "tags": [
+      "child ballad",
+      "comic ballad"
+    ],
+    "note": "A comic ballad in which a clever young woman outmaneuvers a knight's advances and escapes with her honor intact. Ancient and public domain.",
+    "verses": [
+      "There was a knight, and he was young,\nA-riding along the way, sir,\nAnd there he met a lady fair,\nAmong the cocks of hay, sir.",
+      "'Shall you and I, lady,\nGo tumbling in the hay?'\n'No sir, no,\nThat will I not do,\nFor spoiling of my gay clothing.'",
+      "'If you will go along with me,\nUnto my father's hall, sir,\nYou shall enjoy my maidenhead,\nAnd my estate and all, sir.'"
+    ]
+  },
+  {
+    "id": "glasgow-peggie",
+    "title": "Glasgow Peggie",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 228, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "elopement"
+    ],
+    "note": "A ballad of a Highland gentleman who charms a Glasgow lass into leaving her comfortable city life for the hills. Ancient and public domain.",
+    "verses": [
+      "As I cam' in by Glasgow toun,\nThe Highland troops were a' before me,\nAnd the bonniest lass that e'er I saw,\nShe lived in Glasgow, they ca'd her Peggie.",
+      "'I am a Duke, and a Duke's like son,\nAnd, Peggie, I would fain be courtin',\nAnd if you'll come to the Highlands wi' me,\nI'll mak' ye Lady o' a' my possessions.'",
+      "'Fare thee well, my father dear,\nAnd farewell, my mother Nannie,\nBut I care nae mair for you baith,\nThan for the wind that blaws in the valley.'"
+    ]
+  },
+  {
+    "id": "broom-of-cowdenknows",
+    "title": "The Broom o' the Cowdenknows",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 217, documented from the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "pastoral"
+    ],
+    "note": "A pastoral ballad of a shepherdess courted and later reunited with a young lord, set in the Cowdenknowes region of the Scottish Borders. Ancient and public domain.",
+    "verses": [
+      "O the broom, the bonny bonny broom,\nThe broom o' the Cowdenknows,\nAnd aye sae sweet as the lassie sang,\nI' the bought, milking her ewes.",
+      "The hills were high on ilka side,\nAnd the bought i' the lirk o' the hill,\nAnd aye, as she sang, her voice it rang,\nRight up the tapmost stone.",
+      "'Hard fate that I should banished be,\nGude troth, it were a pity,\nSae fair a lass her love to tyne,\nAll for a Scottish laddie.'"
+    ]
+  },
+  {
+    "id": "laid-his-hands-on-me",
+    "title": "I Know the Lord's Laid His Hands on Me",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "testimony"
+    ],
+    "note": "A personal testimony spiritual affirming a felt sense of divine touch and calling. Traditional and public domain.",
+    "verses": [
+      "I know the Lord, I know the Lord,\nI know the Lord's laid His hands on me.",
+      "Ev'ry round goes higher, higher,\nI know the Lord's laid His hands on me,\nEv'ry round goes higher, higher,\nI know the Lord's laid His hands on me.",
+      "Didn't my Lord deliver Daniel?\nI know the Lord's laid His hands on me,\nDidn't my Lord deliver Daniel?\nI know the Lord's laid His hands on me."
+    ]
+  },
+  {
+    "id": "no-hiding-place",
+    "title": "There's No Hiding Place",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century, drawing on Revelation's imagery of judgment day",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "judgment day"
+    ],
+    "note": "A spiritual imagining the futility of hiding from divine judgment, listing rocks and mountains that refuse to shelter the sinner. Traditional and public domain.",
+    "verses": [
+      "Well, the sinner man he ran to the rock,\nSaid, 'Rock, please hide me,'\nBut the rock cried out, 'I can't hide you,'\nThere's no hiding place down here.",
+      "Well, the rock cried, 'I'm burning too,\nI want to go to heaven as well as you,'\nThere's no hiding place down here.",
+      "Sinner man, sinner man,\nYou'd better pray,\nFor there's no hiding place down here."
+    ]
+  },
+  {
+    "id": "my-god-is-so-high",
+    "title": "My God Is So High",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "praise"
+    ],
+    "note": "A simple, joyful praise spiritual with a memorable 'you can't get over Him' structure. Traditional and public domain.",
+    "verses": [
+      "My God is so high, you can't get over Him,\nHe's so low, you can't get under Him,\nHe's so wide, you can't get around Him,\nYou must come in, by and through the Lamb.",
+      "I don't know, but I've been told,\nThe streets up in heaven are lined with gold,\nMy God is so high, you can't get over Him,\nHe's so low, you can't get under Him."
+    ]
+  },
+  {
+    "id": "cheerly-man",
+    "title": "Cheer'ly Man",
+    "category": "sea-shanty",
+    "origin": "Traditional short-drag shanty, one of the earliest shanties documented in print, described in Richard Henry Dana's 1840 memoir Two Years Before the Mast",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "short-drag song"
+    ],
+    "note": "Described by 19th-century sailor-author Richard Henry Dana as already an old, established shanty by the 1830s, making it one of the earliest documented American work shanties. Traditional and public domain.",
+    "verses": [
+      "Oh, Nancy Fanana, cheer'ly, man,\nOh, Nancy Fanana, cheer'ly, man,\nHaul away, haul away, cheer'ly, man.",
+      "Captain's on the poop deck, cheer'ly, man,\nGiving orders sharp and sudden, cheer'ly, man,\nHaul away, haul away, cheer'ly, man.",
+      "Way, hay, cheer'ly, man,\nHaul away, my bully boys, cheer'ly, man,\nHaul away, haul away, cheer'ly, man."
+    ]
+  },
+  {
+    "id": "johnny-boker",
+    "title": "Johnny Boker",
+    "category": "sea-shanty",
+    "origin": "Traditional short-drag shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "short-drag song"
+    ],
+    "note": "A brief pumping and hauling shanty, sung for quick, repeated efforts rather than sustained hauling. Traditional and public domain.",
+    "verses": [
+      "Oh, do my Johnny Boker,\nCome rock and roll me over,\nDo, my Johnny Boker, do.",
+      "Oh, do, me Johnny Boker,\nThe skipper is a-jokin',\nDo, my Johnny Boker, do.",
+      "Oh, do, me Johnny Boker,\nWe'll pump this old ship dry, boys,\nDo, my Johnny Boker, do."
+    ]
+  },
+  {
+    "id": "poor-lonesome-cowboy",
+    "title": "Poor Lonesome Cowboy",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, documented in cattle-country folk collections of the early 20th century",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "lament"
+    ],
+    "note": "A simple, wistful lament of a cowhand's solitary and dangerous life on the open range. Traditional and public domain.",
+    "verses": [
+      "Oh, I'm a poor, lonesome cowboy,\nOh, I'm a poor, lonesome cowboy,\nOh, I'm a poor, lonesome cowboy,\nAnd a long way from home.",
+      "I ain't got no father,\nI ain't got no father,\nI ain't got no father,\nTo love and care for me.",
+      "I ain't got no mother,\nI ain't got no mother,\nI ain't got no mother,\nTo love and care for me."
+    ]
+  },
+  {
+    "id": "broncho-peelers-song",
+    "title": "The Broncho Peeler's Song",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "tall tale"
+    ],
+    "note": "A boastful cowhand's account of his skill and swagger at breaking wild horses. Traditional and public domain.",
+    "verses": [
+      "Come all you old timers and listen to my song,\nI'll try to please you, and I'll not detain you long,\nIt's all about broncho peelin' and it's on the Yellow Bar,\nIn the Panhandle country where the cowboys are.",
+      "I'm a peeler and I peel 'em well,\nI can hear the wooly horses squeal and yell,\nI mount and ride 'em, and I never do funk,\nOr let 'em pitch me down on the hump."
+    ]
+  },
+  {
+    "id": "meet-me-by-moonlight-alone",
+    "title": "Meet Me by Moonlight Alone",
+    "category": "parlor",
+    "origin": "Words and music by Joseph Augustine Wade, published 1826",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "courting song"
+    ],
+    "note": "An early Victorian parlor ballad of a moonlit romantic rendezvous, one of the most popular English songs of its decade. Public domain since 1826.",
+    "verses": [
+      "Meet me by moonlight alone,\nAnd then I will tell you a tale,\nMust be told by the moonlight alone,\nIn the grove at the end of the vale.",
+      "You must promise to come, for I said,\nI would show the night-flowers their queen,\nNay, turn not away that sweet head,\n'Tis the loveliest ever was seen.",
+      "Oh, meet me by moonlight alone,\nOh, meet me by moonlight alone,\nMeet me by moonlight, meet me by moonlight,\nMeet me by moonlight alone."
+    ]
+  },
+  {
+    "id": "juanita",
+    "title": "Juanita",
+    "category": "parlor",
+    "origin": "Words and music by Caroline Norton, published 1855",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "serenade"
+    ],
+    "note": "A Spanish-flavored serenade written by an English poet and social reformer, remaining a parlor and choral favorite for decades. Public domain since 1855.",
+    "verses": [
+      "Soft o'er the fountain, ling'ring falls the southern moon,\nFar o'er the mountain, breaks the day too soon,\nIn thy dark eyes' splendor, where the warm light loves to dwell,\nWeary looks, yet tender, speak their fond farewell.",
+      "Nita, Juanita, ask thy soul if we should part,\nNita, Juanita, lean thou on my heart.",
+      "When in thy dreaming, moons like these shall shine again,\nAnd daylight beaming, prove thy dreams are vain,\nWilt thou not, relenting, for thine absent lover sigh,\nIn thy heart consenting, to a prayer gone by?"
+    ]
+  },
+  {
+    "id": "annie-laurie",
+    "title": "Annie Laurie",
+    "category": "parlor",
+    "origin": "Words adapted from a c. 1700 poem by William Douglas, revised by Alicia Scott, who composed the familiar tune around 1834-1838",
+    "era": "19th century",
+    "tags": [
+      "scottish",
+      "parlor ballad"
+    ],
+    "note": "One of the most beloved Scottish parlor songs, inspired by a real Annie Laurie, a Dumfriesshire beauty courted (unsuccessfully) by the poet in the 1690s. Public domain since the 19th century.",
+    "verses": [
+      "Maxwelton's braes are bonnie,\nWhere early fa's the dew,\nAnd it's there that Annie Laurie,\nGave me her promise true.",
+      "Gave me her promise true,\nWhich ne'er forgot will be,\nAnd for bonnie Annie Laurie,\nI'd lay me doon and dee.",
+      "Her brow is like the snawdrift,\nHer throat is like the swan,\nHer face it is the fairest,\nThat e'er the sun shone on."
+    ]
+  },
+  {
+    "id": "all-the-pretty-little-horses",
+    "title": "All the Pretty Little Horses",
+    "category": "folk",
+    "origin": "Traditional African American lullaby, likely originating in the era of slavery in the American South; documented in folk song collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "lullaby",
+      "americana"
+    ],
+    "note": "A hauntingly beautiful lullaby, often interpreted as sung by an enslaved nursemaid to a white infant while grieving for her own child she could not tend. Traditional and public domain.",
+    "verses": [
+      "Hush-a-bye, don't you cry,\nGo to sleepy, little baby,\nWhen you wake, you shall have,\nAll the pretty little horses.",
+      "Blacks and bays, dapples and grays,\nCoach and six-a little horses,\nHush-a-bye, don't you cry,\nGo to sleepy, little baby."
+    ]
+  },
+  {
+    "id": "hush-little-baby",
+    "title": "Hush, Little Baby",
+    "category": "folk",
+    "origin": "Traditional Appalachian lullaby, documented in southern mountain folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "lullaby",
+      "appalachian"
+    ],
+    "note": "A cumulative, endlessly extendable lullaby promising a child a growing list of gifts. Traditional and public domain.",
+    "verses": [
+      "Hush, little baby, don't say a word,\nMama's gonna buy you a mockingbird,\nAnd if that mockingbird don't sing,\nMama's gonna buy you a diamond ring.",
+      "And if that diamond ring turns brass,\nMama's gonna buy you a looking glass,\nAnd if that looking glass gets broke,\nMama's gonna buy you a billy goat.",
+      "And if that billy goat won't pull,\nMama's gonna buy you a cart and bull,\nAnd if that cart and bull turn over,\nMama's gonna buy you a dog named Rover."
+    ]
+  },
+  {
+    "id": "rock-a-bye-baby",
+    "title": "Rock-a-bye Baby",
+    "category": "folk",
+    "origin": "Traditional English lullaby, first printed in Mother Goose's Melody, 1765",
+    "era": "18th century or earlier",
+    "tags": [
+      "lullaby",
+      "nursery rhyme"
+    ],
+    "note": "One of the oldest and most widely known lullabies in the English language, possibly the first poem ever printed in America (in a 1785 edition). Ancient and public domain.",
+    "verses": [
+      "Rock-a-bye baby, on the tree top,\nWhen the wind blows, the cradle will rock,\nWhen the bough breaks, the cradle will fall,\nDown will come baby, cradle and all."
+    ]
+  },
+  {
+    "id": "the-wagoner",
+    "title": "The Wagoner",
+    "category": "folk",
+    "origin": "Traditional Appalachian folk song about the freight-hauling wagon trade, documented in southern mountain collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "appalachian",
+      "travel song",
+      "work song"
+    ],
+    "note": "A song of the itinerant wagon-freight haulers who moved goods across the Appalachians before the railroad era. Traditional and public domain.",
+    "verses": [
+      "I've hauled up the valley and I've hauled down the hill,\nI've hauled a jug of brandy and I hauled a jug of gin,\nI'm a wagoner, I'm a wagoner, I'm a jolly wagoner,\nAnd I'll go with my wagon and team.",
+      "It's once I made my living by the sweat of my brow,\nWith an ox and a wagon, but I don't do that now,\nI'm a wagoner, I'm a wagoner, I'm a jolly wagoner,\nAnd I'll go with my wagon and team.",
+      "My wagon is loaded and rigged up with care,\nAnd my horses and harness are extremely fair,\nI'm a wagoner, I'm a wagoner, I'm a jolly wagoner,\nAnd I'll go with my wagon and team."
+    ]
+  },
+  {
+    "id": "down-the-road",
+    "title": "Down the Road",
+    "category": "folk",
+    "origin": "Traditional American folk song, documented in southern folk song collections of the early 20th century, closely related to the \"going down the road feeling bad\" family of songs",
+    "era": "19th century",
+    "tags": [
+      "travel song",
+      "appalachian"
+    ],
+    "note": "A wandering-verse travel song, sharing its floating verses with several related southern folk songs about the open road. Traditional and public domain.",
+    "verses": [
+      "Goin' down this road feelin' bad,\nGoin' down this road feelin' bad,\nGoin' down this road feelin' bad, Lord, Lord,\nAnd I ain't gonna be treated this a-way.",
+      "Two dollar shoes gonna hurt my feet,\nTwo dollar shoes gonna hurt my feet,\nTwo dollar shoes gonna hurt my feet, Lord, Lord,\nAnd I ain't gonna be treated this a-way.",
+      "I'm goin' where the climate suits my clothes,\nI'm goin' where the climate suits my clothes,\nI'm goin' where the climate suits my clothes, Lord, Lord,\nAnd I ain't gonna be treated this a-way."
+    ]
   }
 ]
