@@ -7711,5 +7711,352 @@
       "Oh, the eagle on the dollar say,\nIn God we trust,\nThe woman said to the panhandler,\nMister, you is a bust,\nI'm Alabama bound, I'm Alabama bound.",
       "Two old maids a-walking down the street,\nSaying, 'How can it be so far to reach my Alabama home?'\nI'm Alabama bound, I'm Alabama bound."
     ]
+  },
+  {
+    "id": "robin-hood-and-allen-a-dale",
+    "title": "Robin Hood and Allen a Dale",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 138, documented in broadside form from the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "robin hood",
+      "wedding ballad"
+    ],
+    "note": "A ballad in which Robin Hood helps a poor young minstrel win back his sweetheart from a wealthy old knight she was being forced to marry, disguising himself as a harper to disrupt the wedding. Ancient and public domain.",
+    "verses": [
+      "Come listen to me, you gallants so free,\nAll you that love mirth for to hear,\nAnd I will tell you of a bold outlaw,\nThat lived in Nottinghamshire.",
+      "As Robin Hood in the forest stood,\nAll under the greenwood tree,\nThere he was aware of a brave young man,\nAs fine as fine might be.",
+      "'What dost thou here?' said Robin Hood then,\n'In this brave forest so wild?'\n'I seek a young maid,' the stranger did say,\n'Whom I loved as I were a child.'"
+    ]
+  },
+  {
+    "id": "robin-hoods-death",
+    "title": "Robin Hood's Death",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 120, with the earliest surviving fragment dating to the 17th century, though possibly reflecting a much older ending to the Robin Hood cycle",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "robin hood",
+      "tragedy"
+    ],
+    "note": "The somber conclusion of the Robin Hood ballad cycle, in which the aging outlaw, weakened by illness, is betrayed and bled to death by a treacherous prioress. Ancient and public domain.",
+    "verses": [
+      "'I will never eat nor drink,' Robin Hood said,\n'Nor meat will do me no good,\nTill I have been at merry Churchlees,\nMy veins for to let blood.'",
+      "'And thou be there,' quoth Little John,\n'I will bear thee company,\nMany a time thou hast succoured me,\nAnd my life hast saved from jeopardy.'",
+      "'And if I die today,' said Robin,\n'And master thou shalt be,\nI give thee my bow of Spanish yew,\nThat is best, for to shoot with me.'"
+    ]
+  },
+  {
+    "id": "on-jordans-stormy-banks",
+    "title": "On Jordan's Stormy Banks I Stand",
+    "category": "spiritual",
+    "origin": "Words by Samuel Stennett, published 1787; commonly paired with the shape-note tune \"Promised Land,\" arranged by American composer Rigdon McCoy McIntosh in 1895",
+    "era": "18th century",
+    "tags": [
+      "hymn",
+      "gospel",
+      "shape-note"
+    ],
+    "note": "A widely beloved American folk hymn, its Jordan-crossing imagery embraced across both Black and white church traditions in the American South. Public domain since 1787.",
+    "verses": [
+      "On Jordan's stormy banks I stand,\nAnd cast a wishful eye,\nTo Canaan's fair and happy land,\nWhere my possessions lie.",
+      "I am bound for the promised land,\nI am bound for the promised land,\nOh, who will come and go with me?\nI am bound for the promised land.",
+      "All o'er those wide extended plains,\nShines one eternal day,\nThere God the Son forever reigns,\nAnd scatters night away."
+    ]
+  },
+  {
+    "id": "great-camp-meeting",
+    "title": "There's a Great Camp Meeting",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "camp meeting"
+    ],
+    "note": "A joyful spiritual anticipating a great gathering of the faithful in the promised land. Traditional and public domain.",
+    "verses": [
+      "Great camp meeting in the promised land,\nGreat camp meeting in the promised land,\nGreat camp meeting in the promised land,\nO walk together, children.",
+      "There'll be singing, there'll be singing,\nGreat camp meeting in the promised land,\nO walk together, children.",
+      "There'll be shouting, there'll be shouting,\nGreat camp meeting in the promised land,\nO walk together, children."
+    ]
+  },
+  {
+    "id": "come-and-go-with-me",
+    "title": "Come and Go with Me to That Land",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual and gospel collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "invitation song"
+    ],
+    "note": "A gentle invitation spiritual, sung with each verse extending a different promise of a heavenly land free from sorrow. Traditional and public domain.",
+    "verses": [
+      "Come and go with me to that land,\nCome and go with me to that land,\nCome and go with me to that land,\nWhere I'm bound.",
+      "There'll be peace in that land,\nThere'll be peace in that land,\nThere'll be peace in that land,\nWhere I'm bound.",
+      "There'll be no more cryin' in that land,\nThere'll be no more cryin' in that land,\nThere'll be no more cryin' in that land,\nWhere I'm bound."
+    ]
+  },
+  {
+    "id": "fire-marengo",
+    "title": "Fire Down Below (Fire Marengo)",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song"
+    ],
+    "note": "A hauling shanty with an obscure, much-debated refrain of unclear origin, possibly a corruption of a foreign phrase picked up in a foreign port. Traditional and public domain.",
+    "verses": [
+      "Fire down below, fire down below,\nFetch a bucket of water, there's a fire down below,\nFire in the galley, fire in the hold,\nFire up aloft, boys, and fire down below.",
+      "Was you ever in Quebec,\nStowing timber on the deck,\nWhere you'd break your bloomin' neck,\nFire down below.",
+      "Was you ever off Cape Horn,\nWhere the weather's never warm,\nWish to God you'd never been born,\nFire down below."
+    ]
+  },
+  {
+    "id": "sing-sally-o",
+    "title": "Sing Sally-O",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song"
+    ],
+    "note": "A rhythmic hauling shanty with a simple, repetitive refrain well-suited to coordinated pulling. Traditional and public domain.",
+    "verses": [
+      "Oh, Sally's in the garden, sifting sand,\nSing Sally-o, Sally-o,\nSally's in the garden, sifting sand,\nSing Sally-o, Sally-o.",
+      "Oh, Sally, oh Sally, won't you come out tonight,\nSing Sally-o, Sally-o,\nCome out and dance by the pale moonlight,\nSing Sally-o, Sally-o.",
+      "We're bound away for Liverpool town,\nSing Sally-o, Sally-o,\nBound away and won't be back till fall,\nSing Sally-o, Sally-o."
+    ]
+  },
+  {
+    "id": "chopo",
+    "title": "Chopo",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "tribute"
+    ],
+    "note": "A cowhand's affectionate tribute to his trusted cow pony, sung with the same warmth many range songs reserve for a faithful horse. Traditional and public domain.",
+    "verses": [
+      "My love is a mustang, and Chopo's his name,\nHe hasn't got much beauty, and hasn't much fame,\nBut it's give me old Chopo, you can have all your bay,\nGive me the mustang that goes with the day.",
+      "Chopo, my pony, oh, Chopo, my pony,\nGood-bye, little Chopo, and now, boys, adios,\nHe's carried me safely, through many a run,\nAnd out on the prairie, we've laughed at the sun."
+    ]
+  },
+  {
+    "id": "the-vacant-chair",
+    "title": "The Vacant Chair",
+    "category": "parlor",
+    "origin": "Words by Henry Stevenson Washburn, music by George Frederick Root, published 1861",
+    "era": "19th century",
+    "tags": [
+      "civil war",
+      "sentimental",
+      "tribute"
+    ],
+    "note": "A grieving parlor ballad written for a family mourning a soldier son lost in the Civil War, immensely popular in Union households. Public domain since 1861.",
+    "verses": [
+      "We shall meet, but we shall miss him,\nThere will be one vacant chair,\nWe shall linger to caress him,\nWhile we breathe our evening prayer.",
+      "We shall meet, but we shall miss him,\nThere will be one vacant chair,\nWe shall linger to caress him,\nWhile we breathe our evening prayer.",
+      "At our fireside, sad and lonely,\nOften will the bosom swell,\nAt remembrance of the story,\nHow our noble Willie fell."
+    ]
+  },
+  {
+    "id": "lily-dale",
+    "title": "Lily Dale",
+    "category": "parlor",
+    "origin": "Words and music by H.S. Thompson, published 1852",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "mourning song"
+    ],
+    "note": "A sentimental mourning ballad for a young woman who died in the springtime of her life, immensely popular in 19th-century parlors and later a bluegrass and old-time standard. Public domain since 1852.",
+    "verses": [
+      "'Twas a calm still night, and the moon's pale light,\nShone soft o'er hill and vale,\nWhen friends mute with grief stood around the death bed,\nOf my poor lost Lily Dale.",
+      "Oh, Lily, sweet Lily, dear Lily Dale,\nNow the wild rose blossoms o'er her little green grave,\n'Neath the trees in the flow'ry vale.",
+      "Her cheeks that once glowed with the rose-tint of health,\nBy the hand of disease had turned pale,\nAnd the death damp was on the pure white brow,\nOf my poor lost Lily Dale."
+    ]
+  },
+  {
+    "id": "rosalie-the-prairie-flower",
+    "title": "Rosalie, the Prairie Flower",
+    "category": "parlor",
+    "origin": "Words by George F. Root (as Wurzel), music by himself, published 1855",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "mourning song",
+      "western"
+    ],
+    "note": "A sentimental prairie-set mourning ballad, part of the same wave of mid-19th-century tearjerker parlor songs as 'Lily Dale.' Public domain since 1855.",
+    "verses": [
+      "Rosalie, the prairie flower,\nSweet as the flower in the summer hour,\nNow she sleeps beneath the sod,\nBeside the trail her spirit trod.",
+      "Rosalie, sweet Rosalie,\nRosalie, the prairie flower,\nDrooping now, so lone and pale,\nRosalie, the prairie flower.",
+      "Fair as a rose in the morning dew,\nGentle as the sky is blue,\nBut like the flower she faded fast,\nHer beauty here was not to last."
+    ]
+  },
+  {
+    "id": "bye-baby-bunting",
+    "title": "Bye, Baby Bunting",
+    "category": "folk",
+    "origin": "Traditional English nursery lullaby, first printed in Mother Goose's Melody, 1765",
+    "era": "18th century or earlier",
+    "tags": [
+      "lullaby",
+      "nursery rhyme"
+    ],
+    "note": "A brief, ancient English lullaby of uncertain deeper origin, sung to soothe infants for over two centuries. Ancient and public domain.",
+    "verses": [
+      "Bye, baby bunting,\nDaddy's gone a-hunting,\nGone to get a rabbit skin,\nTo wrap the baby bunting in."
+    ]
+  },
+  {
+    "id": "golden-slumbers",
+    "title": "Golden Slumbers",
+    "category": "folk",
+    "origin": "Poem by Thomas Dekker, from his play Patient Grissil, published 1603",
+    "era": "17th century or earlier",
+    "tags": [
+      "lullaby",
+      "elizabethan poetry"
+    ],
+    "note": "An Elizabethan-era lullaby poem, among the oldest English lullabies with a known individual author. Ancient and public domain.",
+    "verses": [
+      "Golden slumbers kiss your eyes,\nSmiles awake you when you rise,\nSleep, pretty wantons, do not cry,\nAnd I will sing a lullaby.",
+      "Rock them, rock them, lullaby,\nCare is heavy, therefore sleep you,\nYou are care, and care must keep you,\nSleep, pretty wantons, do not cry,\nAnd I will sing a lullaby."
+    ]
+  },
+  {
+    "id": "rantin-laddie",
+    "title": "The Rantin' Laddie",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 240, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "love ballad"
+    ],
+    "note": "A ballad of a young noblewoman pregnant by a lover her family considers beneath her, defiantly refusing to be shamed. Ancient and public domain.",
+    "verses": [
+      "It's often said in Angus,\nAnd in the shire o' Mearns,\nThat I hae had a bairn to you,\nAnd wow but he was bonny.",
+      "'Gin ye hae had a bairn to me,\nAs I trust ye hae nane,\nWe'll seek a nurse for its up-bringing,\nAnd we will get it done.'",
+      "'O I will get to my rantin' laddie,\nA cradle for to rock,\nAnd I will get to my rantin' laddie,\nA cap and a bonny frock.'"
+    ]
+  },
+  {
+    "id": "i-want-to-die-easy",
+    "title": "I Want to Die Easy When I Die",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "death and peace"
+    ],
+    "note": "A quiet spiritual asking for a peaceful death and passage to heaven. Traditional and public domain.",
+    "verses": [
+      "I want to die easy when I die,\nI want to die easy when I die,\nShout salvation as I fly,\nI want to die easy when I die.",
+      "I want to see my mother when I die,\nI want to see my mother when I die,\nShout salvation as I fly,\nI want to die easy when I die.",
+      "I want to see my Jesus when I die,\nI want to see my Jesus when I die,\nShout salvation as I fly,\nI want to die easy when I die."
+    ]
+  },
+  {
+    "id": "weeping-mary",
+    "title": "Weeping Mary",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "easter"
+    ],
+    "note": "A spiritual imagining Mary's grief and eventual comfort at the tomb of Jesus, sung in a slow, mournful style. Traditional and public domain.",
+    "verses": [
+      "Are you able to keep from weeping?\nO weeping Mary, weep no more,\nAre you able to keep from weeping?\nWeep no more, weep no more.",
+      "Christ arose from the dead,\nWeeping Mary, weep no more,\nChrist arose from the dead,\nWeep no more, weep no more.",
+      "Angels rolled the stone away,\nWeeping Mary, weep no more,\nAngels rolled the stone away,\nWeep no more, weep no more."
+    ]
+  },
+  {
+    "id": "housewifes-lament",
+    "title": "The Housewife's Lament",
+    "category": "folk",
+    "origin": "Traditional American comic complaint song, transcribed from the singing of a Kansas woman named Sara Price around 1867 by folklorist Mary Wheeler Lindsey",
+    "era": "19th century",
+    "tags": [
+      "comic song",
+      "americana",
+      "domestic complaint"
+    ],
+    "note": "A wry catalog of the endless, unglamorous drudgery of 19th-century housework, sung with dry, self-aware humor. Traditional and public domain.",
+    "verses": [
+      "One day I was walking, I heard a complaining,\nAnd saw an old woman, the picture of gloom,\nShe gazed at the mud on her doorstep, 'twas raining,\nAnd this was her song as she wielded her broom.",
+      "Oh, life is a toil and love is a trouble,\nBeauty will fade and riches will flee,\nPleasures they dwindle and prices they double,\nAnd nothing is as I would wish it to be.",
+      "There's too much of worriment goes to a bonnet,\nThere's too much of ironing goes to a shirt,\nThere's nothing that pays for the time you waste on it,\nThere's nothing that lasts us but trouble and dirt."
+    ]
+  },
+  {
+    "id": "work-all-done-this-fall",
+    "title": "When the Work's All Done This Fall",
+    "category": "ballad",
+    "origin": "Words by D.J. O'Malley, published 1893 in the Stock Growers Journal of Miles City, Montana",
+    "era": "19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "tribute"
+    ],
+    "note": "A tribute ballad, in the tradition of 'Little Joe the Wrangler,' about a cowhand who dies trying to stop a nighttime stampede. Public domain since 1893.",
+    "verses": [
+      "A group of jolly cowboys, discussing plans at ease,\nSays one, 'I'll tell you something, boys, if you'll listen, if you please,\nI am an old cow-puncher and here I'm dressed in rags,\nI used to be a tough one and go on great big jags.'",
+      "'But I've got a home, boys, a good one, you all know,\nThough I have not seen it, since long, long ago,\nI'm going back to Dixie once more to see them all,\nYes, I'm going home, boys, when the work's all done this fall.'",
+      "But mid the strife and the danger, poor Charlie fell,\nHe made a noble effort to keep them off the bluff,\nHis saddle horse did stumble and on him did fall,\nHe'll not see home in Dixie, when the work's all done this fall."
+    ]
+  },
+  {
+    "id": "jam-on-gerrys-rock",
+    "title": "The Jam on Gerry's Rocks",
+    "category": "work-song",
+    "origin": "Traditional North American lumberjack ballad, earliest US documentation from 1904, with related versions collected as far away as Scotland, suggesting an older origin",
+    "era": "19th century",
+    "tags": [
+      "logging song",
+      "work song",
+      "tribute"
+    ],
+    "note": "The most famous of the traditional lumberjack ballads, honoring a foreman who died breaking up a dangerous log jam. Collected over a hundred times across North America and confirmed traditional and public domain.",
+    "verses": [
+      "Come all ye true-born shanty-boys, whoever that ye be,\nI would have you pay attention and listen unto me,\nConcerning a young shanty-boy so tall, genteel, and brave,\n'Twas on a jam on Gerry's Rocks he met a wat'ry grave.",
+      "It happened on a Sunday morn as you shall quickly hear,\nOur logs were piled up mountain high, there being no one to keep them clear,\nOur boss he cried, 'Turn out, brave boys, your hearts are void of fear,\nWe'll break that jam on Gerry's Rocks, and for Agonstown we'll steer.'",
+      "We had not picked up many a log, till Monroe, he did say,\n'I'd have you boys be on your guard, this jam will soon give way,'\nHe had no more than spoke the words when the jam did break and go,\nAnd with it went those six brave men, and foreman young Monroe."
+    ]
+  },
+  {
+    "id": "lumberjacks-alphabet",
+    "title": "The Lumberjack's Alphabet",
+    "category": "work-song",
+    "origin": "Traditional North American logging-camp song, documented in Great Lakes and New England lumber camp folk collections by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "logging song",
+      "work song",
+      "alphabet song"
+    ],
+    "note": "A cheerful alphabet song cataloging the tools, hazards, and daily life of a 19th-century logging camp, a favorite among lumberjacks for its sing-along structure. Traditional and public domain.",
+    "verses": [
+      "'A' is for axe, as all of you know,\n'B' is for boys who can make it go,\n'C' is for chopping we all may go through,\n'D' is for danger we sometimes go through.",
+      "'E' is for echoes that through the woods ring,\n'F' is for foreman, the head of our gang,\n'G' is for grindstone we all often use,\n'H' is for handle we very seldom lose.",
+      "'I' is for iron we put on our sleds,\n'J' is for jolly good times that we've had,\n'K' is for keen edge our axes always wear,\n'L' is for lice that we sometimes have there."
+    ]
   }
 ]
