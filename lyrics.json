@@ -8058,5 +8058,321 @@
       "'E' is for echoes that through the woods ring,\n'F' is for foreman, the head of our gang,\n'G' is for grindstone we all often use,\n'H' is for handle we very seldom lose.",
       "'I' is for iron we put on our sleds,\n'J' is for jolly good times that we've had,\n'K' is for keen edge our axes always wear,\n'L' is for lice that we sometimes have there."
     ]
+  },
+  {
+    "id": "robin-hood-and-the-curtal-friar",
+    "title": "Robin Hood and the Curtal Friar",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 123, documented from the 17th century, introducing the character later known as Friar Tuck",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "robin hood",
+      "friar tuck"
+    ],
+    "note": "The ballad that introduces the friar who becomes Robin Hood's companion, after the two first fight to a standstill carrying each other across a river. Ancient and public domain.",
+    "verses": [
+      "In summer time when leaves grow green,\nAnd flowers are fresh and gay,\nRobin Hood and his merry men,\nWere disposed to play.",
+      "'Then some of you must go,' said Robin,\n'And find me a curtal friar,\nThat lies at Fountains Abbey,\nWho will make our sport the higher.'",
+      "So Robin met the curtal friar,\nAnd bid him wade the brook,\nBut when they came to the middle stream,\nSays Robin, 'Now I have thee.'"
+    ]
+  },
+  {
+    "id": "robin-hood-and-the-potter",
+    "title": "Robin Hood and the Potter",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 121, surviving in a manuscript dated to around 1503, making it one of the oldest surviving Robin Hood texts",
+    "era": "medieval era or earlier",
+    "tags": [
+      "child ballad",
+      "robin hood",
+      "disguise ballad"
+    ],
+    "note": "One of the earliest surviving Robin Hood ballads, in which Robin trades places with a potter and sells wares in Nottingham, later outwitting the Sheriff who doesn't recognize him. Ancient and public domain.",
+    "verses": [
+      "In summer, when the woods be green,\nAnd leaves be large and long,\nIt is full merry in fair forest,\nTo hear the fowlès song.",
+      "'What man art thou,' said the sheriff,\n'That me thus greeteth?'\n'I am a poor potter,' said he,\n'That comes many day here.'",
+      "Robin bare the potter's ware,\nInto Nottingham that tide,\nAnd sold his pots wondrous cheap,\nAnd made the wives full glad."
+    ]
+  },
+  {
+    "id": "cruel-brother",
+    "title": "The Cruel Brother",
+    "category": "ballad",
+    "origin": "Traditional Scottish/English ballad, Child Ballad No. 11, documented from the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "tragedy"
+    ],
+    "note": "A tragic ballad in which a bride is fatally stabbed by her jealous brother, forgotten during the customary wedding blessings sought from every family member but him. Ancient and public domain.",
+    "verses": [
+      "There was three ladies played at the ba',\nWith a hey ho and a lily gay,\nThere came a knight and played o'er them a',\nAs the primrose spreads so sweetly.",
+      "'You must ask my father dear,\nWith a hey ho and a lily gay,\nAlso the mother that did me bear,\nAs the primrose spreads so sweetly.'",
+      "She had not rode a mile but one,\nWith a hey ho and a lily gay,\nWhen her brother swift on horseback came,\nAs the primrose spreads so sweetly."
+    ]
+  },
+  {
+    "id": "proud-lady-margaret",
+    "title": "Proud Lady Margaret",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 47, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "ghost ballad"
+    ],
+    "note": "A ballad in which a proud, disdainful lady is humbled by a mysterious knightly suitor who turns out to be the ghost of her own dead brother, come to warn her against vanity. Ancient and public domain.",
+    "verses": [
+      "'Twas on a night, an evening bright,\nWhen the dew began to fa',\nLady Margaret was walking up and down,\nLooking o'er her castle wa'.",
+      "She looked east and she looked west,\nTo see what she could see,\nAnd there she spied a courteous knight,\nCome riding o'er the lea.",
+      "'O what needs I these long lasting,\nSince my love died for me,\nI might hae had a Prince o' royal blood,\nTo have gien my hand to,' said she."
+    ]
+  },
+  {
+    "id": "over-my-head",
+    "title": "Over My Head",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "praise"
+    ],
+    "note": "A short, joyful spiritual affirming a sense of the divine presence in the surrounding air itself. Traditional and public domain.",
+    "verses": [
+      "Over my head, I hear music in the air,\nOver my head, I hear music in the air,\nOver my head, I hear music in the air,\nThere must be a God somewhere.",
+      "Over my head, I hear singing in the air,\nOver my head, I hear singing in the air,\nOver my head, I hear singing in the air,\nThere must be a God somewhere.",
+      "Over my head, I hear trouble in the air,\nOver my head, I hear trouble in the air,\nOver my head, I hear trouble in the air,\nThere must be a God somewhere."
+    ]
+  },
+  {
+    "id": "sit-at-the-welcome-table",
+    "title": "I'm Gonna Sit at the Welcome Table",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "fellowship"
+    ],
+    "note": "A spiritual imagining a shared, equal table of fellowship in heaven, later widely sung as a civil rights anthem in the 1950s-60s. Traditional and public domain.",
+    "verses": [
+      "I'm gonna sit at the welcome table,\nI'm gonna sit at the welcome table one of these days, hallelujah,\nI'm gonna sit at the welcome table,\nI'm gonna sit at the welcome table one of these days.",
+      "I'm gonna feast on milk and honey,\nI'm gonna feast on milk and honey one of these days, hallelujah,\nI'm gonna feast on milk and honey,\nI'm gonna feast on milk and honey one of these days.",
+      "I'm gonna walk and talk with Jesus,\nI'm gonna walk and talk with Jesus one of these days, hallelujah,\nI'm gonna walk and talk with Jesus,\nI'm gonna walk and talk with Jesus one of these days."
+    ]
+  },
+  {
+    "id": "lowlands-away",
+    "title": "Lowlands Away",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships by the mid-19th century, likely descended from an older Scottish ballad about a drowned lover",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "ghost ballad"
+    ],
+    "note": "A haunting shanty in which a sailor dreams of his drowned sweetheart, who appears to tell him she can never marry again. Traditional and public domain.",
+    "verses": [
+      "I dreamed a dream the other night,\nLowlands, lowlands, away my John,\nI dreamed a dream the other night,\nMy lowlands away.",
+      "I dreamed I saw my own true love,\nLowlands, lowlands, away my John,\nI dreamed I saw my own true love,\nMy lowlands away.",
+      "She came to me at head of my bed,\nLowlands, lowlands, away my John,\nShe came to me at head of my bed,\nMy lowlands away."
+    ]
+  },
+  {
+    "id": "home-dearie-home",
+    "title": "Home, Dearie, Home",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "homecoming"
+    ],
+    "note": "A homeward-bound capstan shanty expressing longing for hearth, home, and native land at the end of a long voyage. Traditional and public domain.",
+    "verses": [
+      "Oh, I long to see my own true love,\nI long to see the girls,\nI long to see my own true love,\nAnd I long to be at home.",
+      "Home, dearie, home,\nOh, it's home I want to be,\nMy topsails are hoisted, and I must out to sea,\nAnd, oh, for a heart that's true.",
+      "I long to see the fields of green,\nI long to smell the hay,\nI long to hear the birds again,\nAnd greet the break of day."
+    ]
+  },
+  {
+    "id": "rounded-up-in-glory",
+    "title": "Rounded Up in Glory",
+    "category": "folk",
+    "origin": "Traditional American cowboy hymn parody, documented in cattle-country religious song collections of the early 20th century",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "hymn parody",
+      "western"
+    ],
+    "note": "A cowboy-flavored hymn imagining the afterlife in ranching terms, part of a folk tradition of adapting religious songs to frontier vocabulary. Traditional and public domain.",
+    "verses": [
+      "When the last great round-up is over,\nAnd the work of the year has been told,\nAnd we stand in a group at the ranch house,\nWith our brands on the tally book scroll,\nMay we be rounded up in glory,\nWith the Lord as our foreman that day.",
+      "There's a great range up in heaven,\nWhere no cattle ever roam,\nWhere every soul is a maverick,\nUntil the great roundup at home,\nMay we be rounded up in glory,\nWith the Lord as our foreman that day."
+    ]
+  },
+  {
+    "id": "angels-we-have-heard-on-high",
+    "title": "Angels We Have Heard on High",
+    "category": "parlor",
+    "origin": "Traditional French carol (\"Les Anges dans nos campagnes\"), documented from the 18th century; English translation by James Chadwick, Bishop of Hexham and Newcastle, 1862",
+    "era": "18th century or earlier",
+    "tags": [
+      "christmas carol",
+      "french",
+      "hymn"
+    ],
+    "note": "A French carol known for its soaring 'Gloria' refrain, translated into English in the 19th century. Ancient and public domain.",
+    "verses": [
+      "Angels we have heard on high,\nSweetly singing o'er the plains,\nAnd the mountains in reply,\nEchoing their joyous strains.",
+      "Gloria, in excelsis Deo!\nGloria, in excelsis Deo!",
+      "Shepherds, why this jubilee?\nWhy your joyous strains prolong?\nWhat the gladsome tidings be,\nWhich inspire your heavenly song?"
+    ]
+  },
+  {
+    "id": "i-saw-three-ships",
+    "title": "I Saw Three Ships",
+    "category": "parlor",
+    "origin": "Traditional English carol, documented in print from the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "christmas carol",
+      "english folk"
+    ],
+    "note": "A carol of uncertain deeper meaning, since Bethlehem is landlocked; possibly referencing the ships said to carry relics of the Magi to Cologne Cathedral. Ancient and public domain.",
+    "verses": [
+      "I saw three ships come sailing in,\nOn Christmas day, on Christmas day,\nI saw three ships come sailing in,\nOn Christmas day in the morning.",
+      "And what was in those ships all three?\nOn Christmas day, on Christmas day,\nAnd what was in those ships all three?\nOn Christmas day in the morning.",
+      "Our Saviour Christ and His lady,\nOn Christmas day, on Christmas day,\nOur Saviour Christ and His lady,\nOn Christmas day in the morning."
+    ]
+  },
+  {
+    "id": "holly-and-the-ivy",
+    "title": "The Holly and the Ivy",
+    "category": "parlor",
+    "origin": "Traditional English carol, likely descended from older pagan midwinter symbolism; documented in broadside form from the 18th century, collected by Cecil Sharp in 1911",
+    "era": "18th century or earlier",
+    "tags": [
+      "christmas carol",
+      "english folk"
+    ],
+    "note": "A carol weaving pre-Christian holly-and-ivy midwinter symbolism into a Christian nativity narrative. Ancient and public domain.",
+    "verses": [
+      "The holly and the ivy,\nWhen they are both full grown,\nOf all the trees that are in the wood,\nThe holly bears the crown.",
+      "O the rising of the sun,\nAnd the running of the deer,\nThe playing of the merry organ,\nSweet singing in the choir.",
+      "The holly bears a blossom,\nAs white as lily flower,\nAnd Mary bore sweet Jesus Christ,\nTo be our sweet Saviour."
+    ]
+  },
+  {
+    "id": "twelve-days-of-christmas",
+    "title": "The Twelve Days of Christmas",
+    "category": "parlor",
+    "origin": "Traditional English cumulative carol, first printed in the children's book Mirth Without Mischief, 1780",
+    "era": "18th century",
+    "tags": [
+      "christmas carol",
+      "cumulative song",
+      "english folk"
+    ],
+    "note": "A cumulative counting carol tracing the twelve days between Christmas and Epiphany, its melody as commonly sung today dating to a 1909 arrangement by Frederic Austin. The 1780 text itself is public domain.",
+    "verses": [
+      "On the first day of Christmas, my true love sent to me,\nA partridge in a pear tree.",
+      "On the second day of Christmas, my true love sent to me,\nTwo turtle doves, and a partridge in a pear tree.",
+      "On the third day of Christmas, my true love sent to me,\nThree French hens, two turtle doves, and a partridge in a pear tree."
+    ]
+  },
+  {
+    "id": "we-wish-you-a-merry-christmas",
+    "title": "We Wish You a Merry Christmas",
+    "category": "parlor",
+    "origin": "Traditional English carol, associated with the West Country wassailing tradition; documented in print by the 19th century",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "english folk",
+      "wassail"
+    ],
+    "note": "A cheerful, demanding carol in the wassailing tradition, in which singers request figgy pudding in exchange for their song. Traditional and public domain.",
+    "verses": [
+      "We wish you a merry Christmas,\nWe wish you a merry Christmas,\nWe wish you a merry Christmas,\nAnd a happy New Year.",
+      "Good tidings we bring, to you and your kin,\nWe wish you a merry Christmas, and a happy New Year.",
+      "Oh, bring us some figgy pudding,\nOh, bring us some figgy pudding,\nOh, bring us some figgy pudding,\nAnd bring it right here."
+    ]
+  },
+  {
+    "id": "away-in-a-manger",
+    "title": "Away in a Manger",
+    "category": "parlor",
+    "origin": "First two verses published anonymously in 1885 (Little Children's Book for Schools and Families, Philadelphia); a third verse appeared by 1892. Long misattributed to Martin Luther, now believed to be wholly American in origin",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "hymn"
+    ],
+    "note": "One of the most popular English-language Christmas carols, despite persistent (and false) claims that the 16th-century reformer Martin Luther wrote it. Public domain since 1885.",
+    "verses": [
+      "Away in a manger, no crib for a bed,\nThe little Lord Jesus laid down His sweet head,\nThe stars in the bright sky looked down where He lay,\nThe little Lord Jesus, asleep on the hay.",
+      "The cattle are lowing, the baby awakes,\nBut little Lord Jesus, no crying He makes,\nI love Thee, Lord Jesus, look down from the sky,\nAnd stay by my cradle till morning is nigh.",
+      "Be near me, Lord Jesus, I ask Thee to stay,\nClose by me forever, and love me, I pray,\nBless all the dear children in Thy tender care,\nAnd fit us for heaven, to live with Thee there."
+    ]
+  },
+  {
+    "id": "o-christmas-tree",
+    "title": "O Christmas Tree (O Tannenbaum)",
+    "category": "parlor",
+    "origin": "Traditional German folk melody; the familiar carol lyrics written by Ernst Anschütz in 1824, based on an earlier 16th-century tune",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "german"
+    ],
+    "note": "Originally a German folk song about the evergreen fir tree as a symbol of constancy, later became a Christmas standard. Public domain since 1824.",
+    "verses": [
+      "O Christmas tree, O Christmas tree,\nHow lovely are your branches,\nO Christmas tree, O Christmas tree,\nHow lovely are your branches.",
+      "Not only green when summer's here,\nBut also when 'tis cold and drear,\nO Christmas tree, O Christmas tree,\nHow lovely are your branches.",
+      "O Christmas tree, O Christmas tree,\nSuch pleasure do you bring me,\nFor every year the Christmas tree,\nBrings to us all both joy and glee."
+    ]
+  },
+  {
+    "id": "silent-night",
+    "title": "Silent Night",
+    "category": "parlor",
+    "origin": "Words by Joseph Mohr, written 1816; music by Franz Xaver Gruber, composed 1818 for a church in Oberndorf, Austria; English translation by John Freeman Young, 1859",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "hymn",
+      "austrian"
+    ],
+    "note": "Composed for guitar after the church organ broke down before Christmas Eve Mass; became one of the most translated songs in the world, and was famously sung by both sides during the 1914 WWI Christmas truce. Public domain since its 1859 English translation.",
+    "verses": [
+      "Silent night, holy night,\nAll is calm, all is bright,\nRound yon virgin mother and child,\nHoly infant so tender and mild,\nSleep in heavenly peace,\nSleep in heavenly peace.",
+      "Silent night, holy night,\nShepherds quake at the sight,\nGlories stream from heaven afar,\nHeavenly hosts sing alleluia,\nChrist the Savior is born,\nChrist the Savior is born.",
+      "Silent night, holy night,\nSon of God, love's pure light,\nRadiant beams from Thy holy face,\nWith the dawn of redeeming grace,\nJesus, Lord, at Thy birth,\nJesus, Lord, at Thy birth."
+    ]
+  },
+  {
+    "id": "roll-on-buddy",
+    "title": "Roll On, Buddy",
+    "category": "work-song",
+    "origin": "Traditional African American railroad and levee work song, documented by folklorists in Southern work camps in the early 20th century",
+    "era": "early 20th century",
+    "tags": [
+      "work song",
+      "railroad",
+      "call and response"
+    ],
+    "note": "A rhythmic work song calling for steady effort from a fellow laborer, sung to coordinate the pace of heavy manual work. Traditional and public domain.",
+    "verses": [
+      "Roll on, buddy, don't you roll so slow,\nRoll on, buddy, don't you roll so slow,\nHow can I roll, when the wheel won't go,\nRoll on, buddy, don't you roll so slow.",
+      "This ol' hammer, killed John Henry,\nThis ol' hammer, killed John Henry,\nBut it won't kill me, boys, but it won't kill me,\nRoll on, buddy, don't you roll so slow.",
+      "Ain't no hammer, in this mountain,\nAin't no hammer, in this mountain,\nRing like mine, boys, ring like mine,\nRoll on, buddy, don't you roll so slow."
+    ]
   }
 ]
