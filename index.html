@@ -82,6 +82,28 @@
     max-width:640px;
     line-height:1.5;
   }
+  .lib-stats{
+    display:flex;
+    gap:18px;
+    margin-top:12px;
+    font-family:var(--mono);
+  }
+  .lib-stat{
+    display:flex;
+    align-items:baseline;
+    gap:6px;
+  }
+  .lib-stat b{
+    color:var(--amber);
+    font-size:16px;
+    font-weight:700;
+  }
+  .lib-stat span{
+    color:var(--text-dim);
+    font-size:10.5px;
+    letter-spacing:0.08em;
+    text-transform:uppercase;
+  }
   .controls{
     display:flex; flex-wrap:wrap; gap:10px;
     margin-top:18px;
@@ -293,6 +315,7 @@
   @media (max-width:520px){
     h1{ font-size:21px; }
     .sheet{ padding:24px 20px 28px; }
+    .lib-stats{ gap:22px; }
   }
 </style>
 </head>
@@ -302,6 +325,8 @@
   <div class="eyebrow">WATCH FLOOR · ARCHIVE STATION</div>
   <h1><span class="reel" id="reel"></span> Lyric Vault</h1>
   <div class="sub">A working library of public-domain lyrics — traditional folk, blues, spirituals, sea shanties, ballads, and 19th-century songbook standards — cleared for remix, adaptation, and homage. Every entry is sourced and dated in its detail card.</div>
+
+  <div class="lib-stats" id="libStats"></div>
 
   <div class="controls">
     <input type="text" id="search" placeholder="Search title, tag, or origin...">
@@ -355,6 +380,7 @@ const countEl = document.getElementById('count');
 const overlay = document.getElementById('overlay');
 const sheet = document.getElementById('sheet');
 const reel = document.getElementById('reel');
+const libStatsEl = document.getElementById('libStats');
 
 function metaText(song){
   return (song.title + ' ' + song.origin + ' ' + song.tags.join(' ')).toLowerCase();
@@ -394,6 +420,17 @@ function lyricSnippet(song){
 
 function sortKey(title){
   return title.replace(/^The\s+/i, '').toLowerCase();
+}
+
+// Renders the two library-wide totals (song count + lyric line count).
+// These reflect the FULL library, not the current search/filter.
+function renderLibStats(){
+  const totalSongs = LYRIC_LIBRARY.length;
+  const totalLines = LYRIC_LIBRARY.reduce((sum, song) => sum + lyricLines(song).length, 0);
+  libStatsEl.innerHTML = `
+    <div class="lib-stat"><b>${totalSongs.toLocaleString()}</b><span>Songs</span></div>
+    <div class="lib-stat"><b>${totalLines.toLocaleString()}</b><span>Lines of Lyric</span></div>
+  `;
 }
 
 function render(){
@@ -472,7 +509,11 @@ document.querySelectorAll('.chip').forEach(chip => {
 // stale copy of lyrics.json after an update.
 fetch('lyrics.json?t=' + Date.now(), {cache: 'no-store'})
   .then(function(r){ if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
-  .then(function(data){ LYRIC_LIBRARY = data; render(); })
+  .then(function(data){
+    LYRIC_LIBRARY = data;
+    renderLibStats();
+    render();
+  })
   .catch(function(err){
     emptyEl.style.display = 'block';
     emptyEl.textContent = 'Could not load lyrics.json — ' + err.message;
