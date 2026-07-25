@@ -6997,5 +6997,202 @@
       "It was early, early in the night,\nThe yeoman cavalry gave me a fright,\nThe yeoman cavalry was my downfall,\nAnd I was taken by Lord Cornwall.",
       "'Twas in the guard-house where I was laid,\nAnd in a parlor where I was tried,\nMy sentence passed and my courage low,\nWhen to Dungannon I was forced to go."
     ]
+  },
+  {
+    "id": "johnie-cock",
+    "title": "Johnie Cock",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 114, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "outlaw ballad"
+    ],
+    "note": "A ballad of a poacher who defies royal forest law and is betrayed to the king's foresters, fighting them off in a final stand. Ancient and public domain.",
+    "verses": [
+      "Johnie rose up in a May morning,\nCalled for water to wash his hands,\nAnd he has called for his gude gray hunds,\nThat lay bund in iron bands, bands,\nThat lay bund in iron bands.",
+      "'Ye'll busk, ye'll busk my noble dogs,\nYe'll busk and mak' them boun,\nFor I'm going to the Braidscaur hill,\nTo ding the dun deer down, down,\nTo ding the dun deer down.'",
+      "Johnie shot, and the dun deer lap,\nAnd he wounded her in the side,\nBetween the water and the wood,\nThe grey hounds laid her pride."
+    ]
+  },
+  {
+    "id": "i-couldnt-hear-nobody-pray",
+    "title": "I Couldn't Hear Nobody Pray",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "valley and mountain"
+    ],
+    "note": "A meditative spiritual reflecting on solitary faith found in life's low valleys and high mountains alike. Traditional and public domain.",
+    "verses": [
+      "In the valley, on my knees,\nWith my burden and my Lord,\nAnd I couldn't hear nobody pray.",
+      "O way down yonder, by myself,\nAnd I couldn't hear nobody pray,\nO way down yonder, by myself,\nAnd I couldn't hear nobody pray.",
+      "Up on the mountain, my Lord spoke,\nOut of His mouth came fire and smoke,\nAnd I couldn't hear nobody pray."
+    ]
+  },
+  {
+    "id": "windy-bill",
+    "title": "Windy Bill",
+    "category": "folk",
+    "origin": "Traditional American cowboy song, first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "cowboy song",
+      "western",
+      "comic song"
+    ],
+    "note": "A comic cowboy ballad about a boastful cowhand undone by a single ornery steer. Traditional and public domain.",
+    "verses": [
+      "Windy Bill was a Texas man,\nWell he could rope, you bet,\nHe swore that he could tie down any brute,\nThat had ever grown horns yet.",
+      "Windy Bill took his old maguey,\nAnd he swung her wide and high,\nHe roped that steer around the horns,\nAnd he watched him come dashing by.",
+      "Oh, he lost his hat and he lost his coat,\nAnd he lost his new fine chaps,\nAnd he found his horse in a little while,\nBut he never did find his rope."
+    ]
+  },
+  {
+    "id": "buffalo-skinners",
+    "title": "The Buffalo Skinners",
+    "category": "ballad",
+    "origin": "Traditional American frontier ballad, likely dating to the 1870s Texas buffalo-hunting era; first published in John Lomax's Cowboy Songs and Other Frontier Ballads, 1910",
+    "era": "late 19th century",
+    "tags": [
+      "frontier ballad",
+      "western",
+      "labor dispute"
+    ],
+    "note": "A grim ballad of buffalo hunters cheated of their wages by a dishonest boss, ending in the boss's death on the trail home. Traditional and public domain.",
+    "verses": [
+      "Come all you jolly fellows and listen to my song,\nThere's not many verses to it, and I'll not detain you long,\nIt's concerning some old buffalo hunters who did agree to go,\nAnd spend a summer pleasantly on the range of the buffalo.",
+      "It happened in the spring of eighteen seventy-three,\nA man by the name of Crego come a-rambling up to me,\nSays, 'How do you do, young fellow, and how would you like to go,\nAnd spend a summer pleasantly on the range of the buffalo?'",
+      "Our meat it was buffalo hump and our drink was alkali water,\nAnd sand storms would blow so hard sometimes we couldn't see the leader mare,\nWith our six-mule teams stuck fast, we could not move at all,\nUntil the boys said, 'Amen! We're through with the damned old buffalo.'"
+    ]
+  },
+  {
+    "id": "little-old-sod-shanty",
+    "title": "The Little Old Sod Shanty",
+    "category": "folk",
+    "origin": "Traditional American homesteader song, written by band musician Ellis W. Higgins and published 1885, sung to the tune of \"The Little Log Cabin in the Lane\"",
+    "era": "19th century",
+    "tags": [
+      "homesteader song",
+      "prairie song",
+      "americana"
+    ],
+    "note": "A cheerful pioneer-era song about the humble sod houses built by Great Plains homesteaders, sung with wry pride rather than complaint. Public domain since 1885.",
+    "verses": [
+      "I am looking rather seedy now while holding down my claim,\nAnd my victuals are not always served the best,\nAnd the mice play shyly round me as I nestle down to rest,\nIn my little old sod shanty on my claim.",
+      "The hinges are of leather and the windows have no glass,\nWhile the board roof lets the howling blizzards in,\nAnd I hear the hungry coyote as he sneaks up through the grass,\nRound my little old sod shanty on my claim.",
+      "But when I left my Eastern home, a bachelor so gay,\nTo try to win my way to wealth and fame,\nI little thought I'd come to be a settler for a day,\nIn my little old sod shanty on my claim."
+    ]
+  },
+  {
+    "id": "farmer-is-the-man",
+    "title": "The Farmer Is the Man",
+    "category": "folk",
+    "origin": "Traditional American Populist-era protest song, associated with the Grange and Farmers' Alliance movements of the 1870s-1890s; documented in print by the 1890s",
+    "era": "19th century",
+    "tags": [
+      "protest song",
+      "americana",
+      "agrarian"
+    ],
+    "note": "A Populist-era anthem arguing that farmers, who feed everyone, are paid last and least by the economic system. Traditional and public domain.",
+    "verses": [
+      "When the farmer comes to town, with his wagon broken down,\nOh, the farmer is the man who feeds them all,\nIf you'll only look and see, I think you will agree,\nThat the farmer is the man who feeds them all.",
+      "The farmer is the man, the farmer is the man,\nLives on credit till the fall,\nWith the interest rate so high,\nIt's a wonder he don't die,\nFor the mortgage man's the one who gets it all.",
+      "When the banker says he's broke, and the merchant's up in smoke,\nThey forget that it's the farmer feeds them all,\nIt would put them to the test, if the farmer took a rest,\nThen they'd know that it's the farmer feeds them all."
+    ]
+  },
+  {
+    "id": "acres-of-clams",
+    "title": "Acres of Clams (The Old Settler's Song)",
+    "category": "folk",
+    "origin": "Words by Francis D. Henry, published 1874, set to the Irish tune \"Rosin the Beau\"",
+    "era": "19th century",
+    "tags": [
+      "pioneer song",
+      "western",
+      "pacific northwest"
+    ],
+    "note": "A cheerful song of a disillusioned gold prospector who finds contentment as a Puget Sound clam farmer instead, now considered an unofficial anthem of Washington State. Public domain since 1874.",
+    "verses": [
+      "I've wandered all over this country,\nProspecting and digging for gold,\nI've tunneled, hydraulicked, and cradled,\nAnd I have been frequently sold.",
+      "For each man who came to the country,\nThought he had a right to complain,\nAnd curse it, revile it, and knock it,\nAnd then say he'd go back again.",
+      "No longer a slave of ambition,\nI laugh at the world and its shams,\nAs I think of my happy condition,\nSurrounded by acres of clams."
+    ]
+  },
+  {
+    "id": "the-kicking-mule",
+    "title": "The Kicking Mule",
+    "category": "folk",
+    "origin": "Traditional American Ozark comic ballad, documented in Vance Randolph's Ozark Folksongs collection, early 20th century",
+    "era": "19th century",
+    "tags": [
+      "comic song",
+      "farm song",
+      "ozark"
+    ],
+    "note": "A tall-tale comic song about an outrageously destructive mule, in the tradition of American frontier exaggeration humor. Traditional and public domain.",
+    "verses": [
+      "I had a mule, his name was Jack,\nI rode him on the levee,\nAnd every time I got on his back,\nHe tried to throw me heavy.",
+      "Old Jack, he was a kickin' mule,\nHe never knowed no better,\nHe kicked my house from off the hill,\nAnd kicked my wife's new sweater.",
+      "He kicked the barn a mile away,\nHe kicked the moon out of the sky,\nAnd every time somebody'd laugh,\nHe'd kick 'em on the sly."
+    ]
+  },
+  {
+    "id": "wait-for-the-wagon",
+    "title": "Wait for the Wagon",
+    "category": "parlor",
+    "origin": "Words and music generally attributed to R. Bishop Buckley, published 1851",
+    "era": "19th century",
+    "tags": [
+      "parlor ballad",
+      "courting song",
+      "americana"
+    ],
+    "note": "A cheerful courting song popular through the mid-19th century and revived as a favorite Civil War-era marching tune for its steady, wagon-wheel rhythm. Public domain since 1851.",
+    "verses": [
+      "Will you come with me, my Phyllis dear,\nTo yon blue mountain free,\nWhere the blossoms smell the sweetest,\nCome rove along with me?\nIt's every Sunday morning,\nWhen I am by your side,\nWe'll jump into the wagon,\nAnd all take a ride.",
+      "Wait for the wagon,\nWait for the wagon,\nWait for the wagon,\nAnd we'll all take a ride.",
+      "Where the river runs like silver,\nAnd the birds they sing so sweet,\nI have a cabin, Phyllis,\nAnd something good to eat,\nCome listen to my story,\nIt will relieve my heart,\nSo jump into the wagon,\nAnd off we will start."
+    ]
+  },
+  {
+    "id": "state-of-arkansas",
+    "title": "The State of Arkansas",
+    "category": "folk",
+    "origin": "Traditional American comic complaint song, documented in folk collections of the American South and Midwest by the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "comic song",
+      "travel song",
+      "americana"
+    ],
+    "note": "A wry, self-deprecating comic ballad about a traveling laborer's misadventures and hard times in Arkansas, sung with exaggerated regional humor. Traditional and public domain.",
+    "verses": [
+      "My name is Stuttering Jack McGraw,\nI've traveled this whole world round and round,\nBut of all the places I ever did see,\nThe worst is the state of Arkansas.",
+      "I landed in St. Louis, one cold December day,\nJust one week before Christmas, it was cold as it could be,\nI was standing on the levee, when I met a stranger there,\nWho asked me if I'd like a job to work upon a farm.",
+      "He fed me on corn dodgers, as hard as any rock,\nMy teeth began to loosen, and my knees began to knock,\nI got so thin on sleeping bran that I could hide behind a straw,\nAnd it was there I bid farewell to the state of Arkansas."
+    ]
+  },
+  {
+    "id": "katharine-jaffray",
+    "title": "Katharine Jaffray",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 221, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "elopement"
+    ],
+    "note": "A ballad in which a bride's true love arrives at her wedding to another man and successfully carries her off, with her willing consent. Ancient and public domain.",
+    "verses": [
+      "There livd a lass in yonder dale,\nAnd doun in yonder glen, O,\nHer name was Catherine Jaffray,\nHer father lovd her weel.",
+      "There cam a laird out ower the muir,\nAnd he came seeking a bride,\nAnd he has courted Kate Jaffray,\nTo be his own dear bride.",
+      "But young Lochinvar, he heard the news,\nAnd fast to the wedding he came,\nHe's taen the bride out by the hand,\nAnd he's set her upon his steed."
+    ]
   }
 ]
