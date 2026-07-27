@@ -8916,5 +8916,179 @@
       "'I can't light down, I shan't light down,\nI have no time to stay,\nFor I have a lady in fair Scotland,\nI love far better than thee.'",
       "There is a bird sits on yon tree,\nAnd it has done me wrong,\n'Come down, come down, my bonnie bird,\nAnd I will pay you well.'"
     ]
+  },
+  {
+    "id": "robin-hoods-golden-prize",
+    "title": "Robin Hood's Golden Prize",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 147, documented in broadside form from the 17th century",
+    "era": "17th century or earlier",
+    "tags": [
+      "child ballad",
+      "robin hood",
+      "disguise ballad"
+    ],
+    "note": "A comic ballad in which Robin Hood disguises himself as a friar to trick two greedy priests out of their gold, then makes them swear an oath of charity before releasing them. Ancient and public domain.",
+    "verses": [
+      "I have heard talk of bold Robin Hood,\nDerry derry down,\nAnd of brave Little John,\nOf Friar Tuck, and Will Scarlet,\nLoxley, and Maid Marian.",
+      "But such a tale as this before,\nI think was never known,\nFor Robin Hood disguised himself,\nAnd from the wood is gone.",
+      "Like to a friar, bold Robin Hood,\nWas accoutered in his array,\nWith hood, gown, beads, and crucifix,\nHe walked along the way."
+    ]
+  },
+  {
+    "id": "bold-pedlar-and-robin-hood",
+    "title": "The Bold Pedlar and Robin Hood",
+    "category": "ballad",
+    "origin": "Traditional English ballad, Child Ballad No. 132, documented in broadside form from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "robin hood",
+      "comic ballad"
+    ],
+    "note": "A ballad in which Robin Hood challenges a traveling peddler to a duel over passage on a narrow road, only to discover the peddler is his own long-lost kinsman Gamble Gold. Ancient and public domain.",
+    "verses": [
+      "There chanced to be a pedlar bold,\nA-trading he came us along,\nHe came unto a farmer's door,\nTo see if his pack he could put down.",
+      "'What's your name?' cried bold Robin Hood,\n'Come tell it to me with speed,\nCome tell to me your name,'\nHe said, 'For I vow you'll be my dead.'",
+      "'My name! My name I ne'er will tell,\nTill both of your armies do meet,'\nAnd loudly the pedlar he laughed,\nFor he knew he had none to fear."
+    ]
+  },
+  {
+    "id": "gay-goshawk",
+    "title": "The Gay Goshawk",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 96, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "feigned death"
+    ],
+    "note": "A ballad in which a woman feigns death via a trained hawk messenger to escape a forced marriage and reunite with her true love in England. Ancient and public domain.",
+    "verses": [
+      "'O well is me, my gay goshawk,\nThat you can speak and fly,\nYou sall carry a letter to my love,\nBring an answer back to me.'",
+      "'But how sall I your true love find,\nOr how suld I him know?\nI bear a tongue ne'er wi' him spake,\nAn eye that ne'er him saw.'",
+      "'O well sall ye my true love ken,\nSae sune as ye him see,\nFor of a' the flowers in fair England,\nThe fairest flower is he.'"
+    ]
+  },
+  {
+    "id": "baron-of-brackley",
+    "title": "The Baron of Brackley",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 203, based on a clan raid and killing in Aberdeenshire in 1666",
+    "era": "17th century",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "clan feud"
+    ],
+    "note": "A ballad rooted in a documented 1666 clan conflict, in which the Baron of Brackley is goaded by his wife's taunts into a fatal, outnumbered stand against a raiding party. Ancient and public domain.",
+    "verses": [
+      "Inverey came doon Deeside, whistling and playing,\nHe was at brave Brackley's yett ere it was dawin.\n'Come, open, come open, Brackley, are ye within?\nThere's sharp swords at your yett, will gar your bluid spin.'",
+      "'Rise up, rise up, Brackley, and turn back your kye,\nFor the lads o' Drumwharran are driving them by.'\n'How can I rise, lady, or turn them again,\nWhen there's fifty men wi' broadswords, and I but ane?'",
+      "'There's four-and-twenty milk-white calves, twal o' them ky,\nThere's five hundred sheep, feeding on yon lily lea,\nSae rise up, John Forbes, and turn back your kye,\nFor the lads o' Drumwharran will bear them ere day.'"
+    ]
+  },
+  {
+    "id": "many-thousand-gone",
+    "title": "Many Thousand Gone (No More Auction Block)",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, first published in 1867 in Slave Songs of the United States, the landmark first collection of its kind",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "emancipation"
+    ],
+    "note": "A spiritual of emancipation, its verses cataloging specific hardships of slavery now ended. Later adapted by Bob Dylan into the melody for 'Blowin' in the Wind.' The traditional spiritual itself is public domain since its 1867 publication.",
+    "verses": [
+      "No more auction block for me,\nNo more, no more,\nNo more auction block for me,\nMany thousand gone.",
+      "No more driver's lash for me,\nNo more, no more,\nNo more driver's lash for me,\nMany thousand gone.",
+      "No more peck of corn for me,\nNo more, no more,\nNo more peck of corn for me,\nMany thousand gone."
+    ]
+  },
+  {
+    "id": "been-in-the-storm-so-long",
+    "title": "Been in the Storm So Long",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in Slave Songs of the United States, 1867",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "perseverance"
+    ],
+    "note": "A slow, meditative spiritual documented in the earliest published collection of African American spirituals, reflecting on long-endured hardship. Public domain since 1867.",
+    "verses": [
+      "Been in the storm so long,\nBeen in the storm so long, children,\nOh, Lord, been in the storm so long.",
+      "Oh, give me little time to pray,\nOh, give me little time to pray,\nBeen in the storm so long.",
+      "Boy, let me tell you what the storm's about,\nBeen in the storm so long,\nOur head gets wet with the midnight dew,\nBeen in the storm so long."
+    ]
+  },
+  {
+    "id": "turn-back-pharaohs-army",
+    "title": "Turn Back Pharaoh's Army",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual collections of the late 19th and early 20th centuries, drawing on the Exodus narrative",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "exodus"
+    ],
+    "note": "A spiritual celebrating deliverance from bondage through the Exodus story of the parting Red Sea. Traditional and public domain.",
+    "verses": [
+      "When Israel was in Egypt's land,\nLet my people go,\nOppressed so hard they could not stand,\nLet my people go.",
+      "Go down, Moses, way down in Egypt's land,\nTell old Pharaoh, turn back his army,\nLet my people go.",
+      "The Lord told Moses what to do,\nTurn back Pharaoh's army,\nTo lead the children of Israel through,\nTurn back Pharaoh's army."
+    ]
+  },
+  {
+    "id": "give-my-regards-to-broadway",
+    "title": "Give My Regards to Broadway",
+    "category": "parlor",
+    "origin": "Words and music by George M. Cohan, published 1904, from the musical Little Johnny Jones",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "broadway",
+      "patriotic"
+    ],
+    "note": "One of the most enduring Broadway anthems ever written, still played at Yankees games and Broadway send-offs today. Public domain since 1904.",
+    "verses": [
+      "Did you ever see two Yankees part upon a foreign shore,\nWhen the good ship's just about to start for old New York once more?\nWith a tear-dimmed eye they say goodbye, they're friends without a doubt,\nWhen the man on the pier shouts, 'Let them clear,' as the ship strikes out.",
+      "Give my regards to Broadway,\nRemember me to Herald Square,\nTell all the gang at Forty-Second Street,\nThat I will soon be there,\nWhisper of how I'm yearning,\nTo mingle with the old-time throng,\nGive my regards to old Broadway,\nAnd say that I'll be there ere long."
+    ]
+  },
+  {
+    "id": "yankee-doodle-dandy-song",
+    "title": "The Yankee Doodle Boy",
+    "category": "parlor",
+    "origin": "Words and music by George M. Cohan, published 1904, from the musical Little Johnny Jones",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "broadway",
+      "patriotic"
+    ],
+    "note": "Often called simply 'Yankee Doodle Dandy,' this became one of Cohan's signature songs and a symbol of turn-of-the-century American showmanship. Public domain since 1904.",
+    "verses": [
+      "I'm a Yankee Doodle Dandy,\nA Yankee Doodle, do or die,\nA real live nephew of my Uncle Sam,\nBorn on the Fourth of July.",
+      "I've got a Yankee Doodle sweetheart,\nShe's my Yankee Doodle joy,\nYankee Doodle came to London,\nJust to ride the ponies,\nI am the Yankee Doodle boy."
+    ]
+  },
+  {
+    "id": "grand-old-flag",
+    "title": "You're a Grand Old Flag",
+    "category": "parlor",
+    "origin": "Words and music by George M. Cohan, published 1906, from the musical George Washington, Jr.",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "broadway",
+      "patriotic"
+    ],
+    "note": "The first song from an American musical to sell over a million copies of sheet music, and one of the most recognizable patriotic songs in the American songbook. Public domain since 1906.",
+    "verses": [
+      "You're a grand old flag,\nYou're a high-flying flag,\nAnd forever in peace may you wave,\nYou're the emblem of the land I love,\nThe home of the free and the brave.",
+      "Every heart beats true,\n'Neath the red, white, and blue,\nWhere there's never a boast or brag,\nBut should auld acquaintance be forgot,\nKeep your eye on the grand old flag."
+    ]
   }
 ]
