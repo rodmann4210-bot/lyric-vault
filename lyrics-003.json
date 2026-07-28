@@ -1,0 +1,273 @@
+[
+  {
+    "id": "harrigan",
+    "title": "Harrigan",
+    "category": "parlor",
+    "origin": "Words and music by George M. Cohan, published 1907, from the musical Fifty Miles from Boston",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "broadway",
+      "irish-american"
+    ],
+    "note": "Written as a tribute to Cohan's Irish-American heritage, its title spelled out letter by letter in the chorus. Public domain since 1907.",
+    "verses": [
+      "Who is the man who will spend or will even lend?\nWho is the man who will treat all hands from town to town?\nWho is the man they call on to save a stranded show?\nWho is the man that ev'rybody ought to know?\nIt's Harrigan, that's me!"
+    ]
+  },
+  {
+    "id": "marys-a-grand-old-name",
+    "title": "Mary's a Grand Old Name",
+    "category": "parlor",
+    "origin": "Words and music by George M. Cohan, published 1905, from the musical Forty-Five Minutes from Broadway",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "broadway"
+    ],
+    "note": "A cheerful courting song built around the simplicity and endurance of the name Mary. Public domain since 1905.",
+    "verses": [
+      "Did you ever notice that ev'rybody has a joke on Mary?\nA fact quite true, I'm telling you, in a great big city, small town, or village,\nHave you not heard folks say?\nUp goes the price of veal and pork,\nUp goes the price of coal and pork,\nBut Mary is a name that no one can spoil."
+    ]
+  },
+  {
+    "id": "peg-o-my-heart",
+    "title": "Peg O' My Heart",
+    "category": "parlor",
+    "origin": "Words by Alfred Bryan, music by Fred Fisher, published 1913, written for the Ziegfeld Follies",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "irish-american",
+      "waltz"
+    ],
+    "note": "Written for a musical of the same name, this became one of the most enduring hits of the pre-WWI era. Public domain since 1913.",
+    "verses": [
+      "Dear face that makes my nights so lonely,\nSighing for the smile that's only,\nSet like a star in the blue,\nDear little girl, so full of coquetry,\nIn her eyes-a look of mischief you'll see.",
+      "Peg o' my heart, I love you,\nWe'll never part, I love you,\nDear little girl of mine,\nI always knew, it's true, sweet Peg,\nOh, it was you were sent from Heaven,\nAnd I know your name is Peg."
+    ]
+  },
+  {
+    "id": "moonlight-bay",
+    "title": "Moonlight Bay",
+    "category": "parlor",
+    "origin": "Words by Edward Madden, music by Percy Wenrich, published 1912",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "barbershop",
+      "moon song"
+    ],
+    "note": "A romantic barbershop-style waltz, later famously referenced in the 1953 film By the Light of the Silvery Moon. Public domain since 1912.",
+    "verses": [
+      "We were sailing along, on Moonlight Bay,\nWe could hear the voices ringing,\nThey seemed to say,\nYou have stolen my heart, now don't go 'way,\nAs we sang love's old sweet song, on Moonlight Bay."
+    ]
+  },
+  {
+    "id": "i-want-a-girl",
+    "title": "I Want a Girl (Just Like the Girl That Married Dear Old Dad)",
+    "category": "parlor",
+    "origin": "Words by William Dillon, music by Harry Von Tilzer, published 1911",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "sentimental"
+    ],
+    "note": "A sentimental tribute to the singer's mother, framed as an ideal for a future bride. One of the best-selling songs of 1911. Public domain since 1911.",
+    "verses": [
+      "I never see a pretty girl who's fat and forty-two,\nI think perhaps she's someone's mother, so I says to you,\nBoys, I'm certainly glad I met you, hope that you will meet my mother when you can.",
+      "I want a girl, just like the girl that married dear old dad,\nShe was a pearl, and the only girl that daddy ever had,\nA good old fashioned girl with heart so true,\nOne who loves nothing but you,\nI want a girl, just like the girl that married dear old dad."
+    ]
+  },
+  {
+    "id": "row-row-row",
+    "title": "Row, Row, Row",
+    "category": "parlor",
+    "origin": "Words by William Jerome, music by James V. Monaco, published 1912",
+    "era": "early 20th century",
+    "tags": [
+      "tin pan alley",
+      "boating song",
+      "comic song"
+    ],
+    "note": "A comic boating-and-courting song, not to be confused with the older children's round of a similar name. Public domain since 1912.",
+    "verses": [
+      "Ida, sweet as apple cider, sweeter than lemonader,\nCome and take a trip with me, up the river,\nOh, so quiet, no one'll spy her,\nWith her honey boy, oh joy!",
+      "Row, row, row, up the river he would row, row, row,\nA hug he'd give her, then he'd kiss her now and then,\nShe would tell him when, he would tell her not to be so slow,\nThat's why they all love to row."
+    ]
+  },
+  {
+    "id": "twa-brothers",
+    "title": "The Twa Brothers",
+    "category": "ballad",
+    "origin": "Traditional Scottish/English ballad, Child Ballad No. 49, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "tragedy"
+    ],
+    "note": "A tragic ballad of an accidental fatal wound given in play between two brothers, one of the most widely collected Child ballads in American oral tradition. Ancient and public domain.",
+    "verses": [
+      "There were two brothers at the school,\nAnd when they got awa',\n'It's will ye play at the stane-chuckin',\nOr will ye play at the ba',\nOr will ye gae up to yon hill head,\nAnd there we'll wrestle a fa'?'",
+      "'I winna play at the stane-chuckin',\nNor will I play at the ba',\nBut I'll gae up to yon bonnie green hill,\nAnd there we'll wrestle a fa'.'",
+      "They wrestled up, they wrestled down,\nTill John fell to the ground,\nA dirk fell out of William's pouch,\nAnd gave John a deadly wound."
+    ]
+  },
+  {
+    "id": "johnie-scot",
+    "title": "Johnie Scot",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 99, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "champion ballad"
+    ],
+    "note": "A ballad of a Scottish lord who champions his beloved through single combat against an English king's champion. Ancient and public domain.",
+    "verses": [
+      "Johnie Scot's a hunting gane,\nUnto the woods sae wild,\nAnd bonnie Jean, his lovesome May,\nShe's greatest wi' his child.",
+      "'If that I be wi' bairn,' she says,\n'As I trust weel I be,\nYe'll carry me down to bonnie Scotland,\nAnd there ye'll marry me.'",
+      "'Aft hae I brought to Paris toun,\nThe robes that ye do wear,\nBut I'll bring wi' me a better man,\nOr I've been shamed here.'"
+    ]
+  },
+  {
+    "id": "fair-flower-of-northumberland",
+    "title": "The Fair Flower of Northumberland",
+    "category": "ballad",
+    "origin": "Traditional English/Scottish ballad, Child Ballad No. 9, documented in broadside form from the 16th-17th century",
+    "era": "16th century or earlier",
+    "tags": [
+      "child ballad",
+      "betrayal",
+      "border ballad"
+    ],
+    "note": "A border ballad of a young woman who helps a Scottish prisoner escape for love, only to be abandoned by him once safely across the border. Ancient and public domain.",
+    "verses": [
+      "It was a knight in Scotland born,\nFollow, my love, come over the strand,\nWas taken prisoner and left forlorn,\nEven by the good Earl of Northumberland.",
+      "'Fair maid, if you will pity me,\nAnd help me out of prison strong,\nI'll marry you when I am free,\nAnd take you into fair Scotland.'",
+      "She stole from her father's pillow the key,\nAnd out of prison she set him free,\nShe took him to her father's stable,\nAnd gave to him the best steed there."
+    ]
+  },
+  {
+    "id": "hind-etin",
+    "title": "Hind Etin",
+    "category": "ballad",
+    "origin": "Traditional Scottish ballad, Child Ballad No. 41, with roots in older Scandinavian ballad tradition, documented from the 18th century",
+    "era": "18th century or earlier",
+    "tags": [
+      "child ballad",
+      "scottish",
+      "supernatural"
+    ],
+    "note": "A ballad in which a lady is carried off by a forest-dwelling outlaw and eventually finds happiness with him, in a rare Child ballad with a peaceful resolution. Ancient and public domain.",
+    "verses": [
+      "May Margaret sits in her bower door,\nSewing at her seam,\nShe heard a note in Elmond's wood,\nAnd wished she there had been.",
+      "She loot the seam fa' frae her side,\nAnd the needle to her tae,\nAnd she is on to Elmond wood,\nAs fast as she could gae.",
+      "She hadna pu'd a nut, a nut,\nA nut but barely three,\nTill up and started a young Hind Etin,\nSays, 'Let alane the tree.'"
+    ]
+  },
+  {
+    "id": "banks-of-newfoundland",
+    "title": "The Banks of Newfoundland",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard emigrant and packet ships crossing the North Atlantic by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "emigration"
+    ],
+    "note": "A homeward-bound shanty referencing the treacherous Grand Banks fishing grounds off Newfoundland, a notorious hazard for sailing ships. Traditional and public domain.",
+    "verses": [
+      "Oh, the times are hard and the wages low,\nAway, ho, boys, away, ho,\nThe Leviathan for New York must go,\nWe're bound for the Banks of Newfoundland.",
+      "And it's now we're bound for the Banks of Newfoundland,\nWhere the ocean's deep and the mountains high,\nWhere the sea and the whale come skimmin' by,\nWe're bound for the Banks of Newfoundland."
+    ]
+  },
+  {
+    "id": "rolling-home",
+    "title": "Rolling Home",
+    "category": "sea-shanty",
+    "origin": "Traditional capstan shanty, documented aboard sailing ships trading between England and the New World by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "capstan song",
+      "homecoming"
+    ],
+    "note": "A joyous homeward-bound shanty, sung with anticipation of a safe return after a long ocean voyage. Traditional and public domain.",
+    "verses": [
+      "Call all hands to man the capstan,\nSee the cable run down clear,\nHeave away, and with a will, boys,\nFor old England we will steer.",
+      "Rolling home, rolling home,\nRolling home across the sea,\nRolling home to dear old England,\nRolling home, dear land, to thee."
+    ]
+  },
+  {
+    "id": "whiskey-johnny",
+    "title": "Whiskey Johnny",
+    "category": "sea-shanty",
+    "origin": "Traditional halyard shanty, documented aboard sailing ships by the mid-19th century",
+    "era": "19th century",
+    "tags": [
+      "shanty",
+      "halyard song",
+      "drinking song"
+    ],
+    "note": "A rousing hauling shanty celebrating (and lamenting) whiskey's hold over sailors ashore. Traditional and public domain.",
+    "verses": [
+      "Oh, whiskey is the life of man,\nWhiskey, Johnny,\nI'll drink whiskey while I can,\nWhiskey for my Johnny.",
+      "Whiskey up and whiskey down,\nWhiskey, Johnny,\nWhiskey all around the town,\nWhiskey for my Johnny.",
+      "Whiskey killed my poor old dad,\nWhiskey, Johnny,\nWhiskey drove my mother mad,\nWhiskey for my Johnny."
+    ]
+  },
+  {
+    "id": "o-come-all-ye-faithful",
+    "title": "O Come, All Ye Faithful (Adeste Fideles)",
+    "category": "parlor",
+    "origin": "Latin hymn text traditionally attributed to John Francis Wade, c. 1743; English translation by Frederick Oakeley, 1841",
+    "era": "18th century",
+    "tags": [
+      "christmas carol",
+      "hymn",
+      "latin"
+    ],
+    "note": "One of the most widely sung Christmas carols in the world, originally circulated in Latin among English Catholic communities before its 19th-century English translation. Public domain.",
+    "verses": [
+      "O come, all ye faithful,\nJoyful and triumphant,\nO come ye, O come ye to Bethlehem,\nCome and behold Him,\nBorn the King of angels.",
+      "O come, let us adore Him,\nO come, let us adore Him,\nO come, let us adore Him,\nChrist the Lord.",
+      "Sing, choirs of angels,\nSing in exultation,\nSing, all ye citizens of heaven above,\nGlory to God,\nGlory in the highest."
+    ]
+  },
+  {
+    "id": "once-in-royal-davids-city",
+    "title": "Once in Royal David's City",
+    "category": "parlor",
+    "origin": "Words by Cecil Frances Alexander, published 1848; music by Henry John Gauntlett, 1849",
+    "era": "19th century",
+    "tags": [
+      "christmas carol",
+      "hymn"
+    ],
+    "note": "Written for children by an Irish hymn writer, this carol traditionally opens the Festival of Nine Lessons and Carols at King's College, Cambridge. Public domain since 1848.",
+    "verses": [
+      "Once in royal David's city,\nStood a lowly cattle shed,\nWhere a mother laid her baby,\nIn a manger for His bed,\nMary was that mother mild,\nJesus Christ her little child.",
+      "He came down to earth from heaven,\nWho is God and Lord of all,\nAnd His shelter was a stable,\nAnd His cradle was a stall,\nWith the poor and mean and lowly,\nLived on earth our Saviour holy."
+    ]
+  },
+  {
+    "id": "sinner-man",
+    "title": "Sinner Man",
+    "category": "spiritual",
+    "origin": "Traditional African American spiritual, documented in spiritual and gospel-blues collections of the early 20th century",
+    "era": "19th century",
+    "tags": [
+      "gospel",
+      "judgment day"
+    ],
+    "note": "A dramatic spiritual describing a sinner's futile search for refuge on judgment day, in the same tradition as 'There's No Hiding Place.' Traditional and public domain.",
+    "verses": [
+      "Oh, sinner man, where you gonna run to?\nOh, sinner man, where you gonna run to?\nOh, sinner man, where you gonna run to?\nAll on that day.",
+      "Run to the rock, rock won't you hide me?\nRun to the rock, rock won't you hide me?\nRun to the rock, rock won't you hide me?\nAll on that day.",
+      "Run to the sea, sea is a-boiling,\nRun to the sea, sea is a-boiling,\nRun to the sea, sea is a-boiling,\nAll on that day."
+    ]
+  }
+]
