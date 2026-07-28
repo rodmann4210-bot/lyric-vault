@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Wellerman (Soon May the Wellerman Come)",
+    "status": "excluded",
+    "reason": "The underlying whaling tradition is old, but the specific fixed lyrics most people know were only written down by collector Neil Colquhoun in the 1960s-70s, not from a 19th-century source. This is a lyrics-level issue, not a melody issue, so text-only use doesn't resolve it.",
+    "clears": "Uncertain — dependent on Colquhoun's specific compiled text, not a clean calendar date.",
+    "date_flagged": "2026-07-28"
+  },
+  {
+    "title": "I'll Fly Away",
+    "status": "excluded",
+    "reason": "Composed by Albert E. Brumley; formally published/copyrighted 1932 (not 1929, which is only when he began writing it). Actively defended by the Brumley family, including a 2016 federal appeals case.",
+    "clears": "January 1, 2028 (95 years from 1932 publication)",
+    "date_flagged": "2026-07-28"
+  },
+  {
+    "title": "Corrina, Corrina",
+    "status": "excluded",
+    "reason": "Registered for copyright in 1932 with named songwriters credited.",
+    "clears": "January 1, 2028 (95 years from 1932 registration)",
+    "date_flagged": "2026-07-28"
+  },
+  {
+    "title": "Delia's Gone (specific version)",
+    "status": "excluded (a different, older, safe version was included instead)",
+    "reason": "One circulating text of 'Delia's Gone' is credited to specific 1962 songwriters (Silbersdorf/Toops) and is not public domain. A distinct, genuinely older traditional 'Delia' text (rooted in a documented 1900 Savannah case, collected by Howard Odum c. 1906-1911) was verified separately and is included in the archive under id 'delia'.",
+    "clears": "N/A — the 1962 version specifically remains excluded; the traditional root version is already safely in the vault.",
+    "date_flagged": "2026-07-28"
+  },
+  {
+    "title": "Waltzing Matilda (Marie Cowan's 1903 commercial version)",
+    "status": "partially resolved",
+    "reason": "The melody has a genuinely disputed history of competing US copyright registrations (Carl Fischer, 1941; Richard Magoffin, 1987), and at least one historical source found Allans Music's ownership claim 'appeared to extend to the words as well as the music' for Cowan's specific 1903 rewrite -- the version most commonly known and sung today.",
+    "resolution": "Banjo Paterson's original 1895 words (a distinct, earlier text from Cowan's commercial rewrite) were separately verified as clean public domain -- Paterson never asserted copyright, and died in 1941 with no living claim. Paterson's original text was added to the vault under id 'waltzing-matilda-original' in this round. The Cowan 1903 commercial rewrite remains excluded.",
+    "clears": "N/A for Paterson's original (already clean and included). Cowan version status uncertain given mixed sourcing.",
+    "date_flagged": "2026-07-28"
+  }
+]
