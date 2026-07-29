@@ -1,0 +1,30 @@
+[
+  {
+    "id": "yellow-dog-blues",
+    "title": "Yellow Dog Blues",
+    "category": "blues",
+    "origin": "W. C. Handy; published as 'The Yellow Dog Rag' in 1914, revised and republished as 'Yellow Dog Blues' in 1919.",
+    "era": "1910s",
+    "tags": ["w-c-handy", "mississippi", "railroad", "easy-rider"],
+    "note": "Public domain in the U.S.; published 1914/1919, outside the 95-year term. Sole author W. C. Handy.",
+    "verses": [
+      "Ever since Miss Susan Johnson lost her Jockey, Lee,\nThere has been much excitement, more to be;\nYou can hear her moaning night and morn,\nShe's wondering where her Easy Rider's gone.",
+      "He's gone where the Southern cross' the Yellow Dog,\nHe's gone where the Southern cross' the Yellow Dog,\nEasy Rider's got to stay away, so he had to vamp it,\nBut the hound must follow on,\nHer Easy Rider's gone where the Southern cross' the Yellow Dog."
+    ]
+  },
+  {
+    "id": "downhearted-blues",
+    "title": "Downhearted Blues",
+    "category": "blues",
+    "origin": "Music by Lovie Austin, lyrics by Alberta Hunter; published and first recorded 1922.",
+    "era": "1920s",
+    "tags": ["classic-blues", "alberta-hunter", "lovie-austin", "heartbreak"],
+    "note": "Public domain in the U.S.; published 1922, outside the 95-year term. Both authors clearly credited (Austin/Hunter); famously the debut hit for Bessie Smith in 1923.",
+    "verses": [
+      "Gee, but it's hard to love someone when that someone don't love you,\nI'm so disgusted, heartbroken too,\nI've got those downhearted blues.",
+      "Once I was crazy about a man, he mistreated me all the time,\nThe next man I get, he's got to promise to be mine, all mine.",
+      "Trouble, trouble, I've had it all my days,\nTrouble, trouble, I've had it all my days,\nIt seems like trouble going to follow me to my grave.",
+      "I've got the world in a jug, the stopper's in my hand,\nI've got the world in a jug, the stopper's in my hand,\nI'm gonna hold it until you come under my command."
+    ]
+  }
+]
