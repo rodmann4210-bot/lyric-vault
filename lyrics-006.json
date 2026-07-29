@@ -1,0 +1,30 @@
+[
+  {
+    "id": "joe-turner-blues",
+    "title": "Joe Turner Blues",
+    "category": "blues",
+    "origin": "Traditional Tennessee blues about Joe Turney (brother of Governor Pete Turney), who transported prisoners; arranged and published by W. C. Handy, 1915.",
+    "era": "1910s (traditional roots)",
+    "tags": ["traditional", "w-c-handy", "tennessee", "prison"],
+    "note": "Public domain: the underlying song is an anonymous nineteenth-century Tennessee blues, and Handy's arrangement was published 1915 (outside the term).",
+    "verses": [
+      "They tell me Joe Turner's come and gone,\nOh Lordy,\nThey tell me Joe Turner's come and gone,\nOh Lordy,\nGot my man and gone.",
+      "He come with forty links of chain,\nOh Lordy,\nHe come with forty links of chain,\nOh Lordy,\nGot my man and gone.",
+      "Sweetest man in the whole wide world,\nOh Lordy,\nSweetest man in the whole wide world,\nOh Lordy,\nGot my man and gone."
+    ]
+  },
+  {
+    "id": "crazy-blues",
+    "title": "Crazy Blues",
+    "category": "blues",
+    "origin": "Perry Bradford (originally titled 'Harlem Blues,' c.1918); recorded by Mamie Smith and published 1920 by Perry Bradford Music Pub. Co.",
+    "era": "1920s",
+    "tags": ["perry-bradford", "mamie-smith", "vaudeville-blues", "first-blues-record"],
+    "note": "Public domain in the U.S.; published 1920, outside the 95-year term. Landmark as the first vocal blues hit record, recorded by Mamie Smith in 1920.",
+    "verses": [
+      "I can't sleep at night, I can't eat a bite,\n'Cause the man I love, he don't treat me right.\nHe makes me feel so blue, I don't know what to do.\nSometimes I sit and sigh, and then begin to cry,\n'Cause my best man said his last goodbye.",
+      "There's a change in the ocean, change in the deep blue sea,\nBut I'll tell you, folks, there ain't no change in me.\nMy love for that man will always be.",
+      "Now I've got the crazy blues\nSince my baby went away,\nI ain't got no time to lose,\nI must find him today."
+    ]
+  }
+]
