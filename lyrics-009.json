@@ -1,0 +1,85 @@
+[
+  {
+    "id": "i-hear-from-heaven-today-1867",
+    "title": "I Hear from Heaven To-day",
+    "category": "spiritual",
+    "origin": "Slave Songs of the United States (1867), No. 3, page 2; Port Royal Islands, South Carolina, collected by C. P. Ware.",
+    "era": "1860s (published 1867)",
+    "tags": ["spiritual", "slave-songs-1867", "port-royal"],
+    "note": "Source verified directly against the Internet Archive's full-text scan of the original 1867 edition (item explicitly marked 'Not in copyright' by the Library). Page and collector credited exactly as printed in the book's own table of contents.",
+    "verses": [
+      "Hurry on, my weary soul,\nAnd I hear from heaven to-day,\nHurry on, my weary soul,\nAnd I hear from heaven to-day.",
+      "My sin is forgiven and my soul set free,\nAnd I hear from heaven to-day.",
+      "A baby born in Bethlehem,\nAnd I hear, etc.",
+      "De trumpet sound in de oder bright land.",
+      "My name is called and I must go.",
+      "De bell is a-ringin' in de oder bright world."
+    ]
+  },
+  {
+    "id": "praise-member-1867",
+    "title": "Praise, Member",
+    "category": "spiritual",
+    "origin": "Slave Songs of the United States (1867), No. 5, page 4; Port Royal Islands, South Carolina, collected by C. P. Ware.",
+    "era": "1860s (published 1867)",
+    "tags": ["spiritual", "slave-songs-1867", "port-royal", "jordan"],
+    "note": "Source verified directly against the Internet Archive's full-text scan of the original 1867 edition. The book's own introduction notes this hymn's words closely match an older piece called 'Choral Hymns,' suggesting a shared older root.",
+    "verses": [
+      "Praise, member, praise God,\nI praise my Lord until I die;\nPraise, member, praise God,\nAnd reach de heavenly home.",
+      "O Jordan's bank is a good old bank,\nAnd I hain't but one more river to cross;\nI want some valiant soldier\nTo help me bear the cross.",
+      "O soldier's fight is a good old fight,\nAnd I hain't, etc.",
+      "O I look to de East, and I look to de West.",
+      "O I wheel to de right, and I wheel to de left."
+    ]
+  },
+  {
+    "id": "lonesome-valley-1867",
+    "title": "The Lonesome Valley",
+    "category": "spiritual",
+    "origin": "Slave Songs of the United States (1867), No. 7, page 5; Port Royal Islands, South Carolina, collected by C. P. Ware.",
+    "era": "1860s (published 1867)",
+    "tags": ["spiritual", "slave-songs-1867", "port-royal"],
+    "note": "Source verified directly against the Internet Archive's full-text scan of the original 1867 edition. The book quotes Col. T. W. Higginson's description of the 'lonesome valley' as a term for spiritual searching among the singers.",
+    "verses": [
+      "My brudder, want to get religion?\nGo down in de lonesome valley,\nGo down in de lonesome valley, my Lord;\nGo down in de lonesome valley,\nTo meet my Jesus dere.",
+      "O feed oh milk and honey.",
+      "O John he write de letter.",
+      "And Mary and Marta read 'em."
+    ]
+  },
+  {
+    "id": "not-weary-yet-1867",
+    "title": "Not Weary Yet",
+    "category": "spiritual",
+    "origin": "Slave Songs of the United States (1867), No. 16, page 12; Port Royal Islands, South Carolina, collected by C. P. Ware.",
+    "era": "1860s (published 1867)",
+    "tags": ["spiritual", "slave-songs-1867", "port-royal", "perseverance"],
+    "note": "Source verified directly against the Internet Archive's full-text scan of the original 1867 edition.",
+    "verses": [
+      "O me no weary yet,\nO me no weary yet,\nI have a witness in my heart,\nO me no weary yet.",
+      "Since I been in de field to fight.",
+      "I have a heaven to maintain.",
+      "De bond of faith are on my soul.",
+      "Ole Satan toss a ball at me.",
+      "Him tink de ball would hit my soul.",
+      "De ball for hell and I for heaven."
+    ]
+  },
+  {
+    "id": "go-in-the-wilderness-1867",
+    "title": "Go in the Wilderness",
+    "category": "spiritual",
+    "origin": "Slave Songs of the United States (1867), No. 19, page 14; Port Royal Islands, South Carolina, collected by C. P. Ware.",
+    "era": "1860s (published 1867)",
+    "tags": ["spiritual", "slave-songs-1867", "port-royal"],
+    "note": "Source verified directly against the Internet Archive's full-text scan of the original 1867 edition. The editors note its second section shares roots with the Methodist hymn 'Ain't I glad I got out of the wilderness.'",
+    "verses": [
+      "I wait upon de Lord,\nI wait upon de Lord,\nI wait upon de Lord, my God,\nWho take away de sin of the world.",
+      "If you want to find Jesus, go in the wilderness,\nGo in de wilderness, go in de wilderness,\nMournin' brudder, go in de wilderness,\nI wait upon de Lord.",
+      "You want to be a Christian.",
+      "You want to get religion.",
+      "If you spec' to be converted.",
+      "O weepin' Mary."
+    ]
+  }
+]
