@@ -40,7 +40,21 @@
     letter-spacing:0.18em;
     text-transform:uppercase;
     margin-bottom:6px;
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
   }
+  .nav-link{
+    color:var(--amber-dim);
+    text-decoration:none;
+    border:1px solid var(--line);
+    padding:4px 10px;
+    border-radius:3px;
+    font-size:10.5px;
+    letter-spacing:0.06em;
+    transition:border-color .15s, color .15s;
+  }
+  .nav-link:hover{ border-color:var(--amber); color:var(--amber); }
   h1{
     margin:0;
     font-size:26px;
@@ -322,7 +336,10 @@
 <body>
 
 <header>
-  <div class="eyebrow">WATCH FLOOR · ARCHIVE STATION</div>
+  <div class="eyebrow">
+    <span>WATCH FLOOR · ARCHIVE STATION</span>
+    <a class="nav-link" href="workshop.html">→ Workshop</a>
+  </div>
   <h1><span class="reel" id="reel"></span> Lyric Vault</h1>
   <div class="sub">A working library of public-domain lyrics — traditional folk, blues, spirituals, sea shanties, ballads, and 19th-century songbook standards — cleared for remix, adaptation, and homage. Every entry is sourced and dated in its detail card.</div>
 
@@ -354,14 +371,6 @@
 </div>
 
 <script>
-// ======================= DATA =======================
-// The library is now assembled from multiple shard files listed in
-// manifest.json. To add a new batch of songs going forward:
-//   1. Upload a new file, e.g. lyrics-003.json (a plain JSON array of
-//      song objects, same shape as always).
-//   2. Add that filename to manifest.json's array.
-// The existing lyrics.json and any prior shard files NEVER need to be
-// touched or re-uploaded again.
 let LYRIC_LIBRARY = [];
 
 const CATEGORY_LABEL = {
@@ -374,7 +383,6 @@ const CATEGORY_LABEL = {
   "parlor": "Parlor Song"
 };
 
-// ======================= APP =======================
 let activeCategory = "all";
 let searchTerm = "";
 
@@ -506,9 +514,6 @@ document.querySelectorAll('.chip').forEach(chip => {
   });
 });
 
-// ---- Load the vault from every shard listed in manifest.json ----
-// Cache-busting timestamps on every fetch so GitHub Pages' CDN can never
-// serve a stale copy after an update.
 fetch('manifest.json?t=' + Date.now(), {cache: 'no-store'})
   .then(function(r){ if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
   .then(function(shardList){
