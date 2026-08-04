@@ -1,0 +1,581 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lyric Vault — Workshop</title>
+<style>
+  :root{
+    --bg: #0b0e0c;
+    --bg-panel: #121611;
+    --bg-card: #161b16;
+    --line: #263129;
+    --amber: #d9a441;
+    --amber-dim: #8a6c2e;
+    --green: #7fae6a;
+    --text: #d8dcd4;
+    --text-dim: #7f8a7c;
+    --mono: 'Courier New', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  }
+  *{box-sizing:border-box;}
+  html,body{margin:0;padding:0;}
+  body{
+    background:
+      repeating-linear-gradient(0deg, rgba(255,255,255,0.012) 0px, rgba(255,255,255,0.012) 1px, transparent 1px, transparent 3px),
+      var(--bg);
+    color:var(--text);
+    font-family:var(--mono);
+    min-height:100vh;
+  }
+  header{
+    border-bottom:1px solid var(--line);
+    padding:22px 24px 18px;
+    background:rgba(11,14,12,0.96);
+  }
+  .eyebrow{
+    color:var(--amber-dim);
+    font-size:11px;
+    letter-spacing:0.18em;
+    text-transform:uppercase;
+    margin-bottom:6px;
+  }
+  h1{
+    margin:0;
+    font-size:24px;
+    font-weight:700;
+    color:var(--text);
+  }
+  .sub{
+    color:var(--text-dim);
+    font-size:12.5px;
+    margin-top:6px;
+    max-width:640px;
+    line-height:1.5;
+  }
+  main{
+    max-width:720px;
+    margin:0 auto;
+    padding:24px 20px 60px;
+  }
+  .panel{
+    background:var(--bg-panel);
+    border:1px solid var(--line);
+    border-radius:3px;
+    padding:20px;
+    margin-bottom:16px;
+  }
+  .panel-label{
+    font-size:11px;
+    letter-spacing:0.1em;
+    text-transform:uppercase;
+    color:var(--amber-dim);
+    margin-bottom:14px;
+  }
+  .row{
+    display:flex;
+    flex-wrap:wrap;
+    gap:8px;
+  }
+  .option{
+    background:var(--bg-card);
+    border:1px solid var(--line);
+    color:var(--text-dim);
+    font-family:var(--mono);
+    font-size:12px;
+    padding:9px 14px;
+    border-radius:3px;
+    cursor:pointer;
+    transition:border-color .15s, color .15s;
+  }
+  .option:hover{ border-color:var(--amber-dim); color:var(--text); }
+  .option.active{
+    border-color:var(--amber);
+    color:var(--amber);
+    background:rgba(217,164,65,0.07);
+  }
+  /* --- signature element: the splice dial --- */
+  .splice-wrap{
+    display:flex;
+    align-items:center;
+    gap:16px;
+    margin-top:6px;
+  }
+  .splice-track{
+    position:relative;
+    flex:1;
+    height:34px;
+    border-radius:3px;
+    overflow:hidden;
+    border:1px solid var(--line);
+    background:repeating-linear-gradient(
+      90deg,
+      var(--green) 0px, var(--green) 3px,
+      #0e130f 3px, #0e130f 5px
+    );
+  }
+  .splice-fill{
+    position:absolute;
+    top:0; left:0; bottom:0;
+    background:repeating-linear-gradient(
+      90deg,
+      var(--amber) 0px, var(--amber) 3px,
+      #2a1f0c 3px, #2a1f0c 5px
+    );
+    transition:width .12s;
+  }
+  .splice-cut{
+    position:absolute;
+    top:-2px; bottom:-2px;
+    width:2px;
+    background:var(--text);
+    box-shadow:0 0 6px rgba(216,220,212,0.8);
+  }
+  #spliceRange{
+    -webkit-appearance:none;
+    appearance:none;
+    width:100%;
+    height:34px;
+    margin:0;
+    background:transparent;
+    cursor:ew-resize;
+    position:relative;
+    z-index:2;
+  }
+  #spliceRange::-webkit-slider-thumb{
+    -webkit-appearance:none;
+    width:6px;
+    height:44px;
+    background:transparent;
+  }
+  .splice-readout{
+    font-size:11px;
+    color:var(--text-dim);
+    min-width:118px;
+    text-align:right;
+    line-height:1.5;
+  }
+  .splice-readout b{ color:var(--amber); font-size:14px; }
+  .splice-legend{
+    display:flex;
+    justify-content:space-between;
+    font-size:10px;
+    color:var(--text-dim);
+    margin-top:6px;
+    letter-spacing:0.04em;
+  }
+  .length-row{ display:flex; gap:8px; margin-top:4px; }
+  button.generate{
+    width:100%;
+    background:var(--amber);
+    color:#1a1305;
+    border:none;
+    font-family:var(--mono);
+    font-weight:700;
+    font-size:13px;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    padding:14px;
+    border-radius:3px;
+    cursor:pointer;
+    margin-top:4px;
+  }
+  button.generate:hover{ background:#e6b458; }
+  button.generate:disabled{ background:var(--line); color:var(--text-dim); cursor:not-allowed; }
+  #status{
+    font-size:11.5px;
+    color:var(--text-dim);
+    text-align:center;
+    margin-top:10px;
+    min-height:14px;
+  }
+  .results{ display:none; }
+  .results.show{ display:block; }
+  .skeleton{
+    background:var(--bg-card);
+    border:1px solid var(--line);
+    border-left:3px solid var(--amber-dim);
+    border-radius:2px;
+    padding:16px 18px;
+    font-size:13.5px;
+    line-height:1.9;
+    white-space:pre-wrap;
+    margin-bottom:14px;
+  }
+  .vault-line{ color:var(--text); }
+  .vault-src{ color:var(--amber-dim); font-size:11px; }
+  .gap-line{ color:var(--green); font-style:italic; }
+  .prompt-box{
+    background:#0e130f;
+    border:1px solid var(--line);
+    border-radius:2px;
+    padding:16px 18px;
+    font-size:12px;
+    line-height:1.7;
+    white-space:pre-wrap;
+    color:var(--text-dim);
+    max-height:340px;
+    overflow-y:auto;
+  }
+  .copy-btn{
+    background:var(--bg-panel);
+    border:1px solid var(--amber-dim);
+    color:var(--amber);
+    font-family:var(--mono);
+    font-size:11px;
+    padding:8px 14px;
+    border-radius:3px;
+    cursor:pointer;
+    margin-top:10px;
+    text-transform:uppercase;
+    letter-spacing:0.05em;
+  }
+  .copy-btn:hover{ background:rgba(217,164,65,0.08); }
+  .stat-line{
+    font-size:11px;
+    color:var(--text-dim);
+    margin-bottom:14px;
+  }
+  .stat-line b{ color:var(--amber); }
+  footer{
+    text-align:center;
+    color:var(--text-dim);
+    font-size:10.5px;
+    padding:20px 24px 30px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="eyebrow">WATCH FLOOR · ARCHIVE STATION</div>
+  <h1>Lyric Vault — Workshop</h1>
+  <div class="sub">Pulls real, sourced lines from the vault and builds a skeleton at your chosen ratio of vault material to new writing. The skeleton gives you a ready-to-paste prompt for weaving it into a finished piece.</div>
+</header>
+
+<main>
+
+  <div class="panel">
+    <div class="panel-label">Output Type</div>
+    <div class="row" id="typeRow">
+      <div class="option active" data-type="song">Song</div>
+      <div class="option" data-type="poem">Poem</div>
+      <div class="option" data-type="story">Short Story</div>
+      <div class="option" data-type="play">Play Scene</div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-label">Theme / Category <span style="color:var(--text-dim); text-transform:none; letter-spacing:0; font-size:10.5px;">— tap to toggle, mix as many as you like</span></div>
+    <div class="row" id="catRow">
+      <div class="option active" data-cat="all">All</div>
+      <div class="option active" data-cat="spiritual">Spiritual</div>
+      <div class="option active" data-cat="folk">Folk</div>
+      <div class="option active" data-cat="blues">Blues</div>
+      <div class="option active" data-cat="work-song">Work Song</div>
+      <div class="option active" data-cat="sea-shanty">Sea Shanty</div>
+      <div class="option active" data-cat="ballad">Ballad</div>
+      <div class="option active" data-cat="parlor">Parlor Song</div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-label">Length</div>
+    <div class="row length-row" id="lenRow">
+      <div class="option" data-len="short">Short</div>
+      <div class="option active" data-len="medium">Medium</div>
+      <div class="option" data-len="long">Long</div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-label">Vault Material vs. New Writing</div>
+    <div class="splice-wrap">
+      <div class="splice-track">
+        <div class="splice-fill" id="spliceFill" style="width:75%"></div>
+        <div class="splice-cut" id="spliceCut" style="left:75%"></div>
+        <input type="range" id="spliceRange" min="10" max="90" value="75" step="5">
+      </div>
+      <div class="splice-readout">
+        <b id="spliceValue">75%</b> vault<br>
+        <span id="spliceInverse">25%</span> new
+      </div>
+    </div>
+    <div class="splice-legend">
+      <span>10% — mostly new</span>
+      <span>90% — mostly vault</span>
+    </div>
+  </div>
+
+  <button class="generate" id="genBtn" disabled>Loading vault…</button>
+  <div id="status"></div>
+
+  <div class="results" id="results">
+    <div class="panel">
+      <div class="panel-label">Skeleton</div>
+      <div class="stat-line" id="statLine"></div>
+      <div class="skeleton" id="skeletonOut"></div>
+    </div>
+    <div class="panel">
+      <div class="panel-label">Ready-to-Paste Prompt</div>
+      <div class="prompt-box" id="promptOut"></div>
+      <button class="copy-btn" id="copyBtn">Copy prompt</button>
+    </div>
+  </div>
+
+</main>
+
+<footer>© 2026 R. Grimes · Curation tool for the Lyric Vault archive.</footer>
+
+<script>
+let LYRIC_LIBRARY = [];
+let activeType = 'song';
+const ALL_CATS = ['spiritual','folk','blues','work-song','sea-shanty','ballad','parlor'];
+let activeCats = new Set(ALL_CATS);
+let activeLen = 'medium';
+
+const LEN_TARGETS = {
+  song:  { short: 12, medium: 24, long: 40 },
+  poem:  { short: 8,  medium: 18, long: 32 },
+  story: { short: 20, medium: 40, long: 70 },
+  play:  { short: 20, medium: 45, long: 80 }
+};
+
+const genBtn = document.getElementById('genBtn');
+const statusEl = document.getElementById('status');
+const spliceRange = document.getElementById('spliceRange');
+const spliceFill = document.getElementById('spliceFill');
+const spliceCut = document.getElementById('spliceCut');
+const spliceValue = document.getElementById('spliceValue');
+const spliceInverse = document.getElementById('spliceInverse');
+
+function updateSplice(){
+  const v = spliceRange.value;
+  spliceFill.style.width = v + '%';
+  spliceCut.style.left = v + '%';
+  spliceValue.textContent = v + '%';
+  spliceInverse.textContent = (100 - v) + '%';
+}
+spliceRange.addEventListener('input', updateSplice);
+updateSplice();
+
+document.querySelectorAll('#typeRow .option').forEach(el => {
+  el.addEventListener('click', () => {
+    document.querySelectorAll('#typeRow .option').forEach(o => o.classList.remove('active'));
+    el.classList.add('active');
+    activeType = el.dataset.type;
+  });
+});
+function updateCatButtons(){
+  const isAllSelected = ALL_CATS.every(c => activeCats.has(c));
+  document.querySelectorAll('#catRow .option').forEach(el => {
+    if(el.dataset.cat === 'all'){
+      el.classList.toggle('active', isAllSelected);
+    } else {
+      el.classList.toggle('active', activeCats.has(el.dataset.cat));
+    }
+  });
+}
+document.querySelectorAll('#catRow .option').forEach(el => {
+  el.addEventListener('click', () => {
+    const cat = el.dataset.cat;
+    if(cat === 'all'){
+      activeCats = new Set(ALL_CATS);
+    } else if(activeCats.has(cat)){
+      activeCats.delete(cat);
+    } else {
+      activeCats.add(cat);
+    }
+    updateCatButtons();
+  });
+});
+document.querySelectorAll('#lenRow .option').forEach(el => {
+  el.addEventListener('click', () => {
+    document.querySelectorAll('#lenRow .option').forEach(o => o.classList.remove('active'));
+    el.classList.add('active');
+    activeLen = el.dataset.len;
+  });
+});
+
+function shuffle(arr){
+  const a = arr.slice();
+  for(let i = a.length - 1; i > 0; i--){
+    const j = Math.floor(Math.random() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function allLines(song){
+  // Returns array of {text, verseIndex} keeping verse grouping info
+  const out = [];
+  song.verses.forEach((v, vi) => {
+    v.split('\n').forEach(line => {
+      if(line.trim()) out.push({ text: line.trim(), verseIndex: vi });
+    });
+  });
+  return out;
+}
+
+function curate(){
+  if(activeCats.size === 0){
+    statusEl.textContent = 'Select at least one category.';
+    return;
+  }
+  const pool = LYRIC_LIBRARY.filter(s => activeCats.has(s.category));
+  if(pool.length === 0){
+    statusEl.textContent = 'No songs in the selected categories.';
+    return;
+  }
+
+  const targetTotal = LEN_TARGETS[activeType][activeLen];
+  const vaultPct = parseInt(spliceRange.value, 10) / 100;
+  const targetVaultLines = Math.max(1, Math.round(targetTotal * vaultPct));
+
+  // Pick a varied set of source songs (3-6 depending on how many lines we need)
+  const songCount = Math.min(pool.length, Math.max(3, Math.min(6, Math.ceil(targetVaultLines / 4))));
+  const chosenSongs = shuffle(pool).slice(0, songCount);
+
+  // Build a line pool from chosen songs, keeping small contiguous chunks (2-3 lines)
+  // rather than single scrambled lines, for more coherent results.
+  let vaultChunks = [];
+  chosenSongs.forEach(song => {
+    const lines = allLines(song);
+    let i = 0;
+    while(i < lines.length){
+      const chunkSize = Math.min(lines.length - i, 1 + Math.floor(Math.random() * 3));
+      const chunk = lines.slice(i, i + chunkSize);
+      // only keep chunk if all lines are from the same verse (stays coherent)
+      if(chunk.every(l => l.verseIndex === chunk[0].verseIndex)){
+        vaultChunks.push({
+          lines: chunk.map(l => l.text),
+          song: song.title,
+          id: song.id
+        });
+      }
+      i += chunkSize;
+    }
+  });
+  vaultChunks = shuffle(vaultChunks);
+
+  // Select chunks until we hit (or slightly exceed) the target vault line count
+  let selected = [];
+  let lineCount = 0;
+  for(const chunk of vaultChunks){
+    if(lineCount >= targetVaultLines) break;
+    selected.push(chunk);
+    lineCount += chunk.lines.length;
+  }
+  if(selected.length === 0 && vaultChunks.length > 0){
+    selected.push(vaultChunks[0]);
+    lineCount = vaultChunks[0].lines.length;
+  }
+
+  // Interleave selected vault chunks with "new writing" gap markers,
+  // sized so the overall line count lands near targetTotal at the chosen ratio.
+  const gapTotal = Math.max(0, targetTotal - lineCount);
+  const gapCount = Math.max(1, selected.length + 1);
+  const baseGap = Math.floor(gapTotal / gapCount);
+  let remainder = gapTotal - baseGap * gapCount;
+
+  const skeleton = [];
+  const gapSizeAt = () => {
+    let size = baseGap;
+    if(remainder > 0){ size += 1; remainder -= 1; }
+    return size;
+  };
+
+  const leadGap = gapSizeAt();
+  if(leadGap > 0) skeleton.push({ type: 'gap', size: leadGap });
+  selected.forEach((chunk, idx) => {
+    skeleton.push({ type: 'vault', lines: chunk.lines, song: chunk.song });
+    const g = gapSizeAt();
+    if(g > 0) skeleton.push({ type: 'gap', size: g });
+  });
+
+  return {
+    skeleton,
+    vaultLineCount: lineCount,
+    targetTotal,
+    songsUsed: [...new Set(selected.map(s => s.song))]
+  };
+}
+
+function renderSkeleton(result){
+  const el = document.getElementById('skeletonOut');
+  const pct = Math.round((result.vaultLineCount / result.targetTotal) * 100);
+  document.getElementById('statLine').innerHTML =
+    `Pulled <b>${result.vaultLineCount}</b> vault lines from <b>${result.songsUsed.length}</b> songs ` +
+    `(${result.songsUsed.join(', ')}) — roughly <b>${pct}%</b> of target length.`;
+
+  let html = '';
+  result.skeleton.forEach(seg => {
+    if(seg.type === 'vault'){
+      html += `<span class="vault-line">${seg.lines.map(escapeHtml).join('\n')}</span>\n`;
+      html += `<span class="vault-src">— ${escapeHtml(seg.song)}</span>\n\n`;
+    } else {
+      html += `<span class="gap-line">[ ~${seg.size} line${seg.size === 1 ? '' : 's'} of new writing here ]</span>\n\n`;
+    }
+  });
+  el.innerHTML = html;
+}
+
+function escapeHtml(str){
+  return str.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function buildPrompt(result){
+  const typeLabel = {song:'song', poem:'poem', story:'short story', play:'short play scene'}[activeType];
+  let p = `Write a ${typeLabel} that weaves together the following public-domain lyric lines with original connective writing. `;
+  p += `Roughly ${spliceRange.value}% of the final piece should be these exact lyric lines (verbatim), and the rest should be your own original writing that connects them into one coherent piece. `;
+  p += `Keep the lyric lines in the order given below, and note the source song after each when you use it, in whatever way fits the ${typeLabel} form.\n\n`;
+  p += `SOURCE LYRIC LINES (use verbatim, in this order):\n\n`;
+  result.skeleton.forEach(seg => {
+    if(seg.type === 'vault'){
+      p += seg.lines.join('\n') + `\n(from: "${seg.song}")\n\n`;
+    }
+  });
+  p += `Weave these into a complete, coherent ${typeLabel}, filling the space between and around them with original writing in a matching tone.`;
+  return p;
+}
+
+document.getElementById('genBtn').addEventListener('click', () => {
+  const result = curate();
+  if(!result) return;
+  renderSkeleton(result);
+  document.getElementById('promptOut').textContent = buildPrompt(result);
+  document.getElementById('results').classList.add('show');
+  document.getElementById('results').scrollIntoView({ behavior: 'smooth' });
+});
+
+document.getElementById('copyBtn').addEventListener('click', () => {
+  const text = document.getElementById('promptOut').textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    const btn = document.getElementById('copyBtn');
+    const orig = btn.textContent;
+    btn.textContent = 'Copied!';
+    setTimeout(() => { btn.textContent = orig; }, 1500);
+  });
+});
+
+// ---- Load the vault from every shard listed in manifest.json ----
+fetch('manifest.json?t=' + Date.now(), {cache: 'no-store'})
+  .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status); return r.json(); })
+  .then(shardList => Promise.all(
+    shardList.map(filename =>
+      fetch(filename + '?t=' + Date.now(), {cache: 'no-store'})
+        .then(r => { if(!r.ok) throw new Error('HTTP ' + r.status + ' loading ' + filename); return r.json(); })
+    )
+  ))
+  .then(shards => {
+    LYRIC_LIBRARY = shards.flat();
+    genBtn.disabled = false;
+    genBtn.textContent = 'Curate Selection';
+    statusEl.textContent = LYRIC_LIBRARY.length + ' songs loaded.';
+  })
+  .catch(err => {
+    statusEl.textContent = 'Could not load the vault — ' + err.message;
+  });
+</script>
+
+</body>
+</html>
